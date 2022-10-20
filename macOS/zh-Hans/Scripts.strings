@@ -173,7 +173,7 @@
 "cGe-FP-Cga.title" = "名称：";
 
 /* Class = "NSWindow"; title = "Scripting"; ObjectID = "cbG-2v-RmG"; */
-"cbG-2v-RmG.title" = "剧本";
+"cbG-2v-RmG.title" = "脚本";
 
 /* Class = "NSTextFieldCell"; title = "Top-Down Matching Rule"; ObjectID = "cyH-Yq-dxO"; */
 "cyH-Yq-dxO.title" = "自上而下匹配规则";

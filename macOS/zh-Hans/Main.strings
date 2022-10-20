@@ -14,7 +14,7 @@
 "17D-23-JHQ.title" = "复制";
 
 /* Class = "NSMenuItem"; title = "Proxyman"; ObjectID = "1Xt-HY-uBw"; */
-"1Xt-HY-uBw.title" = "代理人";
+"1Xt-HY-uBw.title" = "Proxyman";
 
 /* Class = "NSMenu"; title = "Find"; ObjectID = "1b7-l0-nxx"; */
 "1b7-l0-nxx.title" = "寻找";
@@ -56,7 +56,7 @@
 "4Rw-NG-5eG.title" = "黑名单…";
 
 /* Class = "NSMenu"; title = "Advanced"; ObjectID = "4Xg-UT-6f3"; */
-"4Xg-UT-6f3.title" = "先进的";
+"4Xg-UT-6f3.title" = "高级设置";
 
 /* Class = "NSSearchFieldCell"; placeholderString = "Search app or domain (⌘⇧F)"; ObjectID = "4eb-gj-qS6"; */
 "4eb-gj-qS6.placeholderString" = "搜索应用程序或域 (⌘⇧F)";
@@ -68,7 +68,7 @@
 "4mv-UD-NzZ.title" = "在 Firefox 浏览器上安装证书...";
 
 /* Class = "NSButtonCell"; title = "Scripting"; ObjectID = "4rb-xr-f83"; */
-"4rb-xr-f83.title" = "剧本";
+"4rb-xr-f83.title" = "脚本";
 
 /* Class = "NSMenuItem"; title = "Quit Proxyman"; ObjectID = "4sb-4s-VLi"; */
 "4sb-4s-VLi.title" = "退出代理";
@@ -77,7 +77,7 @@
 "5L7-nW-b98.ibShadowedToolTip" = "脚本已启用 (⌥⌘I)";
 
 /* Class = "NSMenuItem"; title = "Scripting"; ObjectID = "5NR-X1-Rra"; */
-"5NR-X1-Rra.title" = "剧本";
+"5NR-X1-Rra.title" = "脚本";
 
 /* Class = "NSMenuItem"; title = "Edit"; ObjectID = "5QF-Oa-p0T"; */
 "5QF-Oa-p0T.title" = "编辑";
@@ -98,7 +98,7 @@
 "6FN-mr-9oR.title" = "代理设置";
 
 /* Class = "NSMenuItem"; title = "Scripting..."; ObjectID = "6Vm-iF-r8V"; */
-"6Vm-iF-r8V.title" = "剧本...";
+"6Vm-iF-r8V.title" = "脚本...";
 
 /* Class = "NSMenuItem"; title = "Redo"; ObjectID = "6dh-zS-Vam"; */
 "6dh-zS-Vam.title" = "重做";
@@ -173,7 +173,7 @@
 "AwM-lX-ZaA.title" = "复制为 cURL";
 
 /* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "BOF-NM-1cW"; */
-"BOF-NM-1cW.title" = "喜好…";
+"BOF-NM-1cW.title" = "偏好设置…";
 
 /* Class = "NSMenuItem"; title = "Select Previous Tab"; ObjectID = "Bez-oE-QKu"; */
 "Bez-oE-QKu.title" = "选择上一个选项卡";
@@ -209,7 +209,7 @@
 "Cjg-r7-MG3.title" = "技术文件...";
 
 /* Class = "NSWindow"; title = "Proxyman"; ObjectID = "Ckk-yw-fiv"; */
-"Ckk-yw-fiv.title" = "代理人";
+"Ckk-yw-fiv.title" = "Proxyman";
 
 /* Class = "NSMenuItem"; ibShadowedToolTip = "Add your custom certificates to Proxyman"; ObjectID = "CzI-85-4Ih"; */
 "CzI-85-4Ih.ibShadowedToolTip" = "将您的自定义证书添加到 Proxyman";
@@ -239,7 +239,7 @@
 "EJp-eC-Wbg.title" = "SSL 代理列表...";
 
 /* Class = "NSMenuItem"; title = "Toggle Loggging Console in Scripting"; ObjectID = "EKS-Tx-r2L"; */
-"EKS-Tx-r2L.title" = "Toggle 脚本中的日志记录控制台";
+"EKS-Tx-r2L.title" = "切换脚本中的日志记录控制台";
 
 /* Class = "NSMenuItem"; ibShadowedToolTip = "Guideline how to integrate Atlantis iOS Framework"; ObjectID = "ENf-xc-cWH"; */
 "ENf-xc-cWH.ibShadowedToolTip" = "指南如何集成 Atlantis iOS 框架";
@@ -272,7 +272,7 @@
 "GCw-x0-RRD.title" = "作为 HAR（HTTP 存档）";
 
 /* Class = "NSMenu"; title = "Diff"; ObjectID = "GVQ-jl-aJy"; */
-"GVQ-jl-aJy.title" = "差异";
+"GVQ-jl-aJy.title" = "对比";
 
 /* Class = "NSMenuItem"; ibShadowedToolTip = "Execute the Script to install Proxyman Certificate to all available Java Store"; ObjectID = "GbH-TB-5qd"; */
 "GbH-TB-5qd.ibShadowedToolTip" = "执行脚本将 Proxyman 证书安装到所有可用的 Java 商店";
@@ -281,13 +281,13 @@
 "GbH-TB-5qd.title" = "运行脚本...";
 
 /* Class = "NSMenuItem"; title = "View"; ObjectID = "H8h-7b-M4v"; */
-"H8h-7b-M4v.title" = "看法";
+"H8h-7b-M4v.title" = "查看";
 
 /* Class = "NSMenuItem"; title = "Diff"; ObjectID = "HT1-14-m1i"; */
-"HT1-14-m1i.title" = "差异";
+"HT1-14-m1i.title" = "对比";
 
 /* Class = "NSMenu"; title = "View"; ObjectID = "HyV-fh-RgO"; */
-"HyV-fh-RgO.title" = "看法";
+"HyV-fh-RgO.title" = "查看";
 
 /* Class = "NSMenuItem"; title = "Left Side"; ObjectID = "I5X-iG-DrG"; */
 "I5X-iG-DrG.title" = "左边";
@@ -326,7 +326,7 @@
 "Imc-bK-Vzj.title" = "切换停靠到底部窗口";
 
 /* Class = "NSButtonCell"; title = "Export…"; ObjectID = "K1a-Yq-oka"; */
-"K1a-Yq-oka.title" = "出口…";
+"K1a-Yq-oka.title" = "导出…";
 
 /* Class = "NSButtonCell"; title = "Map Local"; ObjectID = "KHW-EB-emh"; */
 "KHW-EB-emh.title" = "地图本地";
@@ -371,7 +371,7 @@
 "NVp-Bk-pm9.title" = "iOS的代理...";
 
 /* Class = "NSMenuItem"; title = "From Proxyman"; ObjectID = "Ncd-Sv-Y7F"; */
-"Ncd-Sv-Y7F.title" = "来自代理人";
+"Ncd-Sv-Y7F.title" = "来自 Proxyman";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "NeH-TW-9PE"; */
 "NeH-TW-9PE.title" = "文本单元格";
@@ -386,7 +386,7 @@
 "OY7-WF-poV.title" = "最小化";
 
 /* Class = "NSMenuItem"; title = "Hide Proxyman"; ObjectID = "Olw-nP-bQN"; */
-"Olw-nP-bQN.title" = "隐藏代理人";
+"Olw-nP-bQN.title" = "隐藏 Proxyman";
 
 /* Class = "NSMenuItem"; title = "Map Local..."; ObjectID = "Otg-EI-NHc"; */
 "Otg-EI-NHc.title" = "地图本地...";
@@ -431,7 +431,7 @@
 "R3p-95-TfT.title" = "盒子";
 
 /* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "R4o-n2-Eq4"; */
-"R4o-n2-Eq4.title" = "飞涨";
+"R4o-n2-Eq4.title" = "最大化";
 
 /* Class = "NSMenuItem"; ibShadowedToolTip = "Export Proxyman CA (.pem)"; ObjectID = "RIe-6p-hhf"; */
 "RIe-6p-hhf.ibShadowedToolTip" = "导出 Proxyman CA (.pem)";
@@ -452,7 +452,7 @@
 "S0p-oC-mLd.title" = "跳转到选择";
 
 /* Class = "NSMenuItem"; title = "Flow"; ObjectID = "SeB-q6-Eeu"; */
-"SeB-q6-Eeu.title" = "流动";
+"SeB-q6-Eeu.title" = "流程";
 
 /* Class = "NSTextFieldCell"; title = "Export faster and significantly reduce the size of the exported file. "; ObjectID = "Sth-D1-OD6"; */
 "Sth-D1-OD6.title" = "更快地导出并显着减小导出文件的大小。";
@@ -464,7 +464,7 @@
 "TL5-7M-KTY.title" = "切换停靠到右侧窗口";
 
 /* Class = "NSMenu"; title = "Window"; ObjectID = "Td7-aD-5lo"; */
-"Td7-aD-5lo.title" = "窗户";
+"Td7-aD-5lo.title" = "窗口";
 
 /* Class = "NSMenuItem"; ibShadowedToolTip = "Settings for External Proxy"; ObjectID = "Tx9-Hp-lAT"; */
 "Tx9-Hp-lAT.ibShadowedToolTip" = "外部代理设置";
@@ -479,7 +479,7 @@
 "UMm-4m-xtu.title" = "还没有项目\n\"Command + K\" 添加项目";
 
 /* Class = "NSMenuItem"; title = "Advanced"; ObjectID = "V9c-JV-0Mv"; */
-"V9c-JV-0Mv.title" = "先进的";
+"V9c-JV-0Mv.title" = "高级设置";
 
 /* Class = "NSMenuItem"; title = "Block List..."; ObjectID = "VUs-2d-B6f"; */
 "VUs-2d-B6f.title" = "黑名单...";
@@ -503,7 +503,7 @@
 "W48-6f-4Dl.title" = "编辑";
 
 /* Class = "NSMenuItem"; title = "Export"; ObjectID = "WMm-Kk-YBm"; */
-"WMm-Kk-YBm.title" = "出口";
+"WMm-Kk-YBm.title" = "导出";
 
 /* Class = "NSMenuItem"; ibShadowedToolTip = "Export Pirvate Key of Proxyman CA"; ObjectID = "WuK-2M-JYO"; */
 "WuK-2M-JYO.ibShadowedToolTip" = "导出 Proxyman CA 的私钥";
@@ -560,7 +560,7 @@
 "a2u-MZ-zs7.title" = "HTTP 客户端…";
 
 /* Class = "NSMenuItem"; title = "Window"; ObjectID = "aUF-d1-5bR"; */
-"aUF-d1-5bR.title" = "窗户";
+"aUF-d1-5bR.title" = "窗口";
 
 /* Class = "NSMenuItem"; title = "Troubleshooting"; ObjectID = "aqJ-az-i2l"; */
 "aqJ-az-i2l.title" = "故障排除";
@@ -677,13 +677,13 @@
 "gVA-U4-sdL.title" = "粘贴";
 
 /* Class = "NSMenu"; title = "Export"; ObjectID = "gfh-cM-6rd"; */
-"gfh-cM-6rd.title" = "出口";
+"gfh-cM-6rd.title" = "导出";
 
 /* Class = "NSMenuItem"; ibShadowedToolTip = "All Proxyman Windows will stay on top of other apps"; ObjectID = "gnF-Q6-2QN"; */
 "gnF-Q6-2QN.ibShadowedToolTip" = "所有 Proxyman Windows 都将保持在其他应用程序之上";
 
 /* Class = "NSMenuItem"; title = "Stay On Top"; ObjectID = "gnF-Q6-2QN"; */
-"gnF-Q6-2QN.title" = "留在上面";
+"gnF-Q6-2QN.title" = "置顶窗口";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "gpY-FV-wV4"; */
 "gpY-FV-wV4.title" = "文本单元格";
@@ -725,7 +725,7 @@
 "jVi-P4-wdn.title" = "在 Android 上安装证书";
 
 /* Class = "NSMenu"; title = "Flow"; ObjectID = "jWT-Mn-Kpi"; */
-"jWT-Mn-Kpi.title" = "流动";
+"jWT-Mn-Kpi.title" = "流程";
 
 /* Class = "NSMenuItem"; ibShadowedToolTip = "Use Proxyman with your VPN apps"; ObjectID = "jYe-46-HrS"; */
 "jYe-46-HrS.ibShadowedToolTip" = "将 Proxyman 与您的 VPN 应用程序一起使用";
@@ -797,13 +797,13 @@
 "oas-Oc-fiZ.title" = "打开最近";
 
 /* Class = "NSMenu"; title = "Export"; ObjectID = "oaz-80-FiP"; */
-"oaz-80-FiP.title" = "出口";
+"oaz-80-FiP.title" = "导出";
 
 /* Class = "NSTextFieldCell"; title = "Add favorite app or domain"; ObjectID = "odu-IM-9hv"; */
 "odu-IM-9hv.title" = "添加收藏的应用程序或域";
 
 /* Class = "NSMenuItem"; title = "Add selected items to Diff Pool…"; ObjectID = "ozy-tH-5wN"; */
-"ozy-tH-5wN.title" = "将所选项目添加到差异池...";
+"ozy-tH-5wN.title" = "将所选项目添加到对比列表...";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Allow List is applied to record exclusively matched URLs. Other URLs are ignored  (⌥⌘A)"; ObjectID = "p1m-xS-O9V"; */
 "p1m-xS-O9V.ibShadowedToolTip" = "允许列表用于记录完全匹配的 URL。其他 URL 被忽略 (⌥⌘A)";
@@ -815,7 +815,7 @@
 "pa3-QI-u2k.title" = "删除";
 
 /* Class = "NSMenu"; title = "From Proxyman"; ObjectID = "pph-dX-usQ"; */
-"pph-dX-usQ.title" = "来自代理人";
+"pph-dX-usQ.title" = "来自 Proxyman";
 
 /* Class = "NSMenuItem"; title = "Find Next"; ObjectID = "q09-fT-Sye"; */
 "q09-fT-Sye.title" = "找下一个";
@@ -875,10 +875,10 @@
 "uDn-AD-TMd.title" = "外部代理";
 
 /* Class = "NSMenu"; title = "Proxyman"; ObjectID = "uQy-DD-JDr"; */
-"uQy-DD-JDr.title" = "代理人";
+"uQy-DD-JDr.title" = "Proxyman";
 
 /* Class = "NSMenuItem"; title = "Cut"; ObjectID = "uRl-iY-unG"; */
-"uRl-iY-unG.title" = "切";
+"uRl-iY-unG.title" = "剪切";
 
 /* Class = "NSMenuItem"; title = "Select Next Tab"; ObjectID = "usX-uv-Uu3"; */
 "usX-uv-Uu3.title" = "选择下一个选项卡";
@@ -911,7 +911,7 @@
 "xI1-27-z4r.title" = "停靠到侧窗";
 
 /* Class = "NSMenuItem"; title = "Open Diff View…"; ObjectID = "xJd-Uf-BK5"; */
-"xJd-Uf-BK5.title" = "打开差异视图…";
+"xJd-Uf-BK5.title" = "打开对比视图…";
 
 /* Class = "NSMenuItem"; ibShadowedToolTip = "Instruction to install Proxyman CA to this mac"; ObjectID = "xnY-jX-D87"; */
 "xnY-jX-D87.ibShadowedToolTip" = "将 Proxyman CA 安装到此 Mac 的说明";
@@ -935,7 +935,7 @@
 "yIg-2W-rqg.title" = "跳过导出请求/响应的大型正文数据 (>= 5Mb)";
 
 /* Class = "NSMenu"; title = "Scripting"; ObjectID = "yqp-ee-esT"; */
-"yqp-ee-esT.title" = "剧本";
+"yqp-ee-esT.title" = "脚本";
 
 /* Class = "NSMenuItem"; title = "Register License…"; ObjectID = "z4l-8W-vHV"; */
 "z4l-8W-vHV.title" = "注册许可证...";
@@ -944,7 +944,7 @@
 "zC8-9z-w9Y.title" = "自定义证书";
 
 /* Class = "NSMenuItem"; title = "Export"; ObjectID = "zIG-ep-Vq1"; */
-"zIG-ep-Vq1.title" = "出口";
+"zIG-ep-Vq1.title" = "导出";
 
 /* Class = "NSMenuItem"; title = "Reset"; ObjectID = "zJp-6M-7Yo"; */
 "zJp-6M-7Yo.title" = "重置";
@@ -1025,4 +1025,4 @@
 "p0b-sK-SRd.title" = "保存请求";
 
 /* Class = "NSMenuItem"; title = "Scripting"; ObjectID = "sEj-5w-peJ"; */
-"sEj-5w-peJ.title" = "剧本";
+"sEj-5w-peJ.title" = "脚本";

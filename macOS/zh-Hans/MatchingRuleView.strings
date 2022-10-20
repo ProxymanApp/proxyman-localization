@@ -8,7 +8,7 @@
 "2NE-R1-a9J.title" = "GraphQL 查询名称";
 
 /* Class = "NSMenuItem"; title = "Advanced"; ObjectID = "2ay-oz-ZRe"; */
-"2ay-oz-ZRe.title" = "先进的";
+"2ay-oz-ZRe.title" = "高级设置";
 
 /* Class = "NSMenuItem"; title = "DELETE"; ObjectID = "3be-oa-kOQ"; */
 "3be-oa-kOQ.title" = "删除";
@@ -23,7 +23,7 @@
 "UnC-Gv-LIU.title" = "简单的通配符 * 和 ?支持";
 
 /* Class = "NSMenu"; title = "Advanced"; ObjectID = "YlL-v0-VaZ"; */
-"YlL-v0-VaZ.title" = "先进的";
+"YlL-v0-VaZ.title" = "高级设置";
 
 /* Class = "NSMenuItem"; title = "POST"; ObjectID = "Ysk-hj-HK6"; */
 "Ysk-hj-HK6.title" = "邮政";
