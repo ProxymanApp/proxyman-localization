@@ -5,10 +5,10 @@
 "Xnu-Om-J4t.title" = "文本单元格";
 
 /* Class = "NSTableColumn"; headerCell.title = "Value"; ObjectID = "cgk-Ff-xpl"; */
-"cgk-Ff-xpl.headerCell.title" = "价值";
+"cgk-Ff-xpl.headerCell.title" = "值";
 
 /* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "mSb-Pr-L9g"; */
-"mSb-Pr-L9g.headerCell.title" = "姓名";
+"mSb-Pr-L9g.headerCell.title" = "名称";
 
 /* Class = "NSMenuItem"; title = "Copy"; ObjectID = "oF2-YY-nho"; */
 "oF2-YY-nho.title" = "复制";

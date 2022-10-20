@@ -86,7 +86,7 @@
 "o43-dy-zV1.headerCell.title" = "方法";
 
 /* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "oZL-I8-HE8"; */
-"oZL-I8-HE8.headerCell.title" = "姓名";
+"oZL-I8-HE8.headerCell.title" = "名称";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "ofz-eQ-VsF"; */
 "ofz-eQ-VsF.title" = "文本单元格";

@@ -26,10 +26,10 @@
 "cKT-f8-HRw.title" = "JSON 路径";
 
 /* Class = "NSTableColumn"; headerCell.title = "Value"; ObjectID = "dGd-Yd-ASC"; */
-"dGd-Yd-ASC.headerCell.title" = "价值";
+"dGd-Yd-ASC.headerCell.title" = "值";
 
 /* Class = "NSMenuItem"; title = "All Values"; ObjectID = "dJS-6Y-muz"; */
-"dJS-6Y-muz.title" = "所有价值观";
+"dJS-6Y-muz.title" = "所有值观";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "kdY-44-EKy"; */
 "kdY-44-EKy.title" = "文本单元格";

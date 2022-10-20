@@ -35,7 +35,7 @@
 "6dg-YB-gsf.ibShadowedToolTip" = "只显示基于文本的请求：HTML, ... (⌘ 点击选择多种类型)";
 
 /* Class = "NSButtonCell"; title = "WebSocket"; ObjectID = "80g-yU-4WI"; */
-"80g-yU-4WI.title" = "网络套接字";
+"80g-yU-4WI.title" = "WebSocket";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Only show requests with Content-Type: application/json (⌘ click to select multiple types)"; ObjectID = "83r-1L-wn2"; */
 "83r-1L-wn2.ibShadowedToolTip" = "只显示 Content-Type: application/json 的请求 (⌘ 点击选择多种类型)";
@@ -254,7 +254,7 @@
 "kjM-k5-ady.title" = "HTTPS";
 
 /* Class = "NSButtonCell"; title = "Form"; ObjectID = "kjQ-9x-ckH"; */
-"kjQ-9x-ckH.title" = "表格";
+"kjQ-9x-ckH.title" = "表单";
 
 /* Class = "NSMenuItem"; title = "Gray"; ObjectID = "lDK-no-EYh"; */
 "lDK-no-EYh.title" = "灰色";
@@ -293,7 +293,7 @@
 "thp-PL-od9.ibShadowedToolTip" = "只显示 GraphQL 请求，URL 上有后缀 /graphQL (⌘ 点击选择多种类型)";
 
 /* Class = "NSMenuItem"; title = "Comment"; ObjectID = "ubc-tA-SAj"; */
-"ubc-tA-SAj.title" = "评论";
+"ubc-tA-SAj.title" = "备注";
 
 /* Class = "NSMenuItem"; ibShadowedToolTip = "Status code of the Request"; ObjectID = "vfb-kf-M04"; */
 "vfb-kf-M04.ibShadowedToolTip" = "请求状态码";

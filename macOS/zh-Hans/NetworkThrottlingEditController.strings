@@ -68,7 +68,7 @@
 "gan-fH-sUa.title" = "上传";
 
 /* Class = "NSTextFieldCell"; title = "Name:"; ObjectID = "iCm-Yn-peW"; */
-"iCm-Yn-peW.title" = "姓名：";
+"iCm-Yn-peW.title" = "名称：";
 
 /* Class = "NSTextFieldCell"; title = "30-50 mbps"; ObjectID = "k8L-0l-3gk"; */
 "k8L-0l-3gk.title" = "30-50 mbps";

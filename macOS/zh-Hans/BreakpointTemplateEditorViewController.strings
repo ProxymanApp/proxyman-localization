@@ -20,7 +20,7 @@
 "S5X-8o-5FW.title" = "无标题";
 
 /* Class = "NSTextFieldCell"; title = "Name:"; ObjectID = "SoZ-Lw-ECB"; */
-"SoZ-Lw-ECB.title" = "姓名：";
+"SoZ-Lw-ECB.title" = "名称：";
 
 /* Class = "NSTextFieldCell"; title = "⇧⌘N: Add new Response"; ObjectID = "VOX-1b-ibn"; */
 "VOX-1b-ibn.title" = "⇧⌘N：添加新的响应";

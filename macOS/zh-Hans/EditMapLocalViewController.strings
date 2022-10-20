@@ -29,7 +29,7 @@
 "Kq1-Nf-zLf.title" = "选择本地文件";
 
 /* Class = "NSTextFieldCell"; title = "Name:"; ObjectID = "MWi-dd-DTl"; */
-"MWi-dd-DTl.title" = "姓名：";
+"MWi-dd-DTl.title" = "名称：";
 
 /* Class = "NSButtonCell"; title = "Enable Local File"; ObjectID = "Ozt-dG-TW5"; */
 "Ozt-dG-TW5.title" = "启用本地文件";

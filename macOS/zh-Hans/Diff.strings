@@ -8,7 +8,7 @@
 "3Tt-gM-SlN.title" = "无项目选择";
 
 /* Class = "NSMenuItem"; title = "Add Comment…"; ObjectID = "5Nl-nS-x8J"; */
-"5Nl-nS-x8J.title" = "添加评论...";
+"5Nl-nS-x8J.title" = "添加备注...";
 
 /* Class = "NSMenuItem"; title = "Reset"; ObjectID = "5Xc-aN-5o3"; */
 "5Xc-aN-5o3.title" = "重置";
@@ -29,7 +29,7 @@
 "9Z5-em-tNW.headerCell.title" = "剩下";
 
 /* Class = "NSTableColumn"; headerCell.title = "Comment"; ObjectID = "9sa-A7-zXD"; */
-"9sa-A7-zXD.headerCell.title" = "评论";
+"9sa-A7-zXD.headerCell.title" = "备注";
 
 /* Class = "NSTextFieldCell"; title = "Two files are identical"; ObjectID = "A3E-u3-RS9"; */
 "A3E-u3-RS9.title" = "两个文件完全相同";

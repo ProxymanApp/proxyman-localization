@@ -26,7 +26,7 @@
 "fa3-cI-olk.placeholderString" = "无标题";
 
 /* Class = "NSTextFieldCell"; title = "Name:"; ObjectID = "gLQ-Hc-hy0"; */
-"gLQ-Hc-hy0.title" = "姓名：";
+"gLQ-Hc-hy0.title" = "名称：";
 
 /* Class = "NSTextFieldCell"; placeholderString = "443"; ObjectID = "uDI-vF-2xO"; */
 "uDI-vF-2xO.placeholderString" = "443";

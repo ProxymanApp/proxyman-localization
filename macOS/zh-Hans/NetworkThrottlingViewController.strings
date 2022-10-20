@@ -68,7 +68,7 @@
 "VfX-5a-Nkz.title" = "导入设置";
 
 /* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "Xh6-Yk-hFL"; */
-"Xh6-Yk-hFL.headerCell.title" = "姓名";
+"Xh6-Yk-hFL.headerCell.title" = "名称";
 
 /* Class = "NSMenuItem"; title = "Duplicate"; ObjectID = "aBw-Ef-c6N"; */
 "aBw-Ef-c6N.title" = "复制";
@@ -101,7 +101,7 @@
 "uTp-kp-utZ.title" = "文本单元格";
 
 /* Class = "NSTableColumn"; headerCell.title = "Status"; ObjectID = "yB4-eu-flT"; */
-"yB4-eu-flT.headerCell.title" = "地位";
+"yB4-eu-flT.headerCell.title" = "状态";
 
 /* Class = "NSTextFieldCell"; title = "⌘N: New; ⌘⏎: Edit; ⌘⌫: Delete; ⌘D: Duplicate; ⌘T: Enable/Disable Rules;"; ObjectID = "z9y-BT-pBJ"; */
 "z9y-BT-pBJ.title" = "⌘N：新； ⌘⏎：编辑； ⌘⌫：删除； ⌘D：重复； ⌘T：启用/禁用规则；";
