@@ -47,7 +47,7 @@
 "Qsl-q9-w4C.title" = "更多的";
 
 /* Class = "NSTableColumn"; headerCell.title = "Response"; ObjectID = "QyQ-Sc-ctP"; */
-"QyQ-Sc-ctP.headerCell.title" = "回复";
+"QyQ-Sc-ctP.headerCell.title" = "响应";
 
 /* Class = "NSMenuItem"; title = "Export Settings..."; ObjectID = "SpI-xY-kqJ"; */
 "SpI-xY-kqJ.title" = "导出设置...";
@@ -71,7 +71,7 @@
 "hTT-zk-pkP.title" = "新建文件夹";
 
 /* Class = "NSButtonCell"; title = "Filter"; ObjectID = "hX2-RQ-lTw"; */
-"hX2-RQ-lTw.title" = "筛选";
+"hX2-RQ-lTw.title" = "过滤";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "ihN-oc-318"; */
 "ihN-oc-318.title" = "文本单元格";
@@ -86,7 +86,7 @@
 "o43-dy-zV1.headerCell.title" = "方法";
 
 /* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "oZL-I8-HE8"; */
-"oZL-I8-HE8.headerCell.title" = "姓名";
+"oZL-I8-HE8.headerCell.title" = "名称";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "ofz-eQ-VsF"; */
 "ofz-eQ-VsF.title" = "文本单元格";
@@ -98,7 +98,7 @@
 "ukb-uO-fDz.title" = "新的...";
 
 /* Class = "NSMenuItem"; title = "From Charles Proxy..."; ObjectID = "ukm-M2-jKQ"; */
-"ukm-M2-jKQ.title" = "从查尔斯代理...";
+"ukm-M2-jKQ.title" = "从Charles代理...";
 
 /* Class = "NSMenu"; title = "Import Settings"; ObjectID = "vmx-Sy-4BQ"; */
 "vmx-Sy-4BQ.title" = "导入设置";

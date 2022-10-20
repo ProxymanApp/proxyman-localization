@@ -482,7 +482,7 @@
 "n1w-sh-rbz.title" = "您的 HTTP/HTTPS 代理当前被 networksetup CLI 覆盖。它可以工作，但速度很慢！";
 
 /* Class = "NSTextFieldCell"; title = "Scripting:"; ObjectID = "of6-tn-K4d"; */
-"of6-tn-K4d.title" = "剧本：";
+"of6-tn-K4d.title" = "脚本：";
 
 /* Class = "NSButtonCell"; title = "Private Gist"; ObjectID = "pOe-gF-s8n"; */
 "pOe-gF-s8n.title" = "私人的 Gist";

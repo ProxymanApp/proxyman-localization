@@ -11,7 +11,7 @@
 "5AA-PN-7X8.headerToolTip" = "启用/禁用此条目";
 
 /* Class = "NSMenuItem"; title = "From Charles Proxy..."; ObjectID = "5gR-Mc-gr3"; */
-"5gR-Mc-gr3.title" = "从查尔斯代理...";
+"5gR-Mc-gr3.title" = "从Charles代理...";
 
 /* Class = "NSMenuItem"; ibShadowedToolTip = "Open App/Domain Search filter (⌘N)"; ObjectID = "5yH-5N-WzL"; */
 "5yH-5N-WzL.ibShadowedToolTip" = "打开应用程序/域搜索过滤器 (⌘N)";
@@ -50,7 +50,7 @@
 "IkN-fr-YkW.title" = "添加应用程序/域...";
 
 /* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "IxK-5v-jMf"; */
-"IxK-5v-jMf.headerCell.title" = "姓名";
+"IxK-5v-jMf.headerCell.title" = "名称";
 
 /* Class = "NSTextFieldCell"; title = "Client or Domains that you would like to intercept HTTPS Traffic"; ObjectID = "LIn-6a-5uc"; */
 "LIn-6a-5uc.title" = "您想要拦截 HTTPS 流量的客户端或域";
@@ -62,7 +62,7 @@
 "RRP-1r-Ndl.title" = "排除列表";
 
 /* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "RyG-YK-wWT"; */
-"RyG-YK-wWT.headerCell.title" = "姓名";
+"RyG-YK-wWT.headerCell.title" = "名称";
 
 /* Class = "NSMenuItem"; ibShadowedToolTip = "Add wildcard (⇧⌘N)"; ObjectID = "SBe-tJ-NyM"; */
 "SBe-tJ-NyM.ibShadowedToolTip" = "添加通配符 (⇧⌘N)";

@@ -68,7 +68,7 @@
 "4mv-UD-NzZ.title" = "在 Firefox 浏览器上安装证书...";
 
 /* Class = "NSButtonCell"; title = "Scripting"; ObjectID = "4rb-xr-f83"; */
-"4rb-xr-f83.title" = "剧本";
+"4rb-xr-f83.title" = "脚本";
 
 /* Class = "NSMenuItem"; title = "Quit Proxyman"; ObjectID = "4sb-4s-VLi"; */
 "4sb-4s-VLi.title" = "退出代理";
@@ -77,7 +77,7 @@
 "5L7-nW-b98.ibShadowedToolTip" = "脚本已启用 (⌥⌘I)";
 
 /* Class = "NSMenuItem"; title = "Scripting"; ObjectID = "5NR-X1-Rra"; */
-"5NR-X1-Rra.title" = "剧本";
+"5NR-X1-Rra.title" = "脚本";
 
 /* Class = "NSMenuItem"; title = "Edit"; ObjectID = "5QF-Oa-p0T"; */
 "5QF-Oa-p0T.title" = "编辑";
@@ -98,7 +98,7 @@
 "6FN-mr-9oR.title" = "代理设置";
 
 /* Class = "NSMenuItem"; title = "Scripting..."; ObjectID = "6Vm-iF-r8V"; */
-"6Vm-iF-r8V.title" = "剧本...";
+"6Vm-iF-r8V.title" = "脚本...";
 
 /* Class = "NSMenuItem"; title = "Redo"; ObjectID = "6dh-zS-Vam"; */
 "6dh-zS-Vam.title" = "重做";
@@ -326,7 +326,7 @@
 "Imc-bK-Vzj.title" = "切换停靠到底部窗口";
 
 /* Class = "NSButtonCell"; title = "Export…"; ObjectID = "K1a-Yq-oka"; */
-"K1a-Yq-oka.title" = "出口…";
+"K1a-Yq-oka.title" = "导出…";
 
 /* Class = "NSButtonCell"; title = "Map Local"; ObjectID = "KHW-EB-emh"; */
 "KHW-EB-emh.title" = "地图本地";
@@ -464,7 +464,7 @@
 "TL5-7M-KTY.title" = "切换停靠到右侧窗口";
 
 /* Class = "NSMenu"; title = "Window"; ObjectID = "Td7-aD-5lo"; */
-"Td7-aD-5lo.title" = "窗户";
+"Td7-aD-5lo.title" = "窗口";
 
 /* Class = "NSMenuItem"; ibShadowedToolTip = "Settings for External Proxy"; ObjectID = "Tx9-Hp-lAT"; */
 "Tx9-Hp-lAT.ibShadowedToolTip" = "外部代理设置";
@@ -503,7 +503,7 @@
 "W48-6f-4Dl.title" = "编辑";
 
 /* Class = "NSMenuItem"; title = "Export"; ObjectID = "WMm-Kk-YBm"; */
-"WMm-Kk-YBm.title" = "出口";
+"WMm-Kk-YBm.title" = "导出";
 
 /* Class = "NSMenuItem"; ibShadowedToolTip = "Export Pirvate Key of Proxyman CA"; ObjectID = "WuK-2M-JYO"; */
 "WuK-2M-JYO.ibShadowedToolTip" = "导出 Proxyman CA 的私钥";
@@ -560,7 +560,7 @@
 "a2u-MZ-zs7.title" = "HTTP 客户端…";
 
 /* Class = "NSMenuItem"; title = "Window"; ObjectID = "aUF-d1-5bR"; */
-"aUF-d1-5bR.title" = "窗户";
+"aUF-d1-5bR.title" = "窗口";
 
 /* Class = "NSMenuItem"; title = "Troubleshooting"; ObjectID = "aqJ-az-i2l"; */
 "aqJ-az-i2l.title" = "故障排除";
@@ -584,7 +584,7 @@
 "bqg-mb-EG7.title" = "丢失数据？...";
 
 /* Class = "NSMenuItem"; title = "From Charles Proxy"; ObjectID = "bqz-Ef-vED"; */
-"bqz-Ef-vED.title" = "从查尔斯代理";
+"bqz-Ef-vED.title" = "从Charles代理";
 
 /* Class = "NSMenuItem"; ibShadowedToolTip = "Use Proxyman with Docker"; ObjectID = "bte-hE-8Pw"; */
 "bte-hE-8Pw.ibShadowedToolTip" = "将 Proxyman 与 Docker 一起使用";
@@ -677,7 +677,7 @@
 "gVA-U4-sdL.title" = "粘贴";
 
 /* Class = "NSMenu"; title = "Export"; ObjectID = "gfh-cM-6rd"; */
-"gfh-cM-6rd.title" = "出口";
+"gfh-cM-6rd.title" = "导出";
 
 /* Class = "NSMenuItem"; ibShadowedToolTip = "All Proxyman Windows will stay on top of other apps"; ObjectID = "gnF-Q6-2QN"; */
 "gnF-Q6-2QN.ibShadowedToolTip" = "所有 Proxyman Windows 都将保持在其他应用程序之上";
@@ -773,7 +773,7 @@
 "lPR-UL-J97.title" = "重复";
 
 /* Class = "NSMenu"; title = "From Charles Proxy"; ObjectID = "ldG-IO-T9q"; */
-"ldG-IO-T9q.title" = "从查尔斯代理";
+"ldG-IO-T9q.title" = "从Charles代理";
 
 /* Class = "NSMenuItem"; ibShadowedToolTip = "Map specific request to different request location"; ObjectID = "lxJ-8m-6PI"; */
 "lxJ-8m-6PI.ibShadowedToolTip" = "将特定请求映射到不同的请求位置";
@@ -797,7 +797,7 @@
 "oas-Oc-fiZ.title" = "打开最近";
 
 /* Class = "NSMenu"; title = "Export"; ObjectID = "oaz-80-FiP"; */
-"oaz-80-FiP.title" = "出口";
+"oaz-80-FiP.title" = "导出";
 
 /* Class = "NSTextFieldCell"; title = "Add favorite app or domain"; ObjectID = "odu-IM-9hv"; */
 "odu-IM-9hv.title" = "添加收藏的应用程序或域";
@@ -935,7 +935,7 @@
 "yIg-2W-rqg.title" = "跳过导出请求/响应的大型正文数据 (>= 5Mb)";
 
 /* Class = "NSMenu"; title = "Scripting"; ObjectID = "yqp-ee-esT"; */
-"yqp-ee-esT.title" = "剧本";
+"yqp-ee-esT.title" = "脚本";
 
 /* Class = "NSMenuItem"; title = "Register License…"; ObjectID = "z4l-8W-vHV"; */
 "z4l-8W-vHV.title" = "注册许可证...";
@@ -944,7 +944,7 @@
 "zC8-9z-w9Y.title" = "自定义证书";
 
 /* Class = "NSMenuItem"; title = "Export"; ObjectID = "zIG-ep-Vq1"; */
-"zIG-ep-Vq1.title" = "出口";
+"zIG-ep-Vq1.title" = "导出";
 
 /* Class = "NSMenuItem"; title = "Reset"; ObjectID = "zJp-6M-7Yo"; */
 "zJp-6M-7Yo.title" = "重置";
@@ -1025,4 +1025,4 @@
 "p0b-sK-SRd.title" = "保存请求";
 
 /* Class = "NSMenuItem"; title = "Scripting"; ObjectID = "sEj-5w-peJ"; */
-"sEj-5w-peJ.title" = "剧本";
+"sEj-5w-peJ.title" = "脚本";

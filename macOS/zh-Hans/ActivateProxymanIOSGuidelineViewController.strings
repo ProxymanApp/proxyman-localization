@@ -5,7 +5,7 @@
 "Tp4-ks-ocE.title" = "步骤1：";
 
 /* Class = "NSTextFieldCell"; title = "Get your iPhone/iPad and Download Proxyman for iOS from AppStore"; ObjectID = "Uh4-1Q-jz7"; */
-"Uh4-1Q-jz7.title" = "获取您的 iPhone/iPad 并从 AppStore 下载适用于 iOS 的 Proxyman";
+"Uh4-1Q-jz7.title" = "从 iPhone/iPad 的应用商店获取下载适用于iOS的Proxyman";
 
 /* Class = "NSTextFieldCell"; title = "Open More Tab (on the Right-Bottom TabBar) -> FaceID & Passcode -> Unlock -> Enter your license key."; ObjectID = "XUP-1h-sAK"; */
 "XUP-1h-sAK.title" = "打开更多选项卡（在右下选项卡栏上）-> FaceID 和密码-> 解锁-> 输入您的许可证密钥。";

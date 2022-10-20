@@ -68,7 +68,7 @@
 "VfX-5a-Nkz.title" = "导入设置";
 
 /* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "Xh6-Yk-hFL"; */
-"Xh6-Yk-hFL.headerCell.title" = "姓名";
+"Xh6-Yk-hFL.headerCell.title" = "名称";
 
 /* Class = "NSMenuItem"; title = "Duplicate"; ObjectID = "aBw-Ef-c6N"; */
 "aBw-Ef-c6N.title" = "复制";

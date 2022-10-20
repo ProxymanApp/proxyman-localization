@@ -50,7 +50,7 @@
 "lHt-eV-8sA.ibShadowedToolTip" = "导出到文件";
 
 /* Class = "NSMenuItem"; title = "Export..."; ObjectID = "lHt-eV-8sA"; */
-"lHt-eV-8sA.title" = "出口...";
+"lHt-eV-8sA.title" = "导出...";
 
 /* Class = "NSMenuItem"; title = "Open with"; ObjectID = "rnF-P9-f0g"; */
 "rnF-P9-f0g.title" = "打开用";
