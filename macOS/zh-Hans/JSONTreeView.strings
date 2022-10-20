@@ -1,0 +1,44 @@
+/* Class = "NSTextFieldCell"; title = "No Filter Results"; ObjectID = "0Ro-Tf-1sv"; */
+"0Ro-Tf-1sv.title" = "无筛选结果";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "1lu-ZJ-PQ4"; */
+"1lu-ZJ-PQ4.title" = "文本单元格";
+
+/* Class = "NSButtonCell"; title = "Learn how to use Filter with Key Path..."; ObjectID = "3mm-s7-79e"; */
+"3mm-s7-79e.title" = "了解如何使用带键路径的过滤器...";
+
+/* Class = "NSTableColumn"; headerCell.title = "Key"; ObjectID = "9qQ-Zb-W6P"; */
+"9qQ-Zb-W6P.headerCell.title" = "钥匙";
+
+/* Class = "NSMenuItem"; title = "Key Path"; ObjectID = "Bs5-nU-llz"; */
+"Bs5-nU-llz.title" = "关键路径";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "C9u-cs-Ybd"; */
+"C9u-cs-Ybd.title" = "盒子";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "Q1c-ad-UlM"; */
+"Q1c-ad-UlM.title" = "盒子";
+
+/* Class = "NSTableColumn"; headerCell.title = "Type"; ObjectID = "WZQ-Ez-orR"; */
+"WZQ-Ez-orR.headerCell.title" = "类型";
+
+/* Class = "NSMenuItem"; title = "JSON Path"; ObjectID = "cKT-f8-HRw"; */
+"cKT-f8-HRw.title" = "JSON 路径";
+
+/* Class = "NSTableColumn"; headerCell.title = "Value"; ObjectID = "dGd-Yd-ASC"; */
+"dGd-Yd-ASC.headerCell.title" = "价值";
+
+/* Class = "NSMenuItem"; title = "All Values"; ObjectID = "dJS-6Y-muz"; */
+"dJS-6Y-muz.title" = "所有价值观";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "kdY-44-EKy"; */
+"kdY-44-EKy.title" = "文本单元格";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "lmP-9k-YbL"; */
+"lmP-9k-YbL.title" = "文本单元格";
+
+/* Class = "NSMenuItem"; title = "All Keys"; ObjectID = "q5a-zM-7v9"; */
+"q5a-zM-7v9.title" = "所有键";
+
+/* Class = "NSSearchFieldCell"; placeholderString = "e.g. users[0].name (⌘F)"; ObjectID = "uap-vr-zNM"; */
+"uap-vr-zNM.placeholderString" = "例如用户[0].name (⌘F)";

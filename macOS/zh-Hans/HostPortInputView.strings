@@ -1,0 +1,20 @@
+/* Class = "NSTextFieldCell"; title = "Port:"; ObjectID = "DdB-no-JSl"; */
+"DdB-no-JSl.title" = "港口：";
+
+/* Class = "NSTextFieldCell"; placeholderString = "api.proxyman.io"; ObjectID = "RQc-p3-4fg"; */
+"RQc-p3-4fg.placeholderString" = "api.proxyman.io";
+
+/* Class = "NSTextFieldCell"; placeholderString = "xxxxxxxxxxxxx"; ObjectID = "Xfl-BP-omp"; */
+"Xfl-BP-omp.placeholderString" = "xxxxxxxxxxxx";
+
+/* Class = "NSTextFieldCell"; title = "Host:"; ObjectID = "h6C-ig-3pv"; */
+"h6C-ig-3pv.title" = "主持人：";
+
+/* Class = "NSTextFieldCell"; placeholderString = "443"; ObjectID = "rVs-Bz-na2"; */
+"rVs-Bz-na2.placeholderString" = "443";
+
+/* Class = "NSTextFieldCell"; title = "443"; ObjectID = "rVs-Bz-na2"; */
+"rVs-Bz-na2.title" = "443";
+
+/* Class = "NSTextFieldCell"; title = "Passphrase:"; ObjectID = "vUV-tx-UmB"; */
+"vUV-tx-UmB.title" = "密码：";

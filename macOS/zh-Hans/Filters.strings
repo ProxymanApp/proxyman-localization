@@ -1,0 +1,317 @@
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Do Not Contains any text"; ObjectID = "0Kg-kG-oW0"; */
+"0Kg-kG-oW0.ibShadowedToolTip" = "不包含任何文字";
+
+/* Class = "NSMenuItem"; title = "Not Contains"; ObjectID = "0Kg-kG-oW0"; */
+"0Kg-kG-oW0.title" = "不包含";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Not matching the given regex"; ObjectID = "18n-tP-ITO"; */
+"18n-tP-ITO.ibShadowedToolTip" = "不匹配给定的正则表达式";
+
+/* Class = "NSMenuItem"; title = "Not Match Regex"; ObjectID = "18n-tP-ITO"; */
+"18n-tP-ITO.title" = "不匹配正则表达式";
+
+/* Class = "NSMenuItem"; title = "Blue"; ObjectID = "2Nw-A4-SHl"; */
+"2Nw-A4-SHl.title" = "蓝色";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Only show Plain HTTTPS Requests"; ObjectID = "39W-Y9-E2a"; */
+"39W-Y9-E2a.ibShadowedToolTip" = "只显示普通的 HTTPS 请求";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "3Vb-x6-EEh"; */
+"3Vb-x6-EEh.title" = "盒子";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Apply OR to all filters"; ObjectID = "4Dz-Az-qpb"; */
+"4Dz-Az-qpb.ibShadowedToolTip" = "对所有过滤器应用 OR";
+
+/* Class = "NSMenuItem"; title = "OR all filters"; ObjectID = "4Dz-Az-qpb"; */
+"4Dz-Az-qpb.title" = "或所有过滤器";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add custom Filter or Column"; ObjectID = "59K-t2-Hz1"; */
+"59K-t2-Hz1.ibShadowedToolTip" = "添加自定义过滤器或列";
+
+/* Class = "NSButtonCell"; title = "2xx"; ObjectID = "6R7-iX-NME"; */
+"6R7-iX-NME.title" = "2xx";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Only show HTML (⌘ click to select multiple types)"; ObjectID = "6dg-YB-gsf"; */
+"6dg-YB-gsf.ibShadowedToolTip" = "只显示基于文本的请求：HTML, ... (⌘ 点击选择多种类型)";
+
+/* Class = "NSButtonCell"; title = "WebSocket"; ObjectID = "80g-yU-4WI"; */
+"80g-yU-4WI.title" = "网络套接字";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Only show requests with Content-Type: application/json (⌘ click to select multiple types)"; ObjectID = "83r-1L-wn2"; */
+"83r-1L-wn2.ibShadowedToolTip" = "只显示 Content-Type: application/json 的请求 (⌘ 点击选择多种类型)";
+
+/* Class = "NSButtonCell"; title = "XML"; ObjectID = "8Jp-TI-h8a"; */
+"8Jp-TI-h8a.title" = "XML";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Response with Status Code from 100 to 200 (⌘ click to select multiple types)"; ObjectID = "8zD-Ew-ooz"; */
+"8zD-Ew-ooz.ibShadowedToolTip" = "状态码从 100 到 200 的响应（⌘ 点击选择多种类型）";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Clone new filter (⌘N)"; ObjectID = "9Bp-pR-wH4"; */
+"9Bp-pR-wH4.ibShadowedToolTip" = "克隆新过滤器 (⌘N)";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Expand more filters"; ObjectID = "9sS-jp-bDm"; */
+"9sS-jp-bDm.ibShadowedToolTip" = "展开更多过滤器";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Only show requests with Content-Type: text/xml, application/xml (⌘ click to select multiple types)"; ObjectID = "AGk-Fz-7x8"; */
+"AGk-Fz-7x8.ibShadowedToolTip" = "只显示 Content-Type: text/xml, application/xml (⌘ click to select multiple types)的请求";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Customize Columns on the main table"; ObjectID = "BIf-fI-giN"; */
+"BIf-fI-giN.ibShadowedToolTip" = "自定义主表列";
+
+/* Class = "NSMenuItem"; title = "Customize Columns..."; ObjectID = "BIf-fI-giN"; */
+"BIf-fI-giN.title" = "自定义列...";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Any Header Key / Value of the Request"; ObjectID = "BOC-fF-zPl"; */
+"BOC-fF-zPl.ibShadowedToolTip" = "请求的任何标题键/值";
+
+/* Class = "NSMenuItem"; title = "Request Header"; ObjectID = "BOC-fF-zPl"; */
+"BOC-fF-zPl.title" = "请求头";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Only show WS/WSS Messages"; ObjectID = "BUV-mo-Fuo"; */
+"BUV-mo-Fuo.ibShadowedToolTip" = "只显示 WS/WSS 消息";
+
+/* Class = "NSButtonCell"; title = "JSON"; ObjectID = "C0f-hB-Vwy"; */
+"C0f-hB-Vwy.title" = "JSON";
+
+/* Class = "NSButtonCell"; title = "1xx"; ObjectID = "C9k-VO-ZM9"; */
+"C9k-VO-ZM9.title" = "1xx";
+
+/* Class = "NSMenuItem"; title = "No Color"; ObjectID = "DJb-DV-iId"; */
+"DJb-DV-iId.title" = "无颜色";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Exactly equal the filter text (==)"; ObjectID = "DPF-Z0-ztI"; */
+"DPF-Z0-ztI.ibShadowedToolTip" = "完全等于过滤文本 (==)";
+
+/* Class = "NSMenuItem"; title = "Equal"; ObjectID = "DPF-Z0-ztI"; */
+"DPF-Z0-ztI.title" = "相等";
+
+/* Class = "NSMenuItem"; title = "Customize Toolbar..."; ObjectID = "DtO-nU-sYF"; */
+"DtO-nU-sYF.title" = "自定义工具栏...";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Matching the given regex"; ObjectID = "EYk-bB-L7h"; */
+"EYk-bB-L7h.ibShadowedToolTip" = "匹配给定的正则表达式";
+
+/* Class = "NSMenuItem"; title = "Match Regex"; ObjectID = "EYk-bB-L7h"; */
+"EYk-bB-L7h.title" = "匹配正则表达式";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "FBr-a8-ORE"; */
+"FBr-a8-ORE.title" = "盒子";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Matching the given Wildcard (* or ?)"; ObjectID = "FT3-OS-ETG"; */
+"FT3-OS-ETG.ibShadowedToolTip" = "匹配给定的通配符 (* or ?)";
+
+/* Class = "NSMenuItem"; title = "Match Wildcard"; ObjectID = "FT3-OS-ETG"; */
+"FT3-OS-ETG.title" = "匹配通配符";
+
+/* Class = "NSButtonCell"; title = "Media"; ObjectID = "GEU-jr-gKr"; */
+"GEU-jr-gKr.title" = "媒体";
+
+/* Class = "NSButtonCell"; title = "Other"; ObjectID = "H9g-Y6-yUI"; */
+"H9g-Y6-yUI.title" = "其他";
+
+/* Class = "NSMenuItem"; title = "Customize Filters... (Coming Soon)"; ObjectID = "HNd-og-WeJ"; */
+"HNd-og-WeJ.title" = "自定义过滤器...（即将推出）";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Method of the Request"; ObjectID = "HOC-2o-Xyz"; */
+"HOC-2o-Xyz.ibShadowedToolTip" = "请求方法";
+
+/* Class = "NSMenuItem"; title = "Method"; ObjectID = "HOC-2o-Xyz"; */
+"HOC-2o-Xyz.title" = "方法";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Show all requests (HTTP, HTTPS and WebSocket)"; ObjectID = "HSg-tz-MmU"; */
+"HSg-tz-MmU.ibShadowedToolTip" = "显示所有请求（HTTP、HTTPS 和 WebSocket）";
+
+/* Class = "NSButtonCell"; title = "5xx"; ObjectID = "HhX-cU-uSi"; */
+"HhX-cU-uSi.title" = "5xx";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Only show requests with Content-Type: text/css (⌘ click to select multiple types)"; ObjectID = "IbJ-mw-MWy"; */
+"IbJ-mw-MWy.ibShadowedToolTip" = "只显示 Content-Type: text/css 的请求 (⌘ 点击选择多种类型)";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove this filter (⇧⌘N)"; ObjectID = "IyS-4G-WQm"; */
+"IyS-4G-WQm.ibShadowedToolTip" = "移除此过滤器 (⇧⌘N)";
+
+/* Class = "NSButtonCell"; title = "GraphQL"; ObjectID = "JGX-en-Gm8"; */
+"JGX-en-Gm8.title" = "GraphQL";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Text in Request Body"; ObjectID = "Kzk-G3-tXi"; */
+"Kzk-G3-tXi.ibShadowedToolTip" = "请求正文中的文本";
+
+/* Class = "NSMenuItem"; title = "Request Body"; ObjectID = "Kzk-G3-tXi"; */
+"Kzk-G3-tXi.title" = "请求正文";
+
+/* Class = "NSTextFieldCell"; title = "Show: ⌘F    New: ⌘N    Remove:⇧⌘N    Up:⌘↑    Down: ⌘↓    On/Off:⌘B    Hide: ESC"; ObjectID = "Lhj-Uq-WDx"; */
+"Lhj-Uq-WDx.title" = "显示：⌘F 新：⌘N 删除：⇧⌘N 上：⌘↑ 下：⌘↓ 开/关：⌘B 隐藏：ESC";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Other requests (⌘ click to select multiple types)"; ObjectID = "MBC-Bd-PMb"; */
+"MBC-Bd-PMb.ibShadowedToolTip" = "其他请求（⌘点击选择多种类型）";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Apply AND to all filters"; ObjectID = "MHH-i4-KPw"; */
+"MHH-i4-KPw.ibShadowedToolTip" = "对所有过滤器应用 AND";
+
+/* Class = "NSMenuItem"; title = "AND all filters"; ObjectID = "MHH-i4-KPw"; */
+"MHH-i4-KPw.title" = "和所有过滤器";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "MMu-cr-K77"; */
+"MMu-cr-K77.title" = "盒子";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Status Code, Method, URL, Headers and Body from all Request and Response"; ObjectID = "Pgr-Cg-Q6x"; */
+"Pgr-Cg-Q6x.ibShadowedToolTip" = "来自所有请求和响应的状态代码、方法、URL、标头和正文";
+
+/* Class = "NSMenuItem"; title = "All"; ObjectID = "Pgr-Cg-Q6x"; */
+"Pgr-Cg-Q6x.title" = "全部";
+
+/* Class = "NSButtonCell"; title = "Document"; ObjectID = "RCf-hq-RW9"; */
+"RCf-hq-RW9.title" = "文档";
+
+/* Class = "NSButtonCell"; title = "HTTP"; ObjectID = "RKS-hA-T28"; */
+"RKS-hA-T28.title" = "HTTP";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Not Exactly equal the filter text (!=)"; ObjectID = "SWn-Je-SR0"; */
+"SWn-Je-SR0.ibShadowedToolTip" = "不完全等于过滤器文本 (!=)";
+
+/* Class = "NSMenuItem"; title = "Not Equal"; ObjectID = "SWn-Je-SR0"; */
+"SWn-Je-SR0.title" = "不相等";
+
+/* Class = "NSMenu"; title = "Color"; ObjectID = "SdA-Nb-bOG"; */
+"SdA-Nb-bOG.title" = "颜色";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Any Header Key / Value of the Response"; ObjectID = "TXl-p4-ehr"; */
+"TXl-p4-ehr.ibShadowedToolTip" = "响应的任何标题键/值";
+
+/* Class = "NSMenuItem"; title = "Response Header"; ObjectID = "TXl-p4-ehr"; */
+"TXl-p4-ehr.title" = "响应头";
+
+/* Class = "NSButtonCell"; title = "3xx"; ObjectID = "U2i-PN-qmi"; */
+"U2i-PN-qmi.title" = "3xx";
+
+/* Class = "NSButtonCell"; title = "4xx"; ObjectID = "UHv-31-Nhq"; */
+"UHv-31-Nhq.title" = "4xx";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "UUn-Xb-lMJ"; */
+"UUn-Xb-lMJ.title" = "盒子";
+
+/* Class = "NSSearchFieldCell"; placeholderString = "Text"; ObjectID = "VWi-iI-d4s"; */
+"VWi-iI-d4s.placeholderString" = "文本";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Query part of the Request"; ObjectID = "XTr-iT-v97"; */
+"XTr-iT-v97.ibShadowedToolTip" = "查询部分请求";
+
+/* Class = "NSMenuItem"; title = "Query String"; ObjectID = "XTr-iT-v97"; */
+"XTr-iT-v97.title" = "查询字符串";
+
+/* Class = "NSButtonCell"; title = "All"; ObjectID = "Ysn-1b-fLd"; */
+"Ysn-1b-fLd.title" = "全部";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Enable/Disable this filter (⌘B)"; ObjectID = "ZCr-CL-1Zm"; */
+"ZCr-CL-1Zm.ibShadowedToolTip" = "启用/禁用此过滤器 (⌘B)";
+
+/* Class = "NSButtonCell"; title = "Reset Filters"; ObjectID = "ZSk-Oi-Rrq"; */
+"ZSk-Oi-Rrq.title" = "重置过滤器";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Contains any text"; ObjectID = "ZYI-a1-sYF"; */
+"ZYI-a1-sYF.ibShadowedToolTip" = "包含任何文本";
+
+/* Class = "NSMenuItem"; title = "Contains"; ObjectID = "ZYI-a1-sYF"; */
+"ZYI-a1-sYF.title" = "包含";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Only show requests with Content-Type: text/js, application/js (⌘ click to select multiple types)"; ObjectID = "asV-jk-wzG"; */
+"asV-jk-wzG.ibShadowedToolTip" = "只显示 Content-Type: text/js, application/js (⌘ click to select multiple types)的请求";
+
+/* Class = "NSMenuItem"; title = "Red"; ObjectID = "c1v-ot-y05"; */
+"c1v-ot-y05.title" = "红色";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset all filters"; ObjectID = "cx6-rr-6F5"; */
+"cx6-rr-6F5.ibShadowedToolTip" = "重置所有过滤器";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Full URL of the request"; ObjectID = "dEE-WL-vzl"; */
+"dEE-WL-vzl.ibShadowedToolTip" = "请求的完整 URL";
+
+/* Class = "NSMenuItem"; title = "URL"; ObjectID = "dEE-WL-vzl"; */
+"dEE-WL-vzl.title" = "网址";
+
+/* Class = "NSButtonCell"; title = "CSS"; ObjectID = "e0Q-IX-lxg"; */
+"e0Q-IX-lxg.title" = "CSS";
+
+/* Class = "NSMenuItem"; title = "Yellow"; ObjectID = "e5e-Ur-W9g"; */
+"e5e-Ur-W9g.title" = "黄色";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Response with Status Code from 200 to 300 (⌘ click to select multiple types)"; ObjectID = "frx-mj-kJ5"; */
+"frx-mj-kJ5.ibShadowedToolTip" = "状态码从 200 到 300 的响应（⌘ 点击选择多种类型）";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Only show requests with Content-Type: application/x-www-form-urlencoded (⌘ click to select multiple types)"; ObjectID = "g1T-Wk-eQY"; */
+"g1T-Wk-eQY.ibShadowedToolTip" = "只显示 Content-Type: application/x-www-form-urlencoded (⌘ click to select multiple types)的请求";
+
+/* Class = "NSButton"; ibShadowedToolTip = "All media, include images, videos: Ex: JPG, PNG, GIF, SVG, MP4, MP3 ... (⌘ click to select multiple types)"; ObjectID = "hSC-r7-vmp"; */
+"hSC-r7-vmp.ibShadowedToolTip" = "所有媒体，包括图片、视频：例如：JPG、PNG、GIF、SVG、MP4、MP3 ...（⌘ 点击选择多种类型）";
+
+/* Class = "NSMenuItem"; title = "Green"; ObjectID = "hhN-4C-Ru6"; */
+"hhN-4C-Ru6.title" = "绿色";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Response with Status Code from 400 to 500 (⌘ click to select multiple types)"; ObjectID = "jBj-8O-gRK"; */
+"jBj-8O-gRK.ibShadowedToolTip" = "状态码从 400 到 500 的响应（⌘ 点击选择多种类型）";
+
+/* Class = "NSButtonCell"; title = "HTTPS"; ObjectID = "kjM-k5-ady"; */
+"kjM-k5-ady.title" = "HTTPS";
+
+/* Class = "NSButtonCell"; title = "Form"; ObjectID = "kjQ-9x-ckH"; */
+"kjQ-9x-ckH.title" = "表格";
+
+/* Class = "NSMenuItem"; title = "Gray"; ObjectID = "lDK-no-EYh"; */
+"lDK-no-EYh.title" = "灰色";
+
+/* Class = "NSMenuItem"; title = "Color"; ObjectID = "lPc-eM-waI"; */
+"lPc-eM-waI.title" = "颜色";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "End with this filter text"; ObjectID = "m3C-C8-8zU"; */
+"m3C-C8-8zU.ibShadowedToolTip" = "以这个过滤器文本结尾";
+
+/* Class = "NSMenuItem"; title = "End With"; ObjectID = "m3C-C8-8zU"; */
+"m3C-C8-8zU.title" = "结束于";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Text in Response Body"; ObjectID = "oX2-vd-CaA"; */
+"oX2-vd-CaA.ibShadowedToolTip" = "响应正文中的文本";
+
+/* Class = "NSMenuItem"; title = "Response Body"; ObjectID = "oX2-vd-CaA"; */
+"oX2-vd-CaA.title" = "响应正文";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Response with Status Code from 300 to 400 (⌘ click to select multiple types)"; ObjectID = "pQO-ZB-qgf"; */
+"pQO-ZB-qgf.ibShadowedToolTip" = "状态码从 300 到 400 的响应（⌘ 点击选择多种类型）";
+
+/* Class = "NSMenuItem"; title = "Purple"; ObjectID = "q71-VL-qxX"; */
+"q71-VL-qxX.title" = "紫色";
+
+/* Class = "NSButtonCell"; title = "JS"; ObjectID = "sN6-wq-yZd"; */
+"sN6-wq-yZd.title" = "JS";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Start with this filter text"; ObjectID = "tdw-Xi-Kd4"; */
+"tdw-Xi-Kd4.ibShadowedToolTip" = "从这个过滤器文本开始";
+
+/* Class = "NSMenuItem"; title = "Start With"; ObjectID = "tdw-Xi-Kd4"; */
+"tdw-Xi-Kd4.title" = "开始于";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Only show GraphQL Requests, which has suffix /graphQL on the URL (⌘ click to select multiple types)"; ObjectID = "thp-PL-od9"; */
+"thp-PL-od9.ibShadowedToolTip" = "只显示 GraphQL 请求，URL 上有后缀 /graphQL (⌘ 点击选择多种类型)";
+
+/* Class = "NSMenuItem"; title = "Comment"; ObjectID = "ubc-tA-SAj"; */
+"ubc-tA-SAj.title" = "评论";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Status code of the Request"; ObjectID = "vfb-kf-M04"; */
+"vfb-kf-M04.ibShadowedToolTip" = "请求状态码";
+
+/* Class = "NSMenuItem"; title = "Status Code"; ObjectID = "vfb-kf-M04"; */
+"vfb-kf-M04.title" = "状态码";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Not Matching the given Wildcard (* or ?)"; ObjectID = "w2t-vl-Oll"; */
+"w2t-vl-Oll.ibShadowedToolTip" = "不匹配给定的通配符 (* or ?)";
+
+/* Class = "NSMenuItem"; title = "Not Match Wildcard"; ObjectID = "w2t-vl-Oll"; */
+"w2t-vl-Oll.title" = "不匹配通配符";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Only show Plain HTTP Requests"; ObjectID = "wiC-SP-DwX"; */
+"wiC-SP-DwX.ibShadowedToolTip" = "只显示纯 HTTP 请求";
+
+/* Class = "NSMenuItem"; title = "All Color"; ObjectID = "yzC-44-6d9"; */
+"yzC-44-6d9.title" = "所有颜色";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Response with Status Code from 500 to 600 (⌘ click to select multiple types)"; ObjectID = "zQo-BB-Hvs"; */
+"zQo-BB-Hvs.ibShadowedToolTip" = "状态码从 500 到 600 的响应（⌘ 点击选择多种类型）";

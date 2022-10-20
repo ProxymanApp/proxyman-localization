@@ -1,0 +1,173 @@
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Open the diff with FileMerge application (Required Xcode)"; ObjectID = "1a2-MC-EcO"; */
+"1a2-MC-EcO.ibShadowedToolTip" = "使用 FileMerge 应用程序打开 diff（需要 Xcode）";
+
+/* Class = "NSMenuItem"; title = "FileMerge…"; ObjectID = "1a2-MC-EcO"; */
+"1a2-MC-EcO.title" = "文件合并...";
+
+/* Class = "NSTextFieldCell"; title = "No Item Selection"; ObjectID = "3Tt-gM-SlN"; */
+"3Tt-gM-SlN.title" = "无项目选择";
+
+/* Class = "NSMenuItem"; title = "Add Comment…"; ObjectID = "5Nl-nS-x8J"; */
+"5Nl-nS-x8J.title" = "添加评论...";
+
+/* Class = "NSMenuItem"; title = "Reset"; ObjectID = "5Xc-aN-5o3"; */
+"5Xc-aN-5o3.title" = "重置";
+
+/* Class = "NSTableColumn"; headerCell.title = "ID"; ObjectID = "5wz-6g-ris"; */
+"5wz-6g-ris.headerCell.title" = "ID";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "All JSON Keys are alphabetically sorted. It's easier to see the diff if the JSON Keys Order are changed"; ObjectID = "8BS-lV-5rL"; */
+"8BS-lV-5rL.ibShadowedToolTip" = "所有 JSON 键都按字母顺序排序。如果更改了 JSON 键顺序，则更容易看到差异";
+
+/* Class = "NSMenuItem"; title = "Sort Alphabetically JSON Key"; ObjectID = "8BS-lV-5rL"; */
+"8BS-lV-5rL.title" = "按字母顺序排序 JSON 密钥";
+
+/* Class = "NSTextFieldCell"; title = "Please upgrade your macOS to use this feature (macOS 11.2 or later)."; ObjectID = "8Ul-SW-AQu"; */
+"8Ul-SW-AQu.title" = "请升级您的 macOS 以使用此功能（macOS 11.2 或更高版本）。";
+
+/* Class = "NSTableColumn"; headerCell.title = "Left"; ObjectID = "9Z5-em-tNW"; */
+"9Z5-em-tNW.headerCell.title" = "剩下";
+
+/* Class = "NSTableColumn"; headerCell.title = "Comment"; ObjectID = "9sa-A7-zXD"; */
+"9sa-A7-zXD.headerCell.title" = "评论";
+
+/* Class = "NSTextFieldCell"; title = "Two files are identical"; ObjectID = "A3E-u3-RS9"; */
+"A3E-u3-RS9.title" = "两个文件完全相同";
+
+/* Class = "NSButtonCell"; title = "Search"; ObjectID = "Arj-8y-dvg"; */
+"Arj-8y-dvg.title" = "搜索";
+
+/* Class = "NSSearchFieldCell"; placeholderString = "Filter (Show: ⌘F, Hide: ESC)"; ObjectID = "GHg-fL-o30"; */
+"GHg-fL-o30.placeholderString" = "过滤器（显示：⌘F，隐藏：ESC）";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "JQf-ZL-mlv"; */
+"JQf-ZL-mlv.title" = "文本单元格";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "MHC-7k-QtD"; */
+"MHC-7k-QtD.title" = "文本单元格";
+
+/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "MIh-2i-1gh"; */
+"MIh-2i-1gh.title" = "删除";
+
+/* Class = "NSMenu"; title = "Open with"; ObjectID = "MhK-Bc-Bjl"; */
+"MhK-Bc-Bjl.title" = "打开方式";
+
+/* Class = "NSTableColumn"; headerCell.title = "Method"; ObjectID = "NOj-Vy-sgh"; */
+"NOj-Vy-sgh.headerCell.title" = "方法";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "NXi-pY-eRz"; */
+"NXi-pY-eRz.title" = "文本单元格";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Use ksdiff from Kaleidoscope app to diff two files"; ObjectID = "O6k-Xy-sIt"; */
+"O6k-Xy-sIt.ibShadowedToolTip" = "使用 Kaleidoscope 应用程序中的 ksdiff 来区分两个文件";
+
+/* Class = "NSMenuItem"; title = "Kaleidoscope…"; ObjectID = "O6k-Xy-sIt"; */
+"O6k-Xy-sIt.title" = "万花筒…";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Search diff content ⌘F"; ObjectID = "O7e-S1-aZU"; */
+"O7e-S1-aZU.ibShadowedToolTip" = "搜索差异内容⌘F";
+
+/* Class = "NSMenuItem"; title = "Green"; ObjectID = "Pmc-Kw-SKp"; */
+"Pmc-Kw-SKp.title" = "绿色";
+
+/* Class = "NSMenuItem"; title = "Strikethrough"; ObjectID = "QNk-T7-cqM"; */
+"QNk-T7-cqM.title" = "删除线";
+
+/* Class = "NSMenu"; title = "Export"; ObjectID = "SRy-IZ-sY2"; */
+"SRy-IZ-sY2.title" = "导出";
+
+/* Class = "NSMenuItem"; title = "Red"; ObjectID = "Uwu-CL-nAi"; */
+"Uwu-CL-nAi.title" = "红色";
+
+/* Class = "NSMenuItem"; title = "Side By Side"; ObjectID = "VgV-en-by3"; */
+"VgV-en-by3.title" = "并排";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Xwz-Md-J1n"; */
+"Xwz-Md-J1n.title" = "文本单元格";
+
+/* Class = "NSTextFieldCell"; title = "Diff on:"; ObjectID = "YHR-0h-QW7"; */
+"YHR-0h-QW7.title" = "区分：";
+
+/* Class = "NSButtonCell"; title = "Done"; ObjectID = "a2k-1X-6Qu"; */
+"a2k-1X-6Qu.title" = "完成";
+
+/* Class = "NSMenuItem"; title = "Right Side"; ObjectID = "aIw-46-5hz"; */
+"aIw-46-5hz.title" = "右侧";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "ccD-YZ-W1b"; */
+"ccD-YZ-W1b.title" = "文本单元格";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Export as unified diff (unidiff)"; ObjectID = "dGM-jm-ZIN"; */
+"dGM-jm-ZIN.ibShadowedToolTip" = "导出为统一差异 (unidiff)";
+
+/* Class = "NSMenuItem"; title = "Unidiff…"; ObjectID = "dGM-jm-ZIN"; */
+"dGM-jm-ZIN.title" = "统一…";
+
+/* Class = "NSButtonCell"; title = "Request"; ObjectID = "f2F-ml-FVZ"; */
+"f2F-ml-FVZ.title" = "请求";
+
+/* Class = "NSTextFieldCell"; title = "10 matches"; ObjectID = "fBJ-qO-hE9"; */
+"fBJ-qO-hE9.title" = "10 匹配";
+
+/* Class = "NSButtonCell"; title = "Response"; ObjectID = "hQh-ob-KJb"; */
+"hQh-ob-KJb.title" = "响应";
+
+/* Class = "NSMenuItem"; title = "Export"; ObjectID = "iea-xZ-00s"; */
+"iea-xZ-00s.title" = "导出";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "ief-t6-MUr"; */
+"ief-t6-MUr.title" = "盒子";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "iiw-rL-egi"; */
+"iiw-rL-egi.title" = "文本单元格";
+
+/* Class = "NSMenuItem"; title = "Highlight"; ObjectID = "luF-d2-Nns"; */
+"luF-d2-Nns.title" = "突出显示";
+
+/* Class = "NSMenuItem"; title = "Gray"; ObjectID = "m8J-pW-PvJ"; */
+"m8J-pW-PvJ.title" = "灰色";
+
+/* Class = "NSMenuItem"; title = "Purple"; ObjectID = "m8Z-7l-bBE"; */
+"m8Z-7l-bBE.title" = "紫色";
+
+/* Class = "NSMenuItem"; title = "Open with"; ObjectID = "ntd-a2-vPS"; */
+"ntd-a2-vPS.title" = "打开方式";
+
+/* Class = "NSMenuItem"; title = "Yellow"; ObjectID = "oGF-93-cOf"; */
+"oGF-93-cOf.title" = "黄色";
+
+/* Class = "NSMenuItem"; title = "Left Side"; ObjectID = "oKd-lF-RDf"; */
+"oKd-lF-RDf.title" = "左侧";
+
+/* Class = "NSWindow"; title = "Diff"; ObjectID = "oul-mj-e8E"; */
+"oul-mj-e8E.title" = "差异";
+
+/* Class = "NSMenu"; title = "Highlight"; ObjectID = "r0e-6r-hoR"; */
+"r0e-6r-hoR.title" = "突出显示";
+
+/* Class = "NSTextFieldCell"; title = "Diff Tool is not available!"; ObjectID = "tKp-dK-G2A"; */
+"tKp-dK-G2A.title" = "差异工具不可用！";
+
+/* Class = "NSMenuItem"; title = "Delete All"; ObjectID = "uDy-XP-WFC"; */
+"uDy-XP-WFC.title" = "全部删除";
+
+/* Class = "NSTableColumn"; headerCell.title = "Right"; ObjectID = "vMf-zi-skT"; */
+"vMf-zi-skT.headerCell.title" = "对";
+
+/* Class = "NSMenuItem"; title = "Unified"; ObjectID = "xw8-PW-fyB"; */
+"xw8-PW-fyB.title" = "统一";
+
+/* Class = "NSMenuItem"; title = "Blue"; ObjectID = "y5q-RY-LfK"; */
+"y5q-RY-LfK.title" = "蓝色";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "yQV-wm-J4q"; */
+"yQV-wm-J4q.title" = "盒子";
+
+/* Class = "NSTextFieldCell"; title = "2. ⌘Y or Right-Click -> Tools -> Add to Diff Pool"; ObjectID = "yYR-bn-Vqt"; */
+"yYR-bn-Vqt.title" = "2. ⌘Y 或右键单击 -> 工具 -> 添加到差异池";
+
+/* Class = "NSTextFieldCell"; title = "1. Select the request/response on the main view"; ObjectID = "ygt-Sk-AxV"; */
+"ygt-Sk-AxV.title" = "1. 在主视图中选择请求/响应";
+
+/* Class = "NSTableColumn"; headerCell.title = "URL"; ObjectID = "bQ4-Wx-xML"; */
+"bQ4-Wx-xML.headerCell.title" = "网址";

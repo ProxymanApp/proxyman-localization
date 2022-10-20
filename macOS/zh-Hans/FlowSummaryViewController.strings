@@ -1,0 +1,14 @@
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "2Mw-8A-pvM"; */
+"2Mw-8A-pvM.title" = "文本单元格";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Xnu-Om-J4t"; */
+"Xnu-Om-J4t.title" = "文本单元格";
+
+/* Class = "NSTableColumn"; headerCell.title = "Value"; ObjectID = "cgk-Ff-xpl"; */
+"cgk-Ff-xpl.headerCell.title" = "价值";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "mSb-Pr-L9g"; */
+"mSb-Pr-L9g.headerCell.title" = "姓名";
+
+/* Class = "NSMenuItem"; title = "Copy"; ObjectID = "oF2-YY-nho"; */
+"oF2-YY-nho.title" = "复制";

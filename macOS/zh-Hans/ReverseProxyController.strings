@@ -1,0 +1,98 @@
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "3ek-b6-bbD"; */
+"3ek-b6-bbD.title" = "文本单元格";
+
+/* Class = "NSMenuItem"; title = "Import Settings"; ObjectID = "4Dn-FT-QJ3"; */
+"4Dn-FT-QJ3.title" = "导入设置";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "9Bm-Ar-qoB"; */
+"9Bm-Ar-qoB.title" = "盒子";
+
+/* Class = "NSTextFieldCell"; title = "Proxy HTTP & HTTPS Requests from local ports to specified upstream servers"; ObjectID = "ACV-KL-9fU"; */
+"ACV-KL-9fU.title" = "代理从本地端口到指定上游服务器的 HTTP 和 HTTPS 请求";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Enable or Disable entire Map Local Feature"; ObjectID = "BTK-rR-f2D"; */
+"BTK-rR-f2D.ibExternalAccessibilityDescription" = "启用或禁用整个地图本地功能";
+
+/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "CxK-Gv-hSR"; */
+"CxK-Gv-hSR.title" = "删除";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "E64-WZ-BOd"; */
+"E64-WZ-BOd.title" = "文本单元格";
+
+/* Class = "NSButtonCell"; title = "Enable Reverse Proxy Tool"; ObjectID = "GAK-Ld-Brj"; */
+"GAK-Ld-Brj.title" = "启用反向代理工具";
+
+/* Class = "NSMenuItem"; title = "More"; ObjectID = "GCs-n4-x4B"; */
+"GCs-n4-x4B.title" = "更多的";
+
+/* Class = "NSTableColumn"; headerCell.title = "Remote Port"; ObjectID = "Jwt-5U-pAb"; */
+"Jwt-5U-pAb.headerCell.title" = "远程端口";
+
+/* Class = "NSTextFieldCell"; title = "Click \"+\" or ⌘N to add new entry"; ObjectID = "LYi-Ab-z66"; */
+"LYi-Ab-z66.title" = "点击 \"+\" 或 ⌘N 添加新条目";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "Mnh-53-9lf"; */
+"Mnh-53-9lf.headerCell.title" = "姓名";
+
+/* Class = "NSTableColumn"; headerCell.title = "Local Port"; ObjectID = "OV9-WJ-m0I"; */
+"OV9-WJ-m0I.headerCell.title" = "本地端口";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "PUd-93-fuq"; */
+"PUd-93-fuq.title" = "文本单元格";
+
+/* Class = "NSTextFieldCell"; title = "⌘N: New; ⌘⏎: Edit; ⌘⌫: Delete; Space: Enable/Disable Rules;"; ObjectID = "TAb-9X-opy"; */
+"TAb-9X-opy.title" = "⌘N：新； ⌘⏎：编辑； ⌘⌫：删除；空格：启用/禁用规则；";
+
+/* Class = "NSTableColumn"; headerCell.title = "Remote Host"; ObjectID = "TXc-e9-L8R"; */
+"TXc-e9-L8R.headerCell.title" = "远程主机";
+
+/* Class = "NSMenuItem"; title = "From Proxyman..."; ObjectID = "XXa-E2-vqy"; */
+"XXa-E2-vqy.title" = "从代理...";
+
+/* Class = "NSMenu"; title = "Import Settings"; ObjectID = "a0b-iX-Aa2"; */
+"a0b-iX-Aa2.title" = "导入设置";
+
+/* Class = "NSTextFieldCell"; title = "6100"; ObjectID = "akt-WR-xTS"; */
+"akt-WR-xTS.title" = "6100";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "eUr-Ix-LiF"; */
+"eUr-Ix-LiF.title" = "标签";
+
+/* Class = "NSMenuItem"; title = "More"; ObjectID = "fQf-XM-8So"; */
+"fQf-XM-8So.title" = "更多的";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "g6E-OA-DZL"; */
+"g6E-OA-DZL.title" = "文本单元格";
+
+/* Class = "NSMenuItem"; title = "Export Settings..."; ObjectID = "h7l-bZ-obl"; */
+"h7l-bZ-obl.title" = "导出设置...";
+
+/* Class = "NSMenuItem"; title = "From Charles Proxy..."; ObjectID = "kA9-Uk-531"; */
+"kA9-Uk-531.title" = "从查尔斯代理...";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "kP2-Q5-Dke"; */
+"kP2-Q5-Dke.title" = "标签";
+
+/* Class = "NSTableColumn"; headerCell.title = "Enabled"; ObjectID = "l1E-UE-JOC"; */
+"l1E-UE-JOC.headerCell.title" = "启用";
+
+/* Class = "NSTableColumn"; headerToolTip = "Enable / Disable this entry"; ObjectID = "l1E-UE-JOC"; */
+"l1E-UE-JOC.headerToolTip" = "启用/禁用此条目";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Toggl Enable / Disable selected rules"; ObjectID = "m6w-Jo-aqZ"; */
+"m6w-Jo-aqZ.ibShadowedToolTip" = "Toggl 启用/禁用选定的规则";
+
+/* Class = "NSMenuItem"; title = "Enable Rule"; ObjectID = "m6w-Jo-aqZ"; */
+"m6w-Jo-aqZ.title" = "启用规则";
+
+/* Class = "NSMenuItem"; title = "New..."; ObjectID = "oWR-9H-aa1"; */
+"oWR-9H-aa1.title" = "新的...";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "u6U-wB-iX5"; */
+"u6U-wB-iX5.title" = "文本单元格";
+
+/* Class = "NSTextFieldCell"; title = "Untitled"; ObjectID = "vxF-gX-CEA"; */
+"vxF-gX-CEA.title" = "无标题";
+
+/* Class = "NSMenuItem"; title = "Edit..."; ObjectID = "ytn-MS-YWc"; */
+"ytn-MS-YWc.title" = "编辑...";

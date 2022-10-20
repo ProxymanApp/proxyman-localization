@@ -1,0 +1,68 @@
+/* Class = "NSMenuItem"; title = "OPTIONS"; ObjectID = "0r1-Xi-hIE"; */
+"0r1-Xi-hIE.title" = "选项";
+
+/* Class = "NSTextFieldCell"; title = "Full-Matching Regex"; ObjectID = "1l3-Xs-tGg"; */
+"1l3-Xs-tGg.title" = "完全匹配的正则表达式";
+
+/* Class = "NSMenuItem"; title = "GraphQL QueryName"; ObjectID = "2NE-R1-a9J"; */
+"2NE-R1-a9J.title" = "GraphQL 查询名称";
+
+/* Class = "NSMenuItem"; title = "Advanced"; ObjectID = "2ay-oz-ZRe"; */
+"2ay-oz-ZRe.title" = "先进的";
+
+/* Class = "NSMenuItem"; title = "DELETE"; ObjectID = "3be-oa-kOQ"; */
+"3be-oa-kOQ.title" = "删除";
+
+/* Class = "NSMenuItem"; title = "HEAD"; ObjectID = "6Rs-ss-bnI"; */
+"6Rs-ss-bnI.title" = "头";
+
+/* Class = "NSMenuItem"; title = "GET"; ObjectID = "6uW-oj-aMf"; */
+"6uW-oj-aMf.title" = "得到";
+
+/* Class = "NSTextFieldCell"; title = "Simple wildcard * and ? are supported"; ObjectID = "UnC-Gv-LIU"; */
+"UnC-Gv-LIU.title" = "简单的通配符 * 和 ?支持";
+
+/* Class = "NSMenu"; title = "Advanced"; ObjectID = "YlL-v0-VaZ"; */
+"YlL-v0-VaZ.title" = "先进的";
+
+/* Class = "NSMenuItem"; title = "POST"; ObjectID = "Ysk-hj-HK6"; */
+"Ysk-hj-HK6.title" = "邮政";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Use simple Wildcard (* and ?)"; ObjectID = "aLr-49-U0F"; */
+"aLr-49-U0F.ibShadowedToolTip" = "使用简单的通配符（* 和？）";
+
+/* Class = "NSMenuItem"; title = "Use Wildcard"; ObjectID = "aLr-49-U0F"; */
+"aLr-49-U0F.title" = "使用通配符";
+
+/* Class = "NSMenuItem"; title = "PATCH"; ObjectID = "aMn-qb-GlQ"; */
+"aMn-qb-GlQ.title" = "修补";
+
+/* Class = "NSMenuItem"; title = "ANY"; ObjectID = "e6b-ss-qIB"; */
+"e6b-ss-qIB.title" = "任何";
+
+/* Class = "NSTextFieldCell"; placeholderString = "e.g. GetUser"; ObjectID = "eNi-xg-bQx"; */
+"eNi-xg-bQx.placeholderString" = "例如获取用户";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Use full-matching regex"; ObjectID = "ey3-cI-3o6"; */
+"ey3-cI-3o6.ibShadowedToolTip" = "使用完全匹配的正则表达式";
+
+/* Class = "NSMenuItem"; title = "Use Regex"; ObjectID = "ey3-cI-3o6"; */
+"ey3-cI-3o6.title" = "使用正则表达式";
+
+/* Class = "NSButtonCell"; title = "Invalid Regex"; ObjectID = "nlG-eH-MZ8"; */
+"nlG-eH-MZ8.title" = "无效的正则表达式";
+
+/* Class = "NSTextFieldCell"; title = "GraphQL Query Name:"; ObjectID = "sns-NL-3PL"; */
+"sns-NL-3PL.title" = "GraphQL 查询名称：";
+
+/* Class = "NSButtonCell"; title = "Include all subpaths of this URL"; ObjectID = "tCp-2f-uaq"; */
+"tCp-2f-uaq.title" = "包含此 URL 的所有子路径";
+
+/* Class = "NSMenuItem"; title = "TRACE"; ObjectID = "tcx-XF-CqG"; */
+"tcx-XF-CqG.title" = "痕迹";
+
+/* Class = "NSButtonCell"; title = "Syntax List"; ObjectID = "uxN-hg-ZVl"; */
+"uxN-hg-ZVl.title" = "语法列表";
+
+/* Class = "NSMenuItem"; title = "PUT"; ObjectID = "voR-V0-TSk"; */
+"voR-V0-TSk.title" = "放";

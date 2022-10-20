@@ -1,0 +1,8 @@
+/* Class = "NSMenuItem"; title = "Icon and Text"; ObjectID = "p6i-YH-8FF"; */
+"p6i-YH-8FF.title" = "图标和文本";
+
+/* Class = "NSMenuItem"; title = "Icon Only"; ObjectID = "sOg-tz-3Ep"; */
+"sOg-tz-3Ep.title" = "仅图标";
+
+/* Class = "NSMenuItem"; title = "Text Only"; ObjectID = "vzh-L4-d2c"; */
+"vzh-L4-d2c.title" = "纯文本";

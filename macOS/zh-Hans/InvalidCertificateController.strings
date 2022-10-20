@@ -1,0 +1,20 @@
+/* Class = "NSTextFieldCell"; title = "Please consider installing the Proxyman Certificate again."; ObjectID = "0u9-nH-ryL"; */
+"0u9-nH-ryL.title" = "请考虑再次安装 Proxyman 证书。";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "aCE-Kl-UDi"; */
+"aCE-Kl-UDi.headerCell.title" = "姓名";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "cEo-7n-tAj"; */
+"cEo-7n-tAj.title" = "文本单元格";
+
+/* Class = "NSButtonCell"; title = "Install new Certificate"; ObjectID = "hTt-SC-w06"; */
+"hTt-SC-w06.title" = "安装新证书";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "hg2-A3-ZN7"; */
+"hg2-A3-ZN7.title" = "取消";
+
+/* Class = "NSTextFieldCell"; title = "Root Certificate (Proxyman CA) has been invalided, untrusted or removed!"; ObjectID = "iqh-ed-vU8"; */
+"iqh-ed-vU8.title" = "根证书 (Proxyman CA) 已失效、不受信任或被删除！";
+
+/* Class = "NSTextFieldCell"; title = "Proxyman could not intercept the following apps or domains:"; ObjectID = "sob-zd-i3n"; */
+"sob-zd-i3n.title" = "Proxyman 无法拦截以下应用程序或域：";

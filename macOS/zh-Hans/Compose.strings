@@ -1,0 +1,32 @@
+/* Class = "NSMenuItem"; title = "GET with Query"; ObjectID = "0UL-tX-o2e"; */
+"0UL-tX-o2e.title" = "GET 与查询";
+
+/* Class = "NSMenuItem"; title = "POST with JSON"; ObjectID = "3zx-CL-7wg"; */
+"3zx-CL-7wg.title" = "POST 与 JSON";
+
+/* Class = "NSMenuItem"; title = "Empty Request"; ObjectID = "8FX-aK-Etp"; */
+"8FX-aK-Etp.title" = "空请求";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "UeK-Ge-qd8"; */
+"UeK-Ge-qd8.title" = "盒子";
+
+/* Class = "NSWindow"; title = "Compose"; ObjectID = "cgm-Ca-Gky"; */
+"cgm-Ca-Gky.title" = "撰写";
+
+/* Class = "NSMenuItem"; title = "Template"; ObjectID = "dlx-bH-F92"; */
+"dlx-bH-F92.title" = "模板";
+
+/* Class = "NSButtonCell"; title = "Body in GET Request is ignored. Please use POST."; ObjectID = "fC1-Lh-Eah"; */
+"fC1-Lh-Eah.title" = "GET 请求中的正文被忽略。请使用 POST。";
+
+/* Class = "NSMenuItem"; title = "POST with Form"; ObjectID = "fTf-c3-4Nb"; */
+"fTf-c3-4Nb.title" = "POST 表单";
+
+/* Class = "NSButtonCell"; title = "Invalid URL"; ObjectID = "ixM-Km-q4N"; */
+"ixM-Km-q4N.title" = "无效的 URL";
+
+/* Class = "NSTextFieldCell"; title = "https://api.producthunt.com/v1/posts"; ObjectID = "tQ0-G0-ABy"; */
+"tQ0-G0-ABy.title" = "https://api.producthunt.com/v1/posts";
+
+/* Class = "NSButtonCell"; title = "Send ⌘⏎ "; ObjectID = "zuQ-aL-DU2"; */
+"zuQ-aL-DU2.title" = "发送⌘⏎";

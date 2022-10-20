@@ -1,0 +1,14 @@
+/* Class = "NSMenuItem"; title = "Case Sensitive"; ObjectID = "CNF-fC-sXQ"; */
+"CNF-fC-sXQ.title" = "区分大小写";
+
+/* Class = "NSMenuItem"; title = "Text"; ObjectID = "bp6-It-Vqm"; */
+"bp6-It-Vqm.title" = "文本";
+
+/* Class = "NSMenuItem"; title = "Regular Expression"; ObjectID = "ee5-yn-o0B"; */
+"ee5-yn-o0B.title" = "正则表达式";
+
+/* Class = "NSMenuItem"; title = "Case Insensitive"; ObjectID = "jr3-Dm-cgC"; */
+"jr3-Dm-cgC.title" = "不区分大小写";
+
+/* Class = "NSSearchFieldCell"; placeholderString = "Filter (Show: ⌘F, Hide: ESC)"; ObjectID = "zZC-xQ-1AV"; */
+"zZC-xQ-1AV.placeholderString" = "过滤器（显示：⌘F，隐藏：ESC）";

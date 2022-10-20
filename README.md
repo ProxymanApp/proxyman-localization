@@ -1,2 +1,2 @@
-# proxyman-localization
+# Localization for Proxyman
 Localization for Proxyman

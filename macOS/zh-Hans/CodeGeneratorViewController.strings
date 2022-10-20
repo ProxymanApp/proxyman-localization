@@ -1,0 +1,71 @@
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Copy to Clipboard"; ObjectID = "30Z-6w-W10"; */
+"30Z-6w-W10.ibShadowedToolTip" = "复制到剪贴板";
+
+/* Class = "NSMenuItem"; title = "Copy"; ObjectID = "30Z-6w-W10"; */
+"30Z-6w-W10.title" = "复制";
+
+/* Class = "NSMenuItem"; title = "Swift + Moya"; ObjectID = "FKH-yT-4Uk"; */
+"FKH-yT-4Uk.title" = "斯威夫特+莫亚";
+
+/* Class = "NSMenuItem"; title = "JavaScript + jQuery"; ObjectID = "GJQ-An-MDc"; */
+"GJQ-An-MDc.title" = "JavaScript + jQuery";
+
+/* Class = "NSMenuItem"; title = "Python + Request"; ObjectID = "HPx-Ay-pen"; */
+"HPx-Ay-pen.title" = "Python + 请求";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Copy to Clipboard"; ObjectID = "LWu-Yc-aqa"; */
+"LWu-Yc-aqa.ibShadowedToolTip" = "复制到剪贴板";
+
+/* Class = "NSMenuItem"; title = "HTTPie"; ObjectID = "MSc-h5-wuV"; */
+"MSc-h5-wuV.title" = "HTTPie";
+
+/* Class = "NSButtonCell"; title = "Button"; ObjectID = "SbY-FI-5Av"; */
+"SbY-FI-5Av.title" = "按钮";
+
+/* Class = "NSMenuItem"; title = "Missing your library?..."; ObjectID = "TSs-CW-bJ7"; */
+"TSs-CW-bJ7.title" = "想念你的图书馆？...";
+
+/* Class = "NSMenuItem"; title = "cURL"; ObjectID = "YVk-sF-Oko"; */
+"YVk-sF-Oko.title" = "卷曲";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "YeD-JT-LFC"; */
+"YeD-JT-LFC.title" = "盒子";
+
+/* Class = "NSMenuItem"; title = "Node + Fetch"; ObjectID = "chl-fm-YTF"; */
+"chl-fm-YTF.title" = "节点+获取";
+
+/* Class = "NSMenuItem"; title = "HAR"; ObjectID = "dYb-uG-XTa"; */
+"dYb-uG-XTa.title" = "头发";
+
+/* Class = "NSMenuItem"; title = "Axios"; ObjectID = "fq9-xP-hRQ"; */
+"fq9-xP-hRQ.title" = "爱讯";
+
+/* Class = "NSMenuItem"; title = "Go"; ObjectID = "jgF-tK-sdX"; */
+"jgF-tK-sdX.title" = "去";
+
+/* Class = "NSMenuItem"; title = "Postman Collection 2"; ObjectID = "l9i-Sx-Y0U"; */
+"l9i-Sx-Y0U.title" = "邮递员系列 2";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Export to File"; ObjectID = "lHt-eV-8sA"; */
+"lHt-eV-8sA.ibShadowedToolTip" = "导出到文件";
+
+/* Class = "NSMenuItem"; title = "Export..."; ObjectID = "lHt-eV-8sA"; */
+"lHt-eV-8sA.title" = "出口...";
+
+/* Class = "NSMenuItem"; title = "Open with"; ObjectID = "rnF-P9-f0g"; */
+"rnF-P9-f0g.title" = "打开用";
+
+/* Class = "NSMenuItem"; title = "Java + HTTPClient"; ObjectID = "sBg-5N-b9t"; */
+"sBg-5N-b9t.title" = "Java + HTTP客户端";
+
+/* Class = "NSMenuItem"; title = "Swift + URLSession"; ObjectID = "vxP-NZ-8jX"; */
+"vxP-NZ-8jX.title" = "斯威夫特 + URLSession";
+
+/* Class = "NSMenuItem"; title = "Objective-C + NSURLSession"; ObjectID = "yti-b4-WeI"; */
+"yti-b4-WeI.title" = "目标-C + NSURLSession";
+
+/* Class = "NSMenuItem"; title = "Node + HTTP"; ObjectID = "zjK-7R-rFI"; */
+"zjK-7R-rFI.title" = "节点 + HTTP";
+
+/* Class = "NSMenuItem"; title = "Swift + Alamofire"; ObjectID = "zqd-fj-Rsf"; */
+"zqd-fj-Rsf.title" = "斯威夫特 + 阿拉莫火";
