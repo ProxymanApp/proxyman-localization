@@ -98,7 +98,7 @@
 "C4R-eB-LvV.title" = "注册到 nghia@proxyman.io";
 
 /* Class = "NSTextFieldCell"; title = "Proxyman Dock Icon"; ObjectID = "Cbg-oU-CgP"; */
-"Cbg-oU-CgP.title" = "代理人码头图标";
+"Cbg-oU-CgP.title" = "Proxyman Dock 图标";
 
 /* Class = "NSTextFieldCell"; title = "Time Format:"; ObjectID = "DOF-RA-YAC"; */
 "DOF-RA-YAC.title" = "时间格式：";
@@ -260,7 +260,7 @@
 "O5T-gR-uix.title" = "取消链接此设备";
 
 /* Class = "NSTextFieldCell"; title = "Diff Tool:"; ObjectID = "O5k-qM-b20"; */
-"O5k-qM-b20.title" = "差异工具：";
+"O5k-qM-b20.title" = "对比工具：";
 
 /* Class = "NSTextFieldCell"; title = "Debugging Tools:"; ObjectID = "ONU-RP-7UJ"; */
 "ONU-RP-7UJ.title" = "调试工具：";
@@ -407,7 +407,7 @@
 "eYG-rd-2Bv.title" = "地图本地路径：";
 
 /* Class = "NSTextFieldCell"; title = "Proxyman"; ObjectID = "ebx-5B-G7j"; */
-"ebx-5B-G7j.title" = "代理人";
+"ebx-5B-G7j.title" = "Proxyman";
 
 /* Class = "NSTextFieldCell"; title = "Your current HTTP/HTTPS Proxy is overridden by networksetup CLI."; ObjectID = "ewR-Wc-HS0"; */
 "ewR-Wc-HS0.title" = "您当前的 HTTP/HTTPS 代理已被 networksetup CLI 覆盖。";
@@ -470,7 +470,7 @@
 "lVO-3H-ICA.title" = "12";
 
 /* Class = "NSTextFieldCell"; title = "Proxyman CA"; ObjectID = "lmQ-sA-w5F"; */
-"lmQ-sA-w5F.title" = "代理人 CA";
+"lmQ-sA-w5F.title" = "Proxyman CA";
 
 /* Class = "NSTextFieldCell"; title = "Map Local Delay:"; ObjectID = "lrA-Zd-eon"; */
 "lrA-Zd-eon.title" = "地图本地延迟：";
@@ -482,7 +482,7 @@
 "n1w-sh-rbz.title" = "您的 HTTP/HTTPS 代理当前被 networksetup CLI 覆盖。它可以工作，但速度很慢！";
 
 /* Class = "NSTextFieldCell"; title = "Scripting:"; ObjectID = "of6-tn-K4d"; */
-"of6-tn-K4d.title" = "剧本：";
+"of6-tn-K4d.title" = "脚本：";
 
 /* Class = "NSButtonCell"; title = "Private Gist"; ObjectID = "pOe-gF-s8n"; */
 "pOe-gF-s8n.title" = "私人的 Gist";
@@ -497,7 +497,7 @@
 "pdf-1N-QGZ.title" = "购买许可证";
 
 /* Class = "NSTextFieldCell"; title = "~/Desktop"; ObjectID = "pei-oi-u77"; */
-"pei-oi-u77.title" = "~/桌面";
+"pei-oi-u77.title" = "~/Desktop";
 
 /* Class = "NSMenuItem"; title = "180 seconds"; ObjectID = "qCz-f8-2g7"; */
 "qCz-f8-2g7.title" = "180 秒";
@@ -539,7 +539,7 @@
 "u8I-he-EGc.title" = "应用状态栏：";
 
 /* Class = "NSButtonCell"; title = "Require Trusted Proxyman Certificate in Keychain Access "; ObjectID = "uI9-Bg-v36"; */
-"uI9-Bg-v36.title" = "在钥匙串访问中需要受信任的代理人证书";
+"uI9-Bg-v36.title" = "在钥匙串访问中需要受信任的 Proxyman 证书";
 
 /* Class = "NSTextFieldCell"; title = "Default directory to save a *.har file after converting from *.chls."; ObjectID = "uVE-HK-2Ga"; */
 "uVE-HK-2Ga.title" = "从 *.chls 转换后保存 *.har 文件的默认目录。";

@@ -287,7 +287,7 @@
 "V5X-Ik-jEt.ibShadowedToolTip" = "复制 IP 地址";
 
 /* Class = "NSTextFieldCell"; title = "Proxyman CA"; ObjectID = "VJb-wr-l1g"; */
-"VJb-wr-l1g.title" = "代理人 CA";
+"VJb-wr-l1g.title" = "Proxyman CA";
 
 /* Class = "NSButtonCell"; title = "How to generate self-signed certificates"; ObjectID = "Vgs-ST-nUJ"; */
 "Vgs-ST-nUJ.title" = "如何生成自签名证书";
@@ -464,7 +464,7 @@
 "p6G-f3-KyG.title" = "4.2";
 
 /* Class = "NSTextFieldCell"; title = "Quit Proxyman?"; ObjectID = "q9S-v7-gsy"; */
-"q9S-v7-gsy.title" = "退出代理人？";
+"q9S-v7-gsy.title" = "退出 Proxyman？";
 
 /* Class = "NSTextFieldCell"; title = "Expired: Monday 2017"; ObjectID = "qCH-kQ-jhJ"; */
 "qCH-kQ-jhJ.title" = "过期时间：2017 年星期一";

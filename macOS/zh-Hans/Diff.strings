@@ -8,7 +8,7 @@
 "3Tt-gM-SlN.title" = "无项目选择";
 
 /* Class = "NSMenuItem"; title = "Add Comment…"; ObjectID = "5Nl-nS-x8J"; */
-"5Nl-nS-x8J.title" = "添加评论...";
+"5Nl-nS-x8J.title" = "添加备注...";
 
 /* Class = "NSMenuItem"; title = "Reset"; ObjectID = "5Xc-aN-5o3"; */
 "5Xc-aN-5o3.title" = "重置";
@@ -17,7 +17,7 @@
 "5wz-6g-ris.headerCell.title" = "ID";
 
 /* Class = "NSMenuItem"; ibShadowedToolTip = "All JSON Keys are alphabetically sorted. It's easier to see the diff if the JSON Keys Order are changed"; ObjectID = "8BS-lV-5rL"; */
-"8BS-lV-5rL.ibShadowedToolTip" = "所有 JSON 键都按字母顺序排序。如果更改了 JSON 键顺序，则更容易看到差异";
+"8BS-lV-5rL.ibShadowedToolTip" = "所有 JSON 键都按字母顺序排序。如果更改了 JSON 键顺序，则更容易看到对比";
 
 /* Class = "NSMenuItem"; title = "Sort Alphabetically JSON Key"; ObjectID = "8BS-lV-5rL"; */
 "8BS-lV-5rL.title" = "按字母顺序排序 JSON 密钥";
@@ -29,7 +29,7 @@
 "9Z5-em-tNW.headerCell.title" = "剩下";
 
 /* Class = "NSTableColumn"; headerCell.title = "Comment"; ObjectID = "9sa-A7-zXD"; */
-"9sa-A7-zXD.headerCell.title" = "评论";
+"9sa-A7-zXD.headerCell.title" = "备注";
 
 /* Class = "NSTextFieldCell"; title = "Two files are identical"; ObjectID = "A3E-u3-RS9"; */
 "A3E-u3-RS9.title" = "两个文件完全相同";
@@ -65,7 +65,7 @@
 "O6k-Xy-sIt.title" = "万花筒…";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Search diff content ⌘F"; ObjectID = "O7e-S1-aZU"; */
-"O7e-S1-aZU.ibShadowedToolTip" = "搜索差异内容⌘F";
+"O7e-S1-aZU.ibShadowedToolTip" = "搜索对比内容⌘F";
 
 /* Class = "NSMenuItem"; title = "Green"; ObjectID = "Pmc-Kw-SKp"; */
 "Pmc-Kw-SKp.title" = "绿色";
@@ -140,13 +140,13 @@
 "oKd-lF-RDf.title" = "左侧";
 
 /* Class = "NSWindow"; title = "Diff"; ObjectID = "oul-mj-e8E"; */
-"oul-mj-e8E.title" = "差异";
+"oul-mj-e8E.title" = "对比";
 
 /* Class = "NSMenu"; title = "Highlight"; ObjectID = "r0e-6r-hoR"; */
 "r0e-6r-hoR.title" = "突出显示";
 
 /* Class = "NSTextFieldCell"; title = "Diff Tool is not available!"; ObjectID = "tKp-dK-G2A"; */
-"tKp-dK-G2A.title" = "差异工具不可用！";
+"tKp-dK-G2A.title" = "对比工具不可用！";
 
 /* Class = "NSMenuItem"; title = "Delete All"; ObjectID = "uDy-XP-WFC"; */
 "uDy-XP-WFC.title" = "全部删除";

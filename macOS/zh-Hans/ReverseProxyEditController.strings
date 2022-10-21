@@ -20,13 +20,13 @@
 "aKf-q3-Tsc.title" = "完毕";
 
 /* Class = "NSTextFieldCell"; placeholderString = "proxyman.io"; ObjectID = "eOj-e7-LlF"; */
-"eOj-e7-LlF.placeholderString" = "代理人.io";
+"eOj-e7-LlF.placeholderString" = "proxyman.io";
 
 /* Class = "NSTextFieldCell"; placeholderString = "Untitled"; ObjectID = "fa3-cI-olk"; */
 "fa3-cI-olk.placeholderString" = "无标题";
 
 /* Class = "NSTextFieldCell"; title = "Name:"; ObjectID = "gLQ-Hc-hy0"; */
-"gLQ-Hc-hy0.title" = "姓名：";
+"gLQ-Hc-hy0.title" = "名称：";
 
 /* Class = "NSTextFieldCell"; placeholderString = "443"; ObjectID = "uDI-vF-2xO"; */
 "uDI-vF-2xO.placeholderString" = "443";

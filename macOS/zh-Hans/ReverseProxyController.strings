@@ -32,7 +32,7 @@
 "LYi-Ab-z66.title" = "点击 \"+\" 或 ⌘N 添加新条目";
 
 /* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "Mnh-53-9lf"; */
-"Mnh-53-9lf.headerCell.title" = "姓名";
+"Mnh-53-9lf.headerCell.title" = "名称";
 
 /* Class = "NSTableColumn"; headerCell.title = "Local Port"; ObjectID = "OV9-WJ-m0I"; */
 "OV9-WJ-m0I.headerCell.title" = "本地端口";

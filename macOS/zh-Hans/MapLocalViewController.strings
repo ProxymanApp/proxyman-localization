@@ -116,4 +116,4 @@
 "xRo-b3-lIb.headerToolTip" = "匹配网址";
 
 /* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "xmM-Hc-Sjh"; */
-"xmM-Hc-Sjh.headerCell.title" = "姓名";
+"xmM-Hc-Sjh.headerCell.title" = "名称";

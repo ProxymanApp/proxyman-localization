@@ -32,10 +32,10 @@
 "KHU-NI-42K.title" = "格式为";
 
 /* Class = "NSMenu"; title = "Export"; ObjectID = "SKA-MB-wFH"; */
-"SKA-MB-wFH.title" = "出口";
+"SKA-MB-wFH.title" = "导出";
 
 /* Class = "NSMenuItem"; title = "Export"; ObjectID = "kKI-m1-n9h"; */
-"kKI-m1-n9h.title" = "出口";
+"kKI-m1-n9h.title" = "导出";
 
 /* Class = "NSMenu"; title = "Format with"; ObjectID = "qpj-JX-HEg"; */
 "qpj-JX-HEg.title" = "格式为";

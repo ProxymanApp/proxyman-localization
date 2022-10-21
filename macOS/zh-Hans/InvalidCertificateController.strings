@@ -2,7 +2,7 @@
 "0u9-nH-ryL.title" = "请考虑再次安装 Proxyman 证书。";
 
 /* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "aCE-Kl-UDi"; */
-"aCE-Kl-UDi.headerCell.title" = "姓名";
+"aCE-Kl-UDi.headerCell.title" = "名称";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "cEo-7n-tAj"; */
 "cEo-7n-tAj.title" = "文本单元格";

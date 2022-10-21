@@ -2,7 +2,7 @@
 "  Proxyman CA certificate is not trusted!" = "Proxyman CA 证书不受信任！";
 
 /* No comment provided by engineer. */
-"  Proxyman CA is trusted!" = "Proxyman CA 值得信赖！";
+"  Proxyman CA is trusted!" = "Proxyman CA 已经信任！";
 
 /* No comment provided by engineer. */
 " Active" = "积极";
@@ -182,7 +182,7 @@
 "Active" = "积极";
 
 /* No comment provided by engineer. */
-"Active Filters: %@" = "有源滤波器：%@";
+"Active Filters: %@" = "已启用过滤器：%@";
 
 /* No comment provided by engineer. */
 "Add" = "加";
@@ -194,13 +194,13 @@
 "Add (⌘⏎)" = "添加 （⌘⏎）";
 
 /* No comment provided by engineer. */
-"Add Comment" = "添加评论";
+"Add Comment" = "添加备注";
 
 /* No comment provided by engineer. */
 "Add Comment to %d selected Requests" = "向 %d 个选定请求添加注释";
 
 /* No comment provided by engineer. */
-"Add Comment…" = "添加评论...";
+"Add Comment…" = "添加备注...";
 
 /* No comment provided by engineer. */
 "Add to Diff Pool…" = "添加到差异池...";
@@ -212,7 +212,7 @@
 "Add…" = "加。。。";
 
 /* No comment provided by engineer. */
-"All" = "都";
+"All" = "全部";
 
 /* No comment provided by engineer. */
 "All Color" = "所有颜色";
@@ -299,7 +299,7 @@
 "Blue" = "蓝";
 
 /* No comment provided by engineer. */
-"Body" = "身体";
+"Body" = "Body";
 
 /* No comment provided by engineer. */
 "Body over 5Mb hidden for performance reasons" = "由于性能原因，机身超过 5Mb 隐藏";
@@ -332,7 +332,7 @@
 "Clear entire session to release all caching memory (⌥+⇧+⌘+⌫)" = "清除整个会话以释放所有缓存内存 （⌥+⇧+⌘+⌫）";
 
 /* No comment provided by engineer. */
-"Click to Add Comment...\n\nHighlight this request by Right-click on the Request -> Highlight" = "单击以添加评论...\n\n通过右键单击请求来突出显示此请求 -> 突出显示";
+"Click to Add Comment...\n\nHighlight this request by Right-click on the Request -> Highlight" = "单击以添加备注...\n\n通过右键单击请求来突出显示此请求 -> 突出显示";
 
 /* No comment provided by engineer. */
 "Click to copy the current IP Address" = "单击以复制当前 IP 地址";
@@ -341,7 +341,7 @@
 "Click to download new update" = "点击下载新的更新";
 
 /* No comment provided by engineer. */
-"Client" = "客户";
+"Client" = "客户端";
 
 /* No comment provided by engineer. */
 "Client Address" = "客户端地址";
@@ -359,7 +359,7 @@
 "Collapse Status Code Filters" = "折叠状态代码筛选器";
 
 /* No comment provided by engineer. */
-"Comment" = "评论";
+"Comment" = "备注";
 
 /* No comment provided by engineer. */
 "Common Name" = "公用名";
@@ -683,7 +683,7 @@
 "Dropped Connection due to Block List" = "由于阻止列表导致连接断开";
 
 /* No comment provided by engineer. */
-"Duration" = "期间";
+"Duration" = "耗时";
 
 /* No comment provided by engineer. */
 "Duration (exact)" = "持续时间（精确）";
@@ -806,7 +806,7 @@
 "External Proxy Toggle" = "外部代理切换";
 
 /* No comment provided by engineer. */
-"Favorites" = "收藏 夹";
+"Favorites" = "收藏夹";
 
 /* No comment provided by engineer. */
 "File is good!" = "文件很好！";
@@ -827,7 +827,7 @@
 "FileMerge requires two diff files!" = "FileMerge 需要两个 diff 文件！";
 
 /* No comment provided by engineer. */
-"Filter" = "滤波器";
+"Filter" = "过滤器";
 
 /* No comment provided by engineer. */
 "Find in..." = "查找到...";
@@ -845,10 +845,10 @@
 "Follow Us…" = "关注我们...";
 
 /* No comment provided by engineer. */
-"For Request:" = "如需提出要求：";
+"For Request:" = "来自请求";
 
 /* No comment provided by engineer. */
-"Form" = "形式";
+"Form" = "Form";
 
 /* No comment provided by engineer. */
 "Found %d Booted Simulators" = "找到 %d 引导的模拟器";
@@ -878,7 +878,7 @@
 "Haven't supported: Convert from %@ to Proxyman Type. Please open the Ticket on Github for feature requests." = "不支持：从 %@ 转换为代理类型。请在 Github 上打开票证以请求功能。";
 
 /* No comment provided by engineer. */
-"Header" = "页眉";
+"Header" = "Header";
 
 /* No comment provided by engineer. */
 "Hide" = "隐藏";
@@ -1349,7 +1349,7 @@
 "Pause recording" = "暂停录制";
 
 /* No comment provided by engineer. */
-"Pin" = "针";
+"Pin" = "固定";
 
 /* No comment provided by engineer. */
 "Pin to Favorites" = "固定到收藏夹";
@@ -1361,7 +1361,7 @@
 "Please contact support@proxyman.io for support!" = "请联系 support@proxyman.io 寻求支持！";
 
 /* No comment provided by engineer. */
-"Please install Kaleidoscope!" = "请安装万花筒！";
+"Please install Kaleidoscope!" = "请安装 Kaleidoscope！";
 
 /* No comment provided by engineer. */
 "Please install the latest Xcode to use FileMerge." = "请安装最新的 Xcode 以使用 FileMerge。";
@@ -1379,7 +1379,7 @@
 "Please select file!" = "请选择文件！";
 
 /* No comment provided by engineer. */
-"Please select less than 20 flows!" = "请选择少于20个流量！";
+"Please select less than 20 flows!" = "请选择少于20个流程！";
 
 /* No comment provided by engineer. */
 "Please select the left and right request, then try again!" = "请选择左右请求，然后重试！";
@@ -1502,7 +1502,7 @@
 "Quit" = "退出";
 
 /* No comment provided by engineer. */
-"Raw" = "生";
+"Raw" = "Raw";
 
 /* No comment provided by engineer. */
 "Raw Request & Response" = "原始请求和响应";
@@ -1832,7 +1832,7 @@
 "State" = "州";
 
 /* No comment provided by engineer. */
-"Status" = "地位";
+"Status" = "状态";
 
 /* No comment provided by engineer. */
 "Status Icon" = "状态图标";
@@ -1889,7 +1889,7 @@
 "Time Complete" = "时间完成";
 
 /* No comment provided by engineer. */
-"Timing" = "定时";
+"Timing" = "耗时";
 
 /* No comment provided by engineer. */
 "TLS Version" = "TLS 版本";
@@ -2012,7 +2012,7 @@
 "User cancelled the save" = "用户已取消保存";
 
 /* No comment provided by engineer. */
-"Value" = "价值";
+"Value" = "值";
 
 /* No comment provided by engineer. */
 "Very Bad Network" = "非常糟糕的网络";
@@ -2138,7 +2138,7 @@
 "Privacy" = "隐私";
 
 /* No comment provided by engineer. */
-"Add comment to selected requests" = "向选定的请求添加评论";
+"Add comment to selected requests" = "向选定的请求添加备注";
 
 /* No comment provided by engineer. */
 "Create a SSL Proxy Entry for this selected requests." = "为此选定的请求创建一个 SSL 代理条目。";
