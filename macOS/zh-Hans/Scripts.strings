@@ -71,7 +71,7 @@
 "B6T-WK-Jh2.headerCell.title" = "名称";
 
 /* Class = "NSSegmentedCell"; B7H-Qn-1GV.ibShadowedLabels[0] = "Snippet Code"; ObjectID = "B7H-Qn-1GV"; */
-"B7H-Qn-1GV.ibShadowedLabels[0]" = "片段代码";
+"B7H-Qn-1GV.ibShadowedLabels[0]" = "代码片段";
 
 /* Class = "NSMenu"; title = "Import Settings"; ObjectID = "Beb-ek-dt4"; */
 "Beb-ek-dt4.title" = "导入设置";

@@ -11,7 +11,7 @@
 "5AA-PN-7X8.headerToolTip" = "启用/禁用此条目";
 
 /* Class = "NSMenuItem"; title = "From Charles Proxy..."; ObjectID = "5gR-Mc-gr3"; */
-"5gR-Mc-gr3.title" = "从查尔斯代理...";
+"5gR-Mc-gr3.title" = "从Charles代理...";
 
 /* Class = "NSMenuItem"; ibShadowedToolTip = "Open App/Domain Search filter (⌘N)"; ObjectID = "5yH-5N-WzL"; */
 "5yH-5N-WzL.ibShadowedToolTip" = "打开应用程序/域搜索过滤器 (⌘N)";

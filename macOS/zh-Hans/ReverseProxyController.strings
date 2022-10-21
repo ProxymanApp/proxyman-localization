@@ -68,7 +68,7 @@
 "h7l-bZ-obl.title" = "导出设置...";
 
 /* Class = "NSMenuItem"; title = "From Charles Proxy..."; ObjectID = "kA9-Uk-531"; */
-"kA9-Uk-531.title" = "从查尔斯代理...";
+"kA9-Uk-531.title" = "从Charles代理...";
 
 /* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "kP2-Q5-Dke"; */
 "kP2-Q5-Dke.title" = "标签";

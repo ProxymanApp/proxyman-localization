@@ -86,7 +86,7 @@
 "gYl-CG-gTV.headerToolTip" = "从文件映射正文响应";
 
 /* Class = "NSMenuItem"; title = "From Charles Proxy..."; ObjectID = "hNU-WA-HII"; */
-"hNU-WA-HII.title" = "从查尔斯代理...";
+"hNU-WA-HII.title" = "从Charles代理...";
 
 /* Class = "NSMenuItem"; title = "From Proxyman..."; ObjectID = "jBb-xP-n0P"; */
 "jBb-xP-n0P.title" = "从代理...";

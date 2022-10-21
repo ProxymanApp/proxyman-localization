@@ -56,7 +56,7 @@
 "49O-am-DTu.title" = "文本单元格";
 
 /* Class = "NSMenuItem"; title = "From Charles Proxy..."; ObjectID = "4ka-a6-Sj1"; */
-"4ka-a6-Sj1.title" = "来自查尔斯代理...";
+"4ka-a6-Sj1.title" = "来自Charles代理...";
 
 /* Class = "NSTextFieldCell"; title = "Bypass List for External Proxies:"; ObjectID = "4st-4u-PxL"; */
 "4st-4u-PxL.title" = "外部代理的绕过列表：";
@@ -215,7 +215,7 @@
 "JXr-nP-XYo.title" = "单条消息";
 
 /* Class = "NSMenuItem"; title = "From Charles Proxy..."; ObjectID = "JYF-4o-VV8"; */
-"JYF-4o-VV8.title" = "来自查尔斯代理...";
+"JYF-4o-VV8.title" = "来自Charles代理...";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "JtV-Wc-aCX"; */
 "JtV-Wc-aCX.title" = "文本单元格";
@@ -278,7 +278,7 @@
 "OVL-Jm-Cgw.headerCell.title" = "方法";
 
 /* Class = "NSMenuItem"; title = "From Charles Proxy..."; ObjectID = "Ocz-RQ-cda"; */
-"Ocz-RQ-cda.title" = "来自查尔斯代理...";
+"Ocz-RQ-cda.title" = "来自Charles代理...";
 
 /* Class = "NSButtonCell"; title = " Not found in Schema List"; ObjectID = "OgI-An-vDr"; */
 "OgI-An-vDr.title" = " 未在模式列表中找到";
@@ -641,7 +641,7 @@
 "pud-ei-tlC.title" = "自上而下匹配规则";
 
 /* Class = "NSTextFieldCell"; title = "Charles Proxy:"; ObjectID = "pwm-eM-r0y"; */
-"pwm-eM-r0y.title" = "查尔斯代理：";
+"pwm-eM-r0y.title" = "Charles代理：";
 
 /* Class = "NSTextFieldCell"; title = "Start the breakpoint for out-going request or in-coming response."; ObjectID = "qT1-0Z-4qQ"; */
 "qT1-0Z-4qQ.title" = "为传出请求或传入响应开始断点。";

@@ -584,7 +584,7 @@
 "bqg-mb-EG7.title" = "丢失数据？...";
 
 /* Class = "NSMenuItem"; title = "From Charles Proxy"; ObjectID = "bqz-Ef-vED"; */
-"bqz-Ef-vED.title" = "从查尔斯代理";
+"bqz-Ef-vED.title" = "从Charles代理";
 
 /* Class = "NSMenuItem"; ibShadowedToolTip = "Use Proxyman with Docker"; ObjectID = "bte-hE-8Pw"; */
 "bte-hE-8Pw.ibShadowedToolTip" = "将 Proxyman 与 Docker 一起使用";
@@ -773,7 +773,7 @@
 "lPR-UL-J97.title" = "重复";
 
 /* Class = "NSMenu"; title = "From Charles Proxy"; ObjectID = "ldG-IO-T9q"; */
-"ldG-IO-T9q.title" = "从查尔斯代理";
+"ldG-IO-T9q.title" = "从Charles代理";
 
 /* Class = "NSMenuItem"; ibShadowedToolTip = "Map specific request to different request location"; ObjectID = "lxJ-8m-6PI"; */
 "lxJ-8m-6PI.ibShadowedToolTip" = "将特定请求映射到不同的请求位置";
