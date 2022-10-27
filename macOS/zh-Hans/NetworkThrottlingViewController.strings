@@ -17,7 +17,7 @@
 "83t-Au-dRB.title" = "盒子";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Enable or Disable entire Map Local Feature"; ObjectID = "9Kp-93-0Hj"; */
-"9Kp-93-0Hj.ibExternalAccessibilityDescription" = "启用或禁用整个地图本地功能";
+"9Kp-93-0Hj.ibExternalAccessibilityDescription" = "启用或禁用整个本地映射功能";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "9nl-Oj-IpG"; */
 "9nl-Oj-IpG.title" = "文本单元格";

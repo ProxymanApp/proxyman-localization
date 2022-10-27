@@ -20,10 +20,10 @@
 " Install Root Certificate" = "安装根证书";
 
 /* No comment provided by engineer. */
-" Installed & Trusted" = "已安装和可信";
+" Installed & Trusted" = "已安装并信任";
 
 /* No comment provided by engineer. */
-" Installed & Trusted!" = "已安装和可信！";
+" Installed & Trusted!" = "已安装并信任！";
 
 /* No comment provided by engineer. */
 " Installed successfully!" = "安装成功！";
@@ -239,7 +239,7 @@
 "Apps" = "应用程序";
 
 /* No comment provided by engineer. */
-"Are you sure to delete Proxy Helper Tool?" = "您确定要删除 Proxy Helper Tool 吗？";
+"Are you sure to delete Proxy Helper Tool?" = "您确定要删除 代理帮助程序工具 吗？";
 
 /* No comment provided by engineer. */
 "Are you sure to delete the Root Proxyman CA?" = "您确定要删除 Root Proxyman CA 吗？";
@@ -269,10 +269,10 @@
 "Auth" = "认证";
 
 /* No comment provided by engineer. */
-"Authorize..." = "授权。。。";
+"Authorize..." = "授权...";
 
 /* No comment provided by engineer. */
-"Authorized!" = "授权！";
+"Authorized!" = "已授权！";
 
 /* No comment provided by engineer. */
 "Automatic Proxy Configuration" = "自动代理配置";
@@ -1148,25 +1148,25 @@
 "Map from directory" = "从目录映射";
 
 /* No comment provided by engineer. */
-"Map Local" = "本地地图";
+"Map Local" = "本地映射";
 
 /* No comment provided by engineer. */
 "Map Local for \(items.count) Requests…" = "映射 \\（items.count） 请求的本地...";
 
 /* No comment provided by engineer. */
-"Map Local Toggle" = "地图本地切换";
+"Map Local Toggle" = "本地映射切换";
 
 /* No comment provided by engineer. */
-"Map Local…" = "地图本地...";
+"Map Local…" = "本地映射...";
 
 /* No comment provided by engineer. */
-"Map Remote" = "地图遥控器";
+"Map Remote" = "远程映射";
 
 /* No comment provided by engineer. */
-"Map Remote Toggle" = "地图远程切换";
+"Map Remote Toggle" = "远程映射切换";
 
 /* No comment provided by engineer. */
-"Map Remote…" = "地图遥控器...";
+"Map Remote…" = "远程映射...";
 
 /* No comment provided by engineer. */
 "Matching Rule" = "匹配规则";
@@ -1253,16 +1253,16 @@
 "New Updates" = "新更新";
 
 /* No comment provided by engineer. */
-"New version of Proxy Helper Tool (%@)" = "新版本的代理助手工具 （%@）";
+"New version of Proxy Helper Tool (%@)" = "新版本的代理帮助程序工具 （%@）";
 
 /* No comment provided by engineer. */
-"No Caching" = "无缓存";
+"No Caching" = "停用缓存";
 
 /* No comment provided by engineer. */
-"No Caching Toggle" = "无缓存切换";
+"No Caching Toggle" = "停用缓存开关";
 
 /* No comment provided by engineer. */
-"No Caching Tool is enabled (⌥⌘N)" = "未启用缓存工具 （⌥⌘N）";
+"No Caching Tool is enabled (⌥⌘N)" = "已开启停用缓存 （⌥⌘N）";
 
 /* No comment provided by engineer. */
 "No Color" = "无颜色";
@@ -1286,16 +1286,16 @@
 "Not Support" = "不支持";
 
 /* No comment provided by engineer. */
-"Not Valid After" = "之后无效";
+"Not Valid After" = "在此之后无效";
 
 /* No comment provided by engineer. */
-"Not Valid After: %@" = "之后无效：%@";
+"Not Valid After: %@" = "在此之后无效：%@";
 
 /* No comment provided by engineer. */
-"Not Valid Before" = "之前无效";
+"Not Valid Before" = "在此之前无效";
 
 /* No comment provided by engineer. */
-"Not Valid Before: %@" = "之前无效： %@";
+"Not Valid Before: %@" = "在此之前无效：%@";
 
 /* No comment provided by engineer. */
 "Notes" = "笔记";
@@ -1718,7 +1718,7 @@
 "Safari will request your permission to install the 'Proxyman CA' certificate." = "Safari 浏览器将请求您安装“Proxyman CA”证书的许可。";
 
 /* No comment provided by engineer. */
-"Save" = "救";
+"Save" = "保存";
 
 /* No comment provided by engineer. */
 "Save Template" = "保存模板";
@@ -2081,7 +2081,7 @@
 "Your current HTTP/HTTPS Proxy is overridden by networksetup CLI." = "您当前的 HTTP/HTTPS 代理被 networksetup CLI 覆盖";
 
 /* No comment provided by engineer. */
-"Your current HTTP/HTTPS Proxy is overridden by Proxy Helper Tool." = "您当前的 HTTP/HTTPS 代理被 Proxy Helper Tool 覆盖。";
+"Your current HTTP/HTTPS Proxy is overridden by Proxy Helper Tool." = "您当前的 HTTP/HTTPS 代理被 代理帮助程序工具 重载。";
 
 /* No comment provided by engineer. */
 "Your HTTP/HTTPS Proxy is overridden by Proxyman (ip=%@ port=%d) (Toggle by: ⌥⌘O)" = "您的 HTTP/HTTPS Proxy 被 Proxyman 覆盖 （ip=%@ port=%d） （切换方式： ⌥⌘O）";
@@ -2123,13 +2123,13 @@
 "🤖 Android Setup Guide" = "🤖 安卓设置指南";
 
 /* No comment provided by engineer. */
-"Advanced" = "先进的";
+"Advanced" = "高级";
 
 /* No comment provided by engineer. */
-"Appearance" = "外貌";
+"Appearance" = "外观";
 
 /* No comment provided by engineer. */
-"General" = "一般的";
+"General" = "通用";
 
 /* No comment provided by engineer. */
 "Plugins" = "插件";
@@ -2189,4 +2189,4 @@
 "Copy selected requests with %@ format" = "使用 %@ 格式复制选定的请求";
 
 /* No comment provided by engineer. */
-"It allows Proxyman capture %@ traffic." = "它允许 Proxyman 捕获 %@ 流量。";
+"It allows Proxyman capture %@ traffic." = "此标志允许 Proxyman 捕获 %@ 流量。";

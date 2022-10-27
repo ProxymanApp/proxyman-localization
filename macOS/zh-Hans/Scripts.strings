@@ -8,7 +8,7 @@
 "1da-pd-oJb.title" = "导出设置";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Enable or Disable entire Map Local Feature"; ObjectID = "2Rf-8t-48p"; */
-"2Rf-8t-48p.ibExternalAccessibilityDescription" = "启用或禁用整个地图本地功能";
+"2Rf-8t-48p.ibExternalAccessibilityDescription" = "启用或禁用整个本地映射功能";
 
 /* Class = "NSMenuItem"; ibShadowedToolTip = "Export Rules that you can share with your teammates. Export the script and all imported files"; ObjectID = "2WF-c9-ZLL"; */
 "2WF-c9-ZLL.ibShadowedToolTip" = "导出规则，可以与队友共享。导出脚本和所有导入的文件";

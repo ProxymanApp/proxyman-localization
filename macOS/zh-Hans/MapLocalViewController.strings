@@ -17,7 +17,7 @@
 "8dm-xu-eIe.title" = "文本单元格";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Enable or Disable entire Map Local Feature"; ObjectID = "9Ih-OE-X0V"; */
-"9Ih-OE-X0V.ibExternalAccessibilityDescription" = "启用或禁用整个地图本地功能";
+"9Ih-OE-X0V.ibExternalAccessibilityDescription" = "启用或禁用整个本地映射功能";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "9pb-rN-GuN"; */
 "9pb-rN-GuN.title" = "文本单元格";
@@ -65,7 +65,7 @@
 "WYR-UL-E97.title" = "在 Finder 中显示...";
 
 /* Class = "NSButtonCell"; title = "Enable Map Local Tool"; ObjectID = "Y0k-JI-EVn"; */
-"Y0k-JI-EVn.title" = "启用地图本地工具";
+"Y0k-JI-EVn.title" = "启用本地映射工具";
 
 /* Class = "NSMenuItem"; title = "Import Settings"; ObjectID = "ZJe-WR-VVz"; */
 "ZJe-WR-VVz.title" = "导入设置";
@@ -80,7 +80,7 @@
 "dEh-4S-1s8.title" = "映射本地文件或目录作为匹配请求的响应。";
 
 /* Class = "NSTableColumn"; headerCell.title = "Map from"; ObjectID = "gYl-CG-gTV"; */
-"gYl-CG-gTV.headerCell.title" = "地图来自";
+"gYl-CG-gTV.headerCell.title" = "从...映射";
 
 /* Class = "NSTableColumn"; headerToolTip = "Map Body Response from File "; ObjectID = "gYl-CG-gTV"; */
 "gYl-CG-gTV.headerToolTip" = "从文件映射正文响应";
