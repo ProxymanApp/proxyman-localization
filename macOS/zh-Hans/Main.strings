@@ -35,13 +35,13 @@
 "2eA-6u-s1g.ibShadowedToolTip" = "防止客户端应用程序形成缓存请求和响应";
 
 /* Class = "NSMenuItem"; title = "No Caching"; ObjectID = "2eA-6u-s1g"; */
-"2eA-6u-s1g.title" = "无缓存";
+"2eA-6u-s1g.title" = "停用缓存";
 
 /* Class = "NSButtonCell"; title = "Allow List"; ObjectID = "3JW-nX-CMn"; */
 "3JW-nX-CMn.title" = "允许列表";
 
 /* Class = "NSButtonCell"; title = "No Caching"; ObjectID = "3ns-bq-OcJ"; */
-"3ns-bq-OcJ.title" = "无缓存";
+"3ns-bq-OcJ.title" = "停用缓存";
 
 /* Class = "NSMenu"; title = "Install Certificate on iOS"; ObjectID = "460-rg-fFI"; */
 "460-rg-fFI.title" = "在 iOS 上安装证书";
@@ -134,7 +134,7 @@
 "88X-yj-swt.ibShadowedToolTip" = "映射本地文件作为对匹配请求的响应";
 
 /* Class = "NSMenuItem"; title = "Map Local…"; ObjectID = "88X-yj-swt"; */
-"88X-yj-swt.title" = "地图本地...";
+"88X-yj-swt.title" = "本地映射...";
 
 /* Class = "NSMenuItem"; title = "Install Certificate on Java VMs"; ObjectID = "8bF-yl-RsA"; */
 "8bF-yl-RsA.title" = "在 Java VM 上安装证书";
@@ -149,7 +149,7 @@
 "8rh-r4-MBy.title" = "过滤域或应用程序";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Map Remote is enabled (⌥⌘R)"; ObjectID = "9hR-dt-PP4"; */
-"9hR-dt-PP4.ibShadowedToolTip" = "地图遥控已启用 (⌥⌘R)";
+"9hR-dt-PP4.ibShadowedToolTip" = "远程映射已启用 (⌥⌘R)";
 
 /* Class = "NSMenu"; title = "Breakpoint"; ObjectID = "9um-sj-sOV"; */
 "9um-sj-sOV.title" = "断点";
@@ -245,7 +245,7 @@
 "ENf-xc-cWH.ibShadowedToolTip" = "指南如何集成 Atlantis iOS 框架";
 
 /* Class = "NSMenuItem"; title = "with Atlantis…"; ObjectID = "ENf-xc-cWH"; */
-"ENf-xc-cWH.title" = "与亚特兰蒂斯……";
+"ENf-xc-cWH.title" = "通过Atlantis…";
 
 /* Class = "NSMenuItem"; ibShadowedToolTip = "Proxy HTTP & HTTPS Requests from local ports to specified upstream servers"; ObjectID = "EhD-Ld-rfT"; */
 "EhD-Ld-rfT.ibShadowedToolTip" = "代理从本地端口到指定上游服务器的 HTTP 和 HTTPS 请求";
@@ -260,7 +260,7 @@
 "F2X-Te-H4P.title" = "分离内容窗口";
 
 /* Class = "NSMenuItem"; title = "Map Local..."; ObjectID = "FW2-MC-gIh"; */
-"FW2-MC-gIh.title" = "地图本地...";
+"FW2-MC-gIh.title" = "本地映射...";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Delete all flows from the current table (⇧⌘⌫)"; ObjectID = "G4s-39-OzM"; */
 "G4s-39-OzM.ibShadowedToolTip" = "从当前表中删除所有流 (⇧⌘⌫)";
@@ -329,7 +329,7 @@
 "K1a-Yq-oka.title" = "导出…";
 
 /* Class = "NSButtonCell"; title = "Map Local"; ObjectID = "KHW-EB-emh"; */
-"KHW-EB-emh.title" = "地图本地";
+"KHW-EB-emh.title" = "本地映射";
 
 /* Class = "NSMenuItem"; title = "Show All"; ObjectID = "Kd2-mp-pUS"; */
 "Kd2-mp-pUS.title" = "显示所有";
@@ -389,7 +389,7 @@
 "Olw-nP-bQN.title" = "隐藏 Proxyman";
 
 /* Class = "NSMenuItem"; title = "Map Local..."; ObjectID = "Otg-EI-NHc"; */
-"Otg-EI-NHc.title" = "地图本地...";
+"Otg-EI-NHc.title" = "本地映射...";
 
 /* Class = "NSMenu"; title = "Import Settings"; ObjectID = "OwL-SB-WNV"; */
 "OwL-SB-WNV.title" = "导入设置";
@@ -407,7 +407,7 @@
 "PYL-qC-SVe.title" = "入门";
 
 /* Class = "NSMenuItem"; title = "React Native…"; ObjectID = "Pgh-OW-VrR"; */
-"Pgh-OW-VrR.title" = "反应原生…";
+"Pgh-OW-VrR.title" = "React Native…";
 
 /* Class = "NSMenuItem"; ibExternalAccessibilityDescription = "Override macOS Proxy Setting in Network.prefpanel"; ObjectID = "PwA-fQ-eaG"; */
 "PwA-fQ-eaG.ibExternalAccessibilityDescription" = "覆盖 Network.prefpanel 中的 macOS 代理设置";
@@ -437,7 +437,7 @@
 "RIe-6p-hhf.ibShadowedToolTip" = "导出 Proxyman CA (.pem)";
 
 /* Class = "NSMenuItem"; title = "Root Certificate as PEM..."; ObjectID = "RIe-6p-hhf"; */
-"RIe-6p-hhf.title" = "根证书作为 PEM...";
+"RIe-6p-hhf.title" = "根证书为 PEM...";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Auto Select the latest requests (⇧⌘L). Click on any rows to disable it."; ObjectID = "RJe-2S-X79"; */
 "RJe-2S-X79.ibShadowedToolTip" = "自动选择最新请求 (⇧⌘L)。单击任何行以禁用它。";
@@ -473,7 +473,7 @@
 "Tx9-Hp-lAT.title" = "外部代理设置...";
 
 /* Class = "NSMenuItem"; title = "Map Remote..."; ObjectID = "UDU-2G-PIN"; */
-"UDU-2G-PIN.title" = "地图远程...";
+"UDU-2G-PIN.title" = "远程映射...";
 
 /* Class = "NSTextFieldCell"; title = "No item yet\n\"Command + K\" to add item"; ObjectID = "UMm-4m-xtu"; */
 "UMm-4m-xtu.title" = "还没有项目\n\"Command + K\" 添加项目";
@@ -512,7 +512,7 @@
 "WuK-2M-JYO.title" = "私钥...";
 
 /* Class = "NSMenuItem"; title = "Map Remote..."; ObjectID = "XSj-xj-8zk"; */
-"XSj-xj-8zk.title" = "地图远程...";
+"XSj-xj-8zk.title" = "远程映射...";
 
 /* Class = "NSTextFieldCell"; title = "0 items"; ObjectID = "XZI-Uu-ZTS"; */
 "XZI-Uu-ZTS.title" = "0 件";
@@ -590,7 +590,7 @@
 "bte-hE-8Pw.ibShadowedToolTip" = "将 Proxyman 与 Docker 一起使用";
 
 /* Class = "NSMenuItem"; title = "Docker…"; ObjectID = "bte-hE-8Pw"; */
-"bte-hE-8Pw.title" = "码头工人…";
+"bte-hE-8Pw.title" = "Docker…";
 
 /* Class = "NSMenuItem"; title = "Use Selection for Find"; ObjectID = "buJ-ug-pKt"; */
 "buJ-ug-pKt.title" = "使用选择进行查找";
@@ -599,7 +599,7 @@
 "cUE-Z0-jBK.title" = "兑换";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Map Local is enabled (⌥⌘L)"; ObjectID = "cX1-mf-48B"; */
-"cX1-mf-48B.ibShadowedToolTip" = "地图本地已启用 (⌥⌘L)";
+"cX1-mf-48B.ibShadowedToolTip" = "本地映射已启用 (⌥⌘L)";
 
 /* Class = "NSMenuItem"; ibShadowedToolTip = "Define the Protobuf setting to parse properly"; ObjectID = "dBR-4N-MkK"; */
 "dBR-4N-MkK.ibShadowedToolTip" = "定义 Protobuf 设置以正确解析";
@@ -740,7 +740,7 @@
 "jcQ-j3-Mza.title" = "编辑并重复...";
 
 /* Class = "NSButtonCell"; title = "Map Remote"; ObjectID = "jms-6X-UGP"; */
-"jms-6X-UGP.title" = "地图遥控器";
+"jms-6X-UGP.title" = "远程映射";
 
 /* Class = "NSMenuItem"; title = "Yellow"; ObjectID = "jsI-zy-nCl"; */
 "jsI-zy-nCl.title" = "黄色";
@@ -758,7 +758,7 @@
 "lDW-gr-1bg.ibShadowedToolTip" = "导出 Proxyman CA (.der)";
 
 /* Class = "NSMenuItem"; title = "Root Certificate as DER..."; ObjectID = "lDW-gr-1bg"; */
-"lDW-gr-1bg.title" = "作为 DER 的根证书...";
+"lDW-gr-1bg.title" = "根证书为 DER...";
 
 /* Class = "NSMenuItem"; ibShadowedToolTip = "Manage the Request/Response Template"; ObjectID = "lEd-ns-ZiS"; */
 "lEd-ns-ZiS.ibShadowedToolTip" = "管理请求/响应模板";
@@ -779,7 +779,7 @@
 "lxJ-8m-6PI.ibShadowedToolTip" = "将特定请求映射到不同的请求位置";
 
 /* Class = "NSMenuItem"; title = "Map Remote…"; ObjectID = "lxJ-8m-6PI"; */
-"lxJ-8m-6PI.title" = "地图远程…";
+"lxJ-8m-6PI.title" = "远程映射…";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Custom Certificates is enabled"; ObjectID = "mKD-Hp-ETJ"; */
 "mKD-Hp-ETJ.ibShadowedToolTip" = "自定义证书已启用";
@@ -839,10 +839,10 @@
 "s6o-Dv-fxR.title" = "蓝色的";
 
 /* Class = "NSMenuItem"; title = "Ruby…"; ObjectID = "s8V-Tb-gBL"; */
-"s8V-Tb-gBL.title" = "红宝石…";
+"s8V-Tb-gBL.title" = "Ruby…";
 
 /* Class = "NSMenuItem"; title = "Flutter…"; ObjectID = "sEI-fC-hlc"; */
-"sEI-fC-hlc.title" = "扑…";
+"sEI-fC-hlc.title" = "Flutter…";
 
 /* Class = "NSMenuItem"; ibShadowedToolTip = "Breakpoint list"; ObjectID = "seo-dr-hjm"; */
 "seo-dr-hjm.ibShadowedToolTip" = "断点列表";
@@ -992,10 +992,10 @@
 "Bpz-gb-j44.title" = "启用/禁用工具";
 
 /* Class = "NSMenuItem"; ibShadowedToolTip = "Toggle Enable/Disable the Map Local Tool"; ObjectID = "Jbb-Ov-C7d"; */
-"Jbb-Ov-C7d.ibShadowedToolTip" = "切换启用/禁用地图本地工具";
+"Jbb-Ov-C7d.ibShadowedToolTip" = "切换启用/禁用本地映射工具";
 
 /* Class = "NSMenuItem"; title = "Map Local"; ObjectID = "Jbb-Ov-C7d"; */
-"Jbb-Ov-C7d.title" = "地图本地";
+"Jbb-Ov-C7d.title" = "本地映射";
 
 /* Class = "NSMenuItem"; ibShadowedToolTip = "Toggle Enable/Disable the Allow List Tool"; ObjectID = "Mrd-VT-G6e"; */
 "Mrd-VT-G6e.ibShadowedToolTip" = "切换启用/禁用允许列表工具";
@@ -1004,10 +1004,10 @@
 "Mrd-VT-G6e.title" = "允许列表";
 
 /* Class = "NSMenuItem"; ibShadowedToolTip = "Toggle Enable/Disable the Map Remtote Tool"; ObjectID = "Uei-Ey-Z6a"; */
-"Uei-Ey-Z6a.ibShadowedToolTip" = "切换启用/禁用地图远程工具";
+"Uei-Ey-Z6a.ibShadowedToolTip" = "切换启用/禁用远程映射工具";
 
 /* Class = "NSMenuItem"; title = "Map Remote"; ObjectID = "Uei-Ey-Z6a"; */
-"Uei-Ey-Z6a.title" = "地图遥控器";
+"Uei-Ey-Z6a.title" = "远程映射";
 
 /* Class = "NSMenuItem"; title = "Network Conditions"; ObjectID = "bAx-Ze-BjE"; */
 "bAx-Ze-BjE.title" = "网络条件";

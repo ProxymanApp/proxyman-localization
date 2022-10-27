@@ -101,7 +101,7 @@
 "8dZ-ZZ-UQW.title" = "标签";
 
 /* Class = "NSWindow"; title = "Map Remote"; ObjectID = "8ke-bh-uZB"; */
-"8ke-bh-uZB.title" = "地图远程";
+"8ke-bh-uZB.title" = "远程映射";
 
 /* Class = "NSTextFieldCell"; title = "Matching Rule:"; ObjectID = "91T-xN-aX4"; */
 "91T-xN-aX4.title" = "匹配规则：";
@@ -191,7 +191,7 @@
 "GD4-VB-I8N.title" = "新...";
 
 /* Class = "NSViewController"; title = "Map Remote"; ObjectID = "GcR-SJ-hvI"; */
-"GcR-SJ-hvI.title" = "地图远程";
+"GcR-SJ-hvI.title" = "远程映射";
 
 /* Class = "NSMenuItem"; title = "More"; ObjectID = "GeB-Zg-10m"; */
 "GeB-Zg-10m.title" = "更多";
@@ -206,7 +206,7 @@
 "Hux-u9-Hob.title" = "盒子";
 
 /* Class = "NSWindow"; title = "Map Local"; ObjectID = "HvE-iu-dZA"; */
-"HvE-iu-dZA.title" = "本地地图";
+"HvE-iu-dZA.title" = "本地";
 
 /* Class = "NSTextFieldCell"; title = "Matching Rule:"; ObjectID = "IgZ-Eo-5Xg"; */
 "IgZ-Eo-5Xg.title" = "匹配规则：";
@@ -224,7 +224,7 @@
 "JuN-dF-ONn.title" = "导入设置";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Enable or Disable entire Map Local Feature"; ObjectID = "KJs-fU-nLX"; */
-"KJs-fU-nLX.ibExternalAccessibilityDescription" = "启用或禁用整个地图本地功能";
+"KJs-fU-nLX.ibExternalAccessibilityDescription" = "启用或禁用整个本地映射功能";
 
 /* Class = "NSButtonCell"; title = "How to get *.desc file?"; ObjectID = "KMY-dB-3sx"; */
 "KMY-dB-3sx.title" = "如何获取 *.desc 文件？";
@@ -479,7 +479,7 @@
 "cnK-t9-lcZ.title" = "完成";
 
 /* Class = "NSTextFieldCell"; title = "Map From"; ObjectID = "cpR-pg-qce"; */
-"cpR-pg-qce.title" = "地图来源";
+"cpR-pg-qce.title" = "从...映射";
 
 /* Class = "NSTextFieldCell"; title = "Action:"; ObjectID = "d0U-ff-Eiw"; */
 "d0U-ff-Eiw.title" = "动作：";
@@ -602,7 +602,7 @@
 "lXO-Pq-YX1.title" = "路径：";
 
 /* Class = "NSButtonCell"; title = "Enable Map Remote Tool"; ObjectID = "mIQ-Am-U2t"; */
-"mIQ-Am-U2t.title" = "启用地图远程工具";
+"mIQ-Am-U2t.title" = "启用远程映射工具";
 
 /* Class = "NSTextFieldCell"; title = "If the Message Type does not exist, please add the Schema firstly"; ObjectID = "mRc-Tt-HKr"; */
 "mRc-Tt-HKr.title" = "如果消息类型不存在，请先添加Schema";

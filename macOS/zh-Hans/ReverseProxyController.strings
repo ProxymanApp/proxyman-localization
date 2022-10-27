@@ -11,7 +11,7 @@
 "ACV-KL-9fU.title" = "代理从本地端口到指定上游服务器的 HTTP 和 HTTPS 请求";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Enable or Disable entire Map Local Feature"; ObjectID = "BTK-rR-f2D"; */
-"BTK-rR-f2D.ibExternalAccessibilityDescription" = "启用或禁用整个地图本地功能";
+"BTK-rR-f2D.ibExternalAccessibilityDescription" = "启用或禁用整个本地映射功能";
 
 /* Class = "NSMenuItem"; title = "Delete"; ObjectID = "CxK-Gv-hSR"; */
 "CxK-Gv-hSR.title" = "删除";
