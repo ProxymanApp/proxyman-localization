@@ -1,5 +1,5 @@
 /* Class = "NSMenuItem"; title = "Copy"; ObjectID = "0Ec-tm-ZJS"; */
-"0Ec-tm-ZJS.title" = "复制";
+"0Ec-tm-ZJS.title" = "拷贝";
 
 /* Class = "NSTextFieldCell"; title = "No Selection"; ObjectID = "2dL-Y7-QWR"; */
 "2dL-Y7-QWR.title" = "无选择";
@@ -137,7 +137,7 @@
 "wC4-JC-OdQ.headerCell.title" = "类型";
 
 /* Class = "NSTextFieldCell"; title = "Summary"; ObjectID = "wU1-sd-O8r"; */
-"wU1-sd-O8r.title" = "总结";
+"wU1-sd-O8r.title" = "摘要";
 
 /* Class = "NSTabViewItem"; label = "Key Value"; ObjectID = "ww6-R1-qnh"; */
 "ww6-R1-qnh.label" = "关键值";

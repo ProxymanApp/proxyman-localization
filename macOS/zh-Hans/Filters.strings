@@ -62,10 +62,10 @@
 "BIf-fI-giN.title" = "自定义列...";
 
 /* Class = "NSMenuItem"; ibShadowedToolTip = "Any Header Key / Value of the Request"; ObjectID = "BOC-fF-zPl"; */
-"BOC-fF-zPl.ibShadowedToolTip" = "请求的任何标题键/值";
+"BOC-fF-zPl.ibShadowedToolTip" = "任何请求的标头键/值对";
 
 /* Class = "NSMenuItem"; title = "Request Header"; ObjectID = "BOC-fF-zPl"; */
-"BOC-fF-zPl.title" = "请求头";
+"BOC-fF-zPl.title" = "请求标头";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Only show WS/WSS Messages"; ObjectID = "BUV-mo-Fuo"; */
 "BUV-mo-Fuo.ibShadowedToolTip" = "只显示 WS/WSS 消息";
@@ -140,7 +140,7 @@
 "Kzk-G3-tXi.title" = "请求正文";
 
 /* Class = "NSTextFieldCell"; title = "Show: ⌘F    New: ⌘N    Remove:⇧⌘N    Up:⌘↑    Down: ⌘↓    On/Off:⌘B    Hide: ESC"; ObjectID = "Lhj-Uq-WDx"; */
-"Lhj-Uq-WDx.title" = "显示：⌘F 新：⌘N 删除：⇧⌘N 上：⌘↑ 下：⌘↓ 开/关：⌘B 隐藏：ESC";
+"Lhj-Uq-WDx.title" = "显示：⌘F  新增：⌘N  移除：⇧⌘N  上一个：⌘↑  下一个：⌘↓  开/关：⌘B  隐藏：ESC";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Other requests (⌘ click to select multiple types)"; ObjectID = "MBC-Bd-PMb"; */
 "MBC-Bd-PMb.ibShadowedToolTip" = "其他请求（⌘点击选择多种类型）";
@@ -179,7 +179,7 @@
 "TXl-p4-ehr.ibShadowedToolTip" = "响应的任何标题键/值";
 
 /* Class = "NSMenuItem"; title = "Response Header"; ObjectID = "TXl-p4-ehr"; */
-"TXl-p4-ehr.title" = "响应头";
+"TXl-p4-ehr.title" = "响应标头";
 
 /* Class = "NSButtonCell"; title = "3xx"; ObjectID = "U2i-PN-qmi"; */
 "U2i-PN-qmi.title" = "3xx";
@@ -227,7 +227,7 @@
 "dEE-WL-vzl.ibShadowedToolTip" = "请求的完整 URL";
 
 /* Class = "NSMenuItem"; title = "URL"; ObjectID = "dEE-WL-vzl"; */
-"dEE-WL-vzl.title" = "网址";
+"dEE-WL-vzl.title" = "URL";
 
 /* Class = "NSButtonCell"; title = "CSS"; ObjectID = "e0Q-IX-lxg"; */
 "e0Q-IX-lxg.title" = "CSS";

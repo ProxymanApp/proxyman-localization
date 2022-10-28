@@ -1,5 +1,5 @@
 /* Class = "NSTextFieldCell"; title = "Protobuf"; ObjectID = "0Ff-RD-OZI"; */
-"0Ff-RD-OZI.title" = "原型缓冲区";
+"0Ff-RD-OZI.title" = "Protobuf 缓冲区";
 
 /* Class = "NSTableColumn"; headerCell.title = "Enabled"; ObjectID = "0Si-T3-xUq"; */
 "0Si-T3-xUq.headerCell.title" = "启用";
@@ -131,7 +131,7 @@
 "Bke-zb-QOr.title" = "盒子";
 
 /* Class = "NSWindow"; title = "Block List"; ObjectID = "Btl-Af-HZO"; */
-"Btl-Af-HZO.title" = "阻止列表";
+"Btl-Af-HZO.title" = "黑名单";
 
 /* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "C4o-ut-1Q3"; */
 "C4o-ut-1Q3.headerCell.title" = "名称";
@@ -206,7 +206,7 @@
 "Hux-u9-Hob.title" = "盒子";
 
 /* Class = "NSWindow"; title = "Map Local"; ObjectID = "HvE-iu-dZA"; */
-"HvE-iu-dZA.title" = "本地";
+"HvE-iu-dZA.title" = "本地映射";
 
 /* Class = "NSTextFieldCell"; title = "Matching Rule:"; ObjectID = "IgZ-Eo-5Xg"; */
 "IgZ-Eo-5Xg.title" = "匹配规则：";
@@ -233,7 +233,7 @@
 "KpL-qD-frB.title" = "如果 Proxyman 上没有显示 localhost 请求，请在 /etc/hosts 文件中设置域别名";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Couldn't find this MessageType in all Protobuf Schema Files. Make sure you include package name"; ObjectID = "Kpb-fD-pcJ"; */
-"Kpb-fD-pcJ.ibShadowedToolTip" = "在所有 Protobuf Schema 文件中都找不到这个 MessageType。确保包含包名";
+"Kpb-fD-pcJ.ibShadowedToolTip" = "在所有 Protobuf Schema 文件中都找不到这个 MessageType。确保你包含了包名";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "LBt-h0-TJp"; */
 "LBt-h0-TJp.title" = "文本单元格";
@@ -248,7 +248,7 @@
 "M61-5L-p5n.title" = "复制";
 
 /* Class = "NSButtonCell"; title = "Protobuf Schema..."; ObjectID = "MBG-sg-M7m"; */
-"MBG-sg-M7m.title" = "Protobuf 架构...";
+"MBG-sg-M7m.title" = "Protobuf Schema...";
 
 /* Class = "NSTextFieldCell"; title = "Protobuf File Descriptor List"; ObjectID = "MPT-OC-LCw"; */
 "MPT-OC-LCw.title" = "Protobuf 文件描述符列表";
@@ -269,7 +269,7 @@
 "O19-c6-aPb.title" = "导入设置";
 
 /* Class = "NSTableColumn"; headerCell.title = "Block Action"; ObjectID = "O8z-LW-TbD"; */
-"O8z-LW-TbD.headerCell.title" = "阻止动作";
+"O8z-LW-TbD.headerCell.title" = "阻止操作";
 
 /* Class = "NSButtonCell"; title = "Done"; ObjectID = "OIK-d8-3EG"; */
 "OIK-d8-3EG.title" = "完成";
@@ -287,7 +287,7 @@
 "Ol3-S1-uzs.title" = "文本单元格";
 
 /* Class = "NSViewController"; title = "Allow List"; ObjectID = "OqY-Ed-ONf"; */
-"OqY-Ed-ONf.title" = "允许列表";
+"OqY-Ed-ONf.title" = "白名单";
 
 /* Class = "NSButtonCell"; title = "Request"; ObjectID = "PSt-De-Jao"; */
 "PSt-De-Jao.title" = "请求";
@@ -305,7 +305,7 @@
 "QPs-zw-YiG.placeholderString" = "443";
 
 /* Class = "NSButtonCell"; title = "Enable Block List Tool"; ObjectID = "QbD-2K-tTV"; */
-"QbD-2K-tTV.title" = "启用阻止列表工具";
+"QbD-2K-tTV.title" = "启用黑名单工具";
 
 /* Class = "NSTextFieldCell"; placeholderString = "https"; ObjectID = "QnD-qF-9SL"; */
 "QnD-qF-9SL.placeholderString" = "https";
@@ -317,7 +317,7 @@
 "Qwb-4B-kSS.title" = "Protobuf 规则";
 
 /* Class = "NSButtonCell"; title = "Always bypass external proxies for localhost"; ObjectID = "ROX-0z-YD2"; */
-"ROX-0z-YD2.title" = "总是绕过本地主机的外部代理";
+"ROX-0z-YD2.title" = "始终为本地主机绕过外部代理";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "RS0-lD-3OF"; */
 "RS0-lD-3OF.title" = "文本单元格";
@@ -362,7 +362,7 @@
 "Vat-v6-QgF.title" = "删除";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Couldn't find this MessageType in all Protobuf Schema Files. Make sure you include package name"; ObjectID = "Ve6-xV-Ub5"; */
-"Ve6-xV-Ub5.ibShadowedToolTip" = "在所有 Protobuf Schema 文件中都找不到这个 MessageType。确保包含包名";
+"Ve6-xV-Ub5.ibShadowedToolTip" = "在所有 Protobuf Schema 文件中都找不到这个 MessageType。确保你包含了包名";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "ViK-WY-Vbx"; */
 "ViK-WY-Vbx.title" = "文本单元格";
@@ -398,7 +398,7 @@
 "WxO-KP-A8t.title" = "导入设置";
 
 /* Class = "NSTextFieldCell"; title = "Define Rules for blocking or hiding particular domains"; ObjectID = "Xyc-Fs-3nf"; */
-"Xyc-Fs-3nf.title" = "定义阻止或隐藏特定域的规则";
+"Xyc-Fs-3nf.title" = "设置规则以阻止或隐藏特定域名";
 
 /* Class = "NSTextFieldCell"; placeholderString = "api.proxyman.io"; ObjectID = "Y7V-9h-Izy"; */
 "Y7V-9h-Izy.placeholderString" = "api.proxyman.io";
@@ -596,7 +596,7 @@
 "lOA-Tr-nm3.title" = "取消";
 
 /* Class = "NSButtonCell"; title = "Enable Allow List Tool"; ObjectID = "lWY-UN-3Di"; */
-"lWY-UN-3Di.title" = "启用允许列表工具";
+"lWY-UN-3Di.title" = "启用白名单工具";
 
 /* Class = "NSTextFieldCell"; title = "Path:"; ObjectID = "lXO-Pq-YX1"; */
 "lXO-Pq-YX1.title" = "路径：";
@@ -614,7 +614,7 @@
 "o2f-BN-OQR.title" = "删除";
 
 /* Class = "NSWindow"; title = "Allow List"; ObjectID = "oRL-hu-zB2"; */
-"oRL-hu-zB2.title" = "允许列表";
+"oRL-hu-zB2.title" = "白名单";
 
 /* Class = "NSButtonCell"; title = "Done"; ObjectID = "oje-TA-GPl"; */
 "oje-TA-GPl.title" = "完成";
@@ -626,7 +626,7 @@
 "orx-y9-b2o.title" = "文本单元格";
 
 /* Class = "NSTextFieldCell"; placeholderString = "id=123"; ObjectID = "oyH-3m-Ptp"; */
-"oyH-3m-Ptp.placeholderString" = "身份证=123";
+"oyH-3m-Ptp.placeholderString" = "id=123";
 
 /* Class = "NSMenuItem"; title = "Export Settings..."; ObjectID = "pCZ-Ap-SjV"; */
 "pCZ-Ap-SjV.title" = "导出设置...";
@@ -665,10 +665,10 @@
 "rLD-D7-Pu3.title" = "来自 Proxyman...";
 
 /* Class = "NSTextFieldCell"; title = "Support Wildcard (* and ?). Separate by Comma."; ObjectID = "rQz-iV-rmI"; */
-"rQz-iV-rmI.title" = "支持通配符（* 和？）。用逗号分隔。";
+"rQz-iV-rmI.title" = "支持通配符（* 和?）。用逗号分隔。";
 
 /* Class = "NSWindow"; title = "Protobuf Schema List"; ObjectID = "rng-I1-ygy"; */
-"rng-I1-ygy.title" = "Protobuf 模式列表";
+"rng-I1-ygy.title" = "Protobuf Schema 列表";
 
 /* Class = "NSMenuItem"; ibShadowedToolTip = "Block all matched requests, but displays them on the app"; ObjectID = "s6a-uq-wFJ"; */
 "s6a-uq-wFJ.ibShadowedToolTip" = "阻止所有匹配的请求，但在应用程序上显示它们";

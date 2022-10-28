@@ -8,7 +8,7 @@
 "3mm-s7-79e.title" = "了解如何使用带键路径的过滤器...";
 
 /* Class = "NSTableColumn"; headerCell.title = "Key"; ObjectID = "9qQ-Zb-W6P"; */
-"9qQ-Zb-W6P.headerCell.title" = "钥匙";
+"9qQ-Zb-W6P.headerCell.title" = "键";
 
 /* Class = "NSMenuItem"; title = "Key Path"; ObjectID = "Bs5-nU-llz"; */
 "Bs5-nU-llz.title" = "关键路径";

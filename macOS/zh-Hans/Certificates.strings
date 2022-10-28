@@ -284,7 +284,7 @@
 "Uqv-6K-0Ez.title" = "3.2: 添加到 AndroidManifest.xml";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Copy IP Address"; ObjectID = "V5X-Ik-jEt"; */
-"V5X-Ik-jEt.ibShadowedToolTip" = "复制 IP 地址";
+"V5X-Ik-jEt.ibShadowedToolTip" = "拷贝 IP 地址";
 
 /* Class = "NSTextFieldCell"; title = "Proxyman CA"; ObjectID = "VJb-wr-l1g"; */
 "VJb-wr-l1g.title" = "Proxyman CA";
@@ -416,7 +416,7 @@
 "jno-Mx-64Y.title" = "删除";
 
 /* Class = "NSButtonCell"; title = "Try Atlantis for iOS"; ObjectID = "k41-aG-wU7"; */
-"k41-aG-wU7.title" = "试试 iOS 版亚特兰蒂斯";
+"k41-aG-wU7.title" = "试试 Atlantis for iOS";
 
 /* Class = "NSTextFieldCell"; title = "Make sure you remove these configs from your Production build."; ObjectID = "kNC-HC-635"; */
 "kNC-HC-635.title" = "确保从您的生产版本中移除这些配置。";
