@@ -188,7 +188,7 @@
 "Add" = "加";
 
 /* No comment provided by engineer. */
-"Add %d items to Diff Pool…" = "将 %d 个项目添加到差异池...";
+"Add %d items to Diff Pool…" = "将 %d 个项目添加到对比池...";
 
 /* No comment provided by engineer. */
 "Add (⌘⏎)" = "添加 （⌘⏎）";
@@ -203,7 +203,7 @@
 "Add Comment…" = "添加备注...";
 
 /* No comment provided by engineer. */
-"Add to Diff Pool…" = "添加到差异池...";
+"Add to Diff Pool…" = "添加到对比池...";
 
 /* No comment provided by engineer. */
 "Add Wildcard Host" = "添加通配符主机";
@@ -221,13 +221,13 @@
 "All good!" = "都很好！";
 
 /* No comment provided by engineer. */
-"Allow List" = "允许列表";
+"Allow List" = "白名单";
 
 /* No comment provided by engineer. */
-"Allow List Toggle" = "允许列表切换";
+"Allow List Toggle" = "白名单开关";
 
 /* No comment provided by engineer. */
-"Allow List…" = "允许列表...";
+"Allow List…" = "白名单...";
 
 /* No comment provided by engineer. */
 "Android Debug Bridge (adb) not found!" = "未找到 Android Debug Bridge （adb）！";
@@ -254,16 +254,16 @@
 "Are you sure to unlink this device?" = "是否确实要取消关联此设备？";
 
 /* No comment provided by engineer. */
-"as CSV" = "作为 CSV 格式";
+"as CSV" = "为CSV";
 
 /* No comment provided by engineer. */
-"as HAR (HTTP Archive)" = "作为 HAR （HTTP Archive）";
+"as HAR (HTTP Archive)" = "为HAR（HTTP 归档）";
 
 /* No comment provided by engineer. */
-"as Postman" = "作为 Postman";
+"as Postman" = "为Postman 文件";
 
 /* No comment provided by engineer. */
-"as Proxyman Log" = "作为 Proxyman Log";
+"as Proxyman Log" = "为Proxyman 日志";
 
 /* No comment provided by engineer. */
 "Auth" = "认证";
@@ -281,13 +281,13 @@
 "Block & Hide" = "阻止和隐藏";
 
 /* No comment provided by engineer. */
-"Block List" = "阻止列表";
+"Block List" = "黑名单";
 
 /* No comment provided by engineer. */
-"Block List Toggle" = "阻止列表切换";
+"Block List Toggle" = "黑名单开关";
 
 /* No comment provided by engineer. */
-"Block List…" = "阻止列表...";
+"Block List…" = "黑名单...";
 
 /* No comment provided by engineer. */
 "Block Requests" = "阻止请求";
@@ -296,25 +296,25 @@
 "Blocked by Block Tool" = "被阻止工具阻止";
 
 /* No comment provided by engineer. */
-"Blue" = "蓝";
+"Blue" = "蓝色";
 
 /* No comment provided by engineer. */
 "Body" = "Body";
 
 /* No comment provided by engineer. */
-"Body over 5Mb hidden for performance reasons" = "由于性能原因，机身超过 5Mb 隐藏";
+"Body over 5Mb hidden for performance reasons" = "出于性能考量，隐藏超过5Mb 的正文";
 
 /* No comment provided by engineer. */
 "Breakpoint" = "断点";
 
 /* No comment provided by engineer. */
-"Breakpoint Toggle" = "断点切换";
+"Breakpoint Toggle" = "断点开关";
 
 /* No comment provided by engineer. */
 "Breakpoint URL" = "断点网址";
 
 /* No comment provided by engineer. */
-"Breakpoint…" = "断点。。。";
+"Breakpoint…" = "断点...";
 
 /* No comment provided by engineer. */
 "Buy a license" = "购买许可证";
@@ -332,10 +332,10 @@
 "Clear entire session to release all caching memory (⌥+⇧+⌘+⌫)" = "清除整个会话以释放所有缓存内存 （⌥+⇧+⌘+⌫）";
 
 /* No comment provided by engineer. */
-"Click to Add Comment...\n\nHighlight this request by Right-click on the Request -> Highlight" = "单击以添加备注...\n\n通过右键单击请求来突出显示此请求 -> 突出显示";
+"Click to Add Comment...\n\nHighlight this request by Right-click on the Request -> Highlight" = "单击以添加备注...\n\n通过右键单击请求 -> 高亮来突出显示此请求";
 
 /* No comment provided by engineer. */
-"Click to copy the current IP Address" = "单击以复制当前 IP 地址";
+"Click to copy the current IP Address" = "单击以拷贝当前 IP 地址";
 
 /* No comment provided by engineer. */
 "Click to download new update" = "点击下载新的更新";
@@ -350,7 +350,7 @@
 "Client TLS Version" = "客户端 TLS 版本";
 
 /* No comment provided by engineer. */
-"Code" = "法典";
+"Code" = "响应代码";
 
 /* No comment provided by engineer. */
 "Code Generator…" = "代码生成器...";
@@ -362,7 +362,7 @@
 "Comment" = "备注";
 
 /* No comment provided by engineer. */
-"Common Name" = "公用名";
+"Common Name" = "常用名称";
 
 /* No comment provided by engineer. */
 "Completed" = "完成";
@@ -398,49 +398,49 @@
 "Convert .chls -> .har" = "转换 .chls -> .har";
 
 /* No comment provided by engineer. */
-"Cookies" = "饼干";
+"Cookies" = "Cookies";
 
 /* No comment provided by engineer. */
-"Copied" = "复制";
+"Copied" = "已拷贝";
 
 /* No comment provided by engineer. */
-"Copy" = "复制";
+"Copy" = "拷贝";
 
 /* No comment provided by engineer. */
-"Copy %d URLs" = "复制 %d 个网址";
+"Copy %d URLs" = "拷贝 %d 个网址";
 
 /* No comment provided by engineer. */
-"Copy as" = "复制为";
+"Copy as" = "拷贝为";
 
 /* No comment provided by engineer. */
-"Copy Cell Value" = "复制单元格值";
+"Copy Cell Value" = "拷贝单元格值";
 
 /* No comment provided by engineer. */
-"Copy cURL" = "复制 cURL";
+"Copy cURL" = "拷贝 cURL";
 
 /* No comment provided by engineer. */
-"Copy first 500 URLs" = "复制前 500 个 URL";
+"Copy first 500 URLs" = "拷贝前 500 个 URL";
 
 /* No comment provided by engineer. */
-"Copy IP Address and Port" = "复制 IP 地址和端口";
+"Copy IP Address and Port" = "拷贝 IP 地址和端口";
 
 /* No comment provided by engineer. */
-"Copy Key & Value" = "复制密钥和值";
+"Copy Key & Value" = "拷贝键和值";
 
 /* No comment provided by engineer. */
-"Copy Key and Value object" = "复制键和值对象";
+"Copy Key and Value object" = "拷贝键和值对象";
 
 /* No comment provided by engineer. */
-"Copy only IP" = "仅复制 IP";
+"Copy only IP" = "仅拷贝 IP";
 
 /* No comment provided by engineer. */
-"Copy URL" = "复制网址";
+"Copy URL" = "拷贝网址";
 
 /* No comment provided by engineer. */
-"Copy Value" = "复制值";
+"Copy Value" = "拷贝值";
 
 /* No comment provided by engineer. */
-"Copy value of selected row (JSON Node if it's an Array or Object, or plain value for other types)" = "所选行的复制值（JSON 节点，如果它是数组或对象，或者是其他类型的纯值）";
+"Copy value of selected row (JSON Node if it's an Array or Object, or plain value for other types)" = "拷贝所选行的值（如果它是数组或对象，将拷贝为JSON Node。其它类型将被拷贝成纯值。）";
 
 /* No comment provided by engineer. */
 "Core start failed" = "核心启动失败";
@@ -584,7 +584,7 @@
 "Create Block Rule for this domain (include sub-directories) by dropping all connections" = "通过删除所有连接为此域（包括子目录）创建阻止规则";
 
 /* No comment provided by engineer. */
-"Create Block Rules: Allow to Block / Hide certain domains during debugging session." = "创建阻止规则：允许在调试会话期间阻止/隐藏某些域。";
+"Create Block Rules: Allow to Block / Hide certain domains during debugging session." = "创建阻止规则：允许在调试会话期间阻止/隐藏某些域名。";
 
 /* No comment provided by engineer. */
 "Create Breakpoint Rule for this domain (include sub-directories) to modify the Request and Response on the fly" = "为此域（包括子目录）创建断点规则以动态修改请求和响应";
@@ -605,7 +605,7 @@
 "Create Script Rule for selected flows" = "为所选流创建脚本规则";
 
 /* No comment provided by engineer. */
-"Current Listening Proxy IP:Port" = "当前侦听代理 IP：端口";
+"Current Listening Proxy IP:Port" = "当前监听代理 IP：端口";
 
 /* No comment provided by engineer. */
 "Data and Certificates are deleted!" = "数据和证书被删除！";
@@ -671,7 +671,7 @@
 "DNS(s)" = "DNS(s)";
 
 /* No comment provided by engineer. */
-"Domains" = "域";
+"Domains" = "域名";
 
 /* No comment provided by engineer. */
 "Done (⌘⏎)" = "完成 （⌘⏎）";
@@ -680,10 +680,10 @@
 "Download Old Build" = "下载旧版本";
 
 /* No comment provided by engineer. */
-"Dropped Connection due to Block List" = "由于阻止列表导致连接断开";
+"Dropped Connection due to Block List" = "由于黑名单导致连接断开";
 
 /* No comment provided by engineer. */
-"Duration" = "耗时";
+"Duration" = "持续时间";
 
 /* No comment provided by engineer. */
 "Duration (exact)" = "持续时间（精确）";
@@ -704,7 +704,7 @@
 "Edit and Repeat…" = "编辑并重复...";
 
 /* No comment provided by engineer. */
-"Edited" = "编辑";
+"Edited" = "编辑过";
 
 /* No comment provided by engineer. */
 "Empty Body" = "空体";
@@ -719,10 +719,10 @@
 "Empty PAC URL." = "空的 PAC 网址。";
 
 /* No comment provided by engineer. */
-"Enable all domains from \"%@\"" = "启用所有域 \"%@\"";
+"Enable all domains from \"%@\"" = "对所有来自 \"%@\" 的域名启用";
 
 /* No comment provided by engineer. */
-"Enable only this domain" = "仅启用此域";
+"Enable only this domain" = "只对此域名启用";
 
 /* No comment provided by engineer. */
 "Enable SSL Proxying" = "启用 SSL 代理";
@@ -758,7 +758,7 @@
 "Expand Status Code Filters" = "展开状态代码筛选器";
 
 /* No comment provided by engineer. */
-"Export" = "出口";
+"Export" = "导出";
 
 /* No comment provided by engineer. */
 "Export all data of Request and Response to Proxyman File (Recommended)" = "将请求和响应的所有数据导出到 Proxyman 文件（推荐）";
@@ -803,7 +803,7 @@
 "External Proxy" = "外部代理";
 
 /* No comment provided by engineer. */
-"External Proxy Toggle" = "外部代理切换";
+"External Proxy Toggle" = "外部代理开关";
 
 /* No comment provided by engineer. */
 "Favorites" = "收藏夹";
@@ -872,7 +872,7 @@
 "Gray" = "灰色";
 
 /* No comment provided by engineer. */
-"Green" = "绿";
+"Green" = "绿色";
 
 /* No comment provided by engineer. */
 "Haven't supported: Convert from %@ to Proxyman Type. Please open the Ticket on Github for feature requests." = "不支持：从 %@ 转换为代理类型。请在 Github 上打开票证以请求功能。";
@@ -1031,7 +1031,7 @@
 "Invalid patch string: %@" = "修补程序字符串无效：%@";
 
 /* No comment provided by engineer. */
-"Invalid Protobuf Data" = "无效的原型数据";
+"Invalid Protobuf Data" = "无效的Protobuf数据";
 
 /* No comment provided by engineer. */
 "Invalid Proxy Server" = "无效的代理服务器";
@@ -1058,10 +1058,10 @@
 "iOS Settings app > Wi-Fi > Select current Wi-Fi > Configure Proxy > Manual" = "iOS设置应用程序>Wi-Fi>选择当前的Wi-Fi>配置代理>手册";
 
 /* No comment provided by engineer. */
-"Issued By" = "颁发者";
+"Issued By" = "签发者";
 
 /* No comment provided by engineer. */
-"Issued To" = "颁发给";
+"Issued To" = "签发给";
 
 /* No comment provided by engineer. */
 "It could be SSL Certificate Pinning, or try installing CA Certificate on iOS Simulators again" = "它可以是 SSL 证书固定，或者再次尝试在 iOS 模拟器上安装 CA 证书";
@@ -1103,19 +1103,19 @@
 "License Manager" = "许可证管理器";
 
 /* No comment provided by engineer. */
-"Listen on %@:%d" = "在 %@：%d 上侦听";
+"Listen on %@:%d" = "在 %@：%d 上监听";
 
 /* No comment provided by engineer. */
-"Listening on %@" = "收听 %@";
+"Listening on %@" = "监听 %@";
 
 /* No comment provided by engineer. */
-"Listening on port %@" = "侦听端口 %@";
+"Listening on port %@" = "监听端口 %@";
 
 /* No comment provided by engineer. */
 "Locality" = "地区";
 
 /* No comment provided by engineer. */
-"macOS Proxy Overridden" = "macOS 代理被覆盖";
+"macOS Proxy Overridden" = "重载macOS 代理";
 
 /* No comment provided by engineer. */
 "Make sure to turn OFF all VPNs from your Macbook and Android devices." = "确保关闭 Macbook 和 Android 设备上的所有 VPN。";
@@ -1136,7 +1136,7 @@
 "Manager Header Columns…" = "管理器标题列...";
 
 /* No comment provided by engineer. */
-"Manual…" = "手动。。。";
+"Manual…" = "使用手册...";
 
 /* No comment provided by engineer. */
 "Map as HTTP Body" = "映射为 HTTP 正文";
@@ -1154,7 +1154,7 @@
 "Map Local for \(items.count) Requests…" = "映射 \\（items.count） 请求的本地...";
 
 /* No comment provided by engineer. */
-"Map Local Toggle" = "本地映射切换";
+"Map Local Toggle" = "本地映射开关";
 
 /* No comment provided by engineer. */
 "Map Local…" = "本地映射...";
@@ -1163,7 +1163,7 @@
 "Map Remote" = "远程映射";
 
 /* No comment provided by engineer. */
-"Map Remote Toggle" = "远程映射切换";
+"Map Remote Toggle" = "远程映射开关";
 
 /* No comment provided by engineer. */
 "Map Remote…" = "远程映射...";
@@ -1304,7 +1304,7 @@
 "Only accept sharedState as a Dictionary!" = "只接受 sharedState 作为字典！";
 
 /* No comment provided by engineer. */
-"Only copy IP Address" = "仅复制 IP 地址";
+"Only copy IP Address" = "仅拷贝 IP 地址";
 
 /* No comment provided by engineer. */
 "Only support HTTP Response" = "仅支持 HTTP 响应";
@@ -1349,7 +1349,7 @@
 "Pause recording" = "暂停录制";
 
 /* No comment provided by engineer. */
-"Pin" = "固定";
+"Pin" = "固定到文件夹";
 
 /* No comment provided by engineer. */
 "Pin to Favorites" = "固定到收藏夹";
@@ -1427,7 +1427,7 @@
 "Processing..." = "加工。。。";
 
 /* No comment provided by engineer. */
-"Protobuf…" = "原虫...";
+"Protobuf…" = "Protobuf...";
 
 /* No comment provided by engineer. */
 "Proxy" = "代理";
@@ -1439,7 +1439,7 @@
 "Proxy Helper tool is better performance than using networksetup CLI" = "代理帮助程序工具比使用网络设置 CLI 的性能更好";
 
 /* No comment provided by engineer. */
-"Proxy Overridden Toggle" = "代理覆盖切换";
+"Proxy Overridden Toggle" = "代理覆盖开关";
 
 /* No comment provided by engineer. */
 "Proxy server: Require Authentication" = "代理服务器：需要身份验证";
@@ -1508,13 +1508,13 @@
 "Raw Request & Response" = "原始请求和响应";
 
 /* No comment provided by engineer. */
-"Re-send your request to see new content" = "重新发送查看新内容的请求";
+"Re-send your request to see new content" = "重新发送请求以查看新的内容";
 
 /* No comment provided by engineer. */
 "Record Traffic" = "记录流量";
 
 /* No comment provided by engineer. */
-"Red" = "红";
+"Red" = "红色";
 
 /* No comment provided by engineer. */
 "Redirect" = "重定向";
@@ -1565,7 +1565,7 @@
 "Request" = "Request";
 
 /* No comment provided by engineer. */
-"Request & Response panels are hidden!" = "请求和响应面板是隐藏的！";
+"Request & Response panels are hidden!" = "请求和响应面板被隐藏了！";
 
 /* No comment provided by engineer. */
 "Request aborted by Breakpoint" = "请求因断点而中止";
@@ -1589,7 +1589,7 @@
 "Request Body..." = "请求正文...";
 
 /* No comment provided by engineer. */
-"Request Cookie" = "请求饼干";
+"Request Cookie" = "请求Cookie";
 
 /* No comment provided by engineer. */
 "Request End Time" = "请求结束时间";
@@ -1655,7 +1655,7 @@
 "Response Code" = "响应代码";
 
 /* No comment provided by engineer. */
-"Response Cookie" = "响应饼干";
+"Response Cookie" = "响应Cookie";
 
 /* No comment provided by engineer. */
 "Response End Time" = "响应结束时间";
@@ -1691,7 +1691,7 @@
 "Reverse Proxy" = "反向代理";
 
 /* No comment provided by engineer. */
-"Reverse Proxy Toggle" = "反向代理切换";
+"Reverse Proxy Toggle" = "反向代理开关";
 
 /* No comment provided by engineer. */
 "Right" = "右";
@@ -1733,10 +1733,10 @@
 "Scripting" = "脚本";
 
 /* No comment provided by engineer. */
-"Scripting Toggle" = "脚本切换";
+"Scripting Toggle" = "脚本开关";
 
 /* No comment provided by engineer. */
-"Scripting…" = "脚本。。。";
+"Scripting…" = "脚本...";
 
 /* No comment provided by engineer. */
 "Secure Web Proxy (HTTPS)" = "Secure Web Proxy （HTTPS）";
@@ -1778,7 +1778,7 @@
 "Show in Finder…" = "在 Finder 中显示...";
 
 /* No comment provided by engineer. */
-"Show Proxyman" = "节目 Proxyman";
+"Show Proxyman" = "显示 Proxyman";
 
 /* No comment provided by engineer. */
 "Simulate Network Conditions with various Preset Profiles" = "使用各种预设配置文件模拟网络条件";
@@ -1844,7 +1844,7 @@
 "Strikethrough" = "删除线";
 
 /* No comment provided by engineer. */
-"Summary" = "总结";
+"Summary" = "摘要";
 
 /* No comment provided by engineer. */
 "Support * and ?. Should not include Path or Query" = "支持 * 和 ？。不应包含路径或查询";
@@ -1898,37 +1898,37 @@
 "to version" = "到版本";
 
 /* No comment provided by engineer. */
-"Toggle Dock to Bottom Window ⌃⌘]" = "切换停靠到底部窗口 ⌃⌘]";
+"Toggle Dock to Bottom Window ⌃⌘]" = "将 Dock 切换到窗口底部 ⌃⌘]";
 
 /* No comment provided by engineer. */
-"Toggle Dock to Right Window ⌃⌘\\" = "将 Dock 切换到右窗口 ⌃⌘\\\\";
+"Toggle Dock to Right Window ⌃⌘\\" = "将 Dock 切换到窗口右侧 ⌃⌘\\\\";
 
 /* No comment provided by engineer. */
-"Toggle Left Sidebar ⌃⌘[" = "切换左侧边栏 ⌃⌘[";
+"Toggle Left Sidebar ⌃⌘[" = "开关左侧边栏 ⌃⌘[";
 
 /* No comment provided by engineer. */
-"Toggle Proxy Overridden" = "切换代理覆盖";
+"Toggle Proxy Overridden" = "开关代理重载";
 
 /* No comment provided by engineer. */
-"Toggle Recording Traffic" = "切换记录流量";
+"Toggle Recording Traffic" = "开关流量记录";
 
 /* No comment provided by engineer. */
-"Toggle Request Panel" = "切换请求面板";
+"Toggle Request Panel" = "开关请求面板";
 
 /* No comment provided by engineer. */
-"Toggle Response Panel" = "切换响应面板";
+"Toggle Response Panel" = "开关响应面板";
 
 /* No comment provided by engineer. */
-"Toggle the Filter Bar on the current tab (⌘F)" = "切换当前选项卡上的筛选器栏 （⌘F）";
+"Toggle the Filter Bar on the current tab (⌘F)" = "开关当前选项卡上的筛选器栏 （⌘F）";
 
 /* No comment provided by engineer. */
-"Toggle Tools" = "切换工具";
+"Toggle Tools" = "开关工具";
 
 /* No comment provided by engineer. */
-"Too many requests for Repeat Tool" = "对重复工具的请求过多";
+"Too many requests for Repeat Tool" = "重复工具的请求过多";
 
 /* No comment provided by engineer. */
-"Toogle Tools" = "太格尔工具";
+"Toogle Tools" = "开关工具";
 
 /* No comment provided by engineer. */
 "Tool Name" = "工具名称";
@@ -1976,7 +1976,7 @@
 "Unknown" = "未知";
 
 /* No comment provided by engineer. */
-"Unknown Common Name" = "未知公用名";
+"Unknown Common Name" = "未知的常用名称";
 
 /* No comment provided by engineer. */
 "Unknown Javascript Error" = "未知的 Javascript 错误";
@@ -2084,10 +2084,10 @@
 "Your current HTTP/HTTPS Proxy is overridden by Proxy Helper Tool." = "您当前的 HTTP/HTTPS 代理被 代理帮助程序工具 重载。";
 
 /* No comment provided by engineer. */
-"Your HTTP/HTTPS Proxy is overridden by Proxyman (ip=%@ port=%d) (Toggle by: ⌥⌘O)" = "您的 HTTP/HTTPS Proxy 被 Proxyman 覆盖 （ip=%@ port=%d） （切换方式： ⌥⌘O）";
+"Your HTTP/HTTPS Proxy is overridden by Proxyman (ip=%@ port=%d) (Toggle by: ⌥⌘O)" = "您的 HTTP/HTTPS Proxy 被 Proxyman 覆盖 （ip=%@ port=%d） （开关方式： ⌥⌘O）";
 
 /* No comment provided by engineer. */
-"Your HTTP/HTTPS Proxy is overridden by Proxyman (port=%d) (Toggle by: ⌥⌘O)" = "您的 HTTP/HTTPS Proxy 被 Proxyman 覆盖 （port=%d） （切换方式： ⌥⌘O）";
+"Your HTTP/HTTPS Proxy is overridden by Proxyman (port=%d) (Toggle by: ⌥⌘O)" = "您的 HTTP/HTTPS Proxy 被 Proxyman 覆盖 （port=%d） （开关方式： ⌥⌘O）";
 
 /* No comment provided by engineer. */
 "Your license is expired!" = "您的许可证已过期！";
@@ -2183,10 +2183,10 @@
 "Add --proxy flag into %@ command" = "在 %@ 命令中添加 --proxy 标志";
 
 /* No comment provided by engineer. */
-"Copy HTTPie" = "复制 HTTPie";
+"Copy HTTPie" = "拷贝 HTTPie";
 
 /* No comment provided by engineer. */
-"Copy selected requests with %@ format" = "使用 %@ 格式复制选定的请求";
+"Copy selected requests with %@ format" = "使用 %@ 格式拷贝选定的请求";
 
 /* No comment provided by engineer. */
 "It allows Proxyman capture %@ traffic." = "此标志允许 Proxyman 捕获 %@ 流量。";

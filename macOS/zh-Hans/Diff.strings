@@ -164,7 +164,7 @@
 "yQV-wm-J4q.title" = "盒子";
 
 /* Class = "NSTextFieldCell"; title = "2. ⌘Y or Right-Click -> Tools -> Add to Diff Pool"; ObjectID = "yYR-bn-Vqt"; */
-"yYR-bn-Vqt.title" = "2. ⌘Y 或右键单击 -> 工具 -> 添加到差异池";
+"yYR-bn-Vqt.title" = "2. ⌘Y 或右键单击 -> 工具 -> 添加到对比池";
 
 /* Class = "NSTextFieldCell"; title = "1. Select the request/response on the main view"; ObjectID = "ygt-Sk-AxV"; */
 "ygt-Sk-AxV.title" = "1. 在主视图中选择请求/响应";

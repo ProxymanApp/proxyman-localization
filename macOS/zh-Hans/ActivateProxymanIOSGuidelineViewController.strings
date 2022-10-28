@@ -14,7 +14,7 @@
 "ZLg-ek-DeR.title" = "去应用商店...";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Copy AppStore URL"; ObjectID = "aiQ-Z0-KRb"; */
-"aiQ-Z0-KRb.ibShadowedToolTip" = "复制 AppStore 网址";
+"aiQ-Z0-KRb.ibShadowedToolTip" = "拷贝 AppStore 网址";
 
 /* Class = "NSTextFieldCell"; title = "Support iOS & iPadOS. Require iOS 14+."; ObjectID = "bTD-X7-grf"; */
 "bTD-X7-grf.title" = "支持 iOS 和 iPadOS。需要 iOS 14+。";

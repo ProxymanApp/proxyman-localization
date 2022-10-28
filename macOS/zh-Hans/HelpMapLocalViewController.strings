@@ -8,7 +8,7 @@
 "Cxh-Ep-6Fp.title" = "•";
 
 /* Class = "NSButtonCell"; title = "Copy to Clipboard"; ObjectID = "FNd-sP-Bc6"; */
-"FNd-sP-Bc6.title" = "复制到剪贴板";
+"FNd-sP-Bc6.title" = "拷贝到剪贴板";
 
 /* Class = "NSTextFieldCell"; title = "https:\\/\\/my-server\\.com\\/build\\/v1\\/(.*)"; ObjectID = "H1Q-Yv-j27"; */
 "H1Q-Yv-j27.title" = "https:\\/\\/my-server\\.com\\/build\\/v1\\/(.*)";

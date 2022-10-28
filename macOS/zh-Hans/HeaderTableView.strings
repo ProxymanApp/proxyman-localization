@@ -5,7 +5,7 @@
 "Zd0-vA-oaT.title" = "文本单元格";
 
 /* Class = "NSTableColumn"; headerCell.title = "Key"; ObjectID = "dWF-YL-RKO"; */
-"dWF-YL-RKO.headerCell.title" = "钥匙";
+"dWF-YL-RKO.headerCell.title" = "键";
 
 /* Class = "NSTableColumn"; headerCell.title = "Value"; ObjectID = "wf3-ni-n6E"; */
 "wf3-ni-n6E.headerCell.title" = "值";
