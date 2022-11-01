@@ -893,16 +893,16 @@
 "Host" = "主机";
 
 /* No comment provided by engineer. */
-"Host Header" = "主机头";
+"Host Header" = "Host Header";
 
 /* No comment provided by engineer. */
 "How to install?" = "如何安装？";
 
 /* No comment provided by engineer. */
-"HTTPS Response" = "HTTPS 响应";
+"HTTPS Response" = "HTTPS Response";
 
 /* No comment provided by engineer. */
-"ID" = "编号";
+"ID" = "ID";
 
 /* No comment provided by engineer. */
 "If you have already purchased Proxyman, please check your email for the license key." = "如果您已经购买了 Proxyman，请查看您的电子邮件以获取许可证密钥。";
@@ -1010,7 +1010,7 @@
 "Invalid MsgPack Data" = "无效的 MsgPack 数据";
 
 /* No comment provided by engineer. */
-"Invalid Msgpack Data" = "无效的数据包数据";
+"Invalid Msgpack Data" = "无效的 MsgPack 数据";
 
 /* Error */
 "Invalid number in diff_fromDelta: %@" = "diff_fromDelta中的数字无效：%@";
@@ -1316,7 +1316,7 @@
 "Open by System…" = "通过系统打开...";
 
 /* No comment provided by engineer. */
-"Open Diff" = "打开比较";
+"Open Diff" = "打开 Diff";
 
 /* No comment provided by engineer. */
 "Open in New Tab" = "在新标签页中打开";
@@ -1490,7 +1490,7 @@
 "Purple" = "紫色";
 
 /* No comment provided by engineer. */
-"Query" = "查询";
+"Query" = "Query";
 
 /* No comment provided by engineer. */
 "Query Name" = "查询名称";
@@ -1589,7 +1589,7 @@
 "Request Body..." = "请求正文...";
 
 /* No comment provided by engineer. */
-"Request Cookie" = "请求Cookie";
+"Request Cookie" = "Request Cookie";
 
 /* No comment provided by engineer. */
 "Request End Time" = "请求结束时间";
@@ -1655,7 +1655,7 @@
 "Response Code" = "响应代码";
 
 /* No comment provided by engineer. */
-"Response Cookie" = "响应Cookie";
+"Response Cookie" = "Response Cookie";
 
 /* No comment provided by engineer. */
 "Response End Time" = "响应结束时间";

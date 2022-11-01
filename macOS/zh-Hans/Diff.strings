@@ -101,16 +101,16 @@
 "dGM-jm-ZIN.ibShadowedToolTip" = "导出为统一差异 (unidiff)";
 
 /* Class = "NSMenuItem"; title = "Unidiff…"; ObjectID = "dGM-jm-ZIN"; */
-"dGM-jm-ZIN.title" = "统一…";
+"dGM-jm-ZIN.title" = "Unidiff…";
 
 /* Class = "NSButtonCell"; title = "Request"; ObjectID = "f2F-ml-FVZ"; */
-"f2F-ml-FVZ.title" = "请求";
+"f2F-ml-FVZ.title" = "Request";
 
 /* Class = "NSTextFieldCell"; title = "10 matches"; ObjectID = "fBJ-qO-hE9"; */
 "fBJ-qO-hE9.title" = "10 匹配";
 
 /* Class = "NSButtonCell"; title = "Response"; ObjectID = "hQh-ob-KJb"; */
-"hQh-ob-KJb.title" = "响应";
+"hQh-ob-KJb.title" = "Response";
 
 /* Class = "NSMenuItem"; title = "Export"; ObjectID = "iea-xZ-00s"; */
 "iea-xZ-00s.title" = "导出";
@@ -140,7 +140,7 @@
 "oKd-lF-RDf.title" = "左侧";
 
 /* Class = "NSWindow"; title = "Diff"; ObjectID = "oul-mj-e8E"; */
-"oul-mj-e8E.title" = "对比";
+"oul-mj-e8E.title" = "Diff";
 
 /* Class = "NSMenu"; title = "Highlight"; ObjectID = "r0e-6r-hoR"; */
 "r0e-6r-hoR.title" = "突出显示";
@@ -155,7 +155,7 @@
 "vMf-zi-skT.headerCell.title" = "对";
 
 /* Class = "NSMenuItem"; title = "Unified"; ObjectID = "xw8-PW-fyB"; */
-"xw8-PW-fyB.title" = "统一";
+"xw8-PW-fyB.title" = "Unified";
 
 /* Class = "NSMenuItem"; title = "Blue"; ObjectID = "y5q-RY-LfK"; */
 "y5q-RY-LfK.title" = "蓝色";
@@ -170,4 +170,4 @@
 "ygt-Sk-AxV.title" = "1. 在主视图中选择请求/响应";
 
 /* Class = "NSTableColumn"; headerCell.title = "URL"; ObjectID = "bQ4-Wx-xML"; */
-"bQ4-Wx-xML.headerCell.title" = "网址";
+"bQ4-Wx-xML.headerCell.title" = "URL";

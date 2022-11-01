@@ -80,7 +80,7 @@
 "7WC-AY-SS1.title" = "导出设置...";
 
 /* Class = "NSButtonCell"; title = "Response"; ObjectID = "7lm-yD-mJr"; */
-"7lm-yD-mJr.title" = "响应";
+"7lm-yD-mJr.title" = "Response";
 
 /* Class = "NSMenuItem"; ibShadowedToolTip = "Toggl Enable / Disable selected rules"; ObjectID = "7u5-Hm-wEX"; */
 "7u5-Hm-wEX.ibShadowedToolTip" = "切换启用/禁用选定规则";
@@ -290,7 +290,7 @@
 "OqY-Ed-ONf.title" = "白名单";
 
 /* Class = "NSButtonCell"; title = "Request"; ObjectID = "PSt-De-Jao"; */
-"PSt-De-Jao.title" = "请求";
+"PSt-De-Jao.title" = "Request";
 
 /* Class = "NSTextFieldCell"; title = "Auto"; ObjectID = "PqQ-W6-1l7"; */
 "PqQ-W6-1l7.title" = "自动";

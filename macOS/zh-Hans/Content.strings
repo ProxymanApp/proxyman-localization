@@ -77,7 +77,7 @@
 "TA1-c1-Dmo.title" = "https://api.producthunt.com/v1/posts";
 
 /* Class = "NSMenuItem"; title = "Form"; ObjectID = "TFT-0k-8Wd"; */
-"TFT-0k-8Wd.title" = "表格";
+"TFT-0k-8Wd.title" = "Form";
 
 /* Class = "NSTableColumn"; headerCell.title = "ContentType"; ObjectID = "Xa5-pt-OUR"; */
 "Xa5-pt-OUR.headerCell.title" = "内容类型";
@@ -86,13 +86,13 @@
 "Y0J-c2-vMC.label" = "JSON";
 
 /* Class = "NSTextFieldCell"; title = "Malformed multipart/form-data"; ObjectID = "ZDJ-B7-Xee"; */
-"ZDJ-B7-Xee.title" = "格式错误的多部分/表单数据";
+"ZDJ-B7-Xee.title" = "畸形 multipart/form-data";
 
 /* Class = "NSTabViewItem"; label = "Base64"; ObjectID = "c0J-1R-aVI"; */
 "c0J-1R-aVI.label" = "Base64";
 
 /* Class = "NSTableColumn"; headerCell.title = "Header"; ObjectID = "d67-qP-DLJ"; */
-"d67-qP-DLJ.headerCell.title" = "标题";
+"d67-qP-DLJ.headerCell.title" = "Header";
 
 /* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "f5f-9b-j0T"; */
 "f5f-9b-j0T.title" = "表格视图单元格";

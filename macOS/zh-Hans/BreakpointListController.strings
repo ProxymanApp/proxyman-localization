@@ -11,7 +11,7 @@
 "3S7-Oi-P07.headerToolTip" = "匹配网址";
 
 /* Class = "NSTableColumn"; headerCell.title = "Request"; ObjectID = "3pM-3j-xiC"; */
-"3pM-3j-xiC.headerCell.title" = "要求";
+"3pM-3j-xiC.headerCell.title" = "Request";
 
 /* Class = "NSMenuItem"; title = "From Proxyman..."; ObjectID = "9Aw-4x-sh6"; */
 "9Aw-4x-sh6.title" = "从 Proxyman...";
@@ -47,7 +47,7 @@
 "Qsl-q9-w4C.title" = "更多的";
 
 /* Class = "NSTableColumn"; headerCell.title = "Response"; ObjectID = "QyQ-Sc-ctP"; */
-"QyQ-Sc-ctP.headerCell.title" = "响应";
+"QyQ-Sc-ctP.headerCell.title" = "Response";
 
 /* Class = "NSMenuItem"; title = "Export Settings..."; ObjectID = "SpI-xY-kqJ"; */
 "SpI-xY-kqJ.title" = "导出设置...";

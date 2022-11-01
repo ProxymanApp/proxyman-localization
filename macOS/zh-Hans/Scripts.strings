@@ -137,7 +137,7 @@
 "Xgd-Wq-j8M.title" = "过滤器";
 
 /* Class = "NSButtonCell"; title = "Response"; ObjectID = "Xu2-KD-YTP"; */
-"Xu2-KD-YTP.title" = "响应";
+"Xu2-KD-YTP.title" = "Response";
 
 /* Class = "NSMenuItem"; title = "Scripting Docs..."; ObjectID = "YL8-Qr-mAC"; */
 "YL8-Qr-mAC.title" = "脚本文档...";
@@ -167,7 +167,7 @@
 "at8-8r-QR9.title" = "文本单元格";
 
 /* Class = "NSButtonCell"; title = "Request"; ObjectID = "bcp-ip-pRf"; */
-"bcp-ip-pRf.title" = "请求";
+"bcp-ip-pRf.title" = "Request";
 
 /* Class = "NSTextFieldCell"; title = "Name:"; ObjectID = "cGe-FP-Cga"; */
 "cGe-FP-Cga.title" = "名称：";
