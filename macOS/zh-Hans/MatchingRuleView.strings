@@ -38,10 +38,10 @@
 "aMn-qb-GlQ.title" = "PATCH";
 
 /* Class = "NSMenuItem"; title = "ANY"; ObjectID = "e6b-ss-qIB"; */
-"e6b-ss-qIB.title" = "任何";
+"e6b-ss-qIB.title" = "ANY";
 
 /* Class = "NSTextFieldCell"; placeholderString = "e.g. GetUser"; ObjectID = "eNi-xg-bQx"; */
-"eNi-xg-bQx.placeholderString" = "例如获取用户";
+"eNi-xg-bQx.placeholderString" = "e.g. GetUser";
 
 /* Class = "NSMenuItem"; ibShadowedToolTip = "Use full-matching regex"; ObjectID = "ey3-cI-3o6"; */
 "ey3-cI-3o6.ibShadowedToolTip" = "使用完全匹配的正则表达式";

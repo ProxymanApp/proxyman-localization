@@ -65,7 +65,7 @@
 "Wq5-uA-kxo.title" = "No Breakpoints!\n\nClick \"Add Rule\"\nor  ⌥⌘B to setup the Rule";
 
 /* Class = "NSButtonCell"; title = "Invalid URL"; ObjectID = "YPD-O1-l9P"; */
-"YPD-O1-l9P.title" = "无效的网址";
+"YPD-O1-l9P.title" = "无效 URL";
 
 /* Class = "NSMenuItem"; ibShadowedToolTip = "Add breakpoint rule (⌥⌘B)"; ObjectID = "dFT-K6-36a"; */
 "dFT-K6-36a.ibShadowedToolTip" = "添加断点规则（⌥⌘B）";

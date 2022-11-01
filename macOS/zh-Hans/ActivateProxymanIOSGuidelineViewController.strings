@@ -11,7 +11,7 @@
 "XUP-1h-sAK.title" = "打开更多选项卡（在右下选项卡栏上）-> FaceID 和密码-> 解锁-> 输入您的许可证密钥。";
 
 /* Class = "NSButtonCell"; title = "Go to AppStore..."; ObjectID = "ZLg-ek-DeR"; */
-"ZLg-ek-DeR.title" = "去应用商店...";
+"ZLg-ek-DeR.title" = "到 AppStore...";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Copy AppStore URL"; ObjectID = "aiQ-Z0-KRb"; */
 "aiQ-Z0-KRb.ibShadowedToolTip" = "拷贝 AppStore 网址";
