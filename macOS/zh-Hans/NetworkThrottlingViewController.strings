@@ -89,7 +89,7 @@
 "n5a-vj-tHc.title" = "启用规则";
 
 /* Class = "NSTableColumn"; headerCell.title = "Host"; ObjectID = "sm6-NU-Bil"; */
-"sm6-NU-Bil.headerCell.title" = "主持人";
+"sm6-NU-Bil.headerCell.title" = "主机";
 
 /* Class = "NSTableColumn"; headerToolTip = "Host and Port"; ObjectID = "sm6-NU-Bil"; */
 "sm6-NU-Bil.headerToolTip" = "主机和端口";

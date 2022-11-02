@@ -35,7 +35,7 @@
 "LYH-eN-zlI.title" = "下载";
 
 /* Class = "NSTextFieldCell"; title = "Host:"; ObjectID = "NEJ-Tt-TDq"; */
-"NEJ-Tt-TDq.title" = "主持人：";
+"NEJ-Tt-TDq.title" = "主机：";
 
 /* Class = "NSTextFieldCell"; title = "Bandwidth: "; ObjectID = "OgR-XR-vkk"; */
 "OgR-XR-vkk.title" = "带宽：";
