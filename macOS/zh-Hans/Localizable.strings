@@ -1103,7 +1103,7 @@
 "License Manager" = "许可证管理器";
 
 /* No comment provided by engineer. */
-"Listen on %@:%d" = "在 %@：%d 上监听";
+"Listen on %@:%@" = "在 %@：%@ 上监听";
 
 /* No comment provided by engineer. */
 "Listening on %@" = "监听 %@";
@@ -2084,10 +2084,10 @@
 "Your current HTTP/HTTPS Proxy is overridden by Proxy Helper Tool." = "您当前的 HTTP/HTTPS 代理被 代理帮助程序工具 重载。";
 
 /* No comment provided by engineer. */
-"Your HTTP/HTTPS Proxy is overridden by Proxyman (ip=%@ port=%d) (Toggle by: ⌥⌘O)" = "您的 HTTP/HTTPS Proxy 被 Proxyman 覆盖 （ip=%@ port=%d） （开关方式： ⌥⌘O）";
+"Your HTTP/HTTPS Proxy is overridden by Proxyman (ip=%@ port=%@) (Toggle by: ⌥⌘O)" = "您的 HTTP/HTTPS Proxy 被 Proxyman 覆盖 （ip=%@ port=%@） （开关方式： ⌥⌘O）";
 
 /* No comment provided by engineer. */
-"Your HTTP/HTTPS Proxy is overridden by Proxyman (port=%d) (Toggle by: ⌥⌘O)" = "您的 HTTP/HTTPS Proxy 被 Proxyman 覆盖 （port=%d） （开关方式： ⌥⌘O）";
+"Your HTTP/HTTPS Proxy is overridden by Proxyman (port=%@) (Toggle by: ⌥⌘O)" = "您的 HTTP/HTTPS Proxy 被 Proxyman 覆盖 （port=%@） （开关方式： ⌥⌘O）";
 
 /* No comment provided by engineer. */
 "Your license is expired!" = "您的许可证已过期！";
