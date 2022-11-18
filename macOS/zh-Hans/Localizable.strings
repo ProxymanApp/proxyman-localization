@@ -1103,7 +1103,7 @@
 "License Manager" = "许可证管理器";
 
 /* No comment provided by engineer. */
-"Listen on %@:%@" = "在 %@：%@ 上监听";
+"Listen on %@" = "在 %@ 上监听";
 
 /* No comment provided by engineer. */
 "Listening on %@" = "监听 %@";
@@ -2006,7 +2006,7 @@
 "Upgrade to Premium version to unlock unlimited tabs." = "升级到高级版本以解锁无限的选项卡。";
 
 /* No comment provided by engineer. */
-"URL" = "网址";
+"URL" = "URL";
 
 /* No comment provided by engineer. */
 "User cancelled the save" = "用户已取消保存";
@@ -2027,7 +2027,7 @@
 "Web Proxy Server" = "网络代理服务器";
 
 /* No comment provided by engineer. */
-"Websocket" = "网络袜子";
+"Websocket" = "Websocket";
 
 /* No comment provided by engineer. */
 "What's new in latest builds" = "最新版本中的新增功能";
@@ -2084,10 +2084,7 @@
 "Your current HTTP/HTTPS Proxy is overridden by Proxy Helper Tool." = "您当前的 HTTP/HTTPS 代理被 代理帮助程序工具 重载。";
 
 /* No comment provided by engineer. */
-"Your HTTP/HTTPS Proxy is overridden by Proxyman (ip=%@ port=%@) (Toggle by: ⌥⌘O)" = "您的 HTTP/HTTPS Proxy 被 Proxyman 覆盖 （ip=%@ port=%@） （开关方式： ⌥⌘O）";
-
-/* No comment provided by engineer. */
-"Your HTTP/HTTPS Proxy is overridden by Proxyman (port=%@) (Toggle by: ⌥⌘O)" = "您的 HTTP/HTTPS Proxy 被 Proxyman 覆盖 （port=%@） （开关方式： ⌥⌘O）";
+"Your HTTP/HTTPS Proxy is overridden by Proxyman (%@) (Toggle by: ⌥⌘O)" = "您的 HTTP/HTTPS Proxy 被 Proxyman 覆盖 （%@） （开关方式： ⌥⌘O）";
 
 /* No comment provided by engineer. */
 "Your license is expired!" = "您的许可证已过期！";
