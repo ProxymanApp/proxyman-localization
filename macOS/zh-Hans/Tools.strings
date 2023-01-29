@@ -786,3 +786,9 @@
 
 /* Class = "NSTextFieldCell"; title = "Port:"; ObjectID = "qxb-JD-Cyf"; */
 "qxb-JD-Cyf.title" = "端口：";
+
+/* Class = "NSMenuItem"; title = "Import Settings…"; ObjectID = "c8M-mL-bp8"; */
+"c8M-mL-bp8.title" = "";
+
+/* Class = "NSMenuItem"; title = "Export Setting…"; ObjectID = "fTi-JU-nUQ"; */
+"fTi-JU-nUQ.title" = "";

@@ -19,7 +19,7 @@
 /* Class = "NSMenuItem"; ibShadowedToolTip = "All JSON Keys are alphabetically sorted. It's easier to see the diff if the JSON Keys Order are changed"; ObjectID = "8BS-lV-5rL"; */
 "8BS-lV-5rL.ibShadowedToolTip" = "所有 JSON 键都按字母顺序排序。如果更改了 JSON 键顺序，则更容易看到对比";
 
-/* Class = "NSMenuItem"; title = "Sort Alphabetically JSON Key"; ObjectID = "8BS-lV-5rL"; */
+/* Class = "NSMenuItem"; title = "Sort JSON Key"; ObjectID = "8BS-lV-5rL"; */
 "8BS-lV-5rL.title" = "按字母顺序排序 JSON 密钥";
 
 /* Class = "NSTextFieldCell"; title = "Please upgrade your macOS to use this feature (macOS 11.2 or later)."; ObjectID = "8Ul-SW-AQu"; */
@@ -171,3 +171,9 @@
 
 /* Class = "NSTableColumn"; headerCell.title = "URL"; ObjectID = "bQ4-Wx-xML"; */
 "bQ4-Wx-xML.headerCell.title" = "URL";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "All Header Key are alphabetically sorted. It's easier to see the diff."; ObjectID = "rJb-a0-vkg"; */
+"rJb-a0-vkg.ibShadowedToolTip" = "";
+
+/* Class = "NSMenuItem"; title = "Sort Key Header"; ObjectID = "rJb-a0-vkg"; */
+"rJb-a0-vkg.title" = "";

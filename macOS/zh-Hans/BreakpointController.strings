@@ -37,16 +37,16 @@
 /* Class = "NSMenuItem"; title = "Execute"; ObjectID = "GA2-zt-vbF"; */
 "GA2-zt-vbF.title" = "执行";
 
-/* Class = "NSSegmentedControl"; ibShadowedToolTip = "Abort this breakpoint (⌘\\)"; ObjectID = "LVK-b6-XVh"; */
+/* Class = "NSSegmentedControl"; ibShadowedToolTip = "Abort this breakpoint and stop the current connection (⌘\\)"; ObjectID = "LVK-b6-XVh"; */
 "LVK-b6-XVh.ibShadowedToolTip" = "中止此断点 (⌘\\)";
 
 /* Class = "NSSegmentedCell"; M1G-re-2Fh.ibShadowedLabels[0] = "Execute ⌘⏎"; ObjectID = "M1G-re-2Fh"; */
 "M1G-re-2Fh.ibShadowedLabels[0]" = "执行⌘⏎";
 
-/* Class = "NSMenuItem"; ibShadowedToolTip = "Canncel a selected breakpoint and continue the request with original data"; ObjectID = "MQ2-U0-MJr"; */
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Continue the request with original data"; ObjectID = "MQ2-U0-MJr"; */
 "MQ2-U0-MJr.ibShadowedToolTip" = "取消选定的断点并使用原始数据继续请求";
 
-/* Class = "NSMenuItem"; title = "Cancel"; ObjectID = "MQ2-U0-MJr"; */
+/* Class = "NSMenuItem"; title = "Continue"; ObjectID = "MQ2-U0-MJr"; */
 "MQ2-U0-MJr.title" = "取消";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "Mns-sf-O9D"; */
@@ -60,9 +60,6 @@
 
 /* Class = "NSMenuItem"; title = "Execute"; ObjectID = "VPC-lB-72Y"; */
 "VPC-lB-72Y.title" = "执行";
-
-/* Class = "NSTextFieldCell"; title = "No Breakpoints!\n\nClick \"Add Rule\"\nor  ⌥⌘B to setup the Rule"; ObjectID = "Wq5-uA-kxo"; */
-"Wq5-uA-kxo.title" = "No Breakpoints!\n\nClick \"Add Rule\"\nor  ⌥⌘B to setup the Rule";
 
 /* Class = "NSButtonCell"; title = "Invalid URL"; ObjectID = "YPD-O1-l9P"; */
 "YPD-O1-l9P.title" = "无效 URL";
@@ -79,16 +76,16 @@
 /* Class = "NSMenuItem"; title = "Execute All"; ObjectID = "fwB-KI-Vou"; */
 "fwB-KI-Vou.title" = "全部执行";
 
-/* Class = "NSSegmentedControl"; ibShadowedToolTip = "Canncel the breakpoint and continue the request with original data (⌘⌫)"; ObjectID = "igu-8f-Hr8"; */
+/* Class = "NSSegmentedControl"; ibShadowedToolTip = "Continue the request/response with original data, ignore all Breakpoint Changes  (⌘.)"; ObjectID = "igu-8f-Hr8"; */
 "igu-8f-Hr8.ibShadowedToolTip" = "取消断点，用原始数据继续请求（⌘⌫）";
 
 /* Class = "NSButtonCell"; title = "Add Rule"; ObjectID = "kJB-cI-jeI"; */
 "kJB-cI-jeI.title" = "添加规则";
 
-/* Class = "NSMenuItem"; ibShadowedToolTip = "Canncel all breakpoints and continue the request with original data"; ObjectID = "m9Z-D9-dnt"; */
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Continue all request with original data"; ObjectID = "m9Z-D9-dnt"; */
 "m9Z-D9-dnt.ibShadowedToolTip" = "取消所有断点并使用原始数据继续请求";
 
-/* Class = "NSMenuItem"; title = "Cancel All"; ObjectID = "m9Z-D9-dnt"; */
+/* Class = "NSMenuItem"; title = "Continue All"; ObjectID = "m9Z-D9-dnt"; */
 "m9Z-D9-dnt.title" = "全部取消";
 
 /* Class = "NSMenuItem"; ibShadowedToolTip = "Stop a selected breakpoint."; ObjectID = "pPE-eQ-5zR"; */
@@ -97,20 +94,35 @@
 /* Class = "NSMenuItem"; title = "Abort"; ObjectID = "pPE-eQ-5zR"; */
 "pPE-eQ-5zR.title" = "取消";
 
-/* Class = "NSSegmentedControl"; ibShadowedToolTip = "Execute the breakpoint with current data (⌘⏎)"; ObjectID = "sHK-vT-58B"; */
+/* Class = "NSSegmentedControl"; ibShadowedToolTip = "Execute the breakpoint with new Request/Response changes (⌘⏎)"; ObjectID = "sHK-vT-58B"; */
 "sHK-vT-58B.ibShadowedToolTip" = "使用当前数据执行断点 (⌘⏎)";
 
-/* Class = "NSMenuItem"; title = "Cancel All"; ObjectID = "wvN-W7-9W6"; */
+/* Class = "NSMenuItem"; title = "Continue All"; ObjectID = "wvN-W7-9W6"; */
 "wvN-W7-9W6.title" = "全部取消";
 
-/* Class = "NSMenuItem"; title = "Cancel"; ObjectID = "wwN-ip-qur"; */
+/* Class = "NSMenuItem"; title = "Continue"; ObjectID = "wwN-ip-qur"; */
 "wwN-ip-qur.title" = "取消";
 
 /* Class = "NSMenuItem"; title = "Focus on this Window for new Breakpoints"; ObjectID = "xWZ-y0-M5i"; */
 "xWZ-y0-M5i.title" = "关注此窗口以获取新断点";
 
-/* Class = "NSSegmentedCell"; yd0-33-MHs.ibShadowedLabels[0] = "Cancel ⌘ ."; ObjectID = "yd0-33-MHs"; */
+/* Class = "NSSegmentedCell"; yd0-33-MHs.ibShadowedLabels[0] = "Continue ⌘ ."; ObjectID = "yd0-33-MHs"; */
 "yd0-33-MHs.ibShadowedLabels[0]" = "取消⌘。";
 
 /* Class = "NSMenuItem"; title = "Abort"; ObjectID = "zeO-DB-dDJ"; */
 "zeO-DB-dDJ.title" = "取消";
+
+/* Class = "NSTextFieldCell"; title = "Click \"Add Rule\" to setup Rules"; ObjectID = "Hyr-se-Bvp"; */
+"Hyr-se-Bvp.title" = "";
+
+/* Class = "NSMenuItem"; title = "Advance"; ObjectID = "ULJ-bt-BSZ"; */
+"ULJ-bt-BSZ.title" = "";
+
+/* Class = "NSMenu"; title = "Advance"; ObjectID = "hyy-rk-fkZ"; */
+"hyy-rk-fkZ.title" = "";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Switch Layout Mode: Vertical or Horizontal"; ObjectID = "lsP-p3-Pkb"; */
+"lsP-p3-Pkb.ibShadowedToolTip" = "";
+
+/* Class = "NSTextFieldCell"; title = "No Breakpoint"; ObjectID = "n3a-6g-HEy"; */
+"n3a-6g-HEy.title" = "";

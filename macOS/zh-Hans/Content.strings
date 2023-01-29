@@ -162,3 +162,15 @@
 
 /* Class = "NSTextFieldCell"; title = "To save requests: Right-Click -> Save"; ObjectID = "zHo-PF-jk2"; */
 "zHo-PF-jk2.title" = "保存请求：右键单击 -> 保存";
+
+/* Class = "NSMenuItem"; title = "Option"; ObjectID = "JDK-LH-lmz"; */
+"JDK-LH-lmz.title" = "";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "All Ping Pong Websocket Messages are hidden"; ObjectID = "Q2R-qn-tWx"; */
+"Q2R-qn-tWx.ibShadowedToolTip" = "";
+
+/* Class = "NSMenuItem"; title = "Hide Ping/Pong"; ObjectID = "Q2R-qn-tWx"; */
+"Q2R-qn-tWx.title" = "";
+
+/* Class = "NSMenu"; title = "Option"; ObjectID = "WRt-uF-94u"; */
+"WRt-uF-94u.title" = "";

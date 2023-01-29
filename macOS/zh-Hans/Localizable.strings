@@ -515,7 +515,7 @@
 "Could not generate Unidiff!" = "无法生成 Unidiff！";
 
 /* No comment provided by engineer. */
-"Could not genereate dynamic certificates for %@.\n\n👉 You might try to reinstall the CA Certificate (Certificate Menu -> Install Certificate for this Mac)" = "无法为 %@ 生成动态证书。\\n\\n👉 您可以尝试重新安装 CA 证书（“证书”菜单 ->为此 Mac 安装证书）";
+"Could not generate dynamic certificates for %@.\n\n👉 You might try to re-install the CA Certificate (Certificate Menu -> Reset All -> Install Certificate for this Mac)" = "无法为 %@ 生成动态证书。\\n\\n👉 您可以尝试重新安装 CA 证书（“证书”菜单 ->为此 Mac 安装证书）";
 
 /* No comment provided by engineer. */
 "Could not import 3rd scripts at %@. Only support @users, @addons and @libs" = "无法在 %@ 处导入第三个脚本。仅支持@users、@addons和@libs";
@@ -560,7 +560,7 @@
 "Could not send to Proxyman!" = "无法将其发送给 Proxyman";
 
 /* No comment provided by engineer. */
-"Couldn't connect to the server" = "无法连接到服务器";
+"Could not connect to the server" = "无法连接到服务器";
 
 /* No comment provided by engineer. */
 "Couldn't fetch server certificates" = "无法获取服务器证书";
@@ -630,9 +630,6 @@
 
 /* No comment provided by engineer. */
 "Delete" = "删除";
-
-/* No comment provided by engineer. */
-"Delete this folder" = "删除此文件夹";
 
 /* Error */
 "Delta length (%lu) larger than source text length (%lu)." = "增量长度 （%lu） 大于源文本长度 （%lu）。";
@@ -2187,3 +2184,60 @@
 
 /* No comment provided by engineer. */
 "It allows Proxyman capture %@ traffic." = "此标志允许 Proxyman 捕获 %@ 流量。";
+
+/* No comment provided by engineer. */
+" Not ready!" = "";
+
+/* No comment provided by engineer. */
+" Open Keychain Access → Search \"Proxyman CA\" → Trust it!" = "";
+
+/* No comment provided by engineer. */
+" Permission Required!" = "";
+
+/* No comment provided by engineer. */
+" Proxyman CA is trusted!" = "";
+
+/* No comment provided by engineer. */
+"Allow" = "";
+
+/* No comment provided by engineer. */
+"Click to show Proxy Detail!" = "";
+
+/* No comment provided by engineer. */
+"Connection from \(host)" = "";
+
+/* No comment provided by engineer. */
+"Copy IP" = "";
+
+/* No comment provided by engineer. */
+"Copy Port" = "";
+
+/* No comment provided by engineer. */
+"Could not resolve the host name.\n\n Double check the domain or change DNS Setting might fix it." = "";
+
+/* No comment provided by engineer. */
+"Deny" = "";
+
+/* No comment provided by engineer. */
+"Do you allow this device to connect to Proxyman?\n\n(You can manage the Access Control setting in Tools -> Proxy Setting)" = "";
+
+/* No comment provided by engineer. */
+"Enter IP" = "";
+
+/* No comment provided by engineer. */
+"Image Not Supported (\(previewContent.mime.firstComponentName))" = "";
+
+/* No comment provided by engineer. */
+"OK" = "";
+
+/* No comment provided by engineer. */
+"Only copy Port" = "";
+
+/* No comment provided by engineer. */
+"Open Login Items…" = "";
+
+/* No comment provided by engineer. */
+"Proxyman could not securely establish the SSL Connection with your client. It seems that you haven't installed & trusted the certificate on your device or unknown reasons.\n\nClick the \"Troubleshooting\" button to find a solution." = "";
+
+/* No comment provided by engineer. */
+"Required your permission to properly work in Login Items" = "";

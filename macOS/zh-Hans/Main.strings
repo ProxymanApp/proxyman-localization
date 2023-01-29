@@ -1026,3 +1026,18 @@
 
 /* Class = "NSMenuItem"; title = "Scripting"; ObjectID = "sEj-5w-peJ"; */
 "sEj-5w-peJ.title" = "脚本";
+
+/* Class = "NSMenuItem"; title = "Protobuf…"; ObjectID = "9Eq-oO-pF6"; */
+"9Eq-oO-pF6.title" = "";
+
+/* Class = "NSMenuItem"; title = "NodeJS…"; ObjectID = "Geb-Vv-nny"; */
+"Geb-Vv-nny.title" = "";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Display invisible characters in the Request/Response panels. e.g. New Line, Whitespace, Controls, Nonspacing, etc"; ObjectID = "OId-5B-2WD"; */
+"OId-5B-2WD.ibShadowedToolTip" = "";
+
+/* Class = "NSMenuItem"; title = "Show Invisibles"; ObjectID = "OId-5B-2WD"; */
+"OId-5B-2WD.title" = "";
+
+/* Class = "NSMenuItem"; title = "Access Control…"; ObjectID = "URZ-dx-YL1"; */
+"URZ-dx-YL1.title" = "";

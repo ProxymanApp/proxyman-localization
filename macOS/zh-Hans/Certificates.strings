@@ -328,7 +328,7 @@
 /* Class = "NSTextFieldCell"; title = "Config with the following info:"; ObjectID = "b8I-Jj-XKE"; */
 "b8I-Jj-XKE.title" = "使用以下信息进行配置：";
 
-/* Class = "NSButtonCell"; title = "  Reboot"; ObjectID = "bBk-Lg-1eY"; */
+/* Class = "NSButtonCell"; title = " Reboot"; ObjectID = "bBk-Lg-1eY"; */
 "bBk-Lg-1eY.title" = " 重启";
 
 /* Class = "NSTextFieldCell"; title = "Android Emulator Devices found:"; ObjectID = "bvf-FZ-bZk"; */
@@ -355,7 +355,7 @@
 /* Class = "NSTextFieldCell"; title = "8080"; ObjectID = "eQH-Rs-8y4"; */
 "eQH-Rs-8y4.title" = "8080";
 
-/* Class = "NSButtonCell"; title = "Install Root Certificate "; ObjectID = "eTM-Vw-U40"; */
+/* Class = "NSButtonCell"; title = "Install Certificate "; ObjectID = "eTM-Vw-U40"; */
 "eTM-Vw-U40.title" = "安装根证书";
 
 /* Class = "NSTextFieldCell"; title = "Setting app > General > About "; ObjectID = "f9c-r2-itF"; */
@@ -546,9 +546,6 @@
 
 /* Class = "NSTextFieldCell"; title = "Select \"Install Anyway\" and select \"CA Proxyman Certificate\" that you downloaded from Step 3"; ObjectID = "zf0-3d-Fte"; */
 "zf0-3d-Fte.title" = "选择 \"Install Anyway\" 并选择您从第 3 步下载的 \"CA Proxyman Certificate\"";
-
-/* Class = "NSButtonCell"; title = " Proxyman CA hasn't been trusted yet!"; ObjectID = "zvs-VX-9hz"; */
-"zvs-VX-9hz.title" = " Proxyman CA 还没有被信任！";
 
 /* Class = "NSTextFieldCell"; title = "Click + to add new domain"; ObjectID = "1Z7-xp-AoB"; */
 "1Z7-xp-AoB.title" = "单击 + 添加新域";

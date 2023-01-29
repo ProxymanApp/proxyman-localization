@@ -261,3 +261,9 @@
 
 /* Class = "NSTextFieldCell"; title = "Empty Console"; ObjectID = "zqy-Ug-Jk0"; */
 "zqy-Ug-Jk0.title" = "空控制台";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Clear all shared State data. It's similar with `clearSharedState()` function"; ObjectID = "ZVw-hV-auO"; */
+"ZVw-hV-auO.ibShadowedToolTip" = "";
+
+/* Class = "NSMenuItem"; title = "Reset Shared State"; ObjectID = "ZVw-hV-auO"; */
+"ZVw-hV-auO.title" = "";
