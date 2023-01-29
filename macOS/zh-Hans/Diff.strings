@@ -20,7 +20,7 @@
 "8BS-lV-5rL.ibShadowedToolTip" = "所有 JSON 键都按字母顺序排序。如果更改了 JSON 键顺序，则更容易看到对比";
 
 /* Class = "NSMenuItem"; title = "Sort JSON Key"; ObjectID = "8BS-lV-5rL"; */
-"8BS-lV-5rL.title" = "按字母顺序排序 JSON 密钥";
+"8BS-lV-5rL.title" = "排序 JSON 密钥";
 
 /* Class = "NSTextFieldCell"; title = "Please upgrade your macOS to use this feature (macOS 11.2 or later)."; ObjectID = "8Ul-SW-AQu"; */
 "8Ul-SW-AQu.title" = "请升级您的 macOS 以使用此功能（macOS 11.2 或更高版本）。";
@@ -104,13 +104,13 @@
 "dGM-jm-ZIN.title" = "Unidiff…";
 
 /* Class = "NSButtonCell"; title = "Request"; ObjectID = "f2F-ml-FVZ"; */
-"f2F-ml-FVZ.title" = "Request";
+"f2F-ml-FVZ.title" = "请求";
 
 /* Class = "NSTextFieldCell"; title = "10 matches"; ObjectID = "fBJ-qO-hE9"; */
 "fBJ-qO-hE9.title" = "10 匹配";
 
 /* Class = "NSButtonCell"; title = "Response"; ObjectID = "hQh-ob-KJb"; */
-"hQh-ob-KJb.title" = "Response";
+"hQh-ob-KJb.title" = "响应";
 
 /* Class = "NSMenuItem"; title = "Export"; ObjectID = "iea-xZ-00s"; */
 "iea-xZ-00s.title" = "导出";
@@ -173,7 +173,7 @@
 "bQ4-Wx-xML.headerCell.title" = "URL";
 
 /* Class = "NSMenuItem"; ibShadowedToolTip = "All Header Key are alphabetically sorted. It's easier to see the diff."; ObjectID = "rJb-a0-vkg"; */
-"rJb-a0-vkg.ibShadowedToolTip" = "";
+"rJb-a0-vkg.ibShadowedToolTip" = "所有 Header 键都是按字母排序的。这更容易看到差异。";
 
 /* Class = "NSMenuItem"; title = "Sort Key Header"; ObjectID = "rJb-a0-vkg"; */
-"rJb-a0-vkg.title" = "";
+"rJb-a0-vkg.title" = "排序 Header 键";
