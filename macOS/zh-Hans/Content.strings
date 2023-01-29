@@ -164,13 +164,13 @@
 "zHo-PF-jk2.title" = "保存请求：右键单击 -> 保存";
 
 /* Class = "NSMenuItem"; title = "Option"; ObjectID = "JDK-LH-lmz"; */
-"JDK-LH-lmz.title" = "";
+"JDK-LH-lmz.title" = "选项";
 
 /* Class = "NSMenuItem"; ibShadowedToolTip = "All Ping Pong Websocket Messages are hidden"; ObjectID = "Q2R-qn-tWx"; */
-"Q2R-qn-tWx.ibShadowedToolTip" = "";
+"Q2R-qn-tWx.ibShadowedToolTip" = "所有 Websocket 的 Ping Pong 消息都被隐藏了";
 
 /* Class = "NSMenuItem"; title = "Hide Ping/Pong"; ObjectID = "Q2R-qn-tWx"; */
-"Q2R-qn-tWx.title" = "";
+"Q2R-qn-tWx.title" = "隐藏 Ping/Pong";
 
 /* Class = "NSMenu"; title = "Option"; ObjectID = "WRt-uF-94u"; */
-"WRt-uF-94u.title" = "";
+"WRt-uF-94u.title" = "选项";
