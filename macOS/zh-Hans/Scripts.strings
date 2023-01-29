@@ -17,7 +17,7 @@
 "2WF-c9-ZLL.title" = "脚本和所有导入的文件...";
 
 /* Class = "NSMenuItem"; ibShadowedToolTip = "Import selected file and import to JS Code"; ObjectID = "2bf-R9-Ugc"; */
-"2bf-R9-Ugc.ibShadowedToolTip" = "导入选中的文件并导入到JS代码";
+"2bf-R9-Ugc.ibShadowedToolTip" = "导入选中的文件并导入到 JS 代码";
 
 /* Class = "NSMenuItem"; title = "Import JSON or Other File..."; ObjectID = "2bf-R9-Ugc"; */
 "2bf-R9-Ugc.title" = "导入 JSON 或其他文件...";
@@ -236,7 +236,7 @@
 "r7y-sY-uEN.title" = "文档";
 
 /* Class = "NSMenuItem"; ibShadowedToolTip = "Beautify the current JS Code"; ObjectID = "rKN-8X-nR8"; */
-"rKN-8X-nR8.ibShadowedToolTip" = "美化当前JS代码";
+"rKN-8X-nR8.ibShadowedToolTip" = "美化当前 JS 代码";
 
 /* Class = "NSMenuItem"; title = "Beautify (⌘B)"; ObjectID = "rKN-8X-nR8"; */
 "rKN-8X-nR8.title" = "美化(⌘B)";
