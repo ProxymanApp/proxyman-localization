@@ -515,7 +515,7 @@
 "Could not generate Unidiff!" = "无法生成 Unidiff！";
 
 /* No comment provided by engineer. */
-"Could not generate dynamic certificates for %@.\n\n👉 You might try to re-install the CA Certificate (Certificate Menu -> Reset All -> Install Certificate for this Mac)" = "无法为 %@ 生成动态证书。\\n\\n👉 您可以尝试重新安装 CA 证书（“证书”菜单 ->为此 Mac 安装证书）";
+"Could not generate dynamic certificates for %@.\n\n👉 You might try to re-install the CA Certificate (Certificate Menu -> Reset All -> Install Certificate for this Mac)" = "无法为 %@ 生成动态证书。\\n\\n👉 您可以尝试重新安装 CA 证书（“证书”菜单 ->全部重置 ->为此 Mac 安装证书）";
 
 /* No comment provided by engineer. */
 "Could not import 3rd scripts at %@. Only support @users, @addons and @libs" = "无法在 %@ 处导入第三个脚本。仅支持@users、@addons和@libs";
@@ -896,7 +896,7 @@
 "How to install?" = "如何安装？";
 
 /* No comment provided by engineer. */
-"HTTPS Response" = "HTTPS Response";
+"HTTPS Response" = "HTTPS 响应";
 
 /* No comment provided by engineer. */
 "ID" = "ID";
@@ -2186,58 +2186,58 @@
 "It allows Proxyman capture %@ traffic." = "此标志允许 Proxyman 捕获 %@ 流量。";
 
 /* No comment provided by engineer. */
-" Not ready!" = "";
+" Not ready!" = "未准备好！";
 
 /* No comment provided by engineer. */
-" Open Keychain Access → Search \"Proxyman CA\" → Trust it!" = "";
+" Open Keychain Access → Search \"Proxyman CA\" → Trust it!" = "打开钥匙串访问 → 搜索 \"Proxyman CA\" → 信任它！";
 
 /* No comment provided by engineer. */
-" Permission Required!" = "";
+" Permission Required!" = "需要许可！";
 
 /* No comment provided by engineer. */
-" Proxyman CA is trusted!" = "";
+" Proxyman CA is trusted!" = "Proxyman CA 已被信任！";
 
 /* No comment provided by engineer. */
-"Allow" = "";
+"Allow" = "允许";
 
 /* No comment provided by engineer. */
-"Click to show Proxy Detail!" = "";
+"Click to show Proxy Detail!" = "点击显示代理详情！";
 
 /* No comment provided by engineer. */
-"Connection from \(host)" = "";
+"Connection from \(host)" = "来自 \(host) 的连接";
 
 /* No comment provided by engineer. */
-"Copy IP" = "";
+"Copy IP" = "拷贝 IP";
 
 /* No comment provided by engineer. */
-"Copy Port" = "";
+"Copy Port" = "拷贝端口";
 
 /* No comment provided by engineer. */
-"Could not resolve the host name.\n\n Double check the domain or change DNS Setting might fix it." = "";
+"Could not resolve the host name.\n\n Double check the domain or change DNS Setting might fix it." = "无法解析主机名字。\n\n 双击域名或更改 DNS 设置或许能修复这个问题";
 
 /* No comment provided by engineer. */
-"Deny" = "";
+"Deny" = "拒绝";
 
 /* No comment provided by engineer. */
-"Do you allow this device to connect to Proxyman?\n\n(You can manage the Access Control setting in Tools -> Proxy Setting)" = "";
+"Do you allow this device to connect to Proxyman?\n\n(You can manage the Access Control setting in Tools -> Proxy Setting)" = "您是否允许该设备连接到Proxyman？\n\n（你可以在工具的访问设置中管理 -> 代理设置）";
 
 /* No comment provided by engineer. */
-"Enter IP" = "";
+"Enter IP" = "输入 IP";
 
 /* No comment provided by engineer. */
-"Image Not Supported (\(previewContent.mime.firstComponentName))" = "";
+"Image Not Supported (\(previewContent.mime.firstComponentName))" = "图像不受支持 (\(previewContent.mime.firstComponentName))";
 
 /* No comment provided by engineer. */
-"OK" = "";
+"OK" = "OK";
 
 /* No comment provided by engineer. */
-"Only copy Port" = "";
+"Only copy Port" = "仅拷贝端口";
 
 /* No comment provided by engineer. */
-"Open Login Items…" = "";
+"Open Login Items…" = "打开登录项…";
 
 /* No comment provided by engineer. */
-"Proxyman could not securely establish the SSL Connection with your client. It seems that you haven't installed & trusted the certificate on your device or unknown reasons.\n\nClick the \"Troubleshooting\" button to find a solution." = "";
+"Proxyman could not securely establish the SSL Connection with your client. It seems that you haven't installed & trusted the certificate on your device or unknown reasons.\n\nClick the \"Troubleshooting\" button to find a solution." = "Proxyman 无法安全地与您的客户端建立 SSL 连接。这似乎是因为你没有在设备上安装并信任证书或其它不明原因。\n\n请点击 \"Troubleshooting\" 来寻找解决方案";
 
 /* No comment provided by engineer. */
-"Required your permission to properly work in Login Items" = "";
+"Required your permission to properly work in Login Items" = "需要您的许可才能在登录项中正常工作";
