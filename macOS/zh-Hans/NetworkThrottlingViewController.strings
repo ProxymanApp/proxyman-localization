@@ -95,7 +95,7 @@
 "sm6-NU-Bil.headerToolTip" = "主机和端口";
 
 /* Class = "NSButtonCell"; title = "Active"; ObjectID = "u3I-Jl-6Xx"; */
-"u3I-Jl-6Xx.title" = "积极的";
+"u3I-Jl-6Xx.title" = "活跃";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "uTp-kp-utZ"; */
 "uTp-kp-utZ.title" = "文本单元格";
