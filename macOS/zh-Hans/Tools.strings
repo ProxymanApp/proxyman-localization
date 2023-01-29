@@ -641,7 +641,7 @@
 "pud-ei-tlC.title" = "自上而下匹配规则";
 
 /* Class = "NSTextFieldCell"; title = "Charles Proxy:"; ObjectID = "pwm-eM-r0y"; */
-"pwm-eM-r0y.title" = "Charles代理：";
+"pwm-eM-r0y.title" = "Charles 代理：";
 
 /* Class = "NSTextFieldCell"; title = "Start the breakpoint for out-going request or in-coming response."; ObjectID = "qT1-0Z-4qQ"; */
 "qT1-0Z-4qQ.title" = "为传出请求或传入响应开始断点。";
