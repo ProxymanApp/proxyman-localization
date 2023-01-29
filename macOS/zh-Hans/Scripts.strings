@@ -263,7 +263,7 @@
 "zqy-Ug-Jk0.title" = "空控制台";
 
 /* Class = "NSMenuItem"; ibShadowedToolTip = "Clear all shared State data. It's similar with `clearSharedState()` function"; ObjectID = "ZVw-hV-auO"; */
-"ZVw-hV-auO.ibShadowedToolTip" = "";
+"ZVw-hV-auO.ibShadowedToolTip" = "清除所有共享状态数据。这与 `clearSharedState()` 函数类似";
 
 /* Class = "NSMenuItem"; title = "Reset Shared State"; ObjectID = "ZVw-hV-auO"; */
-"ZVw-hV-auO.title" = "";
+"ZVw-hV-auO.title" = "重置共享状态";
