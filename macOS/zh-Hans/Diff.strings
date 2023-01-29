@@ -38,7 +38,7 @@
 "Arj-8y-dvg.title" = "搜索";
 
 /* Class = "NSSearchFieldCell"; placeholderString = "Filter (Show: ⌘F, Hide: ESC)"; ObjectID = "GHg-fL-o30"; */
-"GHg-fL-o30.placeholderString" = "过滤器（显示：⌘F，隐藏：ESC）";
+"GHg-fL-o30.placeholderString" = "筛选器（显示：⌘F，隐藏：ESC）";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "JQf-ZL-mlv"; */
 "JQf-ZL-mlv.title" = "文本单元格";
