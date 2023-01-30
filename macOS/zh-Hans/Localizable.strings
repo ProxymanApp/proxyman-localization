@@ -1703,13 +1703,13 @@
 "Run onRequest() func as normal (sync) mode" = "运行 onRequest（） func 作为正常（同步）模式";
 
 /* No comment provided by engineer. */
-"Run onRequest() func with async/await mode" = "运行 onRequest（） func with async/await mode";
+"Run onRequest() func with async/await mode" = "与 async/await 模式一起运行 onRequest（） func";
 
 /* No comment provided by engineer. */
-"Run onResponse() func as normal (sync) mode" = "运行 onResponse（） func as normal （sync） mode";
+"Run onResponse() func as normal (sync) mode" = "运行 onResponse（） func 作为正常（同步）模式";
 
 /* No comment provided by engineer. */
-"Run onResponse() func with async/await mode" = "运行 onResponse（） func with async/await mode";
+"Run onResponse() func with async/await mode" = "与 async/await 模式一起运行 onResponse（） func";
 
 /* No comment provided by engineer. */
 "Safari will request your permission to install the 'Proxyman CA' certificate." = "Safari 浏览器将请求您安装“Proxyman CA”证书的许可。";
