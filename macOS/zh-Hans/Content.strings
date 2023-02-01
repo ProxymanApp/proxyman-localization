@@ -50,10 +50,10 @@
 "Mos-7C-6hY.title" = "文本";
 
 /* Class = "NSPopUpButton"; ibShadowedToolTip = "Filter the type of Socket Message (All, Sent or Receive)"; ObjectID = "Nth-Iy-aEH"; */
-"Nth-Iy-aEH.ibShadowedToolTip" = "过滤套接字消息的类型（全部、发送或接收）";
+"Nth-Iy-aEH.ibShadowedToolTip" = "筛选套接字消息的类型（全部、发送或接收）";
 
 /* Class = "NSButtonCell"; title = "Reset Filters"; ObjectID = "QUy-fo-bK2"; */
-"QUy-fo-bK2.title" = "重置过滤器";
+"QUy-fo-bK2.title" = "重置筛选器";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "R4o-gD-QYY"; */
 "R4o-gD-QYY.title" = "文本单元格";
@@ -110,7 +110,7 @@
 "mxg-ha-EYq.title" = "删除";
 
 /* Class = "NSTextFieldCell"; title = "Filter: JSON && 1xx"; ObjectID = "neM-D1-qAe"; */
-"neM-D1-qAe.title" = "过滤器：JSON && 1xx";
+"neM-D1-qAe.title" = "筛选器：JSON && 1xx";
 
 /* Class = "NSTextFieldCell"; title = "Status Code:"; ObjectID = "nzN-Q2-GcP"; */
 "nzN-Q2-GcP.title" = "状态代码：";
@@ -164,13 +164,13 @@
 "zHo-PF-jk2.title" = "保存请求：右键单击 -> 保存";
 
 /* Class = "NSMenuItem"; title = "Option"; ObjectID = "JDK-LH-lmz"; */
-"JDK-LH-lmz.title" = "";
+"JDK-LH-lmz.title" = "选项";
 
 /* Class = "NSMenuItem"; ibShadowedToolTip = "All Ping Pong Websocket Messages are hidden"; ObjectID = "Q2R-qn-tWx"; */
-"Q2R-qn-tWx.ibShadowedToolTip" = "";
+"Q2R-qn-tWx.ibShadowedToolTip" = "所有 Websocket 的 Ping Pong 消息都被隐藏了";
 
 /* Class = "NSMenuItem"; title = "Hide Ping/Pong"; ObjectID = "Q2R-qn-tWx"; */
-"Q2R-qn-tWx.title" = "";
+"Q2R-qn-tWx.title" = "隐藏 Ping/Pong";
 
 /* Class = "NSMenu"; title = "Option"; ObjectID = "WRt-uF-94u"; */
-"WRt-uF-94u.title" = "";
+"WRt-uF-94u.title" = "选项";

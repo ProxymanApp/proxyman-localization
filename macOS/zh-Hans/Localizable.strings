@@ -173,7 +173,7 @@
 "<your_production_domain>" = "<your_production_domain>";
 
 /* No comment provided by engineer. */
-"Able to see HTTPS response. Tap to disable" = "能够看到HTTPS响应。点击以禁用";
+"Able to see HTTPS response. Tap to disable" = "能够看到 HTTPS 响应。点击以禁用";
 
 /* No comment provided by engineer. */
 "Aborted by Breakpoint" = "由断点中止";
@@ -182,7 +182,7 @@
 "Active" = "积极";
 
 /* No comment provided by engineer. */
-"Active Filters: %@" = "已启用过滤器：%@";
+"Active Filters: %@" = "已启用筛选器：%@";
 
 /* No comment provided by engineer. */
 "Add" = "加";
@@ -299,7 +299,7 @@
 "Blue" = "蓝色";
 
 /* No comment provided by engineer. */
-"Body" = "Body";
+"Body" = "正文";
 
 /* No comment provided by engineer. */
 "Body over 5Mb hidden for performance reasons" = "出于性能考量，隐藏超过5Mb 的正文";
@@ -515,7 +515,7 @@
 "Could not generate Unidiff!" = "无法生成 Unidiff！";
 
 /* No comment provided by engineer. */
-"Could not generate dynamic certificates for %@.\n\n👉 You might try to re-install the CA Certificate (Certificate Menu -> Reset All -> Install Certificate for this Mac)" = "无法为 %@ 生成动态证书。\\n\\n👉 您可以尝试重新安装 CA 证书（“证书”菜单 ->为此 Mac 安装证书）";
+"Could not generate dynamic certificates for %@.\n\n👉 You might try to re-install the CA Certificate (Certificate Menu -> Reset All -> Install Certificate for this Mac)" = "无法为 %@ 生成动态证书。\\n\\n👉 您可以尝试重新安装 CA 证书（“证书”菜单 ->全部重置 ->为此 Mac 安装证书）";
 
 /* No comment provided by engineer. */
 "Could not import 3rd scripts at %@. Only support @users, @addons and @libs" = "无法在 %@ 处导入第三个脚本。仅支持@users、@addons和@libs";
@@ -704,7 +704,7 @@
 "Edited" = "编辑过";
 
 /* No comment provided by engineer. */
-"Empty Body" = "空体";
+"Empty Body" = "空";
 
 /* No comment provided by engineer. */
 "Empty Form URL-Encoding Data" = "空表单 URL 编码数据";
@@ -824,7 +824,7 @@
 "FileMerge requires two diff files!" = "FileMerge 需要两个 diff 文件！";
 
 /* No comment provided by engineer. */
-"Filter" = "过滤器";
+"Filter" = "筛选器";
 
 /* No comment provided by engineer. */
 "Find in..." = "查找到...";
@@ -875,7 +875,7 @@
 "Haven't supported: Convert from %@ to Proxyman Type. Please open the Ticket on Github for feature requests." = "不支持：从 %@ 转换为代理类型。请在 Github 上打开票证以请求功能。";
 
 /* No comment provided by engineer. */
-"Header" = "Header";
+"Header" = "标头";
 
 /* No comment provided by engineer. */
 "Hide" = "隐藏";
@@ -890,13 +890,13 @@
 "Host" = "主机";
 
 /* No comment provided by engineer. */
-"Host Header" = "Host Header";
+"Host Header" = "主机标头";
 
 /* No comment provided by engineer. */
 "How to install?" = "如何安装？";
 
 /* No comment provided by engineer. */
-"HTTPS Response" = "HTTPS Response";
+"HTTPS Response" = "HTTPS 响应";
 
 /* No comment provided by engineer. */
 "ID" = "ID";
@@ -1079,7 +1079,7 @@
 "Key" = "我？";
 
 /* No comment provided by engineer. */
-"Later" = "后";
+"Later" = "以后";
 
 /* No comment provided by engineer. */
 "Learn how to use Filter with JSON Path..." = "了解如何将筛选器与 JSON 路径结合使用...";
@@ -1130,7 +1130,7 @@
 "Malformed jwt token, failed to parse JSON value from base64Url %@" = "格式错误的 jwt 令牌，无法从 base64Url 解析 JSON 值 %@";
 
 /* No comment provided by engineer. */
-"Manager Header Columns…" = "管理器标题列...";
+"Manager Header Columns…" = "管理器标头列...";
 
 /* No comment provided by engineer. */
 "Manual…" = "使用手册...";
@@ -1559,7 +1559,7 @@
 "Replace" = "取代";
 
 /* No comment provided by engineer. */
-"Request" = "Request";
+"Request" = "请求";
 
 /* No comment provided by engineer. */
 "Request & Response panels are hidden!" = "请求和响应面板被隐藏了！";
@@ -1586,7 +1586,7 @@
 "Request Body..." = "请求正文...";
 
 /* No comment provided by engineer. */
-"Request Cookie" = "Request Cookie";
+"Request Cookie" = "请求 Cookie";
 
 /* No comment provided by engineer. */
 "Request End Time" = "请求结束时间";
@@ -1628,7 +1628,7 @@
 "Reset to the original columns state" = "重置为原始列状态";
 
 /* No comment provided by engineer. */
-"Response" = "Response";
+"Response" = "响应";
 
 /* No comment provided by engineer. */
 "Response Body" = "响应正文";
@@ -1652,7 +1652,7 @@
 "Response Code" = "响应代码";
 
 /* No comment provided by engineer. */
-"Response Cookie" = "Response Cookie";
+"Response Cookie" = "响应 Cookie";
 
 /* No comment provided by engineer. */
 "Response End Time" = "响应结束时间";
@@ -1703,13 +1703,13 @@
 "Run onRequest() func as normal (sync) mode" = "运行 onRequest（） func 作为正常（同步）模式";
 
 /* No comment provided by engineer. */
-"Run onRequest() func with async/await mode" = "Run onRequest（） func with async/await mode";
+"Run onRequest() func with async/await mode" = "与 async/await 模式一起运行 onRequest（） func";
 
 /* No comment provided by engineer. */
-"Run onResponse() func as normal (sync) mode" = "运行 onResponse（） func as normal （sync） mode";
+"Run onResponse() func as normal (sync) mode" = "运行 onResponse（） func 作为正常（同步）模式";
 
 /* No comment provided by engineer. */
-"Run onResponse() func with async/await mode" = "Run onResponse（） func with async/await mode";
+"Run onResponse() func with async/await mode" = "与 async/await 模式一起运行 onResponse（） func";
 
 /* No comment provided by engineer. */
 "Safari will request your permission to install the 'Proxyman CA' certificate." = "Safari 浏览器将请求您安装“Proxyman CA”证书的许可。";
@@ -1769,7 +1769,7 @@
 "Show Anyway" = "仍然显示";
 
 /* No comment provided by engineer. */
-"Show Filter" = "显示过滤器";
+"Show Filter" = "显示筛选器";
 
 /* No comment provided by engineer. */
 "Show in Finder…" = "在 Finder 中显示...";
@@ -2048,13 +2048,13 @@
 "You can remove a license by opening Proxyman app -> Proxyman Menu -> License -> Unlink..." = "您可以通过打开 Proxyman 应用程序 -> Proxyman 菜单 -> 许可证 -> 取消链接来删除许可证...";
 
 /* No comment provided by engineer. */
-"You have reached the limit of free favorite items" = "您已达到免费收藏夹项目的限制";
+"You have reached the limit of free favorite items" = "您已达到免费版收藏夹项目的上限";
 
 /* No comment provided by engineer. */
-"You have reached the limit of free rules\n(Limit at %d)" = "您已达到可用规则的限制\\n（限制在 %d 处）";
+"You have reached the limit of free rules\n(Limit at %d)" = "您已达到免费版可用规则的上限\\n（限制在 %d 处）";
 
 /* No comment provided by engineer. */
-"You have reached the limit of free tabs" = "您已达到免费标签页的限制";
+"You have reached the limit of free tabs" = "您已达到免费版标签页数量的上线";
 
 /* No comment provided by engineer. */
 "You have reached the limit of number of multiple filters\n(Limit at %d)" = "已达到多个筛选器数的限制\\n（限制为 %d）";
@@ -2063,7 +2063,7 @@
 "You may need to config your browser or application to trust Proxyman CA Certificate or Disable SSL Certificate Pinning on the Client if need" = "如果需要，您可能需要将浏览器或应用程序配置为信任 Proxyman CA 证书或禁用客户端上的 SSL 证书固定";
 
 /* No comment provided by engineer. */
-"You might replace the current tab or Upgrade to Premium version to unlock unlimited tabs." = "您可以替换当前选项卡或升级到高级版本以解锁无限选项卡。";
+"You might replace the current tab or Upgrade to Premium version to unlock unlimited tabs." = "替换当前选项卡或升级到高级版本以解除标签页数量限制。";
 
 /* No comment provided by engineer. */
 "You're already Authorized with Github" = "您已经获得了 Github 的授权";
@@ -2099,13 +2099,13 @@
 "❌ Error: %@" = "❌ 错误： %@";
 
 /* No comment provided by engineer. */
-"👉 Extend your license to add new devices.\n\n👉 Remove your old devices by License Manager.\n\n📮 Contact support@proxyman.io for further supports." = "👉 扩展许可证以添加新设备。\\n\\n👉 通过许可证管理器删除旧设备。\\n\\n📮请与 support@proxyman.io 联系以获取进一步支持。";
+"👉 Extend your license to add new devices.\n\n👉 Remove your old devices by License Manager.\n\n📮 Contact support@proxyman.io for further supports." = "👉 升级许可证以添加新设备。\\n\\n👉 通过许可证管理器删除旧设备。\\n\\n📮联系 support@proxyman.io 以获取进一步支持。";
 
 /* No comment provided by engineer. */
-"👉 Renew your license to download the latest build and get a year’s worth of updates." = "👉 续订许可证以下载最新版本并获得一年的更新。";
+"👉 Renew your license to download the latest build and get a year’s worth of updates." = "👉 续期许可证以下载最新版本并获得一年的更新。";
 
 /* No comment provided by engineer. */
-"👉 Renew your license to use on latest builds.\n\n👉 Download old build for this expired key.\n\n📮 Contact support@proxyman.io for further supports." = "👉 续订许可证以在最新版本上使用。\\n\\n👉 下载此过期密钥的旧内部版本。\\n\\n📮联系 support@proxyman.io 以获取进一步支持。";
+"👉 Renew your license to use on latest builds.\n\n👉 Download old build for this expired key.\n\n📮 Contact support@proxyman.io for further supports." = "👉 续期许可证以在最新版本上使用。\\n\\n👉 下载此过期密钥的旧版本。\\n\\n📮联系 support@proxyman.io 以获取进一步支持。";
 
 /* No comment provided by engineer. */
 "📱 iOS Setup Guide" = "📱 iOS 设置指南";
@@ -2114,7 +2114,7 @@
 "🤖 Android Emulator Setup Guide" = "🤖 Android 模拟器设置指南";
 
 /* No comment provided by engineer. */
-"🤖 Android Setup Guide" = "🤖 安卓设置指南";
+"🤖 Android Setup Guide" = "🤖 Android 设置指南";
 
 /* No comment provided by engineer. */
 "Advanced" = "高级";
@@ -2186,58 +2186,58 @@
 "It allows Proxyman capture %@ traffic." = "此标志允许 Proxyman 捕获 %@ 流量。";
 
 /* No comment provided by engineer. */
-" Not ready!" = "";
+" Not ready!" = "未准备好！";
 
 /* No comment provided by engineer. */
-" Open Keychain Access → Search \"Proxyman CA\" → Trust it!" = "";
+" Open Keychain Access → Search \"Proxyman CA\" → Trust it!" = "打开钥匙串访问 → 搜索 \"Proxyman CA\" → 信任它！";
 
 /* No comment provided by engineer. */
-" Permission Required!" = "";
+" Permission Required!" = "需要许可！";
 
 /* No comment provided by engineer. */
-" Proxyman CA is trusted!" = "";
+" Proxyman CA is trusted!" = "Proxyman CA 已被信任！";
 
 /* No comment provided by engineer. */
-"Allow" = "";
+"Allow" = "允许";
 
 /* No comment provided by engineer. */
-"Click to show Proxy Detail!" = "";
+"Click to show Proxy Detail!" = "点击显示代理详情！";
 
 /* No comment provided by engineer. */
-"Connection from \(host)" = "";
+"Connection from \(host)" = "来自 \(host) 的连接";
 
 /* No comment provided by engineer. */
-"Copy IP" = "";
+"Copy IP" = "拷贝 IP";
 
 /* No comment provided by engineer. */
-"Copy Port" = "";
+"Copy Port" = "拷贝端口";
 
 /* No comment provided by engineer. */
-"Could not resolve the host name.\n\n Double check the domain or change DNS Setting might fix it." = "";
+"Could not resolve the host name.\n\n Double check the domain or change DNS Setting might fix it." = "无法解析主机名字。\n\n 双击域名或更改 DNS 设置或许能修复这个问题";
 
 /* No comment provided by engineer. */
-"Deny" = "";
+"Deny" = "拒绝";
 
 /* No comment provided by engineer. */
-"Do you allow this device to connect to Proxyman?\n\n(You can manage the Access Control setting in Tools -> Proxy Setting)" = "";
+"Do you allow this device to connect to Proxyman?\n\n(You can manage the Access Control setting in Tools -> Proxy Setting)" = "您是否允许该设备连接到Proxyman？\n\n（你可以在工具的访问设置中管理 -> 代理设置）";
 
 /* No comment provided by engineer. */
-"Enter IP" = "";
+"Enter IP" = "输入 IP";
 
 /* No comment provided by engineer. */
-"Image Not Supported (\(previewContent.mime.firstComponentName))" = "";
+"Image Not Supported (\(previewContent.mime.firstComponentName))" = "图像不受支持 (\(previewContent.mime.firstComponentName))";
 
 /* No comment provided by engineer. */
-"OK" = "";
+"OK" = "OK";
 
 /* No comment provided by engineer. */
-"Only copy Port" = "";
+"Only copy Port" = "仅拷贝端口";
 
 /* No comment provided by engineer. */
-"Open Login Items…" = "";
+"Open Login Items…" = "打开登录项…";
 
 /* No comment provided by engineer. */
-"Proxyman could not securely establish the SSL Connection with your client. It seems that you haven't installed & trusted the certificate on your device or unknown reasons.\n\nClick the \"Troubleshooting\" button to find a solution." = "";
+"Proxyman could not securely establish the SSL Connection with your client. It seems that you haven't installed & trusted the certificate on your device or unknown reasons.\n\nClick the \"Troubleshooting\" button to find a solution." = "Proxyman 无法安全地与您的客户端建立 SSL 连接。这似乎是因为你没有在设备上安装并信任证书或其它不明原因。\n\n请点击 \"Troubleshooting\" 来寻找解决方案";
 
 /* No comment provided by engineer. */
-"Required your permission to properly work in Login Items" = "";
+"Required your permission to properly work in Login Items" = "需要您的许可才能在登录项中正常工作";

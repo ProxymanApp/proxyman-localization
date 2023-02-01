@@ -11,4 +11,4 @@
 "jr3-Dm-cgC.title" = "不区分大小写";
 
 /* Class = "NSSearchFieldCell"; placeholderString = "Filter (Show: ⌘F, Hide: ESC)"; ObjectID = "zZC-xQ-1AV"; */
-"zZC-xQ-1AV.placeholderString" = "过滤器（显示：⌘F，隐藏：ESC）";
+"zZC-xQ-1AV.placeholderString" = "筛选器（显示：⌘F，隐藏：ESC）";

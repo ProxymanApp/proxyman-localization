@@ -71,7 +71,7 @@
 "hTT-zk-pkP.title" = "新建文件夹";
 
 /* Class = "NSButtonCell"; title = "Filter"; ObjectID = "hX2-RQ-lTw"; */
-"hX2-RQ-lTw.title" = "过滤";
+"hX2-RQ-lTw.title" = "筛选";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "ihN-oc-318"; */
 "ihN-oc-318.title" = "文本单元格";

@@ -1028,16 +1028,16 @@
 "sEj-5w-peJ.title" = "脚本";
 
 /* Class = "NSMenuItem"; title = "Protobuf…"; ObjectID = "9Eq-oO-pF6"; */
-"9Eq-oO-pF6.title" = "";
+"9Eq-oO-pF6.title" = "Protobuf…";
 
 /* Class = "NSMenuItem"; title = "NodeJS…"; ObjectID = "Geb-Vv-nny"; */
-"Geb-Vv-nny.title" = "";
+"Geb-Vv-nny.title" = "NodeJS…";
 
 /* Class = "NSMenuItem"; ibShadowedToolTip = "Display invisible characters in the Request/Response panels. e.g. New Line, Whitespace, Controls, Nonspacing, etc"; ObjectID = "OId-5B-2WD"; */
-"OId-5B-2WD.ibShadowedToolTip" = "";
+"OId-5B-2WD.ibShadowedToolTip" = "在请求/响应面板中显示不可见的字符，如换行、空格、非间隔等。";
 
 /* Class = "NSMenuItem"; title = "Show Invisibles"; ObjectID = "OId-5B-2WD"; */
-"OId-5B-2WD.title" = "";
+"OId-5B-2WD.title" = "显示不可见的字符";
 
 /* Class = "NSMenuItem"; title = "Access Control…"; ObjectID = "URZ-dx-YL1"; */
-"URZ-dx-YL1.title" = "";
+"URZ-dx-YL1.title" = "访问控制…";

@@ -11,7 +11,7 @@
 "247-Ze-atF.title" = "窗口";
 
 /* Class = "NSButtonCell"; title = "Your certificate doesn't comply new Apple Security Requirement (https://support.apple.com/en-us/HT210176)"; ObjectID = "27z-Ia-iWs"; */
-"27z-Ia-iWs.title" = "您的证书不符合新的 Apple 安全要求 (https://support.apple.com/en-us/HT210176)";
+"27z-Ia-iWs.title" = "您的证书不符合最新的 Apple 安全要求 (https://support.apple.com/en-us/HT210176)";
 
 /* Class = "NSButtonCell"; title = " Installed and Trusted"; ObjectID = "28I-42-dde"; */
 "28I-42-dde.title" = " 已安装且受信任";
@@ -41,7 +41,7 @@
 "3Gf-lf-931.title" = "表格视图单元格";
 
 /* Class = "NSTextFieldCell"; title = "3.1: Add res/xml/network_security_config.xml"; ObjectID = "3Qo-NJ-51Z"; */
-"3Qo-NJ-51Z.title" = "3.1：添加res/xml/network_security_config.xml";
+"3Qo-NJ-51Z.title" = "3.1：添加 res/xml/network_security_config.xml";
 
 /* Class = "NSButtonCell"; title = "Button"; ObjectID = "3me-kK-BKu"; */
 "3me-kK-BKu.title" = "按钮";
@@ -65,13 +65,13 @@
 "5ta-i9-je0.title" = "打开设置应用程序 -> 安全 -> 加密和凭据 -> 安装证书 -> CA 证书";
 
 /* Class = "NSTextFieldCell"; title = "Please find your current IP Address by holding Option and Click on Wifi Icon on the System Menu"; ObjectID = "65e-73-Q0G"; */
-"65e-73-Q0G.title" = "请按住Option并点击系统菜单上的Wifi图标找到您当前的IP地址";
+"65e-73-Q0G.title" = "请按住Option并点击系统菜单上的 Wi-Fi 图标找到您当前的 IP 地址";
 
 /* Class = "NSButtonCell"; title = "Missing Extend Service"; ObjectID = "6IL-OC-fe9"; */
 "6IL-OC-fe9.title" = "缺少扩展服务";
 
 /* Class = "NSTextFieldCell"; title = "2. Config Wifi Proxy on iOS devices to Proxyman"; ObjectID = "6Q0-Uk-SPu"; */
-"6Q0-Uk-SPu.title" = "2. 将 iOS 设备上的 Wifi 代理配置为 Proxyman";
+"6Q0-Uk-SPu.title" = "2. 将 iOS 设备上的 Wi-Fi 代理配置为 Proxyman";
 
 /* Class = "NSSegmentedCell"; 6SF-97-tXk.ibShadowedLabels[0] = "Override Emulator"; ObjectID = "6SF-97-tXk"; */
 "6SF-97-tXk.ibShadowedLabels[0]" = "覆盖模拟器";
@@ -263,7 +263,7 @@
 "T5n-el-xqE.title" = "适用于使用相互认证的客户端";
 
 /* Class = "NSTextFieldCell"; title = "2. Trust the Proxyman CA Certificate in Keychain"; ObjectID = "TOz-b0-cls"; */
-"TOz-b0-cls.title" = "2. 信任 Keychain 中的 Proxyman CA 证书";
+"TOz-b0-cls.title" = "2. 信任钥匙串中的 Proxyman CA 证书";
 
 /* Class = "NSTextFieldCell"; title = "Please follow 2 steps to Install and Trust Proxyman Certificate in your iOS devices:"; ObjectID = "TVb-Wg-hL7"; */
 "TVb-Wg-hL7.title" = "请按照 2 个步骤在您的 iOS 设备中安装和信任 Proxyman 证书：";
@@ -341,7 +341,7 @@
 "c1O-gs-Kwe.title" = "安装和信任证书";
 
 /* Class = "NSTextFieldCell"; title = "Make sure you remove these configs from your Production build."; ObjectID = "cL1-xa-8ps"; */
-"cL1-xa-8ps.title" = "确保从您的生产版本中删除这些配置。";
+"cL1-xa-8ps.title" = "确保从您的发布版本中删除这些配置。";
 
 /* Class = "NSButtonCell"; title = "Revert Override"; ObjectID = "cg8-Up-CiV"; */
 "cg8-Up-CiV.title" = "恢复覆盖";
@@ -356,10 +356,10 @@
 "eQH-Rs-8y4.title" = "8080";
 
 /* Class = "NSButtonCell"; title = "Install Certificate "; ObjectID = "eTM-Vw-U40"; */
-"eTM-Vw-U40.title" = "安装根证书";
+"eTM-Vw-U40.title" = "安装证书";
 
 /* Class = "NSTextFieldCell"; title = "Setting app > General > About "; ObjectID = "f9c-r2-itF"; */
-"f9c-r2-itF.title" = "设置应用>通用>关于";
+"f9c-r2-itF.title" = "设置应用 > 通用 > 关于";
 
 /* Class = "NSTextFieldCell"; title = "Replace <your_production_domain> with your domains that you would intercept:"; ObjectID = "faQ-pI-rif"; */
 "faQ-pI-rif.title" = "将 <your_production_domain> 替换为您要拦截的域：";

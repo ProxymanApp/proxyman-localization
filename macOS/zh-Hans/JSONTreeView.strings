@@ -5,7 +5,7 @@
 "1lu-ZJ-PQ4.title" = "文本单元格";
 
 /* Class = "NSButtonCell"; title = "Learn how to use Filter with Key Path..."; ObjectID = "3mm-s7-79e"; */
-"3mm-s7-79e.title" = "了解如何使用带键路径的过滤器...";
+"3mm-s7-79e.title" = "了解如何使用带键路径的筛选器...";
 
 /* Class = "NSTableColumn"; headerCell.title = "Key"; ObjectID = "9qQ-Zb-W6P"; */
 "9qQ-Zb-W6P.headerCell.title" = "键";
