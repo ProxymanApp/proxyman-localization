@@ -17,7 +17,7 @@
 "2WF-c9-ZLL.title" = "脚本和所有导入的文件...";
 
 /* Class = "NSMenuItem"; ibShadowedToolTip = "Import selected file and import to JS Code"; ObjectID = "2bf-R9-Ugc"; */
-"2bf-R9-Ugc.ibShadowedToolTip" = "导入选中的文件并导入到JS代码";
+"2bf-R9-Ugc.ibShadowedToolTip" = "导入选中的文件并导入到 JS 代码";
 
 /* Class = "NSMenuItem"; title = "Import JSON or Other File..."; ObjectID = "2bf-R9-Ugc"; */
 "2bf-R9-Ugc.title" = "导入 JSON 或其他文件...";
@@ -134,7 +134,7 @@
 "VND-zn-vZa.placeholderString" = "api.proxyman.io/v1/*";
 
 /* Class = "NSButtonCell"; title = "Filter"; ObjectID = "Xgd-Wq-j8M"; */
-"Xgd-Wq-j8M.title" = "过滤器";
+"Xgd-Wq-j8M.title" = "筛选器";
 
 /* Class = "NSButtonCell"; title = "Response"; ObjectID = "Xu2-KD-YTP"; */
 "Xu2-KD-YTP.title" = "Response";
@@ -236,7 +236,7 @@
 "r7y-sY-uEN.title" = "文档";
 
 /* Class = "NSMenuItem"; ibShadowedToolTip = "Beautify the current JS Code"; ObjectID = "rKN-8X-nR8"; */
-"rKN-8X-nR8.ibShadowedToolTip" = "美化当前JS代码";
+"rKN-8X-nR8.ibShadowedToolTip" = "美化当前 JS 代码";
 
 /* Class = "NSMenuItem"; title = "Beautify (⌘B)"; ObjectID = "rKN-8X-nR8"; */
 "rKN-8X-nR8.title" = "美化(⌘B)";
@@ -261,3 +261,9 @@
 
 /* Class = "NSTextFieldCell"; title = "Empty Console"; ObjectID = "zqy-Ug-Jk0"; */
 "zqy-Ug-Jk0.title" = "空控制台";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Clear all shared State data. It's similar with `clearSharedState()` function"; ObjectID = "ZVw-hV-auO"; */
+"ZVw-hV-auO.ibShadowedToolTip" = "清除所有共享状态数据。这与 `clearSharedState()` 函数类似";
+
+/* Class = "NSMenuItem"; title = "Reset Shared State"; ObjectID = "ZVw-hV-auO"; */
+"ZVw-hV-auO.title" = "重置共享状态";

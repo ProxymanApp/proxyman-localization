@@ -14,7 +14,7 @@
 "5gR-Mc-gr3.title" = "从Charles代理...";
 
 /* Class = "NSMenuItem"; ibShadowedToolTip = "Open App/Domain Search filter (⌘N)"; ObjectID = "5yH-5N-WzL"; */
-"5yH-5N-WzL.ibShadowedToolTip" = "打开应用程序/域搜索过滤器 (⌘N)";
+"5yH-5N-WzL.ibShadowedToolTip" = "打开应用程序/域搜索筛选器 (⌘N)";
 
 /* Class = "NSMenuItem"; title = "Add App / Domain..."; ObjectID = "5yH-5N-WzL"; */
 "5yH-5N-WzL.title" = "添加应用程序/域...";
@@ -23,7 +23,7 @@
 "Am8-VF-HLZ.headerToolTip" = "启用/禁用此条目";
 
 /* Class = "NSMenuItem"; ibShadowedToolTip = "Open App/Domain Search filter (⌘N)"; ObjectID = "CRt-Xz-Wed"; */
-"CRt-Xz-Wed.ibShadowedToolTip" = "打开应用程序/域搜索过滤器 (⌘N)";
+"CRt-Xz-Wed.ibShadowedToolTip" = "打开应用程序/域搜索筛选器 (⌘N)";
 
 /* Class = "NSMenuItem"; title = "Add App / Domain..."; ObjectID = "CRt-Xz-Wed"; */
 "CRt-Xz-Wed.title" = "添加应用程序/域...";
@@ -44,7 +44,7 @@
 "GdB-zT-V2t.title" = "删除";
 
 /* Class = "NSMenuItem"; ibShadowedToolTip = "Open App/Domain Search filter (⌘N)"; ObjectID = "IkN-fr-YkW"; */
-"IkN-fr-YkW.ibShadowedToolTip" = "打开应用程序/域搜索过滤器 (⌘N)";
+"IkN-fr-YkW.ibShadowedToolTip" = "打开应用程序/域搜索筛选器 (⌘N)";
 
 /* Class = "NSMenuItem"; title = "Add App / Domain..."; ObjectID = "IkN-fr-YkW"; */
 "IkN-fr-YkW.title" = "添加应用程序/域...";

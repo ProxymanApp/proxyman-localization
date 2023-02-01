@@ -5,7 +5,7 @@
 "Rft-yL-qk6.title" = "方法";
 
 /* Class = "NSSearchFieldCell"; placeholderString = "Filter (Show: ⌘F, Hide: ESC)"; ObjectID = "Xyr-um-ozo"; */
-"Xyr-um-ozo.placeholderString" = "过滤器（显示：⌘F，隐藏：ESC）";
+"Xyr-um-ozo.placeholderString" = "筛选器（显示：⌘F，隐藏：ESC）";
 
 /* Class = "NSMenuItem"; title = "Name"; ObjectID = "gsz-VC-UKv"; */
 "gsz-VC-UKv.title" = "名称";

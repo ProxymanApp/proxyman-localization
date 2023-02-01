@@ -7,8 +7,8 @@
 /* Class = "NSViewController"; title = "License"; ObjectID = "1D9-Iv-Gsp"; */
 "1D9-Iv-Gsp.title" = "许可证";
 
-/* Class = "NSTextFieldCell"; title = "© 2022 Proxyman LLC"; ObjectID = "1Fq-MH-826"; */
-"1Fq-MH-826.title" = "© 2022 Proxyman LLC";
+/* Class = "NSTextFieldCell"; title = "© 2023 Proxyman LLC"; ObjectID = "1Fq-MH-826"; */
+"1Fq-MH-826.title" = "© 2023 Proxyman LLC";
 
 /* Class = "NSButtonCell"; title = "Display Full Time Format"; ObjectID = "1xc-Rq-yug"; */
 "1xc-Rq-yug.title" = "显示完整时间格式";
@@ -18,9 +18,6 @@
 
 /* Class = "NSButtonCell"; title = "Append Proxyman Headers to matched flows"; ObjectID = "2Ec-LR-DO9"; */
 "2Ec-LR-DO9.title" = "在匹配的工作流中添加 Proxyman 的标头";
-
-/* Class = "NSButtonCell"; title = "Hide Proxyman Dock Icon"; ObjectID = "2GF-b9-g1t"; */
-"2GF-b9-g1t.title" = "隐藏 Proxyman 程序坞图标";
 
 /* Class = "NSTextFieldCell"; title = "~/Desktop"; ObjectID = "2Zj-jQ-RO4"; */
 "2Zj-jQ-RO4.title" = "〜/桌面";
@@ -112,14 +109,14 @@
 /* Class = "NSMenuItem"; title = "More"; ObjectID = "EBU-HH-AYP"; */
 "EBU-HH-AYP.title" = "更多";
 
-/* Class = "NSButtonCell"; title = " Remember and Restore to your previous Proxy setting"; ObjectID = "EHm-bg-ulm"; */
+/* Class = "NSButtonCell"; title = " Persist and Restore to your previous Proxy setting"; ObjectID = "EHm-bg-ulm"; */
 "EHm-bg-ulm.title" = " 记住并恢复到您之前的代理设置";
 
-/* Class = "NSTextFieldCell"; title = "Version 1.3.0"; ObjectID = "ET3-Tc-Zjs"; */
-"ET3-Tc-Zjs.title" = "版本 1.3.0";
+/* Class = "NSTextFieldCell"; title = "Version 1.4.0"; ObjectID = "ET3-Tc-Zjs"; */
+"ET3-Tc-Zjs.title" = "版本 1.4.0";
 
 /* Class = "NSMenu"; title = "Action"; ObjectID = "EoZ-nI-IvY"; */
-"EoZ-nI-IvY.title" = "动作";
+"EoZ-nI-IvY.title" = "操作";
 
 /* Class = "NSMenuItem"; title = "11"; ObjectID = "EvB-M6-TBJ"; */
 "EvB-M6-TBJ.title" = "11";
@@ -478,7 +475,7 @@
 /* Class = "NSMenuItem"; title = "Root Certificate as DER..."; ObjectID = "mQ9-8L-NnV"; */
 "mQ9-8L-NnV.title" = "根证书为 DER...";
 
-/* Class = "NSButtonCell"; title = "Your HTTP/HTTPS Proxy is currently overridden by networksetup CLI. It works, but slow!"; ObjectID = "n1w-sh-rbz"; */
+/* Class = "NSButtonCell"; title = "Your HTTP/HTTPS Proxy is currently overridden by `networksetup` CLI. It works, but slow!"; ObjectID = "n1w-sh-rbz"; */
 "n1w-sh-rbz.title" = "您的 HTTP/HTTPS 代理当前被 networksetup CLI 覆盖。它可以工作，但速度很慢！";
 
 /* Class = "NSTextFieldCell"; title = "Scripting:"; ObjectID = "of6-tn-K4d"; */
@@ -621,3 +618,39 @@
 
 /* Class = "NSTextFieldCell"; title = "(Require Restart App!)"; ObjectID = "sWT-ah-CKH"; */
 "sWT-ah-CKH.title" = "（需要重新启动应用程序！）";
+
+/* Class = "NSTextFieldCell"; title = "What's new on 1.4.0"; ObjectID = "4gX-Cf-9DQ"; */
+"4gX-Cf-9DQ.title" = "1.4.0 的新功能";
+
+/* Class = "NSTextFieldCell"; title = "Control the language you see in Proxyman UI."; ObjectID = "AJ8-QS-cN3"; */
+"AJ8-QS-cN3.title" = "更改 Proxyman 界面的语言。";
+
+/* Class = "NSTextFieldCell"; title = "(Require Restart App)"; ObjectID = "NHj-XZ-BGK"; */
+"NHj-XZ-BGK.title" = "（需要重启应用）";
+
+/* Class = "NSTextFieldCell"; title = "App Language:"; ObjectID = "RHe-pI-8FQ"; */
+"RHe-pI-8FQ.title" = "应用语言：";
+
+/* Class = "NSMenuItem"; title = "English"; ObjectID = "RjY-fE-LA8"; */
+"RjY-fE-LA8.title" = "";
+
+/* Class = "NSTextFieldCell"; title = "Listen on 127.0.0.1 and ::1 (Remote Devices might not connect to Proxyman)"; ObjectID = "aBm-x9-i2O"; */
+"aBm-x9-i2O.title" = "监听 127.0.0.1 和 ::1（远程设备可能无法连接到 Proxyman）";
+
+/* Class = "NSButtonCell"; title = "Show Invisible Characters"; ObjectID = "agF-Ru-6Ul"; */
+"agF-Ru-6Ul.title" = "显示不可见字符";
+
+/* Class = "NSMenuItem"; title = "Chinese - Simplified"; ObjectID = "bTk-6o-7ya"; */
+"bTk-6o-7ya.title" = "简体中文";
+
+/* Class = "NSButtonCell"; title = " Comply with new macOS 13 Ventura Requirements for Helper Tool"; ObjectID = "hNr-F6-kwf"; */
+"hNr-F6-kwf.title" = "遵守 macOS 13 Ventura 对帮助程序的要求";
+
+/* Class = "NSTextFieldCell"; title = "Display Whitepsace, newline, tab, nonspacing characters in Previewer Tabs"; ObjectID = "jbl-1k-wPC"; */
+"jbl-1k-wPC.title" = "在预览器标签页中显示空白、换行、制表符、非间距字符";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Force to reload the Icon Plugin"; ObjectID = "k7p-yV-INk"; */
+"k7p-yV-INk.ibShadowedToolTip" = "强制重加载图标插件";
+
+/* Class = "NSButtonCell"; title = "Only Listen on localhost"; ObjectID = "lJC-HM-pBb"; */
+"lJC-HM-pBb.title" = "仅监听本地主机";
