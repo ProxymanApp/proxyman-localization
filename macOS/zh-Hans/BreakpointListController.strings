@@ -56,7 +56,7 @@
 "WDx-58-Aps.title" = "导入设置";
 
 /* Class = "NSTextFieldCell"; title = "⌘N: New; ⌘⏎: Edit; ⌘⌫: Delete; ⌘D: Duplicate; Space: Enable/Disable Rules;"; ObjectID = "WSF-w6-PGd"; */
-"WSF-w6-PGd.title" = "⌘N：新； ⌘⏎：编辑； ⌘⌫：删除； ⌘D：重复；空格：启用/禁用规则；";
+"WSF-w6-PGd.title" = "⌘N：新建；⌘⏎：编辑；⌘⌫：删除；⌘D：复制；空格：启用/禁用规则；";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "fVv-OK-fnS"; */
 "fVv-OK-fnS.title" = "文本单元格";
@@ -95,7 +95,7 @@
 "rpg-qs-XVX.title" = "点击 \"+\" 或 ⌘N 添加新条目";
 
 /* Class = "NSMenuItem"; title = "New..."; ObjectID = "ukb-uO-fDz"; */
-"ukb-uO-fDz.title" = "新的...";
+"ukb-uO-fDz.title" = "新建...";
 
 /* Class = "NSMenuItem"; title = "From Charles Proxy..."; ObjectID = "ukm-M2-jKQ"; */
 "ukm-M2-jKQ.title" = "从Charles代理...";

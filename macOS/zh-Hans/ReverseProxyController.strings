@@ -41,7 +41,7 @@
 "PUd-93-fuq.title" = "文本单元格";
 
 /* Class = "NSTextFieldCell"; title = "⌘N: New; ⌘⏎: Edit; ⌘⌫: Delete; Space: Enable/Disable Rules;"; ObjectID = "TAb-9X-opy"; */
-"TAb-9X-opy.title" = "⌘N：新； ⌘⏎：编辑； ⌘⌫：删除；空格：启用/禁用规则；";
+"TAb-9X-opy.title" = "⌘N：新建；⌘⏎：编辑；⌘⌫：删除；空格：启用/禁用规则；";
 
 /* Class = "NSTableColumn"; headerCell.title = "Remote Host"; ObjectID = "TXc-e9-L8R"; */
 "TXc-e9-L8R.headerCell.title" = "远程主机";
@@ -86,7 +86,7 @@
 "m6w-Jo-aqZ.title" = "启用规则";
 
 /* Class = "NSMenuItem"; title = "New..."; ObjectID = "oWR-9H-aa1"; */
-"oWR-9H-aa1.title" = "新的...";
+"oWR-9H-aa1.title" = "新建...";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "u6U-wB-iX5"; */
 "u6U-wB-iX5.title" = "文本单元格";

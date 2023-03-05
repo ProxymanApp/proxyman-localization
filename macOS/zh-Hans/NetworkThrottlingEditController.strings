@@ -29,7 +29,7 @@
 "HUe-N8-4Co.title" = "0%";
 
 /* Class = "NSMenuItem"; title = "Wi-Fi"; ObjectID = "JlB-mq-mWy"; */
-"JlB-mq-mWy.title" = "无线上网";
+"JlB-mq-mWy.title" = "Wi-Fi";
 
 /* Class = "NSTextFieldCell"; title = "Download"; ObjectID = "LYH-eN-zlI"; */
 "LYH-eN-zlI.title" = "下载";

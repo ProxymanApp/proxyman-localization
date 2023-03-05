@@ -62,7 +62,7 @@
 "UVH-eC-5ha.title" = "一次只能激活 1 个规则";
 
 /* Class = "NSMenuItem"; title = "New..."; ObjectID = "V9E-km-YjS"; */
-"V9E-km-YjS.title" = "新的...";
+"V9E-km-YjS.title" = "新建...";
 
 /* Class = "NSMenuItem"; title = "Import Settings"; ObjectID = "VfX-5a-Nkz"; */
 "VfX-5a-Nkz.title" = "导入设置";
@@ -104,4 +104,4 @@
 "yB4-eu-flT.headerCell.title" = "状态";
 
 /* Class = "NSTextFieldCell"; title = "⌘N: New; ⌘⏎: Edit; ⌘⌫: Delete; ⌘D: Duplicate; ⌘T: Enable/Disable Rules;"; ObjectID = "z9y-BT-pBJ"; */
-"z9y-BT-pBJ.title" = "⌘N：新； ⌘⏎：编辑； ⌘⌫：删除； ⌘D：重复； ⌘T：启用/禁用规则；";
+"z9y-BT-pBJ.title" = "⌘N：新建；⌘⏎：编辑；⌘⌫：删除；⌘D：重复；⌘T：启用/禁用规则；";

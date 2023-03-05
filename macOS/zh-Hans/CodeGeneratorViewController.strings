@@ -53,7 +53,7 @@
 "lHt-eV-8sA.title" = "导出...";
 
 /* Class = "NSMenuItem"; title = "Open with"; ObjectID = "rnF-P9-f0g"; */
-"rnF-P9-f0g.title" = "打开用";
+"rnF-P9-f0g.title" = "打开方式";
 
 /* Class = "NSMenuItem"; title = "Java + HTTPClient"; ObjectID = "sBg-5N-b9t"; */
 "sBg-5N-b9t.title" = "Java + HTTP客户端";

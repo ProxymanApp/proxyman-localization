@@ -5,7 +5,7 @@
 "  Proxyman CA is trusted!" = "Proxyman CA 已经信任！";
 
 /* No comment provided by engineer. */
-" Active" = "积极";
+" Active" = "活跃";
 
 /* No comment provided by engineer. */
 " Could not find '%@' Message Type" = "找不到“%@”消息类型";
@@ -209,7 +209,7 @@
 "Add Wildcard Host" = "添加通配符主机";
 
 /* No comment provided by engineer. */
-"Add…" = "加。。。";
+"Add…" = "添加...";
 
 /* No comment provided by engineer. */
 "All" = "全部";
@@ -251,19 +251,19 @@
 "Are you sure to reset all Proxyman Certificates?" = "您确定要重置所有 Proxyman 证书吗？";
 
 /* No comment provided by engineer. */
-"Are you sure to unlink this device?" = "是否确实要取消关联此设备？";
+"Are you sure to unlink this device?" = "您确定要取消关联此设备吗？";
 
 /* No comment provided by engineer. */
 "as CSV" = "为CSV";
 
 /* No comment provided by engineer. */
-"as HAR (HTTP Archive)" = "为HAR（HTTP 归档）";
+"as HAR (HTTP Archive)" = "为 HAR（HTTP 归档）";
 
 /* No comment provided by engineer. */
-"as Postman" = "为Postman 文件";
+"as Postman" = "为 Postman 文件";
 
 /* No comment provided by engineer. */
-"as Proxyman Log" = "为Proxyman 日志";
+"as Proxyman Log" = "为 Proxyman 日志";
 
 /* No comment provided by engineer. */
 "Auth" = "认证";
@@ -302,7 +302,7 @@
 "Body" = "正文";
 
 /* No comment provided by engineer. */
-"Body over 5Mb hidden for performance reasons" = "出于性能考量，隐藏超过5Mb 的正文";
+"Body over 5Mb hidden for performance reasons" = "出于性能考量，隐藏超过 5Mb 的正文";
 
 /* No comment provided by engineer. */
 "Breakpoint" = "断点";
@@ -1421,7 +1421,7 @@
 "Private Key not found!" = "未找到私钥！";
 
 /* No comment provided by engineer. */
-"Processing..." = "加工。。。";
+"Processing..." = "处理中...";
 
 /* No comment provided by engineer. */
 "Protobuf…" = "Protobuf...";
@@ -1445,13 +1445,13 @@
 "Proxyman Core Error. Please contact us at support@proxyman.io" = "代理核心错误。请通过 support@proxyman.io 联系我们";
 
 /* No comment provided by engineer. */
-"Proxyman could not detect your device." = "代理管理员无法检测到您的设备。";
+"Proxyman could not detect your device." = "Proxyman 无法检测到您的设备。";
 
 /* No comment provided by engineer. */
 "Proxyman could not execute the script with AppleScript. Please grant the permission in System Preference -> Security -> Privacy Tab -> Automation -> Check ON in Proxyman app" = "Proxyman 无法使用 AppleScript 执行脚本。请在系统首选项 - >安全 - >隐私选项卡 - >自动化 - > Proxyman应用程序中的检查中授予权限";
 
 /* No comment provided by engineer. */
-"Proxyman couldn't open this %@ file" = "代理管理员无法打开此%@文件";
+"Proxyman couldn't open this %@ file" = "Proxyman 无法打开此%@文件";
 
 /* prompt shown when user is required to authorize to read the license key */
 "Proxyman is trying to override Proxy config in System Preferences." = "Proxyman正在尝试覆盖“系统偏好设置”中的代理配置。";
@@ -1460,7 +1460,7 @@
 "Proxyman is using the Default Proxyman Root Certificate" = "代理程序正在使用默认代理程序根证书";
 
 /* No comment provided by engineer. */
-"Proxyman is using your Custom Root Certificate" = "代理管理员正在使用您的自定义根证书";
+"Proxyman is using your Custom Root Certificate" = "Proxyman 正在使用您的自定义根证书";
 
 /* No comment provided by engineer. */
 "Proxyman License detected!" = "检测到代理许可证！";
@@ -1823,7 +1823,7 @@
 "Start recording" = "开始录制";
 
 /* No comment provided by engineer. */
-"Starting…" = "开始。。。";
+"Starting…" = "开始...";
 
 /* No comment provided by engineer. */
 "State" = "州";
@@ -2033,10 +2033,10 @@
 "What's new: Remember and Restore to your previous Proxy setting.\n\nGraceful Revert the Proxy if the app is crashed unexpectedly." = "更新内容： 记住并还原到以前的代理设置。\\n\\n如果应用意外崩溃，请恢复代理。";
 
 /* No comment provided by engineer. */
-"Wi-Fi" = "无线网络";
+"Wi-Fi" = "Wi-Fi";
 
 /* No comment provided by engineer. */
-"Wi-Fi 802.11ac" = "无线网络 802.11ac";
+"Wi-Fi 802.11ac" = "Wi-Fi 802.11ac";
 
 /* No comment provided by engineer. */
 "Yellow" = "黄色";

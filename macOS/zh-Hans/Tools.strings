@@ -44,7 +44,7 @@
 "33J-mu-EVh.title" = "编辑...";
 
 /* Class = "NSMenuItem"; title = "New..."; ObjectID = "3TH-m3-mox"; */
-"3TH-m3-mox.title" = "新...";
+"3TH-m3-mox.title" = "新建...";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "3p9-uN-0fp"; */
 "3p9-uN-0fp.title" = "文本单元格";
@@ -89,7 +89,7 @@
 "7u5-Hm-wEX.title" = "启用规则";
 
 /* Class = "NSTextFieldCell"; title = "⌘N: New; ⌘⏎: Edit; ⌘⌫: Delete; ⌘D: Duplicate;"; ObjectID = "8Mz-VP-qDC"; */
-"8Mz-VP-qDC.title" = "⌘N：新建；⌘⏎：编辑；⌘⌫：删除；⌘D：重复；";
+"8Mz-VP-qDC.title" = "⌘N：新建；⌘⏎：编辑；⌘⌫： 删除；⌘D：复制；";
 
 /* Class = "NSTextFieldCell"; title = "http://api.proxyman.io"; ObjectID = "8Wk-O3-4HB"; */
 "8Wk-O3-4HB.title" = "http://api.proxyman.io";
@@ -188,7 +188,7 @@
 "G4z-qO-dFS.title" = "主机：";
 
 /* Class = "NSMenuItem"; title = "New..."; ObjectID = "GD4-VB-I8N"; */
-"GD4-VB-I8N.title" = "新...";
+"GD4-VB-I8N.title" = "新建...";
 
 /* Class = "NSViewController"; title = "Map Remote"; ObjectID = "GcR-SJ-hvI"; */
 "GcR-SJ-hvI.title" = "远程映射";
@@ -260,7 +260,7 @@
 "Mdl-TG-Eas.title" = "主机：";
 
 /* Class = "NSTextFieldCell"; title = "⌘N: New; ⌘⏎: Edit; ⌘⌫: Delete; ⌘D: Duplicate; Space: Enable/Disable Rules;"; ObjectID = "NiQ-oE-pjP"; */
-"NiQ-oE-pjP.title" = "⌘N：新建；⌘⏎：编辑；⌘⌫：删除；⌘D：重复；空格：启用/禁用规则；";
+"NiQ-oE-pjP.title" = "⌘N：新建；⌘⏎：编辑；⌘⌫：删除；⌘D：复制；空格：启用/禁用规则；";
 
 /* Class = "NSMenuItem"; title = "Edit..."; ObjectID = "Nxm-Kd-hTk"; */
 "Nxm-Kd-hTk.title" = "编辑...";
@@ -404,7 +404,7 @@
 "Y7V-9h-Izy.placeholderString" = "api.proxyman.io";
 
 /* Class = "NSMenuItem"; title = "New..."; ObjectID = "YaH-EH-dHs"; */
-"YaH-EH-dHs.title" = "新...";
+"YaH-EH-dHs.title" = "新建...";
 
 /* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "Yuj-DE-Fr5"; */
 "Yuj-DE-Fr5.headerCell.title" = "名称";
@@ -512,7 +512,7 @@
 "eNj-7W-ISv.placeholderString" = "api.proxyman.io/v1/*";
 
 /* Class = "NSTextFieldCell"; title = "⌘N: New; ⌘⏎: Edit; ⌘⌫: Delete; ⌘D: Duplicate; Space: Enable/Disable Rules;"; ObjectID = "eO0-3D-8ut"; */
-"eO0-3D-8ut.title" = "⌘N：新建；⌘⏎：编辑；⌘⌫：删除；⌘D：重复；空格：启用/禁用规则；";
+"eO0-3D-8ut.title" = "⌘N：新建；⌘⏎：编辑；⌘⌫：删除；⌘D：复制；空格：启用/禁用规则；";
 
 /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "eRn-AX-Ioo"; */
 "eRn-AX-Ioo.title" = "取消";
@@ -566,7 +566,7 @@
 "ivJ-Kh-P4O.title" = "文本单元格";
 
 /* Class = "NSMenuItem"; title = "New..."; ObjectID = "j9A-m6-SwX"; */
-"j9A-m6-SwX.title" = "新...";
+"j9A-m6-SwX.title" = "新健...";
 
 /* Class = "NSTextFieldCell"; title = "Name:"; ObjectID = "j9L-LL-GiB"; */
 "j9L-LL-GiB.title" = "名称：";
@@ -635,7 +635,7 @@
 "pFe-Rc-k3w.placeholderString" = "/v1/用户";
 
 /* Class = "NSMenuItem"; title = "New..."; ObjectID = "pTQ-wT-bCq"; */
-"pTQ-wT-bCq.title" = "新...";
+"pTQ-wT-bCq.title" = "新建...";
 
 /* Class = "NSTextFieldCell"; title = "Top-Down Matching Rule"; ObjectID = "pud-ei-tlC"; */
 "pud-ei-tlC.title" = "自上而下匹配规则";
@@ -758,7 +758,7 @@
 "yId-We-08h.title" = "有效载荷类型：";
 
 /* Class = "NSMenuItem"; title = "Duplicate"; ObjectID = "yOx-Ov-TOq"; */
-"yOx-Ov-TOq.title" = "重复";
+"yOx-Ov-TOq.title" = "复制";
 
 /* Class = "NSWindow"; title = "Breakpoint rules"; ObjectID = "ybB-CT-jUq"; */
 "ybB-CT-jUq.title" = "断点规则";
