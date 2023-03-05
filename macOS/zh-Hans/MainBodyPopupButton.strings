@@ -1,8 +1,8 @@
 /* Class = "NSMenuItem"; ibShadowedToolTip = "Try to format JSON Prettier if possible"; ObjectID = "14z-ZK-nTj"; */
-"14z-ZK-nTj.ibShadowedToolTip" = "如果可能，尝试格式化 JSON Prettier";
+"14z-ZK-nTj.ibShadowedToolTip" = "尝试使用 JSON Prettier 进行格式化";
 
 /* Class = "NSMenuItem"; title = "JSON Prettier"; ObjectID = "14z-ZK-nTj"; */
-"14z-ZK-nTj.title" = "JSON 更漂亮";
+"14z-ZK-nTj.title" = "JSON Prettier";
 
 /* Class = "NSMenuItem"; ibShadowedToolTip = "Hex Viewer"; ObjectID = "5BA-bf-GUh"; */
 "5BA-bf-GUh.ibShadowedToolTip" = "十六进制查看器";
@@ -11,7 +11,7 @@
 "5BA-bf-GUh.title" = "十六进制";
 
 /* Class = "NSMenuItem"; title = "Open with"; ObjectID = "9Eu-GW-mB9"; */
-"9Eu-GW-mB9.title" = "打开用";
+"9Eu-GW-mB9.title" = "打开方式";
 
 /* Class = "NSMenuItem"; ibShadowedToolTip = "\bAutomatically render the Body Previewer (Prettier + Syntax Highlighter)"; ObjectID = "Cyj-74-AnN"; */
 "Cyj-74-AnN.ibShadowedToolTip" = "\b自动渲染 Body Previewer (Prettier + Syntax Highlighter)";
@@ -29,7 +29,7 @@
 "JtX-KM-Uu4.title" = "树视图";
 
 /* Class = "NSMenuItem"; title = "Format with"; ObjectID = "KHU-NI-42K"; */
-"KHU-NI-42K.title" = "格式为";
+"KHU-NI-42K.title" = "格式化为";
 
 /* Class = "NSMenu"; title = "Export"; ObjectID = "SKA-MB-wFH"; */
 "SKA-MB-wFH.title" = "导出";
@@ -38,4 +38,4 @@
 "kKI-m1-n9h.title" = "导出";
 
 /* Class = "NSMenu"; title = "Format with"; ObjectID = "qpj-JX-HEg"; */
-"qpj-JX-HEg.title" = "格式为";
+"qpj-JX-HEg.title" = "格式化为";

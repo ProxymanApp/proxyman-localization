@@ -20,7 +20,7 @@
 "8BS-lV-5rL.ibShadowedToolTip" = "所有 JSON 键都按字母顺序排序。如果更改了 JSON 键顺序，则更容易看到对比";
 
 /* Class = "NSMenuItem"; title = "Sort JSON Key"; ObjectID = "8BS-lV-5rL"; */
-"8BS-lV-5rL.title" = "排序 JSON 密钥";
+"8BS-lV-5rL.title" = "排序 JSON 键";
 
 /* Class = "NSTextFieldCell"; title = "Please upgrade your macOS to use this feature (macOS 11.2 or later)."; ObjectID = "8Ul-SW-AQu"; */
 "8Ul-SW-AQu.title" = "请升级您的 macOS 以使用此功能（macOS 11.2 或更高版本）。";
@@ -80,7 +80,7 @@
 "Uwu-CL-nAi.title" = "红色";
 
 /* Class = "NSMenuItem"; title = "Side By Side"; ObjectID = "VgV-en-by3"; */
-"VgV-en-by3.title" = "并排";
+"VgV-en-by3.title" = "并排显示";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Xwz-Md-J1n"; */
 "Xwz-Md-J1n.title" = "文本单元格";
@@ -155,7 +155,7 @@
 "vMf-zi-skT.headerCell.title" = "对";
 
 /* Class = "NSMenuItem"; title = "Unified"; ObjectID = "xw8-PW-fyB"; */
-"xw8-PW-fyB.title" = "Unified";
+"xw8-PW-fyB.title" = "合并显示";
 
 /* Class = "NSMenuItem"; title = "Blue"; ObjectID = "y5q-RY-LfK"; */
 "y5q-RY-LfK.title" = "蓝色";

@@ -32,13 +32,13 @@
 "F8h-zy-Yb1.title" = "文本单元格";
 
 /* Class = "NSMenuItem"; title = "Format with"; ObjectID = "HWM-ws-3XD"; */
-"HWM-ws-3XD.title" = "格式为";
+"HWM-ws-3XD.title" = "格式化为";
 
 /* Class = "NSMenuItem"; ibShadowedToolTip = "Try to format JSON Prettier if possible"; ObjectID = "Jp4-l3-uXg"; */
-"Jp4-l3-uXg.ibShadowedToolTip" = "如果可能，尝试格式化 JSON Prettier";
+"Jp4-l3-uXg.ibShadowedToolTip" = "尝试使用 JSON Prettier 进行格式化";
 
 /* Class = "NSMenuItem"; title = "JSON Prettier"; ObjectID = "Jp4-l3-uXg"; */
-"Jp4-l3-uXg.title" = "JSON 更漂亮";
+"Jp4-l3-uXg.title" = "JSON Prettier";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "KRI-eZ-xJU"; */
 "KRI-eZ-xJU.title" = "盒子";
@@ -86,7 +86,7 @@
 "Y0J-c2-vMC.label" = "JSON";
 
 /* Class = "NSTextFieldCell"; title = "Malformed multipart/form-data"; ObjectID = "ZDJ-B7-Xee"; */
-"ZDJ-B7-Xee.title" = "畸形 multipart/form-data";
+"ZDJ-B7-Xee.title" = "格式错误的 multipart/form-data";
 
 /* Class = "NSTabViewItem"; label = "Base64"; ObjectID = "c0J-1R-aVI"; */
 "c0J-1R-aVI.label" = "Base64";

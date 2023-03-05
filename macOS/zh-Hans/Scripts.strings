@@ -122,7 +122,7 @@
 "Pai-wM-2Ib.title" = "重命名文件夹";
 
 /* Class = "NSTextFieldCell"; title = "⌘N: New; ⌘⏎: Edit; ⌘⌫: Delete; ⌘D: Duplicate; Space: Enable/Disable Rules;"; ObjectID = "SQj-Kh-Qo7"; */
-"SQj-Kh-Qo7.title" = "⌘N：新建；⌘⏎：编辑；⌘⌫：删除；⌘D：重复；空格：启用/禁用规则；";
+"SQj-Kh-Qo7.title" = "⌘N：新建；⌘⏎：编辑；⌘⌫： 删除；⌘D：复制；空格：启用/禁用规则；";
 
 /* Class = "NSMenuItem"; ibShadowedToolTip = "Open Custom Addon Folder"; ObjectID = "TNq-P4-Q5X"; */
 "TNq-P4-Q5X.ibShadowedToolTip" = "打开自定义插件文件夹";
@@ -191,7 +191,7 @@
 "eTX-mK-u1J.title" = "插件文档...";
 
 /* Class = "NSMenuItem"; title = "Duplicate"; ObjectID = "eTe-5h-VxL"; */
-"eTe-5h-VxL.title" = "重复";
+"eTe-5h-VxL.title" = "复制";
 
 /* Class = "NSMenuItem"; ibShadowedToolTip = "Toggl Enable / Disable selected rules"; ObjectID = "gB7-cb-JeF"; */
 "gB7-cb-JeF.ibShadowedToolTip" = "切换启用/禁用选定规则";

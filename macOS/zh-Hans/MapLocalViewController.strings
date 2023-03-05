@@ -5,7 +5,7 @@
 "0Y5-A7-VCY.title" = "新建文件夹";
 
 /* Class = "NSMenuItem"; title = "New..."; ObjectID = "1Xp-lb-ED7"; */
-"1Xp-lb-ED7.title" = "新的...";
+"1Xp-lb-ED7.title" = "新建...";
 
 /* Class = "NSMenuItem"; ibShadowedToolTip = "Rename the folder"; ObjectID = "49N-U2-jCF"; */
 "49N-U2-jCF.ibShadowedToolTip" = "重命名文件夹";
@@ -74,7 +74,7 @@
 "btk-7i-PcM.title" = "/用户/";
 
 /* Class = "NSTextFieldCell"; title = "⌘N: New; ⌘⏎: Edit; ⌘⌫: Delete; ⌘D: Duplicate; Space: Enable/Disable Rules;"; ObjectID = "cyA-JP-HlV"; */
-"cyA-JP-HlV.title" = "⌘N：新； ⌘⏎：编辑； ⌘⌫：删除； ⌘D：重复；空格：启用/禁用规则；";
+"cyA-JP-HlV.title" = "⌘N：新建；⌘⏎：编辑；⌘⌫：删除；⌘D：复制；空格：启用/禁用规则；";
 
 /* Class = "NSTextFieldCell"; title = "Map local files or directories as a response for matched requests."; ObjectID = "dEh-4S-1s8"; */
 "dEh-4S-1s8.title" = "映射本地文件或目录作为匹配请求的响应。";
