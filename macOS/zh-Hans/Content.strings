@@ -174,3 +174,9 @@
 
 /* Class = "NSMenu"; title = "Option"; ObjectID = "WRt-uF-94u"; */
 "WRt-uF-94u.title" = "选项";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Replace the body content with a selected file."; ObjectID = "CDh-Dx-TOU"; */
+"CDh-Dx-TOU.ibShadowedToolTip" = "Replace the body content with a selected file.";
+
+/* Class = "NSMenuItem"; title = "Load from File…"; ObjectID = "CDh-Dx-TOU"; */
+"CDh-Dx-TOU.title" = "Load from File…";

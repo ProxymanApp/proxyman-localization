@@ -570,3 +570,15 @@
 
 /* Class = "NSTextFieldCell"; title = "Add your domains for `network_security_config.xml` file"; ObjectID = "fbe-IK-o5O"; */
 "fbe-IK-o5O.title" = "为 `network_security_config.xml` 文件添加您的域";
+
+/* Class = "NSTextFieldCell"; title = "http://proxy.man/ssl"; ObjectID = "12N-zA-viy"; */
+"12N-zA-viy.title" = "http://proxy.man/ssl";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Show QR Code"; ObjectID = "TM7-CW-I16"; */
+"TM7-CW-I16.ibShadowedToolTip" = "Show QR Code";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Copy the URL"; ObjectID = "hRu-Te-szt"; */
+"hRu-Te-szt.ibShadowedToolTip" = "Copy the URL";
+
+/* Class = "NSButtonCell"; title = "Button"; ObjectID = "x5x-vL-7sF"; */
+"x5x-vL-7sF.title" = "Button";

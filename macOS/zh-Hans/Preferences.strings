@@ -1,9 +1,6 @@
 /* Class = "NSMenuItem"; title = "15"; ObjectID = "0Vr-ZZ-FII"; */
 "0Vr-ZZ-FII.title" = "15";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Open Proxyman for iOS Landing Page"; ObjectID = "14S-kB-ZeT"; */
-"14S-kB-ZeT.ibShadowedToolTip" = "打开 Proxyman for iOS 登陆页";
-
 /* Class = "NSViewController"; title = "License"; ObjectID = "1D9-Iv-Gsp"; */
 "1D9-Iv-Gsp.title" = "许可证";
 
@@ -157,9 +154,6 @@
 /* Class = "NSTextFieldCell"; title = "Selected Request/Response Tabs will be restored after the app launches."; ObjectID = "Gf7-2K-UO9"; */
 "Gf7-2K-UO9.title" = "选定的请求/响应选项卡将在应用启动后恢复。";
 
-/* Class = "NSButtonCell"; title = "Try Proxyman for iOS..."; ObjectID = "GqR-wY-3z4"; */
-"GqR-wY-3z4.title" = "试试 Proxyman for iOS...";
-
 /* Class = "NSTextFieldCell"; title = "After Publish:"; ObjectID = "HGS-90-QyJ"; */
 "HGS-90-QyJ.title" = "发布后：";
 
@@ -195,9 +189,6 @@
 
 /* Class = "NSButtonCell"; title = "Renew"; ObjectID = "IhB-tT-LSS"; */
 "IhB-tT-LSS.title" = "续订";
-
-/* Class = "NSTextFieldCell"; title = "Inspect HTTP/HTTPS traffic from your iOS devices (iOS 14+)."; ObjectID = "JSt-0b-yja"; */
-"JSt-0b-yja.title" = "在 iOS 设备 (iOS 14+) 上检视 HTTP/HTTPS 流量。";
 
 /* Class = "NSTextFieldCell"; title = "Powered by Microsoft App Center"; ObjectID = "JgM-DQ-8jS"; */
 "JgM-DQ-8jS.title" = "由 Microsoft 应用中心提供支持";
@@ -256,9 +247,6 @@
 /* Class = "NSButtonCell"; title = "Unlink this Device"; ObjectID = "O5T-gR-uix"; */
 "O5T-gR-uix.title" = "取消链接此设备";
 
-/* Class = "NSTextFieldCell"; title = "Diff Tool:"; ObjectID = "O5k-qM-b20"; */
-"O5k-qM-b20.title" = "对比工具：";
-
 /* Class = "NSTextFieldCell"; title = "Debugging Tools:"; ObjectID = "ONU-RP-7UJ"; */
 "ONU-RP-7UJ.title" = "调试工具：";
 
@@ -268,7 +256,7 @@
 /* Class = "NSTextFieldCell"; title = "If your license is expired, Proxyman would not notify it on the status bar."; ObjectID = "PdR-jA-mPr"; */
 "PdR-jA-mPr.title" = "如果您的许可证过期，Proxyman 不会在状态栏上展示此状态。";
 
-/* Class = "NSTextFieldCell"; title = "You're using Free version"; ObjectID = "QF9-qQ-1q1"; */
+/* Class = "NSTextFieldCell"; title = "You're using a Trial Version"; ObjectID = "QF9-qQ-1q1"; */
 "QF9-qQ-1q1.title" = "你使用的是免费版";
 
 /* Class = "NSTextFieldCell"; title = "Hide *.apple.com and *.icloud.com request from iOS Simulators."; ObjectID = "Qgq-TP-lie"; */
@@ -412,17 +400,11 @@
 /* Class = "NSTextFieldCell"; title = "Environment variables are defined in ~/.bashrc or ~/.zshrc"; ObjectID = "exW-fI-aTf"; */
 "exW-fI-aTf.title" = "环境变量定义在 ~/.bashrc 或 ~/.zshrc";
 
-/* Class = "NSTextFieldCell"; title = "It's slower but reliable. Uncheck to use Google-Diff, which is faster (40x)."; ObjectID = "ez3-BQ-4za"; */
-"ez3-BQ-4za.title" = "它更慢但可靠。取消选中以使用更快 (40倍) 的 Google-Diff。";
-
 /* Class = "NSMenuItem"; title = "14"; ObjectID = "f9B-Y4-yps"; */
 "f9B-Y4-yps.title" = "14";
 
 /* Class = "NSButtonCell"; title = "Generate new..."; ObjectID = "fMP-YS-E39"; */
 "fMP-YS-E39.title" = "生成新的...";
-
-/* Class = "NSButtonCell"; title = "Use Unidiff Javascript Library"; ObjectID = "fjS-gE-x3B"; */
-"fjS-gE-x3B.title" = "使用 Unidiff Javascript 库";
 
 /* Class = "NSTextFieldCell"; title = "Proxyman uses `simctl` (from Xcode) or Custom Scripts (Legacy)."; ObjectID = "gME-HQ-a46"; */
 "gME-HQ-a46.title" = "Proxyman 使用 `simctl`（来自 Xcode）或自定义脚本（旧版）。";
@@ -565,9 +547,6 @@
 /* Class = "NSMenuItem"; title = "Icon and Label"; ObjectID = "vor-c5-bJQ"; */
 "vor-c5-bJQ.title" = "图标和标签";
 
-/* Class = "NSTextFieldCell"; title = "Share and view on Proxyman for macOS."; ObjectID = "xPD-Io-lV1"; */
-"xPD-Io-lV1.title" = "在 Proxyman for macOS 上分享和查看。";
-
 /* Class = "NSMenuItem"; title = "120 seconds"; ObjectID = "xha-qq-63S"; */
 "xha-qq-63S.title" = "120 秒";
 
@@ -632,7 +611,7 @@
 "RHe-pI-8FQ.title" = "应用语言：";
 
 /* Class = "NSMenuItem"; title = "English"; ObjectID = "RjY-fE-LA8"; */
-"RjY-fE-LA8.title" = "";
+"RjY-fE-LA8.title" = "English";
 
 /* Class = "NSTextFieldCell"; title = "Listen on 127.0.0.1 and ::1 (Remote Devices might not connect to Proxyman)"; ObjectID = "aBm-x9-i2O"; */
 "aBm-x9-i2O.title" = "监听 127.0.0.1 和 ::1（远程设备可能无法连接到 Proxyman）";
@@ -654,3 +633,57 @@
 
 /* Class = "NSButtonCell"; title = "Only Listen on localhost"; ObjectID = "lJC-HM-pBb"; */
 "lJC-HM-pBb.title" = "仅监听本地主机";
+
+/* Class = "NSButtonCell"; title = "Documentations…"; ObjectID = "24o-Jl-MOk"; */
+"24o-Jl-MOk.title" = "Documentations…";
+
+/* Class = "NSTextFieldCell"; title = "Capture HTTP(s) traffic without a Mac (iOS 15+)."; ObjectID = "8PY-AO-8pK"; */
+"8PY-AO-8pK.title" = "Capture HTTP(s) traffic without a Mac (iOS 15+).";
+
+/* Class = "NSTextFieldCell"; title = "Windows 10/11"; ObjectID = "DAh-s6-dzn"; */
+"DAh-s6-dzn.title" = "Windows 10/11";
+
+/* Class = "NSButtonCell"; title = "You're behind 5 updates"; ObjectID = "Iyg-sC-F8k"; */
+"Iyg-sC-F8k.title" = "You're behind 5 updates";
+
+/* Class = "NSButtonCell"; title = "AppStore…"; ObjectID = "MKM-5X-0dt"; */
+"MKM-5X-0dt.title" = "AppStore…";
+
+/* Class = "NSTextFieldCell"; title = "⚠️ Expired"; ObjectID = "VNb-kR-sZN"; */
+"VNb-kR-sZN.title" = "⚠️ Expired";
+
+/* Class = "NSTextFieldCell"; title = "Linux"; ObjectID = "Vng-5b-MgI"; */
+"Vng-5b-MgI.title" = "Linux";
+
+/* Class = "NSTextFieldCell"; title = "macOS"; ObjectID = "YQ4-gw-r0u"; */
+"YQ4-gw-r0u.title" = "macOS";
+
+/* Class = "NSTextFieldCell"; title = "Not complete, but ready for development."; ObjectID = "aAb-or-9Id"; */
+"aAb-or-9Id.title" = "Not complete, but ready for development.";
+
+/* Class = "NSButtonCell"; title = "Download…"; ObjectID = "cgP-Vh-dpf"; */
+"cgP-Vh-dpf.title" = "Download…";
+
+/* Class = "NSButtonCell"; title = "You're behind 5 updates"; ObjectID = "d8D-2f-O2n"; */
+"d8D-2f-O2n.title" = "You're behind 5 updates";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Your Root Certificate is expired. To fix it -> Remove your current certificate and Install a new one"; ObjectID = "hpl-Fw-aiS"; */
+"hpl-Fw-aiS.ibShadowedToolTip" = "Your Root Certificate is expired. To fix it -> Remove your current certificate and Install a new one";
+
+/* Class = "NSTextFieldCell"; title = "iOS"; ObjectID = "j2o-wZ-gjP"; */
+"j2o-wZ-gjP.title" = "iOS";
+
+/* Class = "NSTextFieldCell"; title = "Complete suite of debugging tools."; ObjectID = "lKU-As-Hkg"; */
+"lKU-As-Hkg.title" = "Complete suite of debugging tools.";
+
+/* Class = "NSButtonCell"; title = "Homepage…"; ObjectID = "mrj-zq-sdm"; */
+"mrj-zq-sdm.title" = "Homepage…";
+
+/* Class = "NSButtonCell"; title = "Up-to-date"; ObjectID = "ut9-5Q-ssa"; */
+"ut9-5Q-ssa.title" = "Up-to-date";
+
+/* Class = "NSTextFieldCell"; title = "Coming soon!"; ObjectID = "vRm-QK-qM3"; */
+"vRm-QK-qM3.title" = "Coming soon!";
+
+/* Class = "NSButtonCell"; title = "Up-to-date"; ObjectID = "vr4-Cy-gYD"; */
+"vr4-Cy-gYD.title" = "Up-to-date";

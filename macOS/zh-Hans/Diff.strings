@@ -31,15 +31,6 @@
 /* Class = "NSTableColumn"; headerCell.title = "Comment"; ObjectID = "9sa-A7-zXD"; */
 "9sa-A7-zXD.headerCell.title" = "备注";
 
-/* Class = "NSTextFieldCell"; title = "Two files are identical"; ObjectID = "A3E-u3-RS9"; */
-"A3E-u3-RS9.title" = "两个文件完全相同";
-
-/* Class = "NSButtonCell"; title = "Search"; ObjectID = "Arj-8y-dvg"; */
-"Arj-8y-dvg.title" = "搜索";
-
-/* Class = "NSSearchFieldCell"; placeholderString = "Filter (Show: ⌘F, Hide: ESC)"; ObjectID = "GHg-fL-o30"; */
-"GHg-fL-o30.placeholderString" = "筛选器（显示：⌘F，隐藏：ESC）";
-
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "JQf-ZL-mlv"; */
 "JQf-ZL-mlv.title" = "文本单元格";
 
@@ -64,17 +55,11 @@
 /* Class = "NSMenuItem"; title = "Kaleidoscope…"; ObjectID = "O6k-Xy-sIt"; */
 "O6k-Xy-sIt.title" = "万花筒…";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Search diff content ⌘F"; ObjectID = "O7e-S1-aZU"; */
-"O7e-S1-aZU.ibShadowedToolTip" = "搜索对比内容⌘F";
-
 /* Class = "NSMenuItem"; title = "Green"; ObjectID = "Pmc-Kw-SKp"; */
 "Pmc-Kw-SKp.title" = "绿色";
 
 /* Class = "NSMenuItem"; title = "Strikethrough"; ObjectID = "QNk-T7-cqM"; */
 "QNk-T7-cqM.title" = "删除线";
-
-/* Class = "NSMenu"; title = "Export"; ObjectID = "SRy-IZ-sY2"; */
-"SRy-IZ-sY2.title" = "导出";
 
 /* Class = "NSMenuItem"; title = "Red"; ObjectID = "Uwu-CL-nAi"; */
 "Uwu-CL-nAi.title" = "红色";
@@ -88,32 +73,17 @@
 /* Class = "NSTextFieldCell"; title = "Diff on:"; ObjectID = "YHR-0h-QW7"; */
 "YHR-0h-QW7.title" = "区分：";
 
-/* Class = "NSButtonCell"; title = "Done"; ObjectID = "a2k-1X-6Qu"; */
-"a2k-1X-6Qu.title" = "完成";
-
 /* Class = "NSMenuItem"; title = "Right Side"; ObjectID = "aIw-46-5hz"; */
 "aIw-46-5hz.title" = "右侧";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "ccD-YZ-W1b"; */
 "ccD-YZ-W1b.title" = "文本单元格";
 
-/* Class = "NSMenuItem"; ibShadowedToolTip = "Export as unified diff (unidiff)"; ObjectID = "dGM-jm-ZIN"; */
-"dGM-jm-ZIN.ibShadowedToolTip" = "导出为统一差异 (unidiff)";
-
-/* Class = "NSMenuItem"; title = "Unidiff…"; ObjectID = "dGM-jm-ZIN"; */
-"dGM-jm-ZIN.title" = "Unidiff…";
-
 /* Class = "NSButtonCell"; title = "Request"; ObjectID = "f2F-ml-FVZ"; */
 "f2F-ml-FVZ.title" = "请求";
 
-/* Class = "NSTextFieldCell"; title = "10 matches"; ObjectID = "fBJ-qO-hE9"; */
-"fBJ-qO-hE9.title" = "10 匹配";
-
 /* Class = "NSButtonCell"; title = "Response"; ObjectID = "hQh-ob-KJb"; */
 "hQh-ob-KJb.title" = "响应";
-
-/* Class = "NSMenuItem"; title = "Export"; ObjectID = "iea-xZ-00s"; */
-"iea-xZ-00s.title" = "导出";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "ief-t6-MUr"; */
 "ief-t6-MUr.title" = "盒子";

@@ -79,7 +79,7 @@
 /* Class = "NSSegmentedControl"; ibShadowedToolTip = "Continue the request/response with original data, ignore all Breakpoint Changes  (⌘.)"; ObjectID = "igu-8f-Hr8"; */
 "igu-8f-Hr8.ibShadowedToolTip" = "用原始数据继续请求/响应，忽略所有断点变化（⌘⌫）";
 
-/* Class = "NSButtonCell"; title = "Add Rule"; ObjectID = "kJB-cI-jeI"; */
+/* Class = "NSButtonCell"; title = "Manage Rules"; ObjectID = "kJB-cI-jeI"; */
 "kJB-cI-jeI.title" = "添加规则";
 
 /* Class = "NSMenuItem"; ibShadowedToolTip = "Continue all request with original data"; ObjectID = "m9Z-D9-dnt"; */

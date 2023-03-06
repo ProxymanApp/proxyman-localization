@@ -299,7 +299,7 @@
 "Blue" = "蓝色";
 
 /* No comment provided by engineer. */
-"Body" = "正文";
+"Body" = "Body";
 
 /* No comment provided by engineer. */
 "Body over 5Mb hidden for performance reasons" = "出于性能考量，隐藏超过 5Mb 的正文";
@@ -875,7 +875,7 @@
 "Haven't supported: Convert from %@ to Proxyman Type. Please open the Ticket on Github for feature requests." = "不支持：从 %@ 转换为代理类型。请在 Github 上打开票证以请求功能。";
 
 /* No comment provided by engineer. */
-"Header" = "标头";
+"Header" = "Header";
 
 /* No comment provided by engineer. */
 "Hide" = "隐藏";
@@ -896,7 +896,7 @@
 "How to install?" = "如何安装？";
 
 /* No comment provided by engineer. */
-"HTTPS Response" = "HTTPS 响应";
+"HTTPS Response" = "HTTPS Response";
 
 /* No comment provided by engineer. */
 "ID" = "ID";
@@ -1559,7 +1559,7 @@
 "Replace" = "取代";
 
 /* No comment provided by engineer. */
-"Request" = "请求";
+"Request" = "Request";
 
 /* No comment provided by engineer. */
 "Request & Response panels are hidden!" = "请求和响应面板被隐藏了！";
@@ -1586,7 +1586,7 @@
 "Request Body..." = "请求正文...";
 
 /* No comment provided by engineer. */
-"Request Cookie" = "请求 Cookie";
+"Request Cookie" = "Request Cookie";
 
 /* No comment provided by engineer. */
 "Request End Time" = "请求结束时间";
@@ -1628,7 +1628,7 @@
 "Reset to the original columns state" = "重置为原始列状态";
 
 /* No comment provided by engineer. */
-"Response" = "响应";
+"Response" = "Response";
 
 /* No comment provided by engineer. */
 "Response Body" = "响应正文";
@@ -1652,7 +1652,7 @@
 "Response Code" = "响应代码";
 
 /* No comment provided by engineer. */
-"Response Cookie" = "响应 Cookie";
+"Response Cookie" = "Response Cookie";
 
 /* No comment provided by engineer. */
 "Response End Time" = "响应结束时间";
@@ -2072,7 +2072,7 @@
 "You're behind %d updates" = "您落后于 %d 个更新";
 
 /* No comment provided by engineer. */
-"Your %@ Certificate was expired" = "您的 %@ 证书已过期";
+"Your <%@> Certificate was expired ⚠️" = "您的 %@ 证书已过期";
 
 /* No comment provided by engineer. */
 "Your current HTTP/HTTPS Proxy is overridden by networksetup CLI." = "您当前的 HTTP/HTTPS 代理被 networksetup CLI 覆盖";
@@ -2241,3 +2241,51 @@
 
 /* No comment provided by engineer. */
 "Required your permission to properly work in Login Items" = "需要您的许可才能在登录项中正常工作";
+
+/* No comment provided by engineer. */
+"%d matches" = "%d matches";
+
+/* No comment provided by engineer. */
+"1 match" = "1 match";
+
+/* No comment provided by engineer. */
+"Change Content-Type Header" = "Change Content-Type Header";
+
+/* No comment provided by engineer. */
+"Copy export env shell command (http_proxy and https_proxy)" = "Copy export env shell command (http_proxy and https_proxy)";
+
+/* No comment provided by engineer. */
+"Copy Shell Command" = "Copy Shell Command";
+
+/* No comment provided by engineer. */
+"Do you want to set Content-Type: \(newContentType)" = "Do you want to set Content-Type: \(newContentType)";
+
+/* No comment provided by engineer. */
+"Filter all Keys/Values (⌘F)" = "Filter all Keys/Values (⌘F)";
+
+/* No comment provided by engineer. */
+"Latency" = "Latency";
+
+/* No comment provided by engineer. */
+"Platform" = "Platform";
+
+/* No comment provided by engineer. */
+"Request Total Time" = "Request Total Time";
+
+/* No comment provided by engineer. */
+"Response Total Time" = "Response Total Time";
+
+/* No comment provided by engineer. */
+"Search all Keys/Values (⌘F)" = "Search all Keys/Values (⌘F)";
+
+/* No comment provided by engineer. */
+"View this JSON Node" = "View this JSON Node";
+
+/* No comment provided by engineer. */
+"View…" = "View…";
+
+/* No comment provided by engineer. */
+"You're %d updates behind" = "You're %d updates behind";
+
+/* No comment provided by engineer. */
+"Your %@ Certificate was expired" = "Your %@ Certificate was expired";
