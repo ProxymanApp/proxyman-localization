@@ -1,7 +1,7 @@
 ## Localization for Proxyman 📚
 This public repository contains all texts of Proxyman for macOS app.
 
-- Update: Proxyman for macOS 3.12.0
+- Update: Proxyman for macOS 4.3.0
 
 ### Support languages
 - English (default)
