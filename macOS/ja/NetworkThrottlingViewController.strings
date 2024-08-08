@@ -17,6 +17,9 @@
 "83t-Au-dRB.title" = "箱";
 
 /* No comment by Translator*/
+"9Kp-93-0Hj.title" = "Enable or Disable entire Map Local Feature";
+
+/* No comment by Translator*/
 "9nl-Oj-IpG.title" = "テキストセル";
 
 /* No comment by Translator*/
@@ -27,6 +30,12 @@
 
 /* No comment by Translator*/
 "Efa-Cj-LAb.title" = "編集";
+
+/* No comment by Translator*/
+"KJF-xP-zpJ.title" = "Enabled";
+
+/* No comment by Translator*/
+"KJF-xP-zpJ.title" = "Enable / Disable this entry";
 
 /* No comment by Translator*/
 "LsW-mT-0My.title" = "点击 \"+\" 或 ⌘N 添加新条目";
@@ -44,6 +53,12 @@
 "Tz6-yr-DCF.title" = "从代理...";
 
 /* No comment by Translator*/
+"UFi-RN-YSX.title" = "Network Profile";
+
+/* No comment by Translator*/
+"UFi-RN-YSX.title" = "Preset Profiles";
+
+/* No comment by Translator*/
 "UVH-eC-5ha.title" = "一次只能激活 1 个规则";
 
 /* No comment by Translator*/
@@ -51,6 +66,9 @@
 
 /* No comment by Translator*/
 "VfX-5a-Nkz.title" = "インポート設定";
+
+/* No comment by Translator*/
+"Xh6-Yk-hFL.title" = "Name";
 
 /* No comment by Translator*/
 "aBw-Ef-c6N.title" = "コピー";
@@ -65,13 +83,25 @@
 "j2E-1v-pml.title" = "导出设置...";
 
 /* No comment by Translator*/
+"n5a-vj-tHc.title" = "Toggl Enable / Disable selected rules";
+
+/* No comment by Translator*/
 "n5a-vj-tHc.title" = "启用规则";
+
+/* No comment by Translator*/
+"sm6-NU-Bil.title" = "Host";
+
+/* No comment by Translator*/
+"sm6-NU-Bil.title" = "Host and Port";
 
 /* No comment by Translator*/
 "u3I-Jl-6Xx.title" = "アクティブ";
 
 /* No comment by Translator*/
 "uTp-kp-utZ.title" = "テキストセル";
+
+/* No comment by Translator*/
+"yB4-eu-flT.title" = "Status";
 
 /* No comment by Translator*/
 "z9y-BT-pBJ.title" = "⌘N：新建；⌘⏎：编辑；⌘⌫：删除；⌘D：重复；⌘T：启用/禁用规则；";
