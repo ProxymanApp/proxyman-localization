@@ -20,10 +20,19 @@
 "1b7-l0-nxx.title" = "検索";
 
 /* No comment by Translator*/
+"1cY-IH-L90.title" = "All Proxyman Certificate will be removed";
+
+/* No comment by Translator*/
 "1cY-IH-L90.title" = "すべての Proxyman 証明書をリセット";
 
 /* No comment by Translator*/
 "2IX-Rt-veX.title" = "紫色";
+
+/* No comment by Translator*/
+"2Lu-od-oG8.title" = "Reverse Proxy Server is enabled";
+
+/* No comment by Translator*/
+"2eA-6u-s1g.title" = "Prevent client applications form caching requests and responses";
 
 /* No comment by Translator*/
 "2eA-6u-s1g.title" = "キャッシュを無効化";
@@ -50,6 +59,12 @@
 "4Xg-UT-6f3.title" = "詳細設定";
 
 /* No comment by Translator*/
+"4eb-gj-qS6.title" = "Search app or domain (⌘⇧F)";
+
+/* No comment by Translator*/
+"4mv-UD-NzZ.title" = "Guideline how to install Proxyman Certificate to Firefox Browsers";
+
+/* No comment by Translator*/
 "4mv-UD-NzZ.title" = "Firefox ブラウザに証明書をインストール...";
 
 /* No comment by Translator*/
@@ -59,10 +74,16 @@
 "4sb-4s-VLi.title" = "Proxymanを終了";
 
 /* No comment by Translator*/
+"5L7-nW-b98.title" = "Scripting is enabled (⌥⌘I)";
+
+/* No comment by Translator*/
 "5NR-X1-Rra.title" = "Scripting";
 
 /* No comment by Translator*/
 "5QF-Oa-p0T.title" = "編集";
+
+/* No comment by Translator*/
+"5fM-rW-rAr.title" = "Guideline how to install Proxyman Certificate to all Simulator (watchOS and tvOS)";
 
 /* No comment by Translator*/
 "5fM-rW-rAr.title" = "watchOS または tvOS…";
@@ -110,6 +131,9 @@
 "7ts-E2-4NF.title" = "コンテンツ パネルは取り外し可能なウィンドウ モードです";
 
 /* No comment by Translator*/
+"88X-yj-swt.title" = "Map local file as a response to matching requests";
+
+/* No comment by Translator*/
 "88X-yj-swt.title" = "Map Local...";
 
 /* No comment by Translator*/
@@ -119,7 +143,13 @@
 "8iX-Yw-prD.title" = "• 0MB ↑ 0 KB/秒 ↓ 0 KB/秒";
 
 /* No comment by Translator*/
+"8rh-r4-MBy.title" = "Filter specific domains or app in the Source Panel (Left Panel)";
+
+/* No comment by Translator*/
 "8rh-r4-MBy.title" = "ドメイン・アプリをフィルターする";
+
+/* No comment by Translator*/
+"9hR-dt-PP4.title" = "Map Remote is enabled (⌥⌘R)";
 
 /* No comment by Translator*/
 "9um-sj-sOV.title" = "Breakpoint";
@@ -128,10 +158,16 @@
 "AYu-sK-qS6.title" = "メインメニュー";
 
 /* No comment by Translator*/
+"AqU-jl-qRT.title" = "Save and Activate the current script";
+
+/* No comment by Translator*/
 "AqU-jl-qRT.title" = "保存して有効化する";
 
 /* No comment by Translator*/
 "Asg-75-GFE.title" = "リバースプロキシ...";
+
+/* No comment by Translator*/
+"AwM-lX-ZaA.title" = "Copy selected request as cURL/HTTPie format";
 
 /* No comment by Translator*/
 "AwM-lX-ZaA.title" = "cURL にコピー";
@@ -146,13 +182,22 @@
 "Bm2-yv-CV5.title" = "削除";
 
 /* No comment by Translator*/
+"BnQ-MT-dPy.title" = "It's where Proxyman stores all user backups.";
+
+/* No comment by Translator*/
 "BnQ-MT-dPy.title" = "バックアップフォルダーを開くと…";
+
+/* No comment by Translator*/
+"Bw7-FT-i3A.title" = "Save entire working session to file";
 
 /* No comment by Translator*/
 "Bw7-FT-i3A.title" = "セッションを保存…";
 
 /* No comment by Translator*/
 "BxC-vD-K30.title" = "リバースプロキシ...";
+
+/* No comment by Translator*/
+"C37-ok-gCS.title" = "Open new session on new tab";
 
 /* No comment by Translator*/
 "C37-ok-gCS.title" = "新規セッション";
@@ -167,13 +212,22 @@
 "Ckk-yw-fiv.title" = "Proxyman";
 
 /* No comment by Translator*/
+"CzI-85-4Ih.title" = "Add your custom certificates to Proxyman";
+
+/* No comment by Translator*/
 "CzI-85-4Ih.title" = "カスタム証明書を追加...";
 
 /* No comment by Translator*/
 "DVo-aG-piG.title" = "閉じる";
 
 /* No comment by Translator*/
+"DWA-p4-NCT.title" = "Create new folder in Source Panel (Left Panel)";
+
+/* No comment by Translator*/
 "DWA-p4-NCT.title" = "新しいフォルダ";
+
+/* No comment by Translator*/
+"Dg2-zm-cMR.title" = "All Proxyman and User Data are gone.";
 
 /* No comment by Translator*/
 "Dg2-zm-cMR.title" = "データを初期化する...";
@@ -188,7 +242,13 @@
 "EKS-Tx-r2L.title" = "Scriptingでログコンソールを切り替える";
 
 /* No comment by Translator*/
+"ENf-xc-cWH.title" = "Guideline how to integrate Atlantis iOS Framework";
+
+/* No comment by Translator*/
 "ENf-xc-cWH.title" = "Atlantis…";
+
+/* No comment by Translator*/
+"EhD-Ld-rfT.title" = "Proxy HTTP & HTTPS Requests from local ports to specified upstream servers";
 
 /* No comment by Translator*/
 "EhD-Ld-rfT.title" = "リバースプロキシ...";
@@ -203,6 +263,9 @@
 "FW2-MC-gIh.title" = "Map Local...";
 
 /* No comment by Translator*/
+"G4s-39-OzM.title" = "Delete all flows from the current table (⇧⌘⌫)";
+
+/* No comment by Translator*/
 "G7r-Ai-wOV.title" = "チェンジログ…";
 
 /* No comment by Translator*/
@@ -210,6 +273,9 @@
 
 /* No comment by Translator*/
 "GVQ-jl-aJy.title" = "差分";
+
+/* No comment by Translator*/
+"GbH-TB-5qd.title" = "Execute the Script to install Proxyman Certificate to all available Java Store";
 
 /* No comment by Translator*/
 "GbH-TB-5qd.title" = "Scriptingを実行...";
@@ -225,6 +291,9 @@
 
 /* No comment by Translator*/
 "I5X-iG-DrG.title" = "左";
+
+/* No comment by Translator*/
+"I8k-MP-wuk.title" = "Simulate Network Conditions with various preset profiles";
 
 /* No comment by Translator*/
 "I8k-MP-wuk.title" = "Network Conditions...";
@@ -243,6 +312,9 @@
 
 /* No comment by Translator*/
 "IUu-fw-GYj.title" = "デバッグモードを有効にする...";
+
+/* No comment by Translator*/
+"Idc-iR-L0Y.title" = "How to use Proxyman Command-line";
 
 /* No comment by Translator*/
 "Idc-iR-L0Y.title" = "コマンドライン…";
@@ -278,7 +350,13 @@
 "MHh-7c-kMO.title" = "開発証明書をインストール";
 
 /* No comment by Translator*/
+"MIw-t1-AWs.title" = "Guideline how to install Proxyman Certificate to Android Emulator by using Script";
+
+/* No comment by Translator*/
 "MIw-t1-AWs.title" = "シミュレーター…";
+
+/* No comment by Translator*/
+"MTD-lK-rwg.title" = "Clear entire session to release all caching memory";
 
 /* No comment by Translator*/
 "MTD-lK-rwg.title" = "セッションをクリア";
@@ -323,10 +401,16 @@
 "PCh-Tn-aVc.title" = "緑色";
 
 /* No comment by Translator*/
+"PTh-m2-pZo.title" = "Simulate Network Conditions with various presets profiles  (⌥⌘J)";
+
+/* No comment by Translator*/
 "PYL-qC-SVe.title" = "チュートリアル";
 
 /* No comment by Translator*/
 "Pgh-OW-VrR.title" = "React Native…";
+
+/* No comment by Translator*/
+"PwA-fQ-eaG.title" = "Override macOS Proxy Setting in Network.prefpanel";
 
 /* No comment by Translator*/
 "PwA-fQ-eaG.title" = "macOS のプロキシをオーバーライドする";
@@ -338,6 +422,9 @@
 "QWa-6G-Xq7.title" = "トラブルシューティング";
 
 /* No comment by Translator*/
+"Qvq-a9-0aG.title" = "Drop connection for all matched URLs on blocklist";
+
+/* No comment by Translator*/
 "Qvq-a9-0aG.title" = "ブラックリスト…";
 
 /* No comment by Translator*/
@@ -347,7 +434,13 @@
 "R4o-n2-Eq4.title" = "最大化する";
 
 /* No comment by Translator*/
+"RIe-6p-hhf.title" = "Export Proxyman CA (.pem)";
+
+/* No comment by Translator*/
 "RIe-6p-hhf.title" = "PEM（ルート証明書）...";
+
+/* No comment by Translator*/
+"RJe-2S-X79.title" = "Auto Select the latest requests (⇧⌘L). Click on any rows to disable it.";
 
 /* No comment by Translator*/
 "RMV-Z4-4ih.title" = "SSL プロキシ リスト...";
@@ -374,6 +467,9 @@
 "Td7-aD-5lo.title" = "ウィンドウ";
 
 /* No comment by Translator*/
+"Tx9-Hp-lAT.title" = "Settings for External Proxy";
+
+/* No comment by Translator*/
 "Tx9-Hp-lAT.title" = "外部プロキシ設定...";
 
 /* No comment by Translator*/
@@ -398,6 +494,9 @@
 "VeP-8Q-K5o.title" = "Proxyman ウェブサイト…";
 
 /* No comment by Translator*/
+"W09-u5-2LZ.title" = "Current Application Folder";
+
+/* No comment by Translator*/
 "W09-u5-2LZ.title" = "ユーザーデータフォルダーを開く...";
 
 /* No comment by Translator*/
@@ -407,6 +506,9 @@
 "WMm-Kk-YBm.title" = "エクスポート";
 
 /* No comment by Translator*/
+"WuK-2M-JYO.title" = "Export Pirvate Key of Proxyman CA";
+
+/* No comment by Translator*/
 "WuK-2M-JYO.title" = "秘密鍵...";
 
 /* No comment by Translator*/
@@ -414,6 +516,9 @@
 
 /* No comment by Translator*/
 "XZI-Uu-ZTS.title" = "0 件";
+
+/* No comment by Translator*/
+"Xkd-SQ-lBA.title" = "Proxyman will proxy all flows to the external proxy server.";
 
 /* No comment by Translator*/
 "Xz5-n4-O0W.title" = "探しています…";
@@ -428,13 +533,28 @@
 "YfX-Qv-Fip.title" = "Breakpoint";
 
 /* No comment by Translator*/
+"Yib-Ld-rop.title" = "Send private message to Proxyman team";
+
+/* No comment by Translator*/
 "Yib-Ld-rop.title" = "プライベートメッセージを送信...";
 
 /* No comment by Translator*/
 "YrN-cD-1BC.title" = "自動選択";
 
 /* No comment by Translator*/
+"Zag-6a-svC.title" = "The rule of breakpoints";
+
+/* No comment by Translator*/
 "Zag-6a-svC.title" = "ルール…";
+
+/* No comment by Translator*/
+"Zih-VI-Rcb.title" = "Show / Hide the Filter Panel (⌘F)";
+
+/* No comment by Translator*/
+"Zv0-x6-lgN.title" = "Prevent client applications form caching requests and responses (⌥⌘N)";
+
+/* No comment by Translator*/
+"a2u-MZ-zs7.title" = "Use Proxyman with HTTP Clients, such as Paw, Postman and Insomnia";
 
 /* No comment by Translator*/
 "a2u-MZ-zs7.title" = "HTTP クライアント…";
@@ -446,6 +566,9 @@
 "aqJ-az-i2l.title" = "トラブルシューティング";
 
 /* No comment by Translator*/
+"bTM-EF-3Na.title" = "Compose new request for debugging";
+
+/* No comment by Translator*/
 "bTM-EF-3Na.title" = "リクエストを新規作成...";
 
 /* No comment by Translator*/
@@ -455,10 +578,16 @@
 "bib-Uj-vzu.title" = "書類";
 
 /* No comment by Translator*/
+"bqg-mb-EG7.title" = "A tutorial how to retreive your data if there is something wrong!";
+
+/* No comment by Translator*/
 "bqg-mb-EG7.title" = "データロストについて...";
 
 /* No comment by Translator*/
 "bqz-Ef-vED.title" = "Charles Proxyから";
+
+/* No comment by Translator*/
+"bte-hE-8Pw.title" = "Use Proxyman with Docker";
 
 /* No comment by Translator*/
 "bte-hE-8Pw.title" = "Docker…";
@@ -468,6 +597,12 @@
 
 /* No comment by Translator*/
 "cUE-Z0-jBK.title" = "変換する";
+
+/* No comment by Translator*/
+"cX1-mf-48B.title" = "Map Local is enabled (⌥⌘L)";
+
+/* No comment by Translator*/
+"dBR-4N-MkK.title" = "Define the Protobuf setting to parse properly";
 
 /* No comment by Translator*/
 "dBR-4N-MkK.title" = "プロトブフ…";
@@ -482,6 +617,9 @@
 "dRJ-4n-Yzg.title" = "元に戻す";
 
 /* No comment by Translator*/
+"dRq-zp-xwe.title" = "Add domain/client (⌘+K)";
+
+/* No comment by Translator*/
 "dY1-Ts-oI9.title" = "フィルター";
 
 /* No comment by Translator*/
@@ -492,6 +630,9 @@
 
 /* No comment by Translator*/
 "dwv-9k-9eX.title" = "リバースプロキシ";
+
+/* No comment by Translator*/
+"eD5-dY-prA.title" = "Guideline how to install Proxyman Certificate to Android Physical Devices";
 
 /* No comment by Translator*/
 "eD5-dY-prA.title" = "ハードウェア実機...";
@@ -506,13 +647,22 @@
 "eaW-If-9V8.title" = "ツールバーをカスタマイズ...";
 
 /* No comment by Translator*/
+"f2H-uv-L71.title" = "Breakpoint is enabled (⌥⌘B)";
+
+/* No comment by Translator*/
 "fOO-Zx-YnO.title" = "ドメイン...";
 
 /* No comment by Translator*/
 "fRd-qS-qIs.title" = "最新のリクエストを選択";
 
 /* No comment by Translator*/
+"fYJ-Ls-Exc.title" = "Manage the Custom Columns on the main table";
+
+/* No comment by Translator*/
 "fYJ-Ls-Exc.title" = "カスタム列...";
+
+/* No comment by Translator*/
+"fef-Qi-lia.title" = "From .chls (Charles Proxy) to .har (HTTP Archive) that Proxyman can understand";
 
 /* No comment by Translator*/
 "fef-Qi-lia.title" = ".chls から .har へ";
@@ -530,6 +680,9 @@
 "gfh-cM-6rd.title" = "エクスポート";
 
 /* No comment by Translator*/
+"gnF-Q6-2QN.title" = "All Proxyman Windows will stay on top of other apps";
+
+/* No comment by Translator*/
 "gnF-Q6-2QN.title" = "ウィンドウを手前に";
 
 /* No comment by Translator*/
@@ -542,6 +695,9 @@
 "hJD-Jc-dUc.title" = "リモート デバイス (iOS、Android) が Proxyman に接続できませんか? ...";
 
 /* No comment by Translator*/
+"hfW-gz-bVi.title" = "All domains and apps which are enabled SSL Proxying";
+
+/* No comment by Translator*/
 "hfW-gz-bVi.title" = "SSL プロキシ リスト...";
 
 /* No comment by Translator*/
@@ -549,6 +705,9 @@
 
 /* No comment by Translator*/
 "i8J-io-caN.title" = "変換する";
+
+/* No comment by Translator*/
+"iee-fo-ccT.title" = "Manage the Previewer Tabs on Request or Response Panel";
 
 /* No comment by Translator*/
 "iee-fo-ccT.title" = "プレビューアのタブをカスタマイズ...";
@@ -569,7 +728,13 @@
 "jWT-Mn-Kpi.title" = "プロセス";
 
 /* No comment by Translator*/
+"jYe-46-HrS.title" = "Use Proxyman with your VPN apps";
+
+/* No comment by Translator*/
 "jYe-46-HrS.title" = "VPN…";
+
+/* No comment by Translator*/
+"jcQ-j3-Mza.title" = "Open Compose windows for editing the current selected request";
 
 /* No comment by Translator*/
 "jcQ-j3-Mza.title" = "編集して繰り返します...";
@@ -590,10 +755,19 @@
 "lAC-2O-yAz.title" = "Network Conditions";
 
 /* No comment by Translator*/
+"lDW-gr-1bg.title" = "Export Proxyman CA (.der)";
+
+/* No comment by Translator*/
 "lDW-gr-1bg.title" = "DER（ルート証明書）...";
 
 /* No comment by Translator*/
+"lEd-ns-ZiS.title" = "Manage the Request/Response Template";
+
+/* No comment by Translator*/
 "lEd-ns-ZiS.title" = "Breakpoint テンプレート...";
+
+/* No comment by Translator*/
+"lPR-UL-J97.title" = "Repeat the current selected request";
 
 /* No comment by Translator*/
 "lPR-UL-J97.title" = "繰り返す";
@@ -602,13 +776,22 @@
 "ldG-IO-T9q.title" = "Charles Proxyから";
 
 /* No comment by Translator*/
+"lxJ-8m-6PI.title" = "Map specific request to different request location";
+
+/* No comment by Translator*/
 "lxJ-8m-6PI.title" = "Map Remote…";
+
+/* No comment by Translator*/
+"mKD-Hp-ETJ.title" = "Custom Certificates is enabled";
 
 /* No comment by Translator*/
 "mOd-Vy-ZL7.title" = "右";
 
 /* No comment by Translator*/
 "mu5-Q7-VLo.title" = "プレミアムにアップグレードしてすべての機能をロック解除します";
+
+/* No comment by Translator*/
+"ndw-cW-F7D.title" = "Your HTTP/HTTPS Proxy is overridden by Proxyman (⌥⌘O)";
 
 /* No comment by Translator*/
 "oas-Oc-fiZ.title" = "最近開いた";
@@ -621,6 +804,9 @@
 
 /* No comment by Translator*/
 "ozy-tH-5wN.title" = "選択した項目を差分リストに追加...";
+
+/* No comment by Translator*/
+"p1m-xS-O9V.title" = "Allow List is applied to record exclusively matched URLs. Other URLs are ignored  (⌥⌘A)";
 
 /* No comment by Translator*/
 "p3m-pz-uha.title" = "GitHub…";
@@ -644,6 +830,9 @@
 "rNg-Pa-YbN.title" = "ブラックリスト";
 
 /* No comment by Translator*/
+"rsG-Su-SeQ.title" = "Guideline how to install Proxyman Certificate to iOS Devices (iPhone/iPad/AppleTV/Apple Watch)";
+
+/* No comment by Translator*/
 "rsG-Su-SeQ.title" = "ハードウェア実機...";
 
 /* No comment by Translator*/
@@ -656,6 +845,9 @@
 "sEI-fC-hlc.title" = "Flutter…";
 
 /* No comment by Translator*/
+"seo-dr-hjm.title" = "Breakpoint list";
+
+/* No comment by Translator*/
 "seo-dr-hjm.title" = "Breakpoints…";
 
 /* No comment by Translator*/
@@ -666,6 +858,9 @@
 
 /* No comment by Translator*/
 "t0K-OI-Qxz.title" = "チュートリアル";
+
+/* No comment by Translator*/
+"tEF-kV-SFS.title" = "Guideline how to install Proxyman Certificate to all Simulator (iOS, iPadOS)";
 
 /* No comment by Translator*/
 "tEF-kV-SFS.title" = "シミュレーター…";
@@ -695,10 +890,16 @@
 "vxo-Yk-owy.title" = "美化する";
 
 /* No comment by Translator*/
+"w0X-qx-Aym.title" = "Resource Usage: Memory, Upload and Download";
+
+/* No comment by Translator*/
 "wTh-vD-k7l.title" = "Python…";
 
 /* No comment by Translator*/
 "wmf-xV-Lb8.title" = "箱";
+
+/* No comment by Translator*/
+"wng-11-iu1.title" = "Filter (⌘⇧F)";
 
 /* No comment by Translator*/
 "wpr-3q-Mcd.title" = "ヘルプ";
@@ -713,6 +914,9 @@
 "xJd-Uf-BK5.title" = "差分ビューを開く…";
 
 /* No comment by Translator*/
+"xnY-jX-D87.title" = "Instruction to install Proxyman CA to this mac";
+
+/* No comment by Translator*/
 "xnY-jX-D87.title" = "この Mac に証明書をインストール…";
 
 /* No comment by Translator*/
@@ -723,6 +927,9 @@
 
 /* No comment by Translator*/
 "yBE-G1-kKG.title" = "Breakpoints...";
+
+/* No comment by Translator*/
+"yHp-Wk-jHo.title" = "Block List is applied to block all matched URLs  (⌥⌘X)";
 
 /* No comment by Translator*/
 "yIg-2W-rqg.title" = "リクエスト/レスポンスの大きな本文データ (>= 5Mb) のエクスポートをスキップする";
@@ -749,10 +956,19 @@
 "zQH-5l-VXn.title" = "Scriptingの一覧...";
 
 /* No comment by Translator*/
+"zRf-ev-leU.title" = "Only capture matched URLs. Ignore the rest";
+
+/* No comment by Translator*/
 "zRf-ev-leU.title" = "ホワイトリスト...";
 
 /* No comment by Translator*/
+"zXo-eI-h7d.title" = "Add new domains or apps into Source Panel (Left Panel)";
+
+/* No comment by Translator*/
 "zXo-eI-h7d.title" = "新しいドメインまたはアプリケーション";
+
+/* No comment by Translator*/
+"zYz-aO-geY.title" = "Export Proxyman CA (.p12)";
 
 /* No comment by Translator*/
 "zYz-aO-geY.title" = "P12（ルート証明書）...";
@@ -761,7 +977,13 @@
 "zfm-Nx-lph.title" = "Proxyman は私の VPN と互換性がありませんか? ...";
 
 /* No comment by Translator*/
+"5bG-V7-Rho.title" = "Toggle Enable/Disable the Breakpoint Tool";
+
+/* No comment by Translator*/
 "5bG-V7-Rho.title" = "Breakpoint";
+
+/* No comment by Translator*/
+"7gm-fb-2xP.title" = "Toggle Enable/Disable the Block List Tool";
 
 /* No comment by Translator*/
 "7gm-fb-2xP.title" = "ブラックリスト";
@@ -770,10 +992,19 @@
 "Bpz-gb-j44.title" = "ツールの有効化/無効化";
 
 /* No comment by Translator*/
+"Jbb-Ov-C7d.title" = "Toggle Enable/Disable the Map Local Tool";
+
+/* No comment by Translator*/
 "Jbb-Ov-C7d.title" = "Map Local";
 
 /* No comment by Translator*/
+"Mrd-VT-G6e.title" = "Toggle Enable/Disable the Allow List Tool";
+
+/* No comment by Translator*/
 "Mrd-VT-G6e.title" = "許可リスト";
+
+/* No comment by Translator*/
+"Uei-Ey-Z6a.title" = "Toggle Enable/Disable the Map Remtote Tool";
 
 /* No comment by Translator*/
 "Uei-Ey-Z6a.title" = "Map Remote";
@@ -788,6 +1019,9 @@
 "lHc-jp-TXM.title" = "SSLプロキシリスト";
 
 /* No comment by Translator*/
+"p0b-sK-SRd.title" = "Save selected requests to the Saved Folder";
+
+/* No comment by Translator*/
 "p0b-sK-SRd.title" = "保存リクエスト";
 
 /* No comment by Translator*/
@@ -798,6 +1032,9 @@
 
 /* No comment by Translator*/
 "Geb-Vv-nny.title" = "NodeJS…";
+
+/* No comment by Translator*/
+"OId-5B-2WD.title" = "Display invisible characters in the Request/Response panels. e.g. New Line, Whitespace, Controls, Nonspacing, etc";
 
 /* No comment by Translator*/
 "OId-5B-2WD.title" = "見えない文字を表示する";
