@@ -2,9 +2,6 @@
 "55I-2j-N3c.title" = "Map To";
 
 /* No comment by Translator*/
-"5uA-nj-f0B.title" = "File is missing!";
-
-/* No comment by Translator*/
 "9Zx-Ag-3rZ.title" = "Box";
 
 /* No comment by Translator*/
@@ -23,9 +20,6 @@
 "Gpn-wO-ERb.title" = "Accept HTTP Message Format or Local File";
 
 /* No comment by Translator*/
-"KQw-Vb-PCA.title" = "Local Directory";
-
-/* No comment by Translator*/
 "Kq1-Nf-zLf.title" = "Select Local File";
 
 /* No comment by Translator*/
@@ -36,9 +30,6 @@
 
 /* No comment by Translator*/
 "P4o-dl-BDp.title" = "Show in Finder…";
-
-/* No comment by Translator*/
-"Xpk-bH-UCS.title" = "api.proxyman.io/v1/*";
 
 /* No comment by Translator*/
 "YJp-VX-TxN.title" = "Valid HTTP Message Format";
@@ -53,9 +44,6 @@
 "arj-9D-ccT.title" = "Support map from Root or Sub-Directories";
 
 /* No comment by Translator*/
-"beY-LR-MBq.title" = "<Invalid File. Please select the local directory>";
-
-/* No comment by Translator*/
 "beY-LR-MBq.title" = "~/temporary/json.txt";
 
 /* No comment by Translator*/
@@ -68,28 +56,16 @@
 "f5x-eA-loC.title" = "Untitled";
 
 /* No comment by Translator*/
-"f5x-eA-loC.title" = "Untitled";
-
-/* No comment by Translator*/
 "gu0-HQ-5fy.title" = "File:";
 
 /* No comment by Translator*/
 "iX9-Av-adp.title" = "Enable Local Directory";
 
 /* No comment by Translator*/
-"j6O-e3-d9Q.title" = "Local File";
-
-/* No comment by Translator*/
 "kv0-ZL-9Zq.title" = "Directory Path:";
 
 /* No comment by Translator*/
 "qHm-ke-rPr.title" = "File size is bigger than 20Mb could impact the performance!";
-
-/* No comment by Translator*/
-"rif-3l-FwS.title" = "Automatically Save file after 1 second";
-
-/* No comment by Translator*/
-"2fo-Px-M5m.title" = "The content of local file is automatically saved after 2 seconds";
 
 /* No comment by Translator*/
 "2fo-Px-M5m.title" = "Auto-Save";
