@@ -1,0 +1,41 @@
+/* Class = "NSImageView"; ibShadowedToolTip = "Automatically Save file after 1 second"; ObjectID = "7yj-r2-5F1"; */
+"7yj-r2-5F1.ibShadowedToolTip" = "1秒后自动保存文件";
+
+/* Class = "NSTextFieldCell"; title = "Valid HTTP Message Format"; ObjectID = "9Fk-ui-AmQ"; */
+"9Fk-ui-AmQ.title" = "有效的 HTTP 消息格式";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "9OG-ja-nhC"; */
+"9OG-ja-nhC.title" = "箱";
+
+/* Class = "NSTextFieldCell"; title = "Request Template"; ObjectID = "Df7-xt-iEx"; */
+"Df7-xt-iEx.title" = "请求模板";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "Izv-ct-v1I"; */
+"Izv-ct-v1I.title" = "箱";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Untitled"; ObjectID = "S5X-8o-5FW"; */
+"S5X-8o-5FW.placeholderString" = "无标题";
+
+/* Class = "NSTextFieldCell"; title = "Untitled"; ObjectID = "S5X-8o-5FW"; */
+"S5X-8o-5FW.title" = "无标题";
+
+/* Class = "NSTextFieldCell"; title = "Name:"; ObjectID = "SoZ-Lw-ECB"; */
+"SoZ-Lw-ECB.title" = "名称：";
+
+/* Class = "NSTextFieldCell"; title = "⇧⌘N: Add new Response"; ObjectID = "VOX-1b-ibn"; */
+"VOX-1b-ibn.title" = "⇧⌘N：添加新的响应";
+
+/* Class = "NSTextFieldCell"; title = "Request Raw Message"; ObjectID = "Vnz-Ol-bvE"; */
+"Vnz-Ol-bvE.title" = "请求原始消息";
+
+/* Class = "NSTextFieldCell"; title = "No Template Selection"; ObjectID = "j0e-RE-rR9"; */
+"j0e-RE-rR9.title" = "没有模板选择";
+
+/* Class = "NSTextFieldCell"; title = "To apply Breakpoint Template: In the Breakpoint Window -> Select Raw Tab -> Template"; ObjectID = "vbP-2I-jUB"; */
+"vbP-2I-jUB.title" = "应用断点模板：在断点窗口中 -> 选择原始选项卡 -> 模板";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "xPm-2i-pXF"; */
+"xPm-2i-pXF.title" = "箱";
+
+/* Class = "NSTextFieldCell"; title = "⌘N: Add new Request"; ObjectID = "yML-xK-kVi"; */
+"yML-xK-kVi.title" = "⌘N：添加新请求";

@@ -1,0 +1,182 @@
+/* Class = "NSMenuItem"; title = "Copy"; ObjectID = "0Ec-tm-ZJS"; */
+"0Ec-tm-ZJS.title" = "コピー";
+
+/* Class = "NSTextFieldCell"; title = "No Selection"; ObjectID = "2dL-Y7-QWR"; */
+"2dL-Y7-QWR.title" = "无选择";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "4jT-W0-wpq"; */
+"4jT-W0-wpq.title" = "箱";
+
+/* Class = "NSTableColumn"; headerCell.title = "Value"; ObjectID = "5NR-xD-i3g"; */
+"5NR-xD-i3g.headerCell.title" = "值";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Only receive socket messages"; ObjectID = "7Df-Vv-l0m"; */
+"7Df-Vv-l0m.ibShadowedToolTip" = "只接收套接字消息";
+
+/* Class = "NSMenuItem"; title = "Receive"; ObjectID = "7Df-Vv-l0m"; */
+"7Df-Vv-l0m.title" = "接收";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "Bc2-ET-Iw4"; */
+"Bc2-ET-Iw4.title" = "表格视图单元格";
+
+/* Class = "NSTableColumn"; headerCell.title = "Value"; ObjectID = "BqW-AU-E4g"; */
+"BqW-AU-E4g.headerCell.title" = "值";
+
+/* Class = "NSTableColumn"; headerCell.title = "File Name"; ObjectID = "CQW-LG-Nj4"; */
+"CQW-LG-Nj4.headerCell.title" = "文件名";
+
+/* Class = "NSTableColumn"; headerCell.title = "Part"; ObjectID = "EAp-gu-4Xd"; */
+"EAp-gu-4Xd.headerCell.title" = "部分";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "F8h-zy-Yb1"; */
+"F8h-zy-Yb1.title" = "テキストセル";
+
+/* Class = "NSMenuItem"; title = "Format with"; ObjectID = "HWM-ws-3XD"; */
+"HWM-ws-3XD.title" = "格式化为";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Try to format JSON Prettier if possible"; ObjectID = "Jp4-l3-uXg"; */
+"Jp4-l3-uXg.ibShadowedToolTip" = "尝试使用 JSON Prettier 进行格式化";
+
+/* Class = "NSMenuItem"; title = "JSON Prettier"; ObjectID = "Jp4-l3-uXg"; */
+"Jp4-l3-uXg.title" = "JSON Prettier";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "KRI-eZ-xJU"; */
+"KRI-eZ-xJU.title" = "箱";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "KSs-Os-D7g"; */
+"KSs-Os-D7g.title" = "テキストセル";
+
+/* Class = "NSMenuItem"; title = "Text"; ObjectID = "Mos-7C-6hY"; */
+"Mos-7C-6hY.title" = "文本";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Filter the type of Socket Message (All, Sent or Receive)"; ObjectID = "Nth-Iy-aEH"; */
+"Nth-Iy-aEH.ibShadowedToolTip" = "筛选套接字消息的类型（全部、发送或接收）";
+
+/* Class = "NSButtonCell"; title = "Reset Filters"; ObjectID = "QUy-fo-bK2"; */
+"QUy-fo-bK2.title" = "重置筛选器";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "R4o-gD-QYY"; */
+"R4o-gD-QYY.title" = "テキストセル";
+
+/* Class = "NSTextFieldCell"; placeholderString = "200"; ObjectID = "RaG-Yo-ESe"; */
+"RaG-Yo-ESe.placeholderString" = "200";
+
+/* Class = "NSTextFieldCell"; title = "200"; ObjectID = "RaG-Yo-ESe"; */
+"RaG-Yo-ESe.title" = "200";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Only sent socket messages"; ObjectID = "RfD-Xj-1QW"; */
+"RfD-Xj-1QW.ibShadowedToolTip" = "只发送套接字消息";
+
+/* Class = "NSMenuItem"; title = "Sent"; ObjectID = "RfD-Xj-1QW"; */
+"RfD-Xj-1QW.title" = "已发送";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Svq-pU-5QF"; */
+"Svq-pU-5QF.title" = "テキストセル";
+
+/* Class = "NSTextFieldCell"; title = "https://api.producthunt.com/v1/posts"; ObjectID = "TA1-c1-Dmo"; */
+"TA1-c1-Dmo.title" = "https://api.producthunt.com/v1/posts";
+
+/* Class = "NSMenuItem"; title = "Form"; ObjectID = "TFT-0k-8Wd"; */
+"TFT-0k-8Wd.title" = "Form";
+
+/* Class = "NSTableColumn"; headerCell.title = "ContentType"; ObjectID = "Xa5-pt-OUR"; */
+"Xa5-pt-OUR.headerCell.title" = "内容类型";
+
+/* Class = "NSTabViewItem"; label = "JSON"; ObjectID = "Y0J-c2-vMC"; */
+"Y0J-c2-vMC.label" = "JSON";
+
+/* Class = "NSTextFieldCell"; title = "Malformed multipart/form-data"; ObjectID = "ZDJ-B7-Xee"; */
+"ZDJ-B7-Xee.title" = "格式错误的 multipart/form-data";
+
+/* Class = "NSTabViewItem"; label = "Base64"; ObjectID = "c0J-1R-aVI"; */
+"c0J-1R-aVI.label" = "Base64";
+
+/* Class = "NSTableColumn"; headerCell.title = "Header"; ObjectID = "d67-qP-DLJ"; */
+"d67-qP-DLJ.headerCell.title" = "Header";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "f5f-9b-j0T"; */
+"f5f-9b-j0T.title" = "表格视图单元格";
+
+/* Class = "NSMenu"; title = "Format with"; ObjectID = "g6C-6V-UV3"; */
+"g6C-6V-UV3.title" = "格式化为";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "jGJ-Xa-ys7"; */
+"jGJ-Xa-ys7.title" = "箱";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "lx6-gm-5Dc"; */
+"lx6-gm-5Dc.title" = "テキストセル";
+
+/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "mxg-ha-EYq"; */
+"mxg-ha-EYq.title" = "削除";
+
+/* Class = "NSTextFieldCell"; title = "Filter: JSON && 1xx"; ObjectID = "neM-D1-qAe"; */
+"neM-D1-qAe.title" = "筛选器：JSON && 1xx";
+
+/* Class = "NSTextFieldCell"; title = "Status Code:"; ObjectID = "nzN-Q2-GcP"; */
+"nzN-Q2-GcP.title" = "状态代码：";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "q4r-Va-1lZ"; */
+"q4r-Va-1lZ.title" = "箱";
+
+/* Class = "NSMenuItem"; title = "JSON"; ObjectID = "qXg-mS-Ttj"; */
+"qXg-mS-Ttj.title" = "JSON";
+
+/* Class = "NSTextFieldCell"; title = "OK"; ObjectID = "qrc-qK-DcB"; */
+"qrc-qK-DcB.title" = "好的";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "syn-lb-f0J"; */
+"syn-lb-f0J.title" = "表格视图单元格";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "tx8-oN-uH0"; */
+"tx8-oN-uH0.title" = "箱";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "w03-lJ-VXr"; */
+"w03-lJ-VXr.title" = "テキストセル";
+
+/* Class = "NSTableColumn"; headerCell.title = "Type"; ObjectID = "wC4-JC-OdQ"; */
+"wC4-JC-OdQ.headerCell.title" = "类型";
+
+/* Class = "NSTextFieldCell"; title = "Summary"; ObjectID = "wU1-sd-O8r"; */
+"wU1-sd-O8r.title" = "摘要";
+
+/* Class = "NSTabViewItem"; label = "Key Value"; ObjectID = "ww6-R1-qnh"; */
+"ww6-R1-qnh.label" = "关键值";
+
+/* Class = "NSTextFieldCell"; title = "No message selected"; ObjectID = "xaT-1T-Pkz"; */
+"xaT-1T-Pkz.title" = "未选择消息";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "All socket messages"; ObjectID = "xbx-fc-r1d"; */
+"xbx-fc-r1d.ibShadowedToolTip" = "所有套接字消息";
+
+/* Class = "NSMenuItem"; title = "All"; ObjectID = "xbx-fc-r1d"; */
+"xbx-fc-r1d.title" = "全部";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "ykX-zZ-T8d"; */
+"ykX-zZ-T8d.title" = "テキストセル";
+
+/* Class = "NSMenuItem"; title = "Content"; ObjectID = "yvn-lx-0Gr"; */
+"yvn-lx-0Gr.title" = "内容";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "zRS-pL-Rac"; */
+"zRS-pL-Rac.title" = "テキストセル";
+
+/* Class = "NSTextFieldCell"; title = "To save requests: Right-Click -> Save"; ObjectID = "zHo-PF-jk2"; */
+"zHo-PF-jk2.title" = "保存请求：右键单击 -> 保存";
+
+/* Class = "NSMenuItem"; title = "Option"; ObjectID = "JDK-LH-lmz"; */
+"JDK-LH-lmz.title" = "选项";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "All Ping Pong Websocket Messages are hidden"; ObjectID = "Q2R-qn-tWx"; */
+"Q2R-qn-tWx.ibShadowedToolTip" = "所有 Websocket 的 Ping Pong 消息都被隐藏了";
+
+/* Class = "NSMenuItem"; title = "Hide Ping/Pong"; ObjectID = "Q2R-qn-tWx"; */
+"Q2R-qn-tWx.title" = "隐藏 Ping/Pong";
+
+/* Class = "NSMenu"; title = "Option"; ObjectID = "WRt-uF-94u"; */
+"WRt-uF-94u.title" = "选项";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Replace the body content with a selected file."; ObjectID = "CDh-Dx-TOU"; */
+"CDh-Dx-TOU.ibShadowedToolTip" = "Replace the body content with a selected file.";
+
+/* Class = "NSMenuItem"; title = "Load from File…"; ObjectID = "CDh-Dx-TOU"; */
+"CDh-Dx-TOU.title" = "Load from File…";

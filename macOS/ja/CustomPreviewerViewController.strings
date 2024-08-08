@@ -1,0 +1,17 @@
+/* Class = "NSTextFieldCell"; title = "Request Panel"; ObjectID = "DFw-oH-BU1"; */
+"DFw-oH-BU1.title" = "请求小组";
+
+/* Class = "NSTextFieldCell"; title = "Select following Tabs to render the body content as certain format"; ObjectID = "TZ4-kh-S0L"; */
+"TZ4-kh-S0L.title" = "选择以下选项卡以将正文内容呈现为特定格式";
+
+/* Class = "NSButtonCell"; title = "Auto beautify the minified content"; ObjectID = "U8c-7a-C42"; */
+"U8c-7a-C42.title" = "自动美化缩小后的内容";
+
+/* Class = "NSTextFieldCell"; title = "Custom Body Previewer Tabs"; ObjectID = "jNl-xN-m3i"; */
+"jNl-xN-m3i.title" = "自定义正文预览器选项卡";
+
+/* Class = "NSTextFieldCell"; title = "Only apply to HTML, CSS and JS"; ObjectID = "p8l-oa-Tki"; */
+"p8l-oa-Tki.title" = "仅适用于 HTML、CSS 和 JS";
+
+/* Class = "NSTextFieldCell"; title = "Response Panel"; ObjectID = "xuo-29-oqA"; */
+"xuo-29-oqA.title" = "响应小组";
