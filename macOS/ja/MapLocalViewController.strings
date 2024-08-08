@@ -1,14 +1,23 @@
 /* No comment by Translator*/
+"0Y5-A7-VCY.title" = "Create an empty folder. Only support 1 folder level.";
+
+/* No comment by Translator*/
 "0Y5-A7-VCY.title" = "新しいフォルダ";
 
 /* No comment by Translator*/
 "1Xp-lb-ED7.title" = "新規作成...";
 
 /* No comment by Translator*/
+"49N-U2-jCF.title" = "Rename the folder";
+
+/* No comment by Translator*/
 "49N-U2-jCF.title" = "重命名文件夹";
 
 /* No comment by Translator*/
 "8dm-xu-eIe.title" = "テキストセル";
+
+/* No comment by Translator*/
+"9Ih-OE-X0V.title" = "Enable or Disable entire Map Local Feature";
 
 /* No comment by Translator*/
 "9pb-rN-GuN.title" = "テキストセル";
@@ -30,6 +39,9 @@
 
 /* No comment by Translator*/
 "Ic6-eI-nEx.title" = "インポート設定";
+
+/* No comment by Translator*/
+"J2W-nx-rqY.title" = "Method";
 
 /* No comment by Translator*/
 "KJ3-AH-rZc.title" = "自顶向下匹配规则";
@@ -68,10 +80,22 @@
 "dEh-4S-1s8.title" = "映射本地文件或目录作为匹配请求的响应。";
 
 /* No comment by Translator*/
+"gYl-CG-gTV.title" = "Map from";
+
+/* No comment by Translator*/
+"gYl-CG-gTV.title" = "Map Body Response from File ";
+
+/* No comment by Translator*/
 "hNU-WA-HII.title" = "Charles Proxyから...";
 
 /* No comment by Translator*/
 "jBb-xP-n0P.title" = "从代理...";
+
+/* No comment by Translator*/
+"rRb-4R-P0c.title" = "File is missing!";
+
+/* No comment by Translator*/
+"txH-Jh-AIf.title" = "Toggl Enable / Disable selected rules";
 
 /* No comment by Translator*/
 "txH-Jh-AIf.title" = "启用规则";
@@ -84,3 +108,12 @@
 
 /* No comment by Translator*/
 "xQk-iZ-vHV.title" = "打开本地文件";
+
+/* No comment by Translator*/
+"xRo-b3-lIb.title" = "Matching Rule";
+
+/* No comment by Translator*/
+"xRo-b3-lIb.title" = "Matching URLs";
+
+/* No comment by Translator*/
+"xmM-Hc-Sjh.title" = "Name";
