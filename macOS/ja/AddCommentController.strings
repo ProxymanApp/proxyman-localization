@@ -1,11 +1,11 @@
-/* Class = "NSTextFieldCell"; title = "It's a huge comment (>10k characters)!"; ObjectID = "17f-0L-8EC"; */
-"17f-0L-8EC.title" = "这是一个非常长的备注（>10k 个字符）！";
+/* No comment by Translator*/
+"17f-0L-8EC.title" = "コメントが非常に長いです（10,000 文字以上）。";
 
-/* Class = "NSTextFieldCell"; title = "Add Comment"; ObjectID = "Rji-Vp-34k"; */
-"Rji-Vp-34k.title" = "添加备注";
+/* No comment by Translator*/
+"Rji-Vp-34k.title" = "コメントを追加";
 
-/* Class = "NSButtonCell"; title = "Cancel (ESC)"; ObjectID = "SqU-l4-Lfi"; */
-"SqU-l4-Lfi.title" = "取消 (ESC)";
+/* No comment by Translator*/
+"SqU-l4-Lfi.title" = "キャンセル (ESC)";
 
-/* Class = "NSButtonCell"; title = "Add (⌘⏎)"; ObjectID = "yQ4-ry-62l"; */
-"yQ4-ry-62l.title" = "添加（⌘⏎）";
+/* No comment by Translator*/
+"yQ4-ry-62l.title" = "追加 (⌘⏎)";
