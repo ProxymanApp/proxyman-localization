@@ -1,8 +1,5 @@
-/* Class = "NSBox"; title = "Box"; ObjectID = "7g2-T4-q5k"; */
-"7g2-T4-q5k.title" = "盒子";
+/* No comment by Translator*/
+"7g2-T4-q5k.title" = "箱";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Add / Remove Custom Previewer Tabs"; ObjectID = "LbB-Ca-5Da"; */
-"LbB-Ca-5Da.ibShadowedToolTip" = "添加/删除自定义预览器选项卡";
-
-/* Class = "NSTextFieldCell"; title = "Request"; ObjectID = "gNw-Kh-6yV"; */
+/* No comment by Translator*/
 "gNw-Kh-6yV.title" = "Request";
