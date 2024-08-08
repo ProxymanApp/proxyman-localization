@@ -5,13 +5,28 @@
 "1d1-6H-mGO.title" = "コピー";
 
 /* No comment by Translator*/
+"3S7-Oi-P07.title" = "Matching Rule";
+
+/* No comment by Translator*/
+"3S7-Oi-P07.title" = "Matching URLs";
+
+/* No comment by Translator*/
+"3pM-3j-xiC.title" = "Request";
+
+/* No comment by Translator*/
 "9Aw-4x-sh6.title" = "Proxymanから...";
 
 /* No comment by Translator*/
 "Ay1-Lu-ezi.title" = "編集";
 
 /* No comment by Translator*/
+"Br5-g6-IJC.title" = "Rename the folder";
+
+/* No comment by Translator*/
 "Br5-g6-IJC.title" = "重命名文件夹";
+
+/* No comment by Translator*/
+"Gkr-zk-Ewd.title" = "Toggl Enable / Disable selected rules";
 
 /* No comment by Translator*/
 "Gkr-zk-Ewd.title" = "启用规则";
@@ -32,6 +47,9 @@
 "Qsl-q9-w4C.title" = "更多的";
 
 /* No comment by Translator*/
+"QyQ-Sc-ctP.title" = "Response";
+
+/* No comment by Translator*/
 "SpI-xY-kqJ.title" = "导出设置...";
 
 /* No comment by Translator*/
@@ -42,6 +60,9 @@
 
 /* No comment by Translator*/
 "fVv-OK-fnS.title" = "テキストセル";
+
+/* No comment by Translator*/
+"h9m-ru-Vk3.title" = "Create an empty folder. Only support 1 folder level.";
 
 /* No comment by Translator*/
 "h9m-ru-Vk3.title" = "新しいフォルダ";
@@ -60,6 +81,12 @@
 
 /* No comment by Translator*/
 "nt1-JG-pEk.title" = "设置断点以即时更改请求和响应";
+
+/* No comment by Translator*/
+"o43-dy-zV1.title" = "Method";
+
+/* No comment by Translator*/
+"oZL-I8-HE8.title" = "Name";
 
 /* No comment by Translator*/
 "ofz-eQ-VsF.title" = "テキストセル";
