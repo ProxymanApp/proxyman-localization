@@ -1,38 +1,38 @@
-/* Class = "NSTextFieldCell"; title = "Breakpoint Templates"; ObjectID = "FFk-jF-9Nr"; */
+/* No comment by Translator*/
 "FFk-jF-9Nr.title" = "断点模板";
 
-/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "GKN-io-P9A"; */
-"GKN-io-P9A.title" = "文本单元格";
+/* No comment by Translator*/
+"GKN-io-P9A.title" = "テキストセル";
 
-/* Class = "NSMenuItem"; title = "Request Template..."; ObjectID = "IMI-ux-t59"; */
+/* No comment by Translator*/
 "IMI-ux-t59.title" = "请求模板...";
 
-/* Class = "NSMenuItem"; title = "Duplicate"; ObjectID = "ONg-4h-hl7"; */
-"ONg-4h-hl7.title" = "复制";
+/* No comment by Translator*/
+"ONg-4h-hl7.title" = "コピー";
 
-/* Class = "NSMenuItem"; title = "Response Template..."; ObjectID = "RRe-ce-k6w"; */
+/* No comment by Translator*/
 "RRe-ce-k6w.title" = "响应模板...";
 
-/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "U33-Xs-tIE"; */
+/* No comment by Translator*/
 "U33-Xs-tIE.title" = "表格视图单元格";
 
-/* Class = "NSTextFieldCell"; title = "Define a Request/Response templates"; ObjectID = "Ujt-TL-uuO"; */
+/* No comment by Translator*/
 "Ujt-TL-uuO.title" = "定义请求/响应模板";
 
-/* Class = "NSMenuItem"; title = "More"; ObjectID = "aPz-OI-GRx"; */
+/* No comment by Translator*/
 "aPz-OI-GRx.title" = "更多的";
 
-/* Class = "NSMenuItem"; title = "New Response..."; ObjectID = "eEq-e6-ixU"; */
+/* No comment by Translator*/
 "eEq-e6-ixU.title" = "新的回应...";
 
-/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "q78-GZ-LsY"; */
+/* No comment by Translator*/
 "q78-GZ-LsY.title" = "表格视图单元格";
 
-/* Class = "NSMenuItem"; title = "New Request..."; ObjectID = "tES-LS-vFe"; */
+/* No comment by Translator*/
 "tES-LS-vFe.title" = "新请求...";
 
-/* Class = "NSMenuItem"; title = "More"; ObjectID = "tKO-zk-s8J"; */
+/* No comment by Translator*/
 "tKO-zk-s8J.title" = "更多的";
 
-/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "wXg-cv-e4C"; */
-"wXg-cv-e4C.title" = "删除";
+/* No comment by Translator*/
+"wXg-cv-e4C.title" = "削除";
