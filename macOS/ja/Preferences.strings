@@ -20,6 +20,9 @@
 "2Zj-jQ-RO4.title" = "〜/桌面";
 
 /* No comment by Translator*/
+"2Zz-AT-VRb.title" = "Random from 1-10 seconds";
+
+/* No comment by Translator*/
 "2Zz-AT-VRb.title" = "随机 (1-15)";
 
 /* No comment by Translator*/
@@ -230,6 +233,9 @@
 "NMP-nz-g9l.title" = "リクエストパネルとレスポンスパネルの縦または横のレイアウト。";
 
 /* No comment by Translator*/
+"NMt-QP-oxJ.title" = "PXM-XXXX-XXXX-XXXX-XXXX-XXXX";
+
+/* No comment by Translator*/
 "NSZ-qX-Kq1.title" = "致谢";
 
 /* No comment by Translator*/
@@ -294,6 +300,9 @@
 
 /* No comment by Translator*/
 "WbR-zh-4eo.title" = "アプリについて";
+
+/* No comment by Translator*/
+"Xdr-2w-VSv.title" = "Generate new Proxyman CA";
 
 /* No comment by Translator*/
 "XiK-LT-h82.title" = "Proxymanは、あなたのIDを使ってGistにアクセスするために、あなたのGithubアカウントのGist権限を必要とします。認証後、あなたのGithubアクセストークンはシステムのキーチェーンに安全に保存されます。";
@@ -473,6 +482,9 @@
 "qCz-f8-2g7.title" = "180 秒";
 
 /* No comment by Translator*/
+"qhy-Ny-qSr.title" = "What's Proxy Helper Tool?";
+
+/* No comment by Translator*/
 "qqW-Za-BcY.title" = "起動時にこのポートが使用済みの場合、Proxyman は使用可能なポートを選択します。";
 
 /* No comment by Translator*/
@@ -480,6 +492,9 @@
 
 /* No comment by Translator*/
 "rVP-dV-fen.title" = "19";
+
+/* No comment by Translator*/
+"sge-3n-UXT.title" = "1-65535";
 
 /* No comment by Translator*/
 "sp9-Yb-MaJ.title" = "より良いパフォーマンスのため、Proxyman Proxy Helper Toolのインストールをお願いします。";
@@ -543,6 +558,9 @@
 
 /* No comment by Translator*/
 "zxe-Pi-ZIB.title" = "ステータスバーの期限切れライセンスステータスを非表示にする";
+
+/* No comment by Translator*/
+"1M9-oR-Pak.title" = "Restore the font size and theme to default configs";
 
 /* No comment by Translator*/
 "GTV-I2-kK7.title" = "起動時のアップデート通知を有効化";
@@ -611,6 +629,9 @@
 "jbl-1k-wPC.title" = "空白、改行、タブ、ゼロ幅スペースなどの文字をプレビュータブに表示";
 
 /* No comment by Translator*/
+"k7p-yV-INk.title" = "Force to reload the Icon Plugin";
+
+/* No comment by Translator*/
 "lJC-HM-pBb.title" = "ローカルホストのみを監視";
 
 /* No comment by Translator*/
@@ -645,6 +666,9 @@
 
 /* No comment by Translator*/
 "d8D-2f-O2n.title" = "You're behind 5 updates";
+
+/* No comment by Translator*/
+"hpl-Fw-aiS.title" = "Your Root Certificate is expired. To fix it -> Remove your current certificate and Install a new one";
 
 /* No comment by Translator*/
 "j2o-wZ-gjP.title" = "iOS";
