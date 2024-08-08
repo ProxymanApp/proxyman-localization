@@ -1,11 +1,5 @@
-/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "6dg-f4-NYp"; */
+/* No comment by Translator*/
 "6dg-f4-NYp.title" = "テキストセル";
 
-/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Zd0-vA-oaT"; */
+/* No comment by Translator*/
 "Zd0-vA-oaT.title" = "テキストセル";
-
-/* Class = "NSTableColumn"; headerCell.title = "Key"; ObjectID = "dWF-YL-RKO"; */
-"dWF-YL-RKO.headerCell.title" = "键";
-
-/* Class = "NSTableColumn"; headerCell.title = "Value"; ObjectID = "wf3-ni-n6E"; */
-"wf3-ni-n6E.headerCell.title" = "值";
