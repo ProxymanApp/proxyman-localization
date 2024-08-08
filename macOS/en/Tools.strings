@@ -2,12 +2,6 @@
 "0Ff-RD-OZI.title" = "Protobuf";
 
 /* No comment by Translator*/
-"0Si-T3-xUq.title" = "Enabled";
-
-/* No comment by Translator*/
-"0Si-T3-xUq.title" = "Enable / Disable this entry";
-
-/* No comment by Translator*/
 "0fQ-Vd-5Tg.title" = "Leave textfields blank to keep it unchanged from matched requests";
 
 /* No comment by Translator*/
@@ -15,9 +9,6 @@
 
 /* No comment by Translator*/
 "1Al-WX-YZY.title" = "Converter";
-
-/* No comment by Translator*/
-"1DQ-9t-by9.title" = "api.proxyman.io/v1/*";
 
 /* No comment by Translator*/
 "1Ee-dS-zG7.title" = "Delimited List";
@@ -30,9 +21,6 @@
 
 /* No comment by Translator*/
 "2Fd-yl-3R8.title" = "Inclusive List for External Proxies:";
-
-/* No comment by Translator*/
-"2RO-xf-Gjo.title" = "Block all matched requests, but doesn't displays them on the app";
 
 /* No comment by Translator*/
 "2RO-xf-Gjo.title" = "Block & Hide Request";
@@ -65,9 +53,6 @@
 "54j-bd-iV2.title" = "Box";
 
 /* No comment by Translator*/
-"5Fn-bg-agU.title" = "Untitled";
-
-/* No comment by Translator*/
 "6p9-2t-NMs.title" = "From Proxyman...";
 
 /* No comment by Translator*/
@@ -81,9 +66,6 @@
 
 /* No comment by Translator*/
 "7lm-yD-mJr.title" = "Response";
-
-/* No comment by Translator*/
-"7u5-Hm-wEX.title" = "Toggl Enable / Disable selected rules";
 
 /* No comment by Translator*/
 "7u5-Hm-wEX.title" = "Enable Rule";
@@ -119,25 +101,13 @@
 "ATA-cs-a47.title" = "Text Cell";
 
 /* No comment by Translator*/
-"Ae1-x2-5VI.title" = "http/https";
-
-/* No comment by Translator*/
 "Avy-J0-H1L.title" = "Convert";
-
-/* No comment by Translator*/
-"BWe-JR-zbG.title" = "Method";
 
 /* No comment by Translator*/
 "Bke-zb-QOr.title" = "Box";
 
 /* No comment by Translator*/
 "Btl-Af-HZO.title" = "Block List";
-
-/* No comment by Translator*/
-"C4o-ut-1Q3.title" = "Name";
-
-/* No comment by Translator*/
-"C8K-fh-Gx4.title" = "File Descriptor Name";
 
 /* No comment by Translator*/
 "Caq-bJ-JRc.title" = "Text Cell";
@@ -158,13 +128,7 @@
 "DKp-b3-yuf.title" = "Click \"+\" or ⌘N to add new entry";
 
 /* No comment by Translator*/
-"E5o-70-3xU.title" = "api.proxyman.io/v1/*";
-
-/* No comment by Translator*/
 "EVC-EH-rCg.title" = "More";
-
-/* No comment by Translator*/
-"EiT-ui-6UM.title" = "Untitled";
 
 /* No comment by Translator*/
 "EjO-kr-9Ce.title" = "Block List Rules";
@@ -224,22 +188,13 @@
 "JuN-dF-ONn.title" = "Import Settings";
 
 /* No comment by Translator*/
-"KJs-fU-nLX.title" = "Enable or Disable entire Map Local Feature";
-
-/* No comment by Translator*/
 "KMY-dB-3sx.title" = "How to get *.desc file?";
 
 /* No comment by Translator*/
 "KpL-qD-frB.title" = "If localhost requests don't show on Proxyman, please set domain aliases on /etc/hosts file";
 
 /* No comment by Translator*/
-"Kpb-fD-pcJ.title" = "Couldn't find this MessageType in all Protobuf Schema Files. Make sure you include package name";
-
-/* No comment by Translator*/
 "LBt-h0-TJp.title" = "Text Cell";
-
-/* No comment by Translator*/
-"Las-e5-ZxZ.title" = "v2/api";
 
 /* No comment by Translator*/
 "Lvj-Kf-9lf.title" = "Duplicate";
@@ -269,13 +224,7 @@
 "O19-c6-aPb.title" = "Import Settings";
 
 /* No comment by Translator*/
-"O8z-LW-TbD.title" = "Block Action";
-
-/* No comment by Translator*/
 "OIK-d8-3EG.title" = "Done";
-
-/* No comment by Translator*/
-"OVL-Jm-Cgw.title" = "Method";
 
 /* No comment by Translator*/
 "Ocz-RQ-cda.title" = "From Charles Proxy...";
@@ -302,13 +251,7 @@
 "QAU-3B-a5Q.title" = "Protobuf Settings";
 
 /* No comment by Translator*/
-"QPs-zw-YiG.title" = "443";
-
-/* No comment by Translator*/
 "QbD-2K-tTV.title" = "Enable Block List Tool";
-
-/* No comment by Translator*/
-"QnD-qF-9SL.title" = "https";
 
 /* No comment by Translator*/
 "Qsa-Bo-ypX.title" = "More";
@@ -323,13 +266,7 @@
 "RS0-lD-3OF.title" = "Text Cell";
 
 /* No comment by Translator*/
-"Rfe-KU-K2y.title" = "id=123";
-
-/* No comment by Translator*/
 "Rv9-zB-96L.title" = "Port:";
-
-/* No comment by Translator*/
-"S47-Dk-afQ.title" = "Untitled";
 
 /* No comment by Translator*/
 "SAU-N3-pLL.title" = "Path:";
@@ -362,22 +299,10 @@
 "Vat-v6-QgF.title" = "Delete";
 
 /* No comment by Translator*/
-"Ve6-xV-Ub5.title" = "Couldn't find this MessageType in all Protobuf Schema Files. Make sure you include package name";
-
-/* No comment by Translator*/
 "ViK-WY-Vbx.title" = "Text Cell";
 
 /* No comment by Translator*/
 "WEz-i4-5P5.title" = "Top-Down Matching Rule";
-
-/* No comment by Translator*/
-"WHF-bl-PjN.title" = "To";
-
-/* No comment by Translator*/
-"WHF-bl-PjN.title" = "Map To URL";
-
-/* No comment by Translator*/
-"WM0-ia-4zd.title" = "Toggl Enable / Disable selected rules";
 
 /* No comment by Translator*/
 "WM0-ia-4zd.title" = "Enable Rule";
@@ -401,16 +326,7 @@
 "Xyc-Fs-3nf.title" = "Define Rules for blocking or hiding particular domains";
 
 /* No comment by Translator*/
-"Y7V-9h-Izy.title" = "api.proxyman.io";
-
-/* No comment by Translator*/
 "YaH-EH-dHs.title" = "New...";
-
-/* No comment by Translator*/
-"Yuj-DE-Fr5.title" = "Name";
-
-/* No comment by Translator*/
-"YwO-2o-l3Y.title" = "Toggl Enable / Disable selected rules";
 
 /* No comment by Translator*/
 "YwO-2o-l3Y.title" = "Enable Rule";
@@ -434,9 +350,6 @@
 "avB-jb-d6l.title" = "Text Cell";
 
 /* No comment by Translator*/
-"b98-7D-5hF.title" = "api.proxyman.io/v1/*";
-
-/* No comment by Translator*/
 "b9p-Vb-ytG.title" = "Protobuf Console Log";
 
 /* No comment by Translator*/
@@ -449,22 +362,7 @@
 "bJm-Fm-LXw.title" = "Delete";
 
 /* No comment by Translator*/
-"bQK-X9-YHZ.title" = "Matching Rule";
-
-/* No comment by Translator*/
-"bQK-X9-YHZ.title" = "Matching URLs";
-
-/* No comment by Translator*/
 "bdG-wf-7zr.title" = "-";
-
-/* No comment by Translator*/
-"bwA-iu-TaO.title" = "URL";
-
-/* No comment by Translator*/
-"cJf-j4-QCN.title" = "Matching Rule";
-
-/* No comment by Translator*/
-"cJf-j4-QCN.title" = "Matching URLs";
 
 /* No comment by Translator*/
 "cS7-Nv-qCv.title" = "Preserve Host in Header Fields";
@@ -509,9 +407,6 @@
 "eEu-x7-8h1.title" = "Block and Hide";
 
 /* No comment by Translator*/
-"eNj-7W-ISv.title" = "api.proxyman.io/v1/*";
-
-/* No comment by Translator*/
 "eO0-3D-8ut.title" = "⌘N: New; ⌘⏎: Edit; ⌘⌫: Delete; ⌘D: Duplicate; Space: Enable/Disable Rules;";
 
 /* No comment by Translator*/
@@ -530,9 +425,6 @@
 "gZC-qp-uG9.title" = "Text Cell";
 
 /* No comment by Translator*/
-"gcU-h0-wu7.title" = "Payload Encoding";
-
-/* No comment by Translator*/
 "gie-57-rnH.title" = "Protobuf Schema List";
 
 /* No comment by Translator*/
@@ -540,9 +432,6 @@
 
 /* No comment by Translator*/
 "hB9-WI-l6l.title" = "Leave empty if you'd allow all traffic to go to the External Proxies.";
-
-/* No comment by Translator*/
-"hGm-jh-75d.title" = "Proxyman hides these requests, but not blocking them";
 
 /* No comment by Translator*/
 "hGm-jh-75d.title" = "Hide, but not Block";
@@ -560,9 +449,6 @@
 "iMj-pD-mMb.title" = "Change the request location to new location";
 
 /* No comment by Translator*/
-"iWe-sk-2yJ.title" = "Untitled";
-
-/* No comment by Translator*/
 "ivJ-Kh-P4O.title" = "Text Cell";
 
 /* No comment by Translator*/
@@ -570,15 +456,6 @@
 
 /* No comment by Translator*/
 "j9L-LL-GiB.title" = "Name:";
-
-/* No comment by Translator*/
-"jE3-xf-YOW.title" = "Matching Rule";
-
-/* No comment by Translator*/
-"jE3-xf-YOW.title" = "Matching URLs";
-
-/* No comment by Translator*/
-"jgc-Ir-DKh.title" = "Method";
 
 /* No comment by Translator*/
 "js3-TC-X9c.title" = "Text Cell";
@@ -626,13 +503,7 @@
 "orx-y9-b2o.title" = "Text Cell";
 
 /* No comment by Translator*/
-"oyH-3m-Ptp.title" = "id=123";
-
-/* No comment by Translator*/
 "pCZ-Ap-SjV.title" = "Export Settings...";
-
-/* No comment by Translator*/
-"pFe-Rc-k3w.title" = "/v1/users";
 
 /* No comment by Translator*/
 "pTQ-wT-bCq.title" = "New...";
@@ -647,13 +518,7 @@
 "qT1-0Z-4qQ.title" = "Start the breakpoint for out-going request or in-coming response.";
 
 /* No comment by Translator*/
-"qTO-BF-7LW.title" = "Method";
-
-/* No comment by Translator*/
 "qwn-rK-VIm.title" = "More";
-
-/* No comment by Translator*/
-"qzU-Ry-c1f.title" = "api.proxyman.io/v1/*";
 
 /* No comment by Translator*/
 "r6V-2H-t1B.title" = "Import Settings";
@@ -669,9 +534,6 @@
 
 /* No comment by Translator*/
 "rng-I1-ygy.title" = "Protobuf Schema List";
-
-/* No comment by Translator*/
-"s6a-uq-wFJ.title" = "Block all matched requests, but displays them on the app";
 
 /* No comment by Translator*/
 "s6a-uq-wFJ.title" = "Block & Display Requests";
@@ -693,12 +555,6 @@
 
 /* No comment by Translator*/
 "uwf-ly-0bc.title" = "Untitled";
-
-/* No comment by Translator*/
-"vEf-89-T5I.title" = "Name";
-
-/* No comment by Translator*/
-"vFz-Zr-lvB.title" = "api.proxyman.io";
 
 /* No comment by Translator*/
 "vgL-e3-btf.title" = "Box";
@@ -740,16 +596,7 @@
 "xGg-2k-hgY.title" = "Convert .chls to .har that Proxyman can understand";
 
 /* No comment by Translator*/
-"xVw-Uq-rVd.title" = "Message Type";
-
-/* No comment by Translator*/
 "xmW-g9-tsk.title" = "ANY";
-
-/* No comment by Translator*/
-"xvd-tK-0Zb.title" = "Enabled";
-
-/* No comment by Translator*/
-"xvd-tK-0Zb.title" = "Enable / Disable this entry";
 
 /* No comment by Translator*/
 "y8W-et-qCH.title" = "Select a protocol to configure:";
@@ -768,15 +615,6 @@
 
 /* No comment by Translator*/
 "yuh-PD-4XT.title" = "Import Settings";
-
-/* No comment by Translator*/
-"z3d-U1-guR.title" = "443";
-
-/* No comment by Translator*/
-"zva-bA-KxU.title" = "Enabled";
-
-/* No comment by Translator*/
-"zva-bA-KxU.title" = "Enable / Disable this entry";
 
 /* No comment by Translator*/
 "Gls-g2-AJY.title" = "Click \"+\" or ⌘N to add new entry";
