@@ -2,6 +2,12 @@
 "0Ff-RD-OZI.title" = "Protobuf 缓冲区";
 
 /* No comment by Translator*/
+"0Si-T3-xUq.title" = "Enabled";
+
+/* No comment by Translator*/
+"0Si-T3-xUq.title" = "Enable / Disable this entry";
+
+/* No comment by Translator*/
 "0fQ-Vd-5Tg.title" = "将文本字段留空以使其与匹配的请求保持不变";
 
 /* No comment by Translator*/
@@ -9,6 +15,9 @@
 
 /* No comment by Translator*/
 "1Al-WX-YZY.title" = "转换器";
+
+/* No comment by Translator*/
+"1DQ-9t-by9.title" = "api.proxyman.io/v1/*";
 
 /* No comment by Translator*/
 "1Ee-dS-zG7.title" = "分隔列表";
@@ -21,6 +30,9 @@
 
 /* No comment by Translator*/
 "2Fd-yl-3R8.title" = "外部代理的包含列表：";
+
+/* No comment by Translator*/
+"2RO-xf-Gjo.title" = "Block all matched requests, but doesn't displays them on the app";
 
 /* No comment by Translator*/
 "2RO-xf-Gjo.title" = "阻止和隐藏请求";
@@ -53,6 +65,9 @@
 "54j-bd-iV2.title" = "箱";
 
 /* No comment by Translator*/
+"5Fn-bg-agU.title" = "Untitled";
+
+/* No comment by Translator*/
 "6p9-2t-NMs.title" = "Proxyman より...";
 
 /* No comment by Translator*/
@@ -66,6 +81,9 @@
 
 /* No comment by Translator*/
 "7lm-yD-mJr.title" = "Response";
+
+/* No comment by Translator*/
+"7u5-Hm-wEX.title" = "Toggl Enable / Disable selected rules";
 
 /* No comment by Translator*/
 "7u5-Hm-wEX.title" = "启用规则";
@@ -101,13 +119,25 @@
 "ATA-cs-a47.title" = "テキストセル";
 
 /* No comment by Translator*/
+"Ae1-x2-5VI.title" = "http/https";
+
+/* No comment by Translator*/
 "Avy-J0-H1L.title" = "変換する";
+
+/* No comment by Translator*/
+"BWe-JR-zbG.title" = "Method";
 
 /* No comment by Translator*/
 "Bke-zb-QOr.title" = "箱";
 
 /* No comment by Translator*/
 "Btl-Af-HZO.title" = "ブラックリスト";
+
+/* No comment by Translator*/
+"C4o-ut-1Q3.title" = "Name";
+
+/* No comment by Translator*/
+"C8K-fh-Gx4.title" = "File Descriptor Name";
 
 /* No comment by Translator*/
 "Caq-bJ-JRc.title" = "テキストセル";
@@ -128,7 +158,13 @@
 "DKp-b3-yuf.title" = "点击\"+\"或⌘N添加新条目";
 
 /* No comment by Translator*/
+"E5o-70-3xU.title" = "api.proxyman.io/v1/*";
+
+/* No comment by Translator*/
 "EVC-EH-rCg.title" = "詳細";
+
+/* No comment by Translator*/
+"EiT-ui-6UM.title" = "Untitled";
 
 /* No comment by Translator*/
 "EjO-kr-9Ce.title" = "黑名单规则";
@@ -188,13 +224,22 @@
 "JuN-dF-ONn.title" = "インポート設定";
 
 /* No comment by Translator*/
+"KJs-fU-nLX.title" = "Enable or Disable entire Map Local Feature";
+
+/* No comment by Translator*/
 "KMY-dB-3sx.title" = "如何获取 *.desc 文件？";
 
 /* No comment by Translator*/
 "KpL-qD-frB.title" = "如果 Proxyman 上没有显示 localhost 请求，请在 /etc/hosts 文件中设置域别名";
 
 /* No comment by Translator*/
+"Kpb-fD-pcJ.title" = "Couldn't find this MessageType in all Protobuf Schema Files. Make sure you include package name";
+
+/* No comment by Translator*/
 "LBt-h0-TJp.title" = "テキストセル";
+
+/* No comment by Translator*/
+"Las-e5-ZxZ.title" = "v2/api";
 
 /* No comment by Translator*/
 "Lvj-Kf-9lf.title" = "コピー";
@@ -224,7 +269,13 @@
 "O19-c6-aPb.title" = "インポート設定";
 
 /* No comment by Translator*/
+"O8z-LW-TbD.title" = "Block Action";
+
+/* No comment by Translator*/
 "OIK-d8-3EG.title" = "完成";
+
+/* No comment by Translator*/
+"OVL-Jm-Cgw.title" = "Method";
 
 /* No comment by Translator*/
 "Ocz-RQ-cda.title" = "来自Charles代理...";
@@ -251,7 +302,13 @@
 "QAU-3B-a5Q.title" = "Protobuf 设置";
 
 /* No comment by Translator*/
+"QPs-zw-YiG.title" = "443";
+
+/* No comment by Translator*/
 "QbD-2K-tTV.title" = "启用黑名单工具";
+
+/* No comment by Translator*/
+"QnD-qF-9SL.title" = "https";
 
 /* No comment by Translator*/
 "Qsa-Bo-ypX.title" = "詳細";
@@ -266,7 +323,13 @@
 "RS0-lD-3OF.title" = "テキストセル";
 
 /* No comment by Translator*/
+"Rfe-KU-K2y.title" = "id=123";
+
+/* No comment by Translator*/
 "Rv9-zB-96L.title" = "端口：";
+
+/* No comment by Translator*/
+"S47-Dk-afQ.title" = "Untitled";
 
 /* No comment by Translator*/
 "SAU-N3-pLL.title" = "路径：";
@@ -299,10 +362,22 @@
 "Vat-v6-QgF.title" = "削除";
 
 /* No comment by Translator*/
+"Ve6-xV-Ub5.title" = "Couldn't find this MessageType in all Protobuf Schema Files. Make sure you include package name";
+
+/* No comment by Translator*/
 "ViK-WY-Vbx.title" = "テキストセル";
 
 /* No comment by Translator*/
 "WEz-i4-5P5.title" = "自上而下匹配规则";
+
+/* No comment by Translator*/
+"WHF-bl-PjN.title" = "To";
+
+/* No comment by Translator*/
+"WHF-bl-PjN.title" = "Map To URL";
+
+/* No comment by Translator*/
+"WM0-ia-4zd.title" = "Toggl Enable / Disable selected rules";
 
 /* No comment by Translator*/
 "WM0-ia-4zd.title" = "启用规则";
@@ -326,7 +401,16 @@
 "Xyc-Fs-3nf.title" = "设置规则以阻止或隐藏特定域名";
 
 /* No comment by Translator*/
+"Y7V-9h-Izy.title" = "api.proxyman.io";
+
+/* No comment by Translator*/
 "YaH-EH-dHs.title" = "新規作成...";
+
+/* No comment by Translator*/
+"Yuj-DE-Fr5.title" = "Name";
+
+/* No comment by Translator*/
+"YwO-2o-l3Y.title" = "Toggl Enable / Disable selected rules";
 
 /* No comment by Translator*/
 "YwO-2o-l3Y.title" = "启用规则";
@@ -350,6 +434,9 @@
 "avB-jb-d6l.title" = "テキストセル";
 
 /* No comment by Translator*/
+"b98-7D-5hF.title" = "api.proxyman.io/v1/*";
+
+/* No comment by Translator*/
 "b9p-Vb-ytG.title" = "Protobuf 控制台日志";
 
 /* No comment by Translator*/
@@ -362,7 +449,22 @@
 "bJm-Fm-LXw.title" = "削除";
 
 /* No comment by Translator*/
+"bQK-X9-YHZ.title" = "Matching Rule";
+
+/* No comment by Translator*/
+"bQK-X9-YHZ.title" = "Matching URLs";
+
+/* No comment by Translator*/
 "bdG-wf-7zr.title" = "-";
+
+/* No comment by Translator*/
+"bwA-iu-TaO.title" = "URL";
+
+/* No comment by Translator*/
+"cJf-j4-QCN.title" = "Matching Rule";
+
+/* No comment by Translator*/
+"cJf-j4-QCN.title" = "Matching URLs";
 
 /* No comment by Translator*/
 "cS7-Nv-qCv.title" = "在标题字段中保留主机";
@@ -407,6 +509,9 @@
 "eEu-x7-8h1.title" = "屏蔽和隐藏";
 
 /* No comment by Translator*/
+"eNj-7W-ISv.title" = "api.proxyman.io/v1/*";
+
+/* No comment by Translator*/
 "eO0-3D-8ut.title" = "⌘N：新建；⌘⏎：编辑；⌘⌫：删除；⌘D：复制；空格：启用/禁用规则；";
 
 /* No comment by Translator*/
@@ -425,6 +530,9 @@
 "gZC-qp-uG9.title" = "テキストセル";
 
 /* No comment by Translator*/
+"gcU-h0-wu7.title" = "Payload Encoding";
+
+/* No comment by Translator*/
 "gie-57-rnH.title" = "Protobuf 模式列表";
 
 /* No comment by Translator*/
@@ -432,6 +540,9 @@
 
 /* No comment by Translator*/
 "hB9-WI-l6l.title" = "如果您允许所有流量流向外部代理，请留空。";
+
+/* No comment by Translator*/
+"hGm-jh-75d.title" = "Proxyman hides these requests, but not blocking them";
 
 /* No comment by Translator*/
 "hGm-jh-75d.title" = "隐藏，但不阻止";
@@ -449,6 +560,9 @@
 "iMj-pD-mMb.title" = "将请求位置更改为新位置";
 
 /* No comment by Translator*/
+"iWe-sk-2yJ.title" = "Untitled";
+
+/* No comment by Translator*/
 "ivJ-Kh-P4O.title" = "テキストセル";
 
 /* No comment by Translator*/
@@ -456,6 +570,15 @@
 
 /* No comment by Translator*/
 "j9L-LL-GiB.title" = "名称：";
+
+/* No comment by Translator*/
+"jE3-xf-YOW.title" = "Matching Rule";
+
+/* No comment by Translator*/
+"jE3-xf-YOW.title" = "Matching URLs";
+
+/* No comment by Translator*/
+"jgc-Ir-DKh.title" = "Method";
 
 /* No comment by Translator*/
 "js3-TC-X9c.title" = "テキストセル";
@@ -503,7 +626,13 @@
 "orx-y9-b2o.title" = "テキストセル";
 
 /* No comment by Translator*/
+"oyH-3m-Ptp.title" = "id=123";
+
+/* No comment by Translator*/
 "pCZ-Ap-SjV.title" = "导出设置...";
+
+/* No comment by Translator*/
+"pFe-Rc-k3w.title" = "/v1/users";
 
 /* No comment by Translator*/
 "pTQ-wT-bCq.title" = "新規作成...";
@@ -518,7 +647,13 @@
 "qT1-0Z-4qQ.title" = "为传出请求或传入响应开始断点。";
 
 /* No comment by Translator*/
+"qTO-BF-7LW.title" = "Method";
+
+/* No comment by Translator*/
 "qwn-rK-VIm.title" = "詳細";
+
+/* No comment by Translator*/
+"qzU-Ry-c1f.title" = "api.proxyman.io/v1/*";
 
 /* No comment by Translator*/
 "r6V-2H-t1B.title" = "インポート設定";
@@ -534,6 +669,9 @@
 
 /* No comment by Translator*/
 "rng-I1-ygy.title" = "Protobuf Schema 列表";
+
+/* No comment by Translator*/
+"s6a-uq-wFJ.title" = "Block all matched requests, but displays them on the app";
 
 /* No comment by Translator*/
 "s6a-uq-wFJ.title" = "阻止和显示请求";
@@ -555,6 +693,12 @@
 
 /* No comment by Translator*/
 "uwf-ly-0bc.title" = "无标题";
+
+/* No comment by Translator*/
+"vEf-89-T5I.title" = "Name";
+
+/* No comment by Translator*/
+"vFz-Zr-lvB.title" = "api.proxyman.io";
 
 /* No comment by Translator*/
 "vgL-e3-btf.title" = "箱";
@@ -596,7 +740,16 @@
 "xGg-2k-hgY.title" = "将 .chls 转换为 Proxyman 可以理解的 .har";
 
 /* No comment by Translator*/
+"xVw-Uq-rVd.title" = "Message Type";
+
+/* No comment by Translator*/
 "xmW-g9-tsk.title" = "任何";
+
+/* No comment by Translator*/
+"xvd-tK-0Zb.title" = "Enabled";
+
+/* No comment by Translator*/
+"xvd-tK-0Zb.title" = "Enable / Disable this entry";
 
 /* No comment by Translator*/
 "y8W-et-qCH.title" = "选择要配置的协议：";
@@ -615,6 +768,15 @@
 
 /* No comment by Translator*/
 "yuh-PD-4XT.title" = "インポート設定";
+
+/* No comment by Translator*/
+"z3d-U1-guR.title" = "443";
+
+/* No comment by Translator*/
+"zva-bA-KxU.title" = "Enabled";
+
+/* No comment by Translator*/
+"zva-bA-KxU.title" = "Enable / Disable this entry";
 
 /* No comment by Translator*/
 "Gls-g2-AJY.title" = "点击 \"+\" 或 ⌘N 添加新条目";
