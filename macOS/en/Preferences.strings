@@ -20,9 +20,6 @@
 "2Zj-jQ-RO4.title" = "~/Desktop";
 
 /* No comment by Translator*/
-"2Zz-AT-VRb.title" = "Random from 1-10 seconds";
-
-/* No comment by Translator*/
 "2Zz-AT-VRb.title" = "Random (1-15)";
 
 /* No comment by Translator*/
@@ -233,9 +230,6 @@
 "NMP-nz-g9l.title" = "Request and Response panels in Vertical or Horizontal Layout.";
 
 /* No comment by Translator*/
-"NMt-QP-oxJ.title" = "PXM-XXXX-XXXX-XXXX-XXXX-XXXX";
-
-/* No comment by Translator*/
 "NSZ-qX-Kq1.title" = "Acknowledgment";
 
 /* No comment by Translator*/
@@ -300,9 +294,6 @@
 
 /* No comment by Translator*/
 "WbR-zh-4eo.title" = "About";
-
-/* No comment by Translator*/
-"Xdr-2w-VSv.title" = "Generate new Proxyman CA";
 
 /* No comment by Translator*/
 "XiK-LT-h82.title" = "To read or write Gists on a user's behalf, Proxyman requires Gist Permission from your Github account. After the authorization, your Github Access Token will securely store in System Keychain.";
@@ -482,9 +473,6 @@
 "qCz-f8-2g7.title" = "180 seconds";
 
 /* No comment by Translator*/
-"qhy-Ny-qSr.title" = "What's Proxy Helper Tool?";
-
-/* No comment by Translator*/
 "qqW-Za-BcY.title" = "Proxyman will choose an available port if it's occupied at launch time.";
 
 /* No comment by Translator*/
@@ -492,9 +480,6 @@
 
 /* No comment by Translator*/
 "rVP-dV-fen.title" = "19";
-
-/* No comment by Translator*/
-"sge-3n-UXT.title" = "1-65535";
 
 /* No comment by Translator*/
 "sp9-Yb-MaJ.title" = "Install Proxyman Proxy Helper Tool for better performance.";
@@ -558,9 +543,6 @@
 
 /* No comment by Translator*/
 "zxe-Pi-ZIB.title" = "Hide the Expired License Status on the Status Bar";
-
-/* No comment by Translator*/
-"1M9-oR-Pak.title" = "Restore the font size and theme to default configs";
 
 /* No comment by Translator*/
 "GTV-I2-kK7.title" = "Show Update Notification at Launch";
@@ -629,9 +611,6 @@
 "jbl-1k-wPC.title" = "Display Whitepsace, newline, tab, nonspacing characters in Previewer Tabs";
 
 /* No comment by Translator*/
-"k7p-yV-INk.title" = "Force to reload the Icon Plugin";
-
-/* No comment by Translator*/
 "lJC-HM-pBb.title" = "Only Listen on localhost";
 
 /* No comment by Translator*/
@@ -666,9 +645,6 @@
 
 /* No comment by Translator*/
 "d8D-2f-O2n.title" = "You're behind 5 updates";
-
-/* No comment by Translator*/
-"hpl-Fw-aiS.title" = "Your Root Certificate is expired. To fix it -> Remove your current certificate and Install a new one";
 
 /* No comment by Translator*/
 "j2o-wZ-gjP.title" = "iOS";
