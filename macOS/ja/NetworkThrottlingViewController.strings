@@ -1,107 +1,77 @@
-/* Class = "NSMenuItem"; title = "More"; ObjectID = "1q6-hk-dn9"; */
+/* No comment by Translator*/
 "1q6-hk-dn9.title" = "更多的";
 
-/* Class = "NSTextFieldCell"; title = "Untitled"; ObjectID = "3qF-DC-MmD"; */
+/* No comment by Translator*/
 "3qF-DC-MmD.title" = "无标题";
 
-/* Class = "NSTextFieldCell"; title = "http://api.proxyman.io"; ObjectID = "5QT-P3-3M5"; */
+/* No comment by Translator*/
 "5QT-P3-3M5.title" = "http://api.proxyman.io";
 
-/* Class = "NSTextFieldCell"; title = "Simulate Network Conditions with various Preset Profiles"; ObjectID = "6eg-PE-4Wy"; */
-"6eg-PE-4Wy.title" = "使用各种预设配置文件模拟网络条件";
+/* No comment by Translator*/
+"6eg-PE-4Wy.title" = "プリセットのプロファイルを使用してNetwork Conditionsをシミュレートします";
 
-/* Class = "NSTextFieldCell"; title = "3G"; ObjectID = "7sL-v3-7Ai"; */
+/* No comment by Translator*/
 "7sL-v3-7Ai.title" = "3G";
 
-/* Class = "NSBox"; title = "Box"; ObjectID = "83t-Au-dRB"; */
-"83t-Au-dRB.title" = "盒子";
+/* No comment by Translator*/
+"83t-Au-dRB.title" = "箱";
 
-/* Class = "NSButton"; ibExternalAccessibilityDescription = "Enable or Disable entire Map Local Feature"; ObjectID = "9Kp-93-0Hj"; */
-"9Kp-93-0Hj.ibExternalAccessibilityDescription" = "启用或禁用整个本地映射功能";
+/* No comment by Translator*/
+"9nl-Oj-IpG.title" = "テキストセル";
 
-/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "9nl-Oj-IpG"; */
-"9nl-Oj-IpG.title" = "文本单元格";
-
-/* Class = "NSButtonCell"; title = "Enable Network Conditions"; ObjectID = "CCD-eX-Xw5"; */
+/* No comment by Translator*/
 "CCD-eX-Xw5.title" = "启用网络条件";
 
-/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "EdX-WI-TEz"; */
-"EdX-WI-TEz.title" = "文本单元格";
+/* No comment by Translator*/
+"EdX-WI-TEz.title" = "テキストセル";
 
-/* Class = "NSMenuItem"; title = "Edit"; ObjectID = "Efa-Cj-LAb"; */
-"Efa-Cj-LAb.title" = "编辑";
+/* No comment by Translator*/
+"Efa-Cj-LAb.title" = "編集";
 
-/* Class = "NSTableColumn"; headerCell.title = "Enabled"; ObjectID = "KJF-xP-zpJ"; */
-"KJF-xP-zpJ.headerCell.title" = "启用";
-
-/* Class = "NSTableColumn"; headerToolTip = "Enable / Disable this entry"; ObjectID = "KJF-xP-zpJ"; */
-"KJF-xP-zpJ.headerToolTip" = "启用/禁用此条目";
-
-/* Class = "NSTextFieldCell"; title = "Click \"+\" or ⌘N to add new entry"; ObjectID = "LsW-mT-0My"; */
+/* No comment by Translator*/
 "LsW-mT-0My.title" = "点击 \"+\" 或 ⌘N 添加新条目";
 
-/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "RGJ-38-SUK"; */
-"RGJ-38-SUK.title" = "删除";
+/* No comment by Translator*/
+"RGJ-38-SUK.title" = "削除";
 
-/* Class = "NSMenuItem"; title = "More"; ObjectID = "Rup-NA-x8o"; */
+/* No comment by Translator*/
 "Rup-NA-x8o.title" = "更多的";
 
-/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "TbX-4g-Ga4"; */
-"TbX-4g-Ga4.title" = "文本单元格";
+/* No comment by Translator*/
+"TbX-4g-Ga4.title" = "テキストセル";
 
-/* Class = "NSMenuItem"; title = "From Proxyman..."; ObjectID = "Tz6-yr-DCF"; */
+/* No comment by Translator*/
 "Tz6-yr-DCF.title" = "从代理...";
 
-/* Class = "NSTableColumn"; headerCell.title = "Network Profile"; ObjectID = "UFi-RN-YSX"; */
-"UFi-RN-YSX.headerCell.title" = "网络配置文件";
-
-/* Class = "NSTableColumn"; headerToolTip = "Preset Profiles"; ObjectID = "UFi-RN-YSX"; */
-"UFi-RN-YSX.headerToolTip" = "预设配置文件";
-
-/* Class = "NSTextFieldCell"; title = "Only 1 Rule can be activated at once"; ObjectID = "UVH-eC-5ha"; */
+/* No comment by Translator*/
 "UVH-eC-5ha.title" = "一次只能激活 1 个规则";
 
-/* Class = "NSMenuItem"; title = "New..."; ObjectID = "V9E-km-YjS"; */
-"V9E-km-YjS.title" = "新建...";
+/* No comment by Translator*/
+"V9E-km-YjS.title" = "新規作成...";
 
-/* Class = "NSMenuItem"; title = "Import Settings"; ObjectID = "VfX-5a-Nkz"; */
-"VfX-5a-Nkz.title" = "导入设置";
+/* No comment by Translator*/
+"VfX-5a-Nkz.title" = "インポート設定";
 
-/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "Xh6-Yk-hFL"; */
-"Xh6-Yk-hFL.headerCell.title" = "名称";
+/* No comment by Translator*/
+"aBw-Ef-c6N.title" = "コピー";
 
-/* Class = "NSMenuItem"; title = "Duplicate"; ObjectID = "aBw-Ef-c6N"; */
-"aBw-Ef-c6N.title" = "复制";
+/* No comment by Translator*/
+"bqA-kq-SvE.title" = "テキストセル";
 
-/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "bqA-kq-SvE"; */
-"bqA-kq-SvE.title" = "文本单元格";
+/* No comment by Translator*/
+"cuP-Ls-q1h.title" = "インポート設定";
 
-/* Class = "NSMenu"; title = "Import Settings"; ObjectID = "cuP-Ls-q1h"; */
-"cuP-Ls-q1h.title" = "导入设置";
-
-/* Class = "NSMenuItem"; title = "Export Setting..."; ObjectID = "j2E-1v-pml"; */
+/* No comment by Translator*/
 "j2E-1v-pml.title" = "导出设置...";
 
-/* Class = "NSMenuItem"; ibShadowedToolTip = "Toggl Enable / Disable selected rules"; ObjectID = "n5a-vj-tHc"; */
-"n5a-vj-tHc.ibShadowedToolTip" = "Toggl 启用/禁用选定的规则";
-
-/* Class = "NSMenuItem"; title = "Enable Rules"; ObjectID = "n5a-vj-tHc"; */
+/* No comment by Translator*/
 "n5a-vj-tHc.title" = "启用规则";
 
-/* Class = "NSTableColumn"; headerCell.title = "Host"; ObjectID = "sm6-NU-Bil"; */
-"sm6-NU-Bil.headerCell.title" = "主机";
+/* No comment by Translator*/
+"u3I-Jl-6Xx.title" = "アクティブ";
 
-/* Class = "NSTableColumn"; headerToolTip = "Host and Port"; ObjectID = "sm6-NU-Bil"; */
-"sm6-NU-Bil.headerToolTip" = "主机和端口";
+/* No comment by Translator*/
+"uTp-kp-utZ.title" = "テキストセル";
 
-/* Class = "NSButtonCell"; title = "Active"; ObjectID = "u3I-Jl-6Xx"; */
-"u3I-Jl-6Xx.title" = "活跃";
-
-/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "uTp-kp-utZ"; */
-"uTp-kp-utZ.title" = "文本单元格";
-
-/* Class = "NSTableColumn"; headerCell.title = "Status"; ObjectID = "yB4-eu-flT"; */
-"yB4-eu-flT.headerCell.title" = "状态";
-
-/* Class = "NSTextFieldCell"; title = "⌘N: New; ⌘⏎: Edit; ⌘⌫: Delete; ⌘D: Duplicate; ⌘T: Enable/Disable Rules;"; ObjectID = "z9y-BT-pBJ"; */
+/* No comment by Translator*/
 "z9y-BT-pBJ.title" = "⌘N：新建；⌘⏎：编辑；⌘⌫：删除；⌘D：重复；⌘T：启用/禁用规则；";
