@@ -1,41 +1,41 @@
-/* No comment by Translator*/
-"33c-7b-4y4.title" = "キャンセル";
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "33c-7b-4y4"; */
+"33c-7b-4y4.title" = "取消";
 
-/* No comment by Translator*/
+/* Class = "NSTextFieldCell"; title = "Proxyman only performs SSL Handshake to Remote Server if Remote Port is 443"; ObjectID = "6eh-vx-4CK"; */
 "6eh-vx-4CK.title" = "如果远程端口为 443，Proxyman 仅对远程服务器执行 SSL 握手";
 
-/* No comment by Translator*/
+/* Class = "NSTextFieldCell"; title = "Local Port:"; ObjectID = "F6C-nX-TPN"; */
 "F6C-nX-TPN.title" = "本地端口：";
 
-/* No comment by Translator*/
+/* Class = "NSButtonCell"; title = "Port is occupied "; ObjectID = "Kay-qj-c2w"; */
 "Kay-qj-c2w.title" = "端口被占用";
 
-/* No comment by Translator*/
-"PQk-Gh-cnW.title" = "10000-65535";
+/* Class = "NSTextFieldCell"; placeholderString = "10000-65535"; ObjectID = "PQk-Gh-cnW"; */
+"PQk-Gh-cnW.placeholderString" = "10000-65535";
 
-/* No comment by Translator*/
+/* Class = "NSTextFieldCell"; title = "Remote Host:"; ObjectID = "U9S-fd-Y0J"; */
 "U9S-fd-Y0J.title" = "远程主机：";
 
-/* No comment by Translator*/
+/* Class = "NSButtonCell"; title = "Done"; ObjectID = "aKf-q3-Tsc"; */
 "aKf-q3-Tsc.title" = "完毕";
 
-/* No comment by Translator*/
-"eOj-e7-LlF.title" = "proxyman.io";
+/* Class = "NSTextFieldCell"; placeholderString = "proxyman.io"; ObjectID = "eOj-e7-LlF"; */
+"eOj-e7-LlF.placeholderString" = "proxyman.io";
 
-/* No comment by Translator*/
-"fa3-cI-olk.title" = "Untitled";
+/* Class = "NSTextFieldCell"; placeholderString = "Untitled"; ObjectID = "fa3-cI-olk"; */
+"fa3-cI-olk.placeholderString" = "无标题";
 
-/* No comment by Translator*/
+/* Class = "NSTextFieldCell"; title = "Name:"; ObjectID = "gLQ-Hc-hy0"; */
 "gLQ-Hc-hy0.title" = "名称：";
 
-/* No comment by Translator*/
+/* Class = "NSTextFieldCell"; placeholderString = "443"; ObjectID = "uDI-vF-2xO"; */
+"uDI-vF-2xO.placeholderString" = "443";
+
+/* Class = "NSTextFieldCell"; title = "443"; ObjectID = "uDI-vF-2xO"; */
 "uDI-vF-2xO.title" = "443";
 
-/* No comment by Translator*/
-"uDI-vF-2xO.title" = "443";
-
-/* No comment by Translator*/
+/* Class = "NSTextFieldCell"; title = "Remote Port:"; ObjectID = "vJ1-4w-6Oh"; */
 "vJ1-4w-6Oh.title" = "远程端口：";
 
-/* No comment by Translator*/
+/* Class = "NSButtonCell"; title = "Preserve Host in Header fields"; ObjectID = "zq4-h3-ysi"; */
 "zq4-h3-ysi.title" = "在标题字段中保留主机";
