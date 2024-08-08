@@ -1,23 +1,14 @@
 /* No comment by Translator*/
-"0Y5-A7-VCY.title" = "Create an empty folder. Only support 1 folder level.";
-
-/* No comment by Translator*/
 "0Y5-A7-VCY.title" = "New Folder";
 
 /* No comment by Translator*/
 "1Xp-lb-ED7.title" = "New...";
 
 /* No comment by Translator*/
-"49N-U2-jCF.title" = "Rename the folder";
-
-/* No comment by Translator*/
 "49N-U2-jCF.title" = "Rename Folder";
 
 /* No comment by Translator*/
 "8dm-xu-eIe.title" = "Text Cell";
-
-/* No comment by Translator*/
-"9Ih-OE-X0V.title" = "Enable or Disable entire Map Local Feature";
 
 /* No comment by Translator*/
 "9pb-rN-GuN.title" = "Text Cell";
@@ -39,9 +30,6 @@
 
 /* No comment by Translator*/
 "Ic6-eI-nEx.title" = "Import Settings";
-
-/* No comment by Translator*/
-"J2W-nx-rqY.title" = "Method";
 
 /* No comment by Translator*/
 "KJ3-AH-rZc.title" = "Top-Down Matching Rule";
@@ -80,22 +68,10 @@
 "dEh-4S-1s8.title" = "Map local files or directories as a response for matched requests.";
 
 /* No comment by Translator*/
-"gYl-CG-gTV.title" = "Map from";
-
-/* No comment by Translator*/
-"gYl-CG-gTV.title" = "Map Body Response from File ";
-
-/* No comment by Translator*/
 "hNU-WA-HII.title" = "From Charles Proxy...";
 
 /* No comment by Translator*/
 "jBb-xP-n0P.title" = "From Proxyman...";
-
-/* No comment by Translator*/
-"rRb-4R-P0c.title" = "File is missing!";
-
-/* No comment by Translator*/
-"txH-Jh-AIf.title" = "Toggl Enable / Disable selected rules";
 
 /* No comment by Translator*/
 "txH-Jh-AIf.title" = "Enable Rule";
@@ -108,13 +84,4 @@
 
 /* No comment by Translator*/
 "xQk-iZ-vHV.title" = "Open local file with";
-
-/* No comment by Translator*/
-"xRo-b3-lIb.title" = "Matching Rule";
-
-/* No comment by Translator*/
-"xRo-b3-lIb.title" = "Matching URLs";
-
-/* No comment by Translator*/
-"xmM-Hc-Sjh.title" = "Name";
 
