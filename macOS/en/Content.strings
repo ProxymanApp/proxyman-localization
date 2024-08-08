@@ -8,34 +8,16 @@
 "4jT-W0-wpq.title" = "Box";
 
 /* No comment by Translator*/
-"5NR-xD-i3g.title" = "Value";
-
-/* No comment by Translator*/
-"7Df-Vv-l0m.title" = "Only receive socket messages";
-
-/* No comment by Translator*/
 "7Df-Vv-l0m.title" = "Receive";
 
 /* No comment by Translator*/
 "Bc2-ET-Iw4.title" = "Table View Cell";
 
 /* No comment by Translator*/
-"BqW-AU-E4g.title" = "Value";
-
-/* No comment by Translator*/
-"CQW-LG-Nj4.title" = "File Name";
-
-/* No comment by Translator*/
-"EAp-gu-4Xd.title" = "Part";
-
-/* No comment by Translator*/
 "F8h-zy-Yb1.title" = "Text Cell";
 
 /* No comment by Translator*/
 "HWM-ws-3XD.title" = "Format with";
-
-/* No comment by Translator*/
-"Jp4-l3-uXg.title" = "Try to format JSON Prettier if possible";
 
 /* No comment by Translator*/
 "Jp4-l3-uXg.title" = "JSON Prettier";
@@ -50,9 +32,6 @@
 "Mos-7C-6hY.title" = "Text";
 
 /* No comment by Translator*/
-"Nth-Iy-aEH.title" = "Filter the type of Socket Message (All, Sent or Receive)";
-
-/* No comment by Translator*/
 "QUy-fo-bK2.title" = "Reset Filters";
 
 /* No comment by Translator*/
@@ -60,12 +39,6 @@
 
 /* No comment by Translator*/
 "RaG-Yo-ESe.title" = "200";
-
-/* No comment by Translator*/
-"RaG-Yo-ESe.title" = "200";
-
-/* No comment by Translator*/
-"RfD-Xj-1QW.title" = "Only sent socket messages";
 
 /* No comment by Translator*/
 "RfD-Xj-1QW.title" = "Sent";
@@ -80,19 +53,7 @@
 "TFT-0k-8Wd.title" = "Form";
 
 /* No comment by Translator*/
-"Xa5-pt-OUR.title" = "ContentType";
-
-/* No comment by Translator*/
-"Y0J-c2-vMC.title" = "JSON";
-
-/* No comment by Translator*/
 "ZDJ-B7-Xee.title" = "Malformed multipart/form-data";
-
-/* No comment by Translator*/
-"c0J-1R-aVI.title" = "Base64";
-
-/* No comment by Translator*/
-"d67-qP-DLJ.title" = "Header";
 
 /* No comment by Translator*/
 "f5f-9b-j0T.title" = "Table View Cell";
@@ -134,19 +95,10 @@
 "w03-lJ-VXr.title" = "Text Cell";
 
 /* No comment by Translator*/
-"wC4-JC-OdQ.title" = "Type";
-
-/* No comment by Translator*/
 "wU1-sd-O8r.title" = "Summary";
 
 /* No comment by Translator*/
-"ww6-R1-qnh.title" = "Key Value";
-
-/* No comment by Translator*/
 "xaT-1T-Pkz.title" = "No message selected";
-
-/* No comment by Translator*/
-"xbx-fc-r1d.title" = "All socket messages";
 
 /* No comment by Translator*/
 "xbx-fc-r1d.title" = "All";
@@ -167,16 +119,10 @@
 "JDK-LH-lmz.title" = "Option";
 
 /* No comment by Translator*/
-"Q2R-qn-tWx.title" = "All Ping Pong Websocket Messages are hidden";
-
-/* No comment by Translator*/
 "Q2R-qn-tWx.title" = "Hide Ping/Pong";
 
 /* No comment by Translator*/
 "WRt-uF-94u.title" = "Option";
-
-/* No comment by Translator*/
-"CDh-Dx-TOU.title" = "Replace the body content with a selected file.";
 
 /* No comment by Translator*/
 "CDh-Dx-TOU.title" = "Load from File…";
