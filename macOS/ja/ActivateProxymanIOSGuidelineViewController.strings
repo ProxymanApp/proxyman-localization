@@ -1,38 +1,38 @@
-/* No comment by Translator*/
-"K22-1O-OwN.title" = "Proxyman for iOSの特別な全機能をお楽しみください！❤️";
+/* Class = "NSTextFieldCell"; title = "Enjoy using Proxyman for iOS with all Premium features ❤️"; ObjectID = "K22-1O-OwN"; */
+"K22-1O-OwN.title" = "享受使用 Proxyman for iOS 的所有高级功能❤️";
 
-/* No comment by Translator*/
-"Tp4-ks-ocE.title" = "Step 1:";
+/* Class = "NSTextFieldCell"; title = "Step 1: "; ObjectID = "Tp4-ks-ocE"; */
+"Tp4-ks-ocE.title" = "步骤1：";
 
-/* No comment by Translator*/
-"Uh4-1Q-jz7.title" = "App Store から Proxyman for iOS をダウンロード";
+/* Class = "NSTextFieldCell"; title = "Get your iPhone/iPad and Download Proxyman for iOS from AppStore"; ObjectID = "Uh4-1Q-jz7"; */
+"Uh4-1Q-jz7.title" = "从 iPhone/iPad 的应用商店获取下载适用于iOS的Proxyman";
 
-/* No comment by Translator*/
-"XUP-1h-sAK.title" = "\"More\"タブ（右下）を開きます -> Face IDとパスワード -> ロックを解除 -> 認証キーを入力します。";
+/* Class = "NSTextFieldCell"; title = "Open More Tab (on the Right-Bottom TabBar) -> FaceID & Passcode -> Unlock -> Enter your license key."; ObjectID = "XUP-1h-sAK"; */
+"XUP-1h-sAK.title" = "打开更多选项卡（在右下选项卡栏上）-> FaceID 和密码-> 解锁-> 输入您的许可证密钥。";
 
-/* No comment by Translator*/
-"ZLg-ek-DeR.title" = "AppStoreに移動...";
+/* Class = "NSButtonCell"; title = "Go to AppStore..."; ObjectID = "ZLg-ek-DeR"; */
+"ZLg-ek-DeR.title" = "到 AppStore...";
 
-/* No comment by Translator*/
-"aiQ-Z0-KRb.title" = "Copy AppStore URL";
+/* Class = "NSButton"; ibShadowedToolTip = "Copy AppStore URL"; ObjectID = "aiQ-Z0-KRb"; */
+"aiQ-Z0-KRb.ibShadowedToolTip" = "拷贝 AppStore 网址";
 
-/* No comment by Translator*/
-"bTD-X7-grf.title" = "iOSおよびiPadOSをサポート。iOS 14以降が必須。";
+/* Class = "NSTextFieldCell"; title = "Support iOS & iPadOS. Require iOS 14+."; ObjectID = "bTD-X7-grf"; */
+"bTD-X7-grf.title" = "支持 iOS 和 iPadOS。需要 iOS 14+。";
 
-/* No comment by Translator*/
-"dyc-O9-sW9.title" = "Proxyman for iOS チュートリアル...";
+/* Class = "NSButtonCell"; title = "Getting Started with Proxyman for iOS..."; ObjectID = "dyc-O9-sW9"; */
+"dyc-O9-sW9.title" = "iOS Proxyman 入门...";
 
-/* No comment by Translator*/
-"eQT-MA-ZCc.title" = "📲 Premium Proxyman for iOS をアクティブ化";
+/* Class = "NSTextFieldCell"; title = "📲 Activate Premium Proxyman for iOS"; ObjectID = "eQT-MA-ZCc"; */
+"eQT-MA-ZCc.title" = "📲 为 iOS 激活 Premium Proxyman";
 
-/* No comment by Translator*/
-"fFU-BW-CUq.title" = "iOS ホームページ...";
+/* Class = "NSButtonCell"; title = "iOS Home Page..."; ObjectID = "fFU-BW-CUq"; */
+"fFU-BW-CUq.title" = "iOS 主页...";
 
-/* No comment by Translator*/
-"p1g-10-59s.title" = "ボタン";
+/* Class = "NSButtonCell"; title = "Button"; ObjectID = "p1g-10-59s"; */
+"p1g-10-59s.title" = "按钮";
 
-/* No comment by Translator*/
-"wFX-bV-4Ro.title" = "Step 2:";
+/* Class = "NSTextFieldCell"; title = "Step 2: "; ObjectID = "wFX-bV-4Ro"; */
+"wFX-bV-4Ro.title" = "第2步：";
 
-/* No comment by Translator*/
-"xhH-oC-wbd.title" = "ライセンスキーでアクティベートする";
+/* Class = "NSTextFieldCell"; title = "Activate with the License Key"; ObjectID = "xhH-oC-wbd"; */
+"xhH-oC-wbd.title" = "使用许可证密钥激活";
