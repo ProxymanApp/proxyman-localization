@@ -1,41 +1,41 @@
-/* No comment by Translator*/
-"14z-ZK-nTj.title" = "Try to format JSON Prettier if possible";
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Try to format JSON Prettier if possible"; ObjectID = "14z-ZK-nTj"; */
+"14z-ZK-nTj.ibShadowedToolTip" = "尝试使用 JSON Prettier 进行格式化";
 
-/* No comment by Translator*/
+/* Class = "NSMenuItem"; title = "JSON Prettier"; ObjectID = "14z-ZK-nTj"; */
 "14z-ZK-nTj.title" = "JSON Prettier";
 
-/* No comment by Translator*/
-"5BA-bf-GUh.title" = "Hex Viewer";
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Hex Viewer"; ObjectID = "5BA-bf-GUh"; */
+"5BA-bf-GUh.ibShadowedToolTip" = "十六进制查看器";
 
-/* No comment by Translator*/
+/* Class = "NSMenuItem"; title = "Hex"; ObjectID = "5BA-bf-GUh"; */
 "5BA-bf-GUh.title" = "十六进制";
 
-/* No comment by Translator*/
+/* Class = "NSMenuItem"; title = "Open with"; ObjectID = "9Eu-GW-mB9"; */
 "9Eu-GW-mB9.title" = "打开方式";
 
-/* No comment by Translator*/
-"Cyj-74-AnN.title" = "\\bAutomatically render the Body Previewer (Prettier + Syntax Highlighter)";
+/* Class = "NSMenuItem"; ibShadowedToolTip = "\bAutomatically render the Body Previewer (Prettier + Syntax Highlighter)"; ObjectID = "Cyj-74-AnN"; */
+"Cyj-74-AnN.ibShadowedToolTip" = "\\b自动渲染 Body Previewer (Prettier + Syntax Highlighter)";
 
-/* No comment by Translator*/
+/* Class = "NSMenuItem"; title = "Previewer"; ObjectID = "Cyj-74-AnN"; */
 "Cyj-74-AnN.title" = "预览器";
 
-/* No comment by Translator*/
+/* Class = "NSMenuItem"; title = "Request Body..."; ObjectID = "EBj-qU-Nph"; */
 "EBj-qU-Nph.title" = "请求正文...";
 
-/* No comment by Translator*/
-"JtX-KM-Uu4.title" = "JSON Treeview";
+/* Class = "NSMenuItem"; ibShadowedToolTip = "JSON Treeview"; ObjectID = "JtX-KM-Uu4"; */
+"JtX-KM-Uu4.ibShadowedToolTip" = "JSON 树状视图";
 
-/* No comment by Translator*/
+/* Class = "NSMenuItem"; title = "Tree View"; ObjectID = "JtX-KM-Uu4"; */
 "JtX-KM-Uu4.title" = "树视图";
 
-/* No comment by Translator*/
+/* Class = "NSMenuItem"; title = "Format with"; ObjectID = "KHU-NI-42K"; */
 "KHU-NI-42K.title" = "格式化为";
 
-/* No comment by Translator*/
-"SKA-MB-wFH.title" = "エクスポート";
+/* Class = "NSMenu"; title = "Export"; ObjectID = "SKA-MB-wFH"; */
+"SKA-MB-wFH.title" = "导出";
 
-/* No comment by Translator*/
-"kKI-m1-n9h.title" = "エクスポート";
+/* Class = "NSMenuItem"; title = "Export"; ObjectID = "kKI-m1-n9h"; */
+"kKI-m1-n9h.title" = "导出";
 
-/* No comment by Translator*/
+/* Class = "NSMenu"; title = "Format with"; ObjectID = "qpj-JX-HEg"; */
 "qpj-JX-HEg.title" = "格式化为";
