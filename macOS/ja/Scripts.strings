@@ -1,269 +1,269 @@
-/* No comment by Translator*/
-"15j-Xz-hKk.title" = "Automatically Save file after 1 second";
+/* Class = "NSImageView"; ibShadowedToolTip = "Automatically Save file after 1 second"; ObjectID = "15j-Xz-hKk"; */
+"15j-Xz-hKk.ibShadowedToolTip" = "1秒后自动保存文件";
 
-/* No comment by Translator*/
-"1Lv-MJ-8mP.title" = "新しいフォルダ";
+/* Class = "NSButtonCell"; title = "New Folder"; ObjectID = "1Lv-MJ-8mP"; */
+"1Lv-MJ-8mP.title" = "新建文件夹";
 
-/* No comment by Translator*/
+/* Class = "NSMenu"; title = "Export Settings"; ObjectID = "1da-pd-oJb"; */
 "1da-pd-oJb.title" = "导出设置";
 
-/* No comment by Translator*/
-"2Rf-8t-48p.title" = "Enable or Disable entire Map Local Feature";
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Enable or Disable entire Map Local Feature"; ObjectID = "2Rf-8t-48p"; */
+"2Rf-8t-48p.ibExternalAccessibilityDescription" = "启用或禁用整个本地映射功能";
 
-/* No comment by Translator*/
-"2WF-c9-ZLL.title" = "Export Rules that you can share with your teammates. Export the script and all imported files";
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Export Rules that you can share with your teammates. Export the script and all imported files"; ObjectID = "2WF-c9-ZLL"; */
+"2WF-c9-ZLL.ibShadowedToolTip" = "导出规则，可以与队友共享。导出脚本和所有导入的文件";
 
-/* No comment by Translator*/
+/* Class = "NSMenuItem"; title = "Scripts and All Imported Files..."; ObjectID = "2WF-c9-ZLL"; */
 "2WF-c9-ZLL.title" = "脚本和所有导入的文件...";
 
-/* No comment by Translator*/
-"2bf-R9-Ugc.title" = "Import selected file and import to JS Code";
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Import selected file and import to JS Code"; ObjectID = "2bf-R9-Ugc"; */
+"2bf-R9-Ugc.ibShadowedToolTip" = "导入选中的文件并导入到 JS 代码";
 
-/* No comment by Translator*/
+/* Class = "NSMenuItem"; title = "Import JSON or Other File..."; ObjectID = "2bf-R9-Ugc"; */
 "2bf-R9-Ugc.title" = "导入 JSON 或其他文件...";
 
-/* No comment by Translator*/
+/* Class = "NSButtonCell"; title = "Console"; ObjectID = "3ZA-n0-5rl"; */
 "3ZA-n0-5rl.title" = "控制台";
 
-/* No comment by Translator*/
-"3oU-SJ-b4w.title" = "If Mock API is enabled, the request never hits your server. You have to provide the response. It's useful for testing.";
+/* Class = "NSButton"; ibShadowedToolTip = "If Mock API is enabled, the request never hits your server. You have to provide the response. It's useful for testing."; ObjectID = "3oU-SJ-b4w"; */
+"3oU-SJ-b4w.ibShadowedToolTip" = "如果启用了 Mock API，请求永远不会到达您的服务器。您必须提供响应。它对测试很有用。";
 
-/* No comment by Translator*/
-"49J-je-yD2.title" = "Matching Rule";
+/* Class = "NSTableColumn"; headerCell.title = "Matching Rule"; ObjectID = "49J-je-yD2"; */
+"49J-je-yD2.headerCell.title" = "匹配规则";
 
-/* No comment by Translator*/
-"49J-je-yD2.title" = "Matching URLs";
+/* Class = "NSTableColumn"; headerToolTip = "Matching URLs"; ObjectID = "49J-je-yD2"; */
+"49J-je-yD2.headerToolTip" = "匹配的 URLs";
 
-/* No comment by Translator*/
-"4iP-OB-Htr.title" = "詳細";
+/* Class = "NSMenuItem"; title = "More"; ObjectID = "4iP-OB-Htr"; */
+"4iP-OB-Htr.title" = "更多";
 
-/* No comment by Translator*/
+/* Class = "NSMenu"; title = "Configs"; ObjectID = "5YF-9i-XFK"; */
 "5YF-9i-XFK.title" = "配置";
 
-/* No comment by Translator*/
+/* Class = "NSTextFieldCell"; title = "Matching Rule"; ObjectID = "5vf-Gb-QcQ"; */
 "5vf-Gb-QcQ.title" = "匹配规则";
 
-/* No comment by Translator*/
+/* Class = "NSButtonCell"; title = "Run as Mock API"; ObjectID = "60p-Do-eUa"; */
 "60p-Do-eUa.title" = "作为模拟 API 运行";
 
-/* No comment by Translator*/
-"6OV-n0-cWR.title" = "Run onResponse() function";
+/* Class = "NSButton"; ibShadowedToolTip = "Run onResponse() function"; ObjectID = "6OV-n0-cWR"; */
+"6OV-n0-cWR.ibShadowedToolTip" = "运行 onResponse() 函数";
 
-/* No comment by Translator*/
+/* Class = "NSMenuItem"; title = "New…"; ObjectID = "6wv-8S-F2I"; */
 "6wv-8S-F2I.title" = "新...";
 
-/* No comment by Translator*/
-"783-cf-8NW.title" = "Import Script Rules";
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Import Script Rules"; ObjectID = "783-cf-8NW"; */
+"783-cf-8NW.ibShadowedToolTip" = "导入脚本规则";
 
-/* No comment by Translator*/
-"783-cf-8NW.title" = "Proxyman より...";
+/* Class = "NSMenuItem"; title = "From Proxyman..."; ObjectID = "783-cf-8NW"; */
+"783-cf-8NW.title" = "来自 Proxyman...";
 
-/* No comment by Translator*/
+/* Class = "NSMenu"; title = "Environment Variables"; ObjectID = "8ag-ls-KoV"; */
 "8ag-ls-KoV.title" = "环境变量";
 
-/* No comment by Translator*/
+/* Class = "NSTextFieldCell"; title = "Run Script on:"; ObjectID = "8ts-qc-3RB"; */
 "8ts-qc-3RB.title" = "运行脚本：";
 
-/* No comment by Translator*/
+/* Class = "NSTextFieldCell"; title = "Use console.log() to log events"; ObjectID = "AEe-Ox-jZb"; */
 "AEe-Ox-jZb.title" = "使用 console.log() 记录事件";
 
-/* No comment by Translator*/
-"B6T-WK-Jh2.title" = "Name";
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "B6T-WK-Jh2"; */
+"B6T-WK-Jh2.headerCell.title" = "名称";
 
-/* No comment by Translator*/
-"B7H-Qn-1GV.title" = "Snippet Code";
+/* Class = "NSSegmentedCell"; B7H-Qn-1GV.ibShadowedLabels[0] = "Snippet Code"; ObjectID = "B7H-Qn-1GV"; */
+"B7H-Qn-1GV.ibShadowedLabels[0]" = "代码片段";
 
-/* No comment by Translator*/
-"Beb-ek-dt4.title" = "インポート設定";
+/* Class = "NSMenu"; title = "Import Settings"; ObjectID = "Beb-ek-dt4"; */
+"Beb-ek-dt4.title" = "导入设置";
 
-/* No comment by Translator*/
-"EAa-s4-6jg.title" = "Export Rules that you can share with your teammates. Only Export the Script";
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Export Rules that you can share with your teammates. Only Export the Script"; ObjectID = "EAa-s4-6jg"; */
+"EAa-s4-6jg.ibShadowedToolTip" = "导出可以与队友共享的规则。只导出脚本";
 
-/* No comment by Translator*/
+/* Class = "NSMenuItem"; title = "Only Scripts..."; ObjectID = "EAa-s4-6jg"; */
 "EAa-s4-6jg.title" = "只有脚本...";
 
-/* No comment by Translator*/
-"FGU-E6-oNK.title" = "Clear all Logs";
+/* Class = "NSButton"; ibShadowedToolTip = "Clear all Logs"; ObjectID = "FGU-E6-oNK"; */
+"FGU-E6-oNK.ibShadowedToolTip" = "清除所有日志";
 
-/* No comment by Translator*/
-"Gmm-Ye-msV.title" = "Clear all Logs";
+/* Class = "NSButton"; ibShadowedToolTip = "Clear all Logs"; ObjectID = "Gmm-Ye-msV"; */
+"Gmm-Ye-msV.ibShadowedToolTip" = "清除所有日志";
 
-/* No comment by Translator*/
-"HAk-P0-Ggj.title" = "If there is new log, the Console Log will automatically scroll to the bottom";
+/* Class = "NSMenuItem"; ibShadowedToolTip = "If there is new log, the Console Log will automatically scroll to the bottom"; ObjectID = "HAk-P0-Ggj"; */
+"HAk-P0-Ggj.ibShadowedToolTip" = "如果有新日志，控制台日志会自动滚动到底部";
 
-/* No comment by Translator*/
+/* Class = "NSMenuItem"; title = "Console Log will Scroll to Bottom automatically"; ObjectID = "HAk-P0-Ggj"; */
 "HAk-P0-Ggj.title" = "控制台日志会自动滚动到底部";
 
-/* No comment by Translator*/
-"JWv-dU-riJ.title" = "詳細";
+/* Class = "NSMenuItem"; title = "More"; ObjectID = "JWv-dU-riJ"; */
+"JWv-dU-riJ.title" = "更多";
 
-/* No comment by Translator*/
-"LDC-yJ-OT2.title" = "テキストセル";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "LDC-yJ-OT2"; */
+"LDC-yJ-OT2.title" = "文本单元格";
 
-/* No comment by Translator*/
+/* Class = "NSMenuItem"; title = "Reload"; ObjectID = "Lhy-az-aCd"; */
 "Lhy-az-aCd.title" = "重新加载";
 
-/* No comment by Translator*/
+/* Class = "NSButtonCell"; title = "Enable Scripting Tool"; ObjectID = "MiB-Ry-kOU"; */
 "MiB-Ry-kOU.title" = "启用脚本工具";
 
-/* No comment by Translator*/
+/* Class = "NSTextFieldCell"; placeholderString = "Untitled"; ObjectID = "Mqj-S5-ILV"; */
+"Mqj-S5-ILV.placeholderString" = "无标题";
+
+/* Class = "NSTextFieldCell"; title = "Untitled"; ObjectID = "Mqj-S5-ILV"; */
 "Mqj-S5-ILV.title" = "无标题";
 
-/* No comment by Translator*/
-"Mqj-S5-ILV.title" = "Untitled";
-
-/* No comment by Translator*/
+/* Class = "NSMenuItem"; title = "Show in Finder…"; ObjectID = "P2I-vf-6Nq"; */
 "P2I-vf-6Nq.title" = "在 Finder 中显示...";
 
-/* No comment by Translator*/
-"Pai-wM-2Ib.title" = "Rename the folder";
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Rename the folder"; ObjectID = "Pai-wM-2Ib"; */
+"Pai-wM-2Ib.ibShadowedToolTip" = "重命名文件夹";
 
-/* No comment by Translator*/
+/* Class = "NSMenuItem"; title = "Rename Folder"; ObjectID = "Pai-wM-2Ib"; */
 "Pai-wM-2Ib.title" = "重命名文件夹";
 
-/* No comment by Translator*/
+/* Class = "NSTextFieldCell"; title = "⌘N: New; ⌘⏎: Edit; ⌘⌫: Delete; ⌘D: Duplicate; Space: Enable/Disable Rules;"; ObjectID = "SQj-Kh-Qo7"; */
 "SQj-Kh-Qo7.title" = "⌘N：新建；⌘⏎：编辑；⌘⌫： 删除；⌘D：复制；空格：启用/禁用规则；";
 
-/* No comment by Translator*/
-"TNq-P4-Q5X.title" = "Open Custom Addon Folder";
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Open Custom Addon Folder"; ObjectID = "TNq-P4-Q5X"; */
+"TNq-P4-Q5X.ibShadowedToolTip" = "打开自定义插件文件夹";
 
-/* No comment by Translator*/
+/* Class = "NSMenuItem"; title = "Open Custom Addons Folder..."; ObjectID = "TNq-P4-Q5X"; */
 "TNq-P4-Q5X.title" = "打开自定义插件文件夹...";
 
-/* No comment by Translator*/
-"VND-zn-vZa.title" = "api.proxyman.io/v1/*";
+/* Class = "NSTextFieldCell"; placeholderString = "api.proxyman.io/v1/*"; ObjectID = "VND-zn-vZa"; */
+"VND-zn-vZa.placeholderString" = "api.proxyman.io/v1/*";
 
-/* No comment by Translator*/
+/* Class = "NSButtonCell"; title = "Filter"; ObjectID = "Xgd-Wq-j8M"; */
 "Xgd-Wq-j8M.title" = "筛选器";
 
-/* No comment by Translator*/
+/* Class = "NSButtonCell"; title = "Response"; ObjectID = "Xu2-KD-YTP"; */
 "Xu2-KD-YTP.title" = "Response";
 
-/* No comment by Translator*/
+/* Class = "NSMenuItem"; title = "Scripting Docs..."; ObjectID = "YL8-Qr-mAC"; */
 "YL8-Qr-mAC.title" = "脚本文档...";
 
-/* No comment by Translator*/
+/* Class = "NSWindow"; title = "Scripting Editor"; ObjectID = "Yvx-rH-ffi"; */
 "Yvx-rH-ffi.title" = "脚本编辑器";
 
-/* No comment by Translator*/
+/* Class = "NSMenuItem"; title = "Export Settings"; ObjectID = "ZYc-UB-srh"; */
 "ZYc-UB-srh.title" = "导出设置";
 
-/* No comment by Translator*/
-"Zby-zp-y61.title" = "Show / Hide Logging Console Panel (⇧⌘L)";
+/* Class = "NSButton"; ibShadowedToolTip = "Show / Hide Logging Console Panel (⇧⌘L)"; ObjectID = "Zby-zp-y61"; */
+"Zby-zp-y61.ibShadowedToolTip" = "显示/隐藏日志控制台面板 (⇧⌘L)";
 
-/* No comment by Translator*/
-"ZsG-F5-h2j.title" = "インポート設定";
+/* Class = "NSMenuItem"; title = "Import Settings"; ObjectID = "ZsG-F5-h2j"; */
+"ZsG-F5-h2j.title" = "导入设置";
 
-/* No comment by Translator*/
-"aKx-Yl-Bem.title" = "新しいフォルダ";
+/* Class = "NSMenuItem"; title = "New Folder"; ObjectID = "aKx-Yl-Bem"; */
+"aKx-Yl-Bem.title" = "新建文件夹";
 
-/* No comment by Translator*/
+/* Class = "NSMenuItem"; title = "Configs"; ObjectID = "aU8-kO-YbB"; */
 "aU8-kO-YbB.title" = "配置";
 
-/* No comment by Translator*/
-"abR-Dt-dL5.title" = "削除";
+/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "abR-Dt-dL5"; */
+"abR-Dt-dL5.title" = "删除";
 
-/* No comment by Translator*/
-"at8-8r-QR9.title" = "テキストセル";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "at8-8r-QR9"; */
+"at8-8r-QR9.title" = "文本单元格";
 
-/* No comment by Translator*/
+/* Class = "NSButtonCell"; title = "Request"; ObjectID = "bcp-ip-pRf"; */
 "bcp-ip-pRf.title" = "Request";
 
-/* No comment by Translator*/
+/* Class = "NSTextFieldCell"; title = "Name:"; ObjectID = "cGe-FP-Cga"; */
 "cGe-FP-Cga.title" = "名称：";
 
-/* No comment by Translator*/
-"cbG-2v-RmG.title" = "Scripting";
+/* Class = "NSWindow"; title = "Scripting"; ObjectID = "cbG-2v-RmG"; */
+"cbG-2v-RmG.title" = "脚本";
 
-/* No comment by Translator*/
+/* Class = "NSTextFieldCell"; title = "Top-Down Matching Rule"; ObjectID = "cyH-Yq-dxO"; */
 "cyH-Yq-dxO.title" = "自上而下匹配规则";
 
-/* No comment by Translator*/
-"dZq-hc-gb4.title" = "テキストセル";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "dZq-hc-gb4"; */
+"dZq-hc-gb4.title" = "文本单元格";
 
-/* No comment by Translator*/
-"ddl-44-wPo.title" = "箱";
+/* Class = "NSBox"; title = "Box"; ObjectID = "ddl-44-wPo"; */
+"ddl-44-wPo.title" = "盒子";
 
-/* No comment by Translator*/
+/* Class = "NSMenuItem"; title = "Open local file with"; ObjectID = "e2Q-na-x9J"; */
 "e2Q-na-x9J.title" = "打开本地文件";
 
-/* No comment by Translator*/
+/* Class = "NSMenuItem"; title = "Addon Docs..."; ObjectID = "eTX-mK-u1J"; */
 "eTX-mK-u1J.title" = "插件文档...";
 
-/* No comment by Translator*/
-"eTe-5h-VxL.title" = "コピー";
+/* Class = "NSMenuItem"; title = "Duplicate"; ObjectID = "eTe-5h-VxL"; */
+"eTe-5h-VxL.title" = "复制";
 
-/* No comment by Translator*/
-"gB7-cb-JeF.title" = "Toggl Enable / Disable selected rules";
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Toggl Enable / Disable selected rules"; ObjectID = "gB7-cb-JeF"; */
+"gB7-cb-JeF.ibShadowedToolTip" = "切换启用/禁用选定规则";
 
-/* No comment by Translator*/
+/* Class = "NSMenuItem"; title = "Enable Rule"; ObjectID = "gB7-cb-JeF"; */
 "gB7-cb-JeF.title" = "启用规则";
 
-/* No comment by Translator*/
+/* Class = "NSMenuItem"; title = "Allow all scripts to access Environment Variables"; ObjectID = "gMu-9e-6Pa"; */
 "gMu-9e-6Pa.title" = "允许所有脚本访问环境变量";
 
-/* No comment by Translator*/
-"geb-sb-72N.title" = "Save and write the current editing script to disk and activate it ⌘S";
+/* Class = "NSButton"; ibShadowedToolTip = "Save and write the current editing script to disk and activate it ⌘S"; ObjectID = "geb-sb-72N"; */
+"geb-sb-72N.ibShadowedToolTip" = "保存并写入当前编辑脚本到磁盘并激活它⌘S";
 
-/* No comment by Translator*/
-"had-X8-9CN.title" = "Open Doc how to write your own JS Addons";
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Open Doc how to write your own JS Addons"; ObjectID = "had-X8-9CN"; */
+"had-X8-9CN.ibShadowedToolTip" = "打开文档如何编写自己的 JS 插件";
 
-/* No comment by Translator*/
+/* Class = "NSMenuItem"; title = "Write your Custom Addons..."; ObjectID = "had-X8-9CN"; */
 "had-X8-9CN.title" = "编写你的自定义插件...";
 
-/* No comment by Translator*/
+/* Class = "NSMenuItem"; title = "Environment Variables Docs..."; ObjectID = "jKu-Bl-Yq1"; */
 "jKu-Bl-Yq1.title" = "环境变量文档...";
 
-/* No comment by Translator*/
+/* Class = "NSTextFieldCell"; title = "Click \"+\" or ⌘N to add new entry"; ObjectID = "l1b-qK-UkR"; */
 "l1b-qK-UkR.title" = "点击\"+\"或⌘N添加新条目";
 
-/* No comment by Translator*/
-"lcF-Es-cZG.title" = "Run onRequest() function";
+/* Class = "NSButton"; ibShadowedToolTip = "Run onRequest() function"; ObjectID = "lcF-Es-cZG"; */
+"lcF-Es-cZG.ibShadowedToolTip" = "运行 onRequest() 函数";
 
-/* No comment by Translator*/
+/* Class = "NSButtonCell"; title = "Save & Activate ⌘S"; ObjectID = "ng1-oM-8Fe"; */
 "ng1-oM-8Fe.title" = "保存并激活⌘S";
 
-/* No comment by Translator*/
-"oIC-SX-Ukm.title" = "Method";
+/* Class = "NSTableColumn"; headerCell.title = "Method"; ObjectID = "oIC-SX-Ukm"; */
+"oIC-SX-Ukm.headerCell.title" = "方法";
 
-/* No comment by Translator*/
+/* Class = "NSTextFieldCell"; title = "URL:"; ObjectID = "pCE-gq-94c"; */
 "pCE-gq-94c.title" = "网址：";
 
-/* No comment by Translator*/
+/* Class = "NSMenuItem"; title = "Environment Variables"; ObjectID = "qn2-FC-Zed"; */
 "qn2-FC-Zed.title" = "环境变量";
 
-/* No comment by Translator*/
+/* Class = "NSMenuItem"; title = "Documentations"; ObjectID = "r7y-sY-uEN"; */
 "r7y-sY-uEN.title" = "文档";
 
-/* No comment by Translator*/
-"rKN-8X-nR8.title" = "Beautify the current JS Code";
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Beautify the current JS Code"; ObjectID = "rKN-8X-nR8"; */
+"rKN-8X-nR8.ibShadowedToolTip" = "美化当前 JS 代码";
 
-/* No comment by Translator*/
+/* Class = "NSMenuItem"; title = "Beautify (⌘B)"; ObjectID = "rKN-8X-nR8"; */
 "rKN-8X-nR8.title" = "美化(⌘B)";
 
-/* No comment by Translator*/
+/* Class = "NSTextFieldCell"; title = "Saved"; ObjectID = "syJ-gL-Mcz"; */
 "syJ-gL-Mcz.title" = "已保存";
 
-/* No comment by Translator*/
-"tYS-co-gAQ.title" = "箱";
+/* Class = "NSBox"; title = "Box"; ObjectID = "tYS-co-gAQ"; */
+"tYS-co-gAQ.title" = "盒子";
 
-/* No comment by Translator*/
+/* Class = "NSMenuItem"; title = "Built-in JS Libraries Docs..."; ObjectID = "xDt-jD-ufF"; */
 "xDt-jD-ufF.title" = "内置 JS 库文档...";
 
-/* No comment by Translator*/
+/* Class = "NSTextFieldCell"; title = "Use JavaScript to modify the Request or Response content automatically"; ObjectID = "xq9-8g-BbV"; */
 "xq9-8g-BbV.title" = "使用 JavaScript 自动修改请求或响应内容";
 
-/* No comment by Translator*/
+/* Class = "NSMenu"; title = "Documentations"; ObjectID = "yiM-oB-Nsu"; */
 "yiM-oB-Nsu.title" = "文档";
 
-/* No comment by Translator*/
-"zhY-mM-T6l.title" = "編集";
+/* Class = "NSMenuItem"; title = "Edit"; ObjectID = "zhY-mM-T6l"; */
+"zhY-mM-T6l.title" = "编辑";
 
-/* No comment by Translator*/
+/* Class = "NSTextFieldCell"; title = "Empty Console"; ObjectID = "zqy-Ug-Jk0"; */
 "zqy-Ug-Jk0.title" = "空控制台";
 
-/* No comment by Translator*/
-"ZVw-hV-auO.title" = "Clear all shared State data. It's similar with `clearSharedState()` function";
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Clear all shared State data. It's similar with `clearSharedState()` function"; ObjectID = "ZVw-hV-auO"; */
+"ZVw-hV-auO.ibShadowedToolTip" = "清除所有共享状态数据。这与 `clearSharedState()` 函数类似";
 
-/* No comment by Translator*/
+/* Class = "NSMenuItem"; title = "Reset Shared State"; ObjectID = "ZVw-hV-auO"; */
 "ZVw-hV-auO.title" = "重置共享状态";
