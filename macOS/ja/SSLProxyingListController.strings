@@ -2,13 +2,28 @@
 "3hH-iF-r4c.title" = "菜单";
 
 /* No comment by Translator*/
+"4b6-M4-31i.title" = "Delete selected items (⌘⌫)";
+
+/* No comment by Translator*/
 "4b6-M4-31i.title" = "削除";
+
+/* No comment by Translator*/
+"5AA-PN-7X8.title" = "Enable / Disable this entry";
 
 /* No comment by Translator*/
 "5gR-Mc-gr3.title" = "Charles Proxyから...";
 
 /* No comment by Translator*/
+"5yH-5N-WzL.title" = "Open App/Domain Search filter (⌘N)";
+
+/* No comment by Translator*/
 "5yH-5N-WzL.title" = "添加应用程序/域...";
+
+/* No comment by Translator*/
+"Am8-VF-HLZ.title" = "Enable / Disable this entry";
+
+/* No comment by Translator*/
+"CRt-Xz-Wed.title" = "Open App/Domain Search filter (⌘N)";
 
 /* No comment by Translator*/
 "CRt-Xz-Wed.title" = "添加应用程序/域...";
@@ -23,10 +38,19 @@
 "EIY-cn-RQc.title" = "启用 SSL 代理工具";
 
 /* No comment by Translator*/
+"GdB-zT-V2t.title" = "Delete selected items (⌘⌫)";
+
+/* No comment by Translator*/
 "GdB-zT-V2t.title" = "削除";
 
 /* No comment by Translator*/
+"IkN-fr-YkW.title" = "Open App/Domain Search filter (⌘N)";
+
+/* No comment by Translator*/
 "IkN-fr-YkW.title" = "添加应用程序/域...";
+
+/* No comment by Translator*/
+"IxK-5v-jMf.title" = "Name";
 
 /* No comment by Translator*/
 "LIn-6a-5uc.title" = "您想要拦截 HTTPS 流量的客户端或域";
@@ -36,6 +60,12 @@
 
 /* No comment by Translator*/
 "RRP-1r-Ndl.title" = "排除列表";
+
+/* No comment by Translator*/
+"RyG-YK-wWT.title" = "Name";
+
+/* No comment by Translator*/
+"SBe-tJ-NyM.title" = "Add wildcard (⇧⌘N)";
 
 /* No comment by Translator*/
 "SBe-tJ-NyM.title" = "添加通配符";
@@ -62,13 +92,22 @@
 "jUD-Kn-h7R.title" = "菜单";
 
 /* No comment by Translator*/
+"kES-ro-Fy0.title" = "Add wildcard (⇧⌘N)";
+
+/* No comment by Translator*/
 "kES-ro-Fy0.title" = "添加通配符";
 
 /* No comment by Translator*/
 "lVx-sX-XUx.title" = "启用规则";
 
 /* No comment by Translator*/
+"oQl-hf-bQz.title" = "Add wildcard (⇧⌘N)";
+
+/* No comment by Translator*/
 "oQl-hf-bQz.title" = "添加通配符";
+
+/* No comment by Translator*/
+"rr0-VN-CXF.title" = "Add wildcard (⇧⌘N)";
 
 /* No comment by Translator*/
 "rr0-VN-CXF.title" = "添加通配符";
@@ -81,6 +120,9 @@
 
 /* No comment by Translator*/
 "w3c-ev-cEm.title" = "导出设置...";
+
+/* No comment by Translator*/
+"zGa-8K-GFT.title" = "Open App/Domain Search filter (⌘N)";
 
 /* No comment by Translator*/
 "zGa-8K-GFT.title" = "添加应用程序/域...";
