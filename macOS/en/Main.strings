@@ -20,19 +20,10 @@
 "1b7-l0-nxx.title" = "Find";
 
 /* No comment by Translator*/
-"1cY-IH-L90.title" = "All Proxyman Certificate will be removed";
-
-/* No comment by Translator*/
 "1cY-IH-L90.title" = "Reset all Proxyman Certificates";
 
 /* No comment by Translator*/
 "2IX-Rt-veX.title" = "Purple";
-
-/* No comment by Translator*/
-"2Lu-od-oG8.title" = "Reverse Proxy Server is enabled";
-
-/* No comment by Translator*/
-"2eA-6u-s1g.title" = "Prevent client applications form caching requests and responses";
 
 /* No comment by Translator*/
 "2eA-6u-s1g.title" = "No Caching";
@@ -59,12 +50,6 @@
 "4Xg-UT-6f3.title" = "Advanced";
 
 /* No comment by Translator*/
-"4eb-gj-qS6.title" = "Search app or domain (⌘⇧F)";
-
-/* No comment by Translator*/
-"4mv-UD-NzZ.title" = "Guideline how to install Proxyman Certificate to Firefox Browsers";
-
-/* No comment by Translator*/
 "4mv-UD-NzZ.title" = "Install Certificate on Firefox Browsers…";
 
 /* No comment by Translator*/
@@ -74,16 +59,10 @@
 "4sb-4s-VLi.title" = "Quit Proxyman";
 
 /* No comment by Translator*/
-"5L7-nW-b98.title" = "Scripting is enabled (⌥⌘I)";
-
-/* No comment by Translator*/
 "5NR-X1-Rra.title" = "Scripting";
 
 /* No comment by Translator*/
 "5QF-Oa-p0T.title" = "Edit";
-
-/* No comment by Translator*/
-"5fM-rW-rAr.title" = "Guideline how to install Proxyman Certificate to all Simulator (watchOS and tvOS)";
 
 /* No comment by Translator*/
 "5fM-rW-rAr.title" = "watchOS or tvOS…";
@@ -131,9 +110,6 @@
 "7ts-E2-4NF.title" = "Content Panel is in detachable Window Mode";
 
 /* No comment by Translator*/
-"88X-yj-swt.title" = "Map local file as a response to matching requests";
-
-/* No comment by Translator*/
 "88X-yj-swt.title" = "Map Local…";
 
 /* No comment by Translator*/
@@ -143,13 +119,7 @@
 "8iX-Yw-prD.title" = "• 0MB ↑ 0 KB/s ↓ 0 KB/s";
 
 /* No comment by Translator*/
-"8rh-r4-MBy.title" = "Filter specific domains or app in the Source Panel (Left Panel)";
-
-/* No comment by Translator*/
 "8rh-r4-MBy.title" = "Filter Domain or App";
-
-/* No comment by Translator*/
-"9hR-dt-PP4.title" = "Map Remote is enabled (⌥⌘R)";
 
 /* No comment by Translator*/
 "9um-sj-sOV.title" = "Breakpoint";
@@ -158,16 +128,10 @@
 "AYu-sK-qS6.title" = "Main Menu";
 
 /* No comment by Translator*/
-"AqU-jl-qRT.title" = "Save and Activate the current script";
-
-/* No comment by Translator*/
 "AqU-jl-qRT.title" = "Save and Activate";
 
 /* No comment by Translator*/
 "Asg-75-GFE.title" = "Reverse Proxy...";
-
-/* No comment by Translator*/
-"AwM-lX-ZaA.title" = "Copy selected request as cURL/HTTPie format";
 
 /* No comment by Translator*/
 "AwM-lX-ZaA.title" = "Copy as cURL";
@@ -182,22 +146,13 @@
 "Bm2-yv-CV5.title" = "Delete";
 
 /* No comment by Translator*/
-"BnQ-MT-dPy.title" = "It's where Proxyman stores all user backups.";
-
-/* No comment by Translator*/
 "BnQ-MT-dPy.title" = "Open Backup Folder…";
-
-/* No comment by Translator*/
-"Bw7-FT-i3A.title" = "Save entire working session to file";
 
 /* No comment by Translator*/
 "Bw7-FT-i3A.title" = "Save Session…";
 
 /* No comment by Translator*/
 "BxC-vD-K30.title" = "Reverse Proxy...";
-
-/* No comment by Translator*/
-"C37-ok-gCS.title" = "Open new session on new tab";
 
 /* No comment by Translator*/
 "C37-ok-gCS.title" = "New Session";
@@ -212,22 +167,13 @@
 "Ckk-yw-fiv.title" = "Proxyman";
 
 /* No comment by Translator*/
-"CzI-85-4Ih.title" = "Add your custom certificates to Proxyman";
-
-/* No comment by Translator*/
 "CzI-85-4Ih.title" = "Add Custom Certificates…";
 
 /* No comment by Translator*/
 "DVo-aG-piG.title" = "Close";
 
 /* No comment by Translator*/
-"DWA-p4-NCT.title" = "Create new folder in Source Panel (Left Panel)";
-
-/* No comment by Translator*/
 "DWA-p4-NCT.title" = "New Folder";
-
-/* No comment by Translator*/
-"Dg2-zm-cMR.title" = "All Proxyman and User Data are gone.";
 
 /* No comment by Translator*/
 "Dg2-zm-cMR.title" = "Factory Reset…";
@@ -242,13 +188,7 @@
 "EKS-Tx-r2L.title" = "Toggle Loggging Console in Scripting";
 
 /* No comment by Translator*/
-"ENf-xc-cWH.title" = "Guideline how to integrate Atlantis iOS Framework";
-
-/* No comment by Translator*/
 "ENf-xc-cWH.title" = "with Atlantis…";
-
-/* No comment by Translator*/
-"EhD-Ld-rfT.title" = "Proxy HTTP & HTTPS Requests from local ports to specified upstream servers";
 
 /* No comment by Translator*/
 "EhD-Ld-rfT.title" = "Reverse Proxy…";
@@ -263,9 +203,6 @@
 "FW2-MC-gIh.title" = "Map Local...";
 
 /* No comment by Translator*/
-"G4s-39-OzM.title" = "Delete all flows from the current table (⇧⌘⌫)";
-
-/* No comment by Translator*/
 "G7r-Ai-wOV.title" = "Changelogs…";
 
 /* No comment by Translator*/
@@ -273,9 +210,6 @@
 
 /* No comment by Translator*/
 "GVQ-jl-aJy.title" = "Diff";
-
-/* No comment by Translator*/
-"GbH-TB-5qd.title" = "Execute the Script to install Proxyman Certificate to all available Java Store";
 
 /* No comment by Translator*/
 "GbH-TB-5qd.title" = "Run Script...";
@@ -291,9 +225,6 @@
 
 /* No comment by Translator*/
 "I5X-iG-DrG.title" = "Left Side";
-
-/* No comment by Translator*/
-"I8k-MP-wuk.title" = "Simulate Network Conditions with various preset profiles";
 
 /* No comment by Translator*/
 "I8k-MP-wuk.title" = "Network Conditions…";
@@ -312,9 +243,6 @@
 
 /* No comment by Translator*/
 "IUu-fw-GYj.title" = "Enable Debug Mode…";
-
-/* No comment by Translator*/
-"Idc-iR-L0Y.title" = "How to use Proxyman Command-line";
 
 /* No comment by Translator*/
 "Idc-iR-L0Y.title" = "Command Line…";
@@ -350,13 +278,7 @@
 "MHh-7c-kMO.title" = "Install Certificate on Developments";
 
 /* No comment by Translator*/
-"MIw-t1-AWs.title" = "Guideline how to install Proxyman Certificate to Android Emulator by using Script";
-
-/* No comment by Translator*/
 "MIw-t1-AWs.title" = "Emulators…";
-
-/* No comment by Translator*/
-"MTD-lK-rwg.title" = "Clear entire session to release all caching memory";
 
 /* No comment by Translator*/
 "MTD-lK-rwg.title" = "Clear Session";
@@ -401,16 +323,10 @@
 "PCh-Tn-aVc.title" = "Green";
 
 /* No comment by Translator*/
-"PTh-m2-pZo.title" = "Simulate Network Conditions with various presets profiles  (⌥⌘J)";
-
-/* No comment by Translator*/
 "PYL-qC-SVe.title" = "Getting Started";
 
 /* No comment by Translator*/
 "Pgh-OW-VrR.title" = "React Native…";
-
-/* No comment by Translator*/
-"PwA-fQ-eaG.title" = "Override macOS Proxy Setting in Network.prefpanel";
 
 /* No comment by Translator*/
 "PwA-fQ-eaG.title" = "Override macOS Proxy";
@@ -422,9 +338,6 @@
 "QWa-6G-Xq7.title" = "Troubleshooting";
 
 /* No comment by Translator*/
-"Qvq-a9-0aG.title" = "Drop connection for all matched URLs on blocklist";
-
-/* No comment by Translator*/
 "Qvq-a9-0aG.title" = "Block List…";
 
 /* No comment by Translator*/
@@ -434,13 +347,7 @@
 "R4o-n2-Eq4.title" = "Zoom";
 
 /* No comment by Translator*/
-"RIe-6p-hhf.title" = "Export Proxyman CA (.pem)";
-
-/* No comment by Translator*/
 "RIe-6p-hhf.title" = "Root Certificate as PEM...";
-
-/* No comment by Translator*/
-"RJe-2S-X79.title" = "Auto Select the latest requests (⇧⌘L). Click on any rows to disable it.";
 
 /* No comment by Translator*/
 "RMV-Z4-4ih.title" = "SSL Proxying List...";
@@ -467,9 +374,6 @@
 "Td7-aD-5lo.title" = "Window";
 
 /* No comment by Translator*/
-"Tx9-Hp-lAT.title" = "Settings for External Proxy";
-
-/* No comment by Translator*/
 "Tx9-Hp-lAT.title" = "External Proxy Settings…";
 
 /* No comment by Translator*/
@@ -494,9 +398,6 @@
 "VeP-8Q-K5o.title" = "Homepage…";
 
 /* No comment by Translator*/
-"W09-u5-2LZ.title" = "Current Application Folder";
-
-/* No comment by Translator*/
 "W09-u5-2LZ.title" = "Open User Data Folder…";
 
 /* No comment by Translator*/
@@ -506,9 +407,6 @@
 "WMm-Kk-YBm.title" = "Export";
 
 /* No comment by Translator*/
-"WuK-2M-JYO.title" = "Export Pirvate Key of Proxyman CA";
-
-/* No comment by Translator*/
 "WuK-2M-JYO.title" = "Private Key...";
 
 /* No comment by Translator*/
@@ -516,9 +414,6 @@
 
 /* No comment by Translator*/
 "XZI-Uu-ZTS.title" = "0 items";
-
-/* No comment by Translator*/
-"Xkd-SQ-lBA.title" = "Proxyman will proxy all flows to the external proxy server.";
 
 /* No comment by Translator*/
 "Xz5-n4-O0W.title" = "Find…";
@@ -533,28 +428,13 @@
 "YfX-Qv-Fip.title" = "Breakpoint";
 
 /* No comment by Translator*/
-"Yib-Ld-rop.title" = "Send private message to Proxyman team";
-
-/* No comment by Translator*/
 "Yib-Ld-rop.title" = "Send Private Message…";
 
 /* No comment by Translator*/
 "YrN-cD-1BC.title" = "Auto Select";
 
 /* No comment by Translator*/
-"Zag-6a-svC.title" = "The rule of breakpoints";
-
-/* No comment by Translator*/
 "Zag-6a-svC.title" = "Rules…";
-
-/* No comment by Translator*/
-"Zih-VI-Rcb.title" = "Show / Hide the Filter Panel (⌘F)";
-
-/* No comment by Translator*/
-"Zv0-x6-lgN.title" = "Prevent client applications form caching requests and responses (⌥⌘N)";
-
-/* No comment by Translator*/
-"a2u-MZ-zs7.title" = "Use Proxyman with HTTP Clients, such as Paw, Postman and Insomnia";
 
 /* No comment by Translator*/
 "a2u-MZ-zs7.title" = "HTTP Clients…";
@@ -566,9 +446,6 @@
 "aqJ-az-i2l.title" = "Troubleshooting";
 
 /* No comment by Translator*/
-"bTM-EF-3Na.title" = "Compose new request for debugging";
-
-/* No comment by Translator*/
 "bTM-EF-3Na.title" = "Compose Request…";
 
 /* No comment by Translator*/
@@ -578,16 +455,10 @@
 "bib-Uj-vzu.title" = "File";
 
 /* No comment by Translator*/
-"bqg-mb-EG7.title" = "A tutorial how to retreive your data if there is something wrong!";
-
-/* No comment by Translator*/
 "bqg-mb-EG7.title" = "Lost Data?…";
 
 /* No comment by Translator*/
 "bqz-Ef-vED.title" = "From Charles Proxy";
-
-/* No comment by Translator*/
-"bte-hE-8Pw.title" = "Use Proxyman with Docker";
 
 /* No comment by Translator*/
 "bte-hE-8Pw.title" = "Docker…";
@@ -597,12 +468,6 @@
 
 /* No comment by Translator*/
 "cUE-Z0-jBK.title" = "Convert";
-
-/* No comment by Translator*/
-"cX1-mf-48B.title" = "Map Local is enabled (⌥⌘L)";
-
-/* No comment by Translator*/
-"dBR-4N-MkK.title" = "Define the Protobuf setting to parse properly";
 
 /* No comment by Translator*/
 "dBR-4N-MkK.title" = "Protobuf…";
@@ -617,9 +482,6 @@
 "dRJ-4n-Yzg.title" = "Undo";
 
 /* No comment by Translator*/
-"dRq-zp-xwe.title" = "Add domain/client (⌘+K)";
-
-/* No comment by Translator*/
 "dY1-Ts-oI9.title" = "Filter";
 
 /* No comment by Translator*/
@@ -630,9 +492,6 @@
 
 /* No comment by Translator*/
 "dwv-9k-9eX.title" = "Reverse Proxy";
-
-/* No comment by Translator*/
-"eD5-dY-prA.title" = "Guideline how to install Proxyman Certificate to Android Physical Devices";
 
 /* No comment by Translator*/
 "eD5-dY-prA.title" = "Physical Devices…";
@@ -647,22 +506,13 @@
 "eaW-If-9V8.title" = "Customize Toolbar…";
 
 /* No comment by Translator*/
-"f2H-uv-L71.title" = "Breakpoint is enabled (⌥⌘B)";
-
-/* No comment by Translator*/
 "fOO-Zx-YnO.title" = "Domain...";
 
 /* No comment by Translator*/
 "fRd-qS-qIs.title" = "Auto Select the Latest Request";
 
 /* No comment by Translator*/
-"fYJ-Ls-Exc.title" = "Manage the Custom Columns on the main table";
-
-/* No comment by Translator*/
 "fYJ-Ls-Exc.title" = "Customize Columns…";
-
-/* No comment by Translator*/
-"fef-Qi-lia.title" = "From .chls (Charles Proxy) to .har (HTTP Archive) that Proxyman can understand";
 
 /* No comment by Translator*/
 "fef-Qi-lia.title" = "From .chls to .har";
@@ -680,9 +530,6 @@
 "gfh-cM-6rd.title" = "Export";
 
 /* No comment by Translator*/
-"gnF-Q6-2QN.title" = "All Proxyman Windows will stay on top of other apps";
-
-/* No comment by Translator*/
 "gnF-Q6-2QN.title" = "Stay On Top";
 
 /* No comment by Translator*/
@@ -695,9 +542,6 @@
 "hJD-Jc-dUc.title" = "My Remote devices (iOS, Android) could not connect to Proxyman?…";
 
 /* No comment by Translator*/
-"hfW-gz-bVi.title" = "All domains and apps which are enabled SSL Proxying";
-
-/* No comment by Translator*/
 "hfW-gz-bVi.title" = "SSL Proxying List…";
 
 /* No comment by Translator*/
@@ -705,9 +549,6 @@
 
 /* No comment by Translator*/
 "i8J-io-caN.title" = "Convert";
-
-/* No comment by Translator*/
-"iee-fo-ccT.title" = "Manage the Previewer Tabs on Request or Response Panel";
 
 /* No comment by Translator*/
 "iee-fo-ccT.title" = "Customize Previewer Tab…";
@@ -728,13 +569,7 @@
 "jWT-Mn-Kpi.title" = "Flow";
 
 /* No comment by Translator*/
-"jYe-46-HrS.title" = "Use Proxyman with your VPN apps";
-
-/* No comment by Translator*/
 "jYe-46-HrS.title" = "VPN…";
-
-/* No comment by Translator*/
-"jcQ-j3-Mza.title" = "Open Compose windows for editing the current selected request";
 
 /* No comment by Translator*/
 "jcQ-j3-Mza.title" = "Edit and Repeat...";
@@ -755,19 +590,10 @@
 "lAC-2O-yAz.title" = "Network Conditions";
 
 /* No comment by Translator*/
-"lDW-gr-1bg.title" = "Export Proxyman CA (.der)";
-
-/* No comment by Translator*/
 "lDW-gr-1bg.title" = "Root Certificate as DER...";
 
 /* No comment by Translator*/
-"lEd-ns-ZiS.title" = "Manage the Request/Response Template";
-
-/* No comment by Translator*/
 "lEd-ns-ZiS.title" = "Breakpoint Templates…";
-
-/* No comment by Translator*/
-"lPR-UL-J97.title" = "Repeat the current selected request";
 
 /* No comment by Translator*/
 "lPR-UL-J97.title" = "Repeat";
@@ -776,22 +602,13 @@
 "ldG-IO-T9q.title" = "From Charles Proxy";
 
 /* No comment by Translator*/
-"lxJ-8m-6PI.title" = "Map specific request to different request location";
-
-/* No comment by Translator*/
 "lxJ-8m-6PI.title" = "Map Remote…";
-
-/* No comment by Translator*/
-"mKD-Hp-ETJ.title" = "Custom Certificates is enabled";
 
 /* No comment by Translator*/
 "mOd-Vy-ZL7.title" = "Right Side";
 
 /* No comment by Translator*/
 "mu5-Q7-VLo.title" = "Upgrade to Premium version to unlock all features";
-
-/* No comment by Translator*/
-"ndw-cW-F7D.title" = "Your HTTP/HTTPS Proxy is overridden by Proxyman (⌥⌘O)";
 
 /* No comment by Translator*/
 "oas-Oc-fiZ.title" = "Open Recent";
@@ -804,9 +621,6 @@
 
 /* No comment by Translator*/
 "ozy-tH-5wN.title" = "Add selected items to Diff Pool…";
-
-/* No comment by Translator*/
-"p1m-xS-O9V.title" = "Allow List is applied to record exclusively matched URLs. Other URLs are ignored  (⌥⌘A)";
 
 /* No comment by Translator*/
 "p3m-pz-uha.title" = "Github…";
@@ -830,9 +644,6 @@
 "rNg-Pa-YbN.title" = "Block List";
 
 /* No comment by Translator*/
-"rsG-Su-SeQ.title" = "Guideline how to install Proxyman Certificate to iOS Devices (iPhone/iPad/AppleTV/Apple Watch)";
-
-/* No comment by Translator*/
 "rsG-Su-SeQ.title" = "Physical Devices…";
 
 /* No comment by Translator*/
@@ -845,9 +656,6 @@
 "sEI-fC-hlc.title" = "Flutter…";
 
 /* No comment by Translator*/
-"seo-dr-hjm.title" = "Breakpoint list";
-
-/* No comment by Translator*/
 "seo-dr-hjm.title" = "Breakpoints…";
 
 /* No comment by Translator*/
@@ -858,9 +666,6 @@
 
 /* No comment by Translator*/
 "t0K-OI-Qxz.title" = "Getting Started";
-
-/* No comment by Translator*/
-"tEF-kV-SFS.title" = "Guideline how to install Proxyman Certificate to all Simulator (iOS, iPadOS)";
 
 /* No comment by Translator*/
 "tEF-kV-SFS.title" = "Simulators…";
@@ -890,16 +695,10 @@
 "vxo-Yk-owy.title" = "Beautify";
 
 /* No comment by Translator*/
-"w0X-qx-Aym.title" = "Resource Usage: Memory, Upload and Download";
-
-/* No comment by Translator*/
 "wTh-vD-k7l.title" = "Python…";
 
 /* No comment by Translator*/
 "wmf-xV-Lb8.title" = "Box";
-
-/* No comment by Translator*/
-"wng-11-iu1.title" = "Filter (⌘⇧F)";
 
 /* No comment by Translator*/
 "wpr-3q-Mcd.title" = "Help";
@@ -914,9 +713,6 @@
 "xJd-Uf-BK5.title" = "Open Diff View…";
 
 /* No comment by Translator*/
-"xnY-jX-D87.title" = "Instruction to install Proxyman CA to this mac";
-
-/* No comment by Translator*/
 "xnY-jX-D87.title" = "Install Certificate on this Mac…";
 
 /* No comment by Translator*/
@@ -927,9 +723,6 @@
 
 /* No comment by Translator*/
 "yBE-G1-kKG.title" = "Breakpoints...";
-
-/* No comment by Translator*/
-"yHp-Wk-jHo.title" = "Block List is applied to block all matched URLs  (⌥⌘X)";
 
 /* No comment by Translator*/
 "yIg-2W-rqg.title" = "Skip exporting large body data (>= 5Mb) of Requests / Responses";
@@ -956,19 +749,10 @@
 "zQH-5l-VXn.title" = "Script List…";
 
 /* No comment by Translator*/
-"zRf-ev-leU.title" = "Only capture matched URLs. Ignore the rest";
-
-/* No comment by Translator*/
 "zRf-ev-leU.title" = "Allow List…";
 
 /* No comment by Translator*/
-"zXo-eI-h7d.title" = "Add new domains or apps into Source Panel (Left Panel)";
-
-/* No comment by Translator*/
 "zXo-eI-h7d.title" = "New Domain or App";
-
-/* No comment by Translator*/
-"zYz-aO-geY.title" = "Export Proxyman CA (.p12)";
 
 /* No comment by Translator*/
 "zYz-aO-geY.title" = "Root Certificate as P12...";
@@ -977,13 +761,7 @@
 "zfm-Nx-lph.title" = "Proxyman does not work with my VPN?…";
 
 /* No comment by Translator*/
-"5bG-V7-Rho.title" = "Toggle Enable/Disable the Breakpoint Tool";
-
-/* No comment by Translator*/
 "5bG-V7-Rho.title" = "Breakpoint";
-
-/* No comment by Translator*/
-"7gm-fb-2xP.title" = "Toggle Enable/Disable the Block List Tool";
 
 /* No comment by Translator*/
 "7gm-fb-2xP.title" = "Block List";
@@ -992,19 +770,10 @@
 "Bpz-gb-j44.title" = "Enable/Disable Tools";
 
 /* No comment by Translator*/
-"Jbb-Ov-C7d.title" = "Toggle Enable/Disable the Map Local Tool";
-
-/* No comment by Translator*/
 "Jbb-Ov-C7d.title" = "Map Local";
 
 /* No comment by Translator*/
-"Mrd-VT-G6e.title" = "Toggle Enable/Disable the Allow List Tool";
-
-/* No comment by Translator*/
 "Mrd-VT-G6e.title" = "Allow List";
-
-/* No comment by Translator*/
-"Uei-Ey-Z6a.title" = "Toggle Enable/Disable the Map Remtote Tool";
 
 /* No comment by Translator*/
 "Uei-Ey-Z6a.title" = "Map Remote";
@@ -1019,9 +788,6 @@
 "lHc-jp-TXM.title" = "SSL Proxying List";
 
 /* No comment by Translator*/
-"p0b-sK-SRd.title" = "Save selected requests to the Saved Folder";
-
-/* No comment by Translator*/
 "p0b-sK-SRd.title" = "Save Requests";
 
 /* No comment by Translator*/
@@ -1032,9 +798,6 @@
 
 /* No comment by Translator*/
 "Geb-Vv-nny.title" = "NodeJS…";
-
-/* No comment by Translator*/
-"OId-5B-2WD.title" = "Display invisible characters in the Request/Response panels. e.g. New Line, Whitespace, Controls, Nonspacing, etc";
 
 /* No comment by Translator*/
 "OId-5B-2WD.title" = "Show Invisibles";
