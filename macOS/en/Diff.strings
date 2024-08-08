@@ -1,4 +1,7 @@
 /* No comment by Translator*/
+"1a2-MC-EcO.title" = "Open the diff with FileMerge application (Required Xcode)";
+
+/* No comment by Translator*/
 "1a2-MC-EcO.title" = "FileMerge…";
 
 /* No comment by Translator*/
@@ -11,10 +14,22 @@
 "5Xc-aN-5o3.title" = "Reset";
 
 /* No comment by Translator*/
+"5wz-6g-ris.title" = "ID";
+
+/* No comment by Translator*/
+"8BS-lV-5rL.title" = "All JSON Keys are alphabetically sorted. It's easier to see the diff if the JSON Keys Order are changed";
+
+/* No comment by Translator*/
 "8BS-lV-5rL.title" = "Sort JSON Key";
 
 /* No comment by Translator*/
 "8Ul-SW-AQu.title" = "Please upgrade your macOS to use this feature (macOS 11.2 or later).";
+
+/* No comment by Translator*/
+"9Z5-em-tNW.title" = "Left";
+
+/* No comment by Translator*/
+"9sa-A7-zXD.title" = "Comment";
 
 /* No comment by Translator*/
 "JQf-ZL-mlv.title" = "Text Cell";
@@ -29,7 +44,13 @@
 "MhK-Bc-Bjl.title" = "Open with";
 
 /* No comment by Translator*/
+"NOj-Vy-sgh.title" = "Method";
+
+/* No comment by Translator*/
 "NXi-pY-eRz.title" = "Text Cell";
+
+/* No comment by Translator*/
+"O6k-Xy-sIt.title" = "Use ksdiff from Kaleidoscope app to diff two files";
 
 /* No comment by Translator*/
 "O6k-Xy-sIt.title" = "Kaleidoscope…";
@@ -101,6 +122,9 @@
 "uDy-XP-WFC.title" = "Delete All";
 
 /* No comment by Translator*/
+"vMf-zi-skT.title" = "Right";
+
+/* No comment by Translator*/
 "xw8-PW-fyB.title" = "Unified";
 
 /* No comment by Translator*/
@@ -114,6 +138,12 @@
 
 /* No comment by Translator*/
 "ygt-Sk-AxV.title" = "1. Select the request/response on the main view";
+
+/* No comment by Translator*/
+"bQ4-Wx-xML.title" = "URL";
+
+/* No comment by Translator*/
+"rJb-a0-vkg.title" = "All Header Key are alphabetically sorted. It's easier to see the diff.";
 
 /* No comment by Translator*/
 "rJb-a0-vkg.title" = "Sort Key Header";

@@ -9,12 +9,12 @@ def convert_translations(input_file, output_file):
 
     for line in lines:
         # Check if the line is a comment containing a title key
-        match = re.match(r'/\* Class = "(\w*)"; title = "(.*)"; ObjectID = "([^"]+)"; \*/', line)
+        match = re.match(r'/\* Class = "(\w+)"; (\S+) = "(.+)"; ObjectID = "([^"]+)"; \*/', line)
         if match:
             # Extract the ObjectID and the English title
             class_name = match.group(1)
-            english_title = match.group(2)
-            object_id = match.group(3)
+            english_title = match.group(3)
+            object_id = match.group(4)
             # Format the new line
             formatted_line = f'"{object_id}.title" = "{english_title}";\n'
 
@@ -27,9 +27,10 @@ def convert_translations(input_file, output_file):
         file.writelines(output_lines)
 
 # ディレクトリ内のすべてのstringsファイルを変換
-strings_directory = Path('zh-Hans')
+strings_directory = Path('macOS/zh-Hans')
 strings_files = strings_directory.glob('*.strings')
 
 for file_path in strings_files:
-    output_file_path = Path('en') / file_path.name
+    print(file_path)
+    output_file_path = Path('macOS/en') / file_path.name
     convert_translations(file_path, output_file_path)

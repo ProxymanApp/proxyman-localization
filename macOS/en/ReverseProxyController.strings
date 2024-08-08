@@ -11,6 +11,9 @@
 "ACV-KL-9fU.title" = "Proxy HTTP & HTTPS Requests from local ports to specified upstream servers";
 
 /* No comment by Translator*/
+"BTK-rR-f2D.title" = "Enable or Disable entire Map Local Feature";
+
+/* No comment by Translator*/
 "CxK-Gv-hSR.title" = "Delete";
 
 /* No comment by Translator*/
@@ -23,13 +26,25 @@
 "GCs-n4-x4B.title" = "More";
 
 /* No comment by Translator*/
+"Jwt-5U-pAb.title" = "Remote Port";
+
+/* No comment by Translator*/
 "LYi-Ab-z66.title" = "Click \"+\" or ⌘N to add new entry";
+
+/* No comment by Translator*/
+"Mnh-53-9lf.title" = "Name";
+
+/* No comment by Translator*/
+"OV9-WJ-m0I.title" = "Local Port";
 
 /* No comment by Translator*/
 "PUd-93-fuq.title" = "Text Cell";
 
 /* No comment by Translator*/
 "TAb-9X-opy.title" = "⌘N: New; ⌘⏎: Edit; ⌘⌫: Delete; Space: Enable/Disable Rules;";
+
+/* No comment by Translator*/
+"TXc-e9-L8R.title" = "Remote Host";
 
 /* No comment by Translator*/
 "XXa-E2-vqy.title" = "From Proxyman...";
@@ -57,6 +72,15 @@
 
 /* No comment by Translator*/
 "kP2-Q5-Dke.title" = "Label";
+
+/* No comment by Translator*/
+"l1E-UE-JOC.title" = "Enabled";
+
+/* No comment by Translator*/
+"l1E-UE-JOC.title" = "Enable / Disable this entry";
+
+/* No comment by Translator*/
+"m6w-Jo-aqZ.title" = "Toggl Enable / Disable selected rules";
 
 /* No comment by Translator*/
 "m6w-Jo-aqZ.title" = "Enable Rule";

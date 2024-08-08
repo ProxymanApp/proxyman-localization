@@ -2,13 +2,28 @@
 "3hH-iF-r4c.title" = "Menu";
 
 /* No comment by Translator*/
+"4b6-M4-31i.title" = "Delete selected items (⌘⌫)";
+
+/* No comment by Translator*/
 "4b6-M4-31i.title" = "Delete";
+
+/* No comment by Translator*/
+"5AA-PN-7X8.title" = "Enable / Disable this entry";
 
 /* No comment by Translator*/
 "5gR-Mc-gr3.title" = "From Charles Proxy...";
 
 /* No comment by Translator*/
+"5yH-5N-WzL.title" = "Open App/Domain Search filter (⌘N)";
+
+/* No comment by Translator*/
 "5yH-5N-WzL.title" = "Add App / Domain...";
+
+/* No comment by Translator*/
+"Am8-VF-HLZ.title" = "Enable / Disable this entry";
+
+/* No comment by Translator*/
+"CRt-Xz-Wed.title" = "Open App/Domain Search filter (⌘N)";
 
 /* No comment by Translator*/
 "CRt-Xz-Wed.title" = "Add App / Domain...";
@@ -23,10 +38,19 @@
 "EIY-cn-RQc.title" = "Enable SSL Proxying Tool";
 
 /* No comment by Translator*/
+"GdB-zT-V2t.title" = "Delete selected items (⌘⌫)";
+
+/* No comment by Translator*/
 "GdB-zT-V2t.title" = "Delete";
 
 /* No comment by Translator*/
+"IkN-fr-YkW.title" = "Open App/Domain Search filter (⌘N)";
+
+/* No comment by Translator*/
 "IkN-fr-YkW.title" = "Add App / Domain...";
+
+/* No comment by Translator*/
+"IxK-5v-jMf.title" = "Name";
 
 /* No comment by Translator*/
 "LIn-6a-5uc.title" = "Client or Domains that you would like to intercept HTTPS Traffic";
@@ -36,6 +60,12 @@
 
 /* No comment by Translator*/
 "RRP-1r-Ndl.title" = "Exclude List";
+
+/* No comment by Translator*/
+"RyG-YK-wWT.title" = "Name";
+
+/* No comment by Translator*/
+"SBe-tJ-NyM.title" = "Add wildcard (⇧⌘N)";
 
 /* No comment by Translator*/
 "SBe-tJ-NyM.title" = "Add Wildcard";
@@ -62,13 +92,22 @@
 "jUD-Kn-h7R.title" = "Menu";
 
 /* No comment by Translator*/
+"kES-ro-Fy0.title" = "Add wildcard (⇧⌘N)";
+
+/* No comment by Translator*/
 "kES-ro-Fy0.title" = "Add Wildcard";
 
 /* No comment by Translator*/
 "lVx-sX-XUx.title" = "Enable Rule";
 
 /* No comment by Translator*/
+"oQl-hf-bQz.title" = "Add wildcard (⇧⌘N)";
+
+/* No comment by Translator*/
 "oQl-hf-bQz.title" = "Add Wildcard";
+
+/* No comment by Translator*/
+"rr0-VN-CXF.title" = "Add wildcard (⇧⌘N)";
 
 /* No comment by Translator*/
 "rr0-VN-CXF.title" = "Add Wildcard";
@@ -81,6 +120,9 @@
 
 /* No comment by Translator*/
 "w3c-ev-cEm.title" = "Export Setting...";
+
+/* No comment by Translator*/
+"zGa-8K-GFT.title" = "Open App/Domain Search filter (⌘N)";
 
 /* No comment by Translator*/
 "zGa-8K-GFT.title" = "Add App / Domain...";

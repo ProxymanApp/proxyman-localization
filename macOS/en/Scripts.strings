@@ -1,17 +1,38 @@
 /* No comment by Translator*/
+"15j-Xz-hKk.title" = "Automatically Save file after 1 second";
+
+/* No comment by Translator*/
 "1Lv-MJ-8mP.title" = "New Folder";
 
 /* No comment by Translator*/
 "1da-pd-oJb.title" = "Export Settings";
 
 /* No comment by Translator*/
+"2Rf-8t-48p.title" = "Enable or Disable entire Map Local Feature";
+
+/* No comment by Translator*/
+"2WF-c9-ZLL.title" = "Export Rules that you can share with your teammates. Export the script and all imported files";
+
+/* No comment by Translator*/
 "2WF-c9-ZLL.title" = "Scripts and All Imported Files...";
+
+/* No comment by Translator*/
+"2bf-R9-Ugc.title" = "Import selected file and import to JS Code";
 
 /* No comment by Translator*/
 "2bf-R9-Ugc.title" = "Import JSON or Other File...";
 
 /* No comment by Translator*/
 "3ZA-n0-5rl.title" = "Console";
+
+/* No comment by Translator*/
+"3oU-SJ-b4w.title" = "If Mock API is enabled, the request never hits your server. You have to provide the response. It's useful for testing.";
+
+/* No comment by Translator*/
+"49J-je-yD2.title" = "Matching Rule";
+
+/* No comment by Translator*/
+"49J-je-yD2.title" = "Matching URLs";
 
 /* No comment by Translator*/
 "4iP-OB-Htr.title" = "More";
@@ -26,7 +47,13 @@
 "60p-Do-eUa.title" = "Run as Mock API";
 
 /* No comment by Translator*/
+"6OV-n0-cWR.title" = "Run onResponse() function";
+
+/* No comment by Translator*/
 "6wv-8S-F2I.title" = "New…";
+
+/* No comment by Translator*/
+"783-cf-8NW.title" = "Import Script Rules";
 
 /* No comment by Translator*/
 "783-cf-8NW.title" = "From Proxyman...";
@@ -41,10 +68,28 @@
 "AEe-Ox-jZb.title" = "Use console.log() to log events";
 
 /* No comment by Translator*/
+"B6T-WK-Jh2.title" = "Name";
+
+/* No comment by Translator*/
+"B7H-Qn-1GV.title" = "Snippet Code";
+
+/* No comment by Translator*/
 "Beb-ek-dt4.title" = "Import Settings";
 
 /* No comment by Translator*/
+"EAa-s4-6jg.title" = "Export Rules that you can share with your teammates. Only Export the Script";
+
+/* No comment by Translator*/
 "EAa-s4-6jg.title" = "Only Scripts...";
+
+/* No comment by Translator*/
+"FGU-E6-oNK.title" = "Clear all Logs";
+
+/* No comment by Translator*/
+"Gmm-Ye-msV.title" = "Clear all Logs";
+
+/* No comment by Translator*/
+"HAk-P0-Ggj.title" = "If there is new log, the Console Log will automatically scroll to the bottom";
 
 /* No comment by Translator*/
 "HAk-P0-Ggj.title" = "Console Log will Scroll to Bottom automatically";
@@ -65,7 +110,13 @@
 "Mqj-S5-ILV.title" = "Untitled";
 
 /* No comment by Translator*/
+"Mqj-S5-ILV.title" = "Untitled";
+
+/* No comment by Translator*/
 "P2I-vf-6Nq.title" = "Show in Finder…";
+
+/* No comment by Translator*/
+"Pai-wM-2Ib.title" = "Rename the folder";
 
 /* No comment by Translator*/
 "Pai-wM-2Ib.title" = "Rename Folder";
@@ -74,7 +125,13 @@
 "SQj-Kh-Qo7.title" = "⌘N: New; ⌘⏎: Edit; ⌘⌫: Delete; ⌘D: Duplicate; Space: Enable/Disable Rules;";
 
 /* No comment by Translator*/
+"TNq-P4-Q5X.title" = "Open Custom Addon Folder";
+
+/* No comment by Translator*/
 "TNq-P4-Q5X.title" = "Open Custom Addons Folder...";
+
+/* No comment by Translator*/
+"VND-zn-vZa.title" = "api.proxyman.io/v1/*";
 
 /* No comment by Translator*/
 "Xgd-Wq-j8M.title" = "Filter";
@@ -90,6 +147,9 @@
 
 /* No comment by Translator*/
 "ZYc-UB-srh.title" = "Export Settings";
+
+/* No comment by Translator*/
+"Zby-zp-y61.title" = "Show / Hide Logging Console Panel (⇧⌘L)";
 
 /* No comment by Translator*/
 "ZsG-F5-h2j.title" = "Import Settings";
@@ -134,10 +194,19 @@
 "eTe-5h-VxL.title" = "Duplicate";
 
 /* No comment by Translator*/
+"gB7-cb-JeF.title" = "Toggl Enable / Disable selected rules";
+
+/* No comment by Translator*/
 "gB7-cb-JeF.title" = "Enable Rule";
 
 /* No comment by Translator*/
 "gMu-9e-6Pa.title" = "Allow all scripts to access Environment Variables";
+
+/* No comment by Translator*/
+"geb-sb-72N.title" = "Save and write the current editing script to disk and activate it ⌘S";
+
+/* No comment by Translator*/
+"had-X8-9CN.title" = "Open Doc how to write your own JS Addons";
 
 /* No comment by Translator*/
 "had-X8-9CN.title" = "Write your Custom Addons...";
@@ -149,7 +218,13 @@
 "l1b-qK-UkR.title" = "Click \"+\" or ⌘N to add new entry";
 
 /* No comment by Translator*/
+"lcF-Es-cZG.title" = "Run onRequest() function";
+
+/* No comment by Translator*/
 "ng1-oM-8Fe.title" = "Save & Activate ⌘S";
+
+/* No comment by Translator*/
+"oIC-SX-Ukm.title" = "Method";
 
 /* No comment by Translator*/
 "pCE-gq-94c.title" = "URL:";
@@ -159,6 +234,9 @@
 
 /* No comment by Translator*/
 "r7y-sY-uEN.title" = "Documentations";
+
+/* No comment by Translator*/
+"rKN-8X-nR8.title" = "Beautify the current JS Code";
 
 /* No comment by Translator*/
 "rKN-8X-nR8.title" = "Beautify (⌘B)";
@@ -183,6 +261,9 @@
 
 /* No comment by Translator*/
 "zqy-Ug-Jk0.title" = "Empty Console";
+
+/* No comment by Translator*/
+"ZVw-hV-auO.title" = "Clear all shared State data. It's similar with `clearSharedState()` function";
 
 /* No comment by Translator*/
 "ZVw-hV-auO.title" = "Reset Shared State";

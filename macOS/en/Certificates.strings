@@ -17,10 +17,19 @@
 "28I-42-dde.title" = " Installed and Trusted";
 
 /* No comment by Translator*/
+"2Ij-p9-Cru.title" = "Server Certificates";
+
+/* No comment by Translator*/
 "2MB-ih-zzS.title" = "Preview...";
 
 /* No comment by Translator*/
+"2Un-h2-Mz2.title" = "Override all (HTTP Proxy, Install and Trust Proxyman Certificate)";
+
+/* No comment by Translator*/
 "2vE-RS-9xb.title" = "Import PEM / DER...";
+
+/* No comment by Translator*/
+"350-RA-CLK.title" = "Import single PKCS #12 file";
 
 /* No comment by Translator*/
 "350-RA-CLK.title" = "Import P12...";
@@ -65,6 +74,9 @@
 "6Q0-Uk-SPu.title" = "2. Config Wifi Proxy on iOS devices to Proxyman";
 
 /* No comment by Translator*/
+"6SF-97-tXk.title" = "Override Emulator";
+
+/* No comment by Translator*/
 "6ZG-PR-Why.title" = "4. Trust Proxyman Certificate in Setting app (Only for Android 11 and above)";
 
 /* No comment by Translator*/
@@ -89,10 +101,16 @@
 "99d-Hk-vcA.title" = "Port:";
 
 /* No comment by Translator*/
+"9FZ-I8-tL7.title" = "Root Certificate";
+
+/* No comment by Translator*/
 "9gr-qr-L1N.title" = "Config Client Certificates that use when establishing SSL connections to selected servers";
 
 /* No comment by Translator*/
 "9mo-5n-Ok1.title" = "Proxyman CA (20 May, 2022)";
+
+/* No comment by Translator*/
+"9zc-gl-6Gi.title" = " Automatic ";
 
 /* No comment by Translator*/
 "A8s-e9-Lhj.title" = "Generate and Add";
@@ -105,6 +123,9 @@
 
 /* No comment by Translator*/
 "B8Z-hw-rUU.title" = "Install & Trust on all running Simulators (iOS, iPadOS, watchOS and tvOS). Require Xcode 11.4+.";
+
+/* No comment by Translator*/
+"BBP-R4-5l9.title" = "Certificates";
 
 /* No comment by Translator*/
 "BD4-ui-GDK.title" = "Replace <your_production_domain> with your domains that you would intercept";
@@ -122,6 +143,9 @@
 "CPL-kl-p97.title" = "Config Server Certificates that use when establishing SSL connections to clients";
 
 /* No comment by Translator*/
+"D2J-YY-eJb.title" = "Revert HTTP Proxy on Emulators";
+
+/* No comment by Translator*/
 "DCB-7w-rI4.title" = "Verify that Proxyman Certificate is on Trusted Credentials -> User Tab";
 
 /* No comment by Translator*/
@@ -135,6 +159,9 @@
 
 /* No comment by Translator*/
 "EzU-Om-nmj.title" = "Delete";
+
+/* No comment by Translator*/
+"Fhl-bX-bqH.title" = "api.proxyman.io";
 
 /* No comment by Translator*/
 "H8r-HJ-rCo.title" = "Android Guideline Document...";
@@ -173,10 +200,16 @@
 "MMa-xs-uoO.title" = "Make sure you Select System or Login Keychains.";
 
 /* No comment by Translator*/
+"MkW-vI-062.title" = "  Manual  ";
+
+/* No comment by Translator*/
 "NHM-3n-a6a.title" = "This certificate is used for generating Proxy Certificates during SSL-Handshake to clients & servers";
 
 /* No comment by Translator*/
 "NLq-bs-bzD.title" = "Import P12...";
+
+/* No comment by Translator*/
+"NUX-KR-5aD.title" = "Go to https://proxyman.io/docs/ios-troubleshooting";
 
 /* No comment by Translator*/
 "NdX-lc-bhX.title" = "Box";
@@ -185,7 +218,13 @@
 "O11-FW-N0x.title" = "Safari will request your permission to install the \"Proxyman CA\" certificate.";
 
 /* No comment by Translator*/
+"O9z-gC-tQ1.title" = "Troubleshooting";
+
+/* No comment by Translator*/
 "OaA-cg-O1m.title" = "(Require root privileges)";
+
+/* No comment by Translator*/
+"Ogk-GF-p8s.title" = "443";
 
 /* No comment by Translator*/
 "Ogk-GF-p8s.title" = "443";
@@ -204,6 +243,9 @@
 
 /* No comment by Translator*/
 "RNy-33-dYe.title" = "4. Restart the app";
+
+/* No comment by Translator*/
+"Rq2-VT-se6.title" = "Import PEM Private Key and PEM Certificate";
 
 /* No comment by Translator*/
 "Rq2-VT-se6.title" = "Import PEM / DER...";
@@ -233,10 +275,16 @@
 "TkH-KE-jPA.title" = "Try Sample Android Project...";
 
 /* No comment by Translator*/
+"UON-ft-z8g.title" = "Certificates";
+
+/* No comment by Translator*/
 "Ueb-Ih-xum.title" = "Manage Certificates";
 
 /* No comment by Translator*/
 "Uqv-6K-0Ez.title" = "3.2: Add to AndroidManifest.xml";
+
+/* No comment by Translator*/
+"V5X-Ik-jEt.title" = "Copy IP Address";
 
 /* No comment by Translator*/
 "VJb-wr-l1g.title" = "Proxyman CA";
@@ -389,6 +437,9 @@
 "mqm-Mf-iD1.title" = "Import";
 
 /* No comment by Translator*/
+"nMa-YT-rLp.title" = "Import single PKCS #12 file";
+
+/* No comment by Translator*/
 "nMa-YT-rLp.title" = "Import P12...";
 
 /* No comment by Translator*/
@@ -440,10 +491,16 @@
 "sck-kk-IV2.title" = "> Certificate Trust Settings > Switch ON";
 
 /* No comment by Translator*/
+"snD-FR-o6n.title" = "Host";
+
+/* No comment by Translator*/
 "tod-KL-UA0.title" = "No";
 
 /* No comment by Translator*/
 "u2e-pe-Xi6.title" = "0 Device(s)";
+
+/* No comment by Translator*/
+"uaZ-PK-23A.title" = "Open Android Guideline";
 
 /* No comment by Translator*/
 "vZW-He-kFQ.title" = "Import PEM / DER...";
@@ -452,13 +509,25 @@
 "vy4-6g-yM7.title" = "(Please Launch 1 Android Emulator from Android Studio)";
 
 /* No comment by Translator*/
+"wYT-Vv-Gid.title" = "Revert HTTP Proxy on Emulators";
+
+/* No comment by Translator*/
+"weJ-Mv-Sf2.title" = "Client Certificates";
+
+/* No comment by Translator*/
 "wsq-pf-r31.title" = "📲 iOS Simulators Setup";
+
+/* No comment by Translator*/
+"wto-wX-m41.title" = "Import single PKCS #12 file";
 
 /* No comment by Translator*/
 "wto-wX-m41.title" = "Import P12...";
 
 /* No comment by Translator*/
 "xPu-pb-mvd.title" = "Restart the app from Android Studio to take effect and start debugging!";
+
+/* No comment by Translator*/
+"xd6-Mh-c4L.title" = "Import PEM Private Key and PEM Certificate";
 
 /* No comment by Translator*/
 "xd6-Mh-c4L.title" = "Import PEM / DER...";
@@ -494,6 +563,9 @@
 "ZsE-5q-Is1.title" = " iOS 16 issues";
 
 /* No comment by Translator*/
+"bhA-Si-Mb7.title" = "Domain";
+
+/* No comment by Translator*/
 "do3-oG-sns.title" = "Table View Cell";
 
 /* No comment by Translator*/
@@ -501,6 +573,12 @@
 
 /* No comment by Translator*/
 "12N-zA-viy.title" = "http://proxy.man/ssl";
+
+/* No comment by Translator*/
+"TM7-CW-I16.title" = "Show QR Code";
+
+/* No comment by Translator*/
+"hRu-Te-szt.title" = "Copy the URL";
 
 /* No comment by Translator*/
 "x5x-vL-7sF.title" = "Button";

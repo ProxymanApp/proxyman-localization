@@ -8,13 +8,22 @@
 "3mm-s7-79e.title" = "Learn how to use Filter with Key Path...";
 
 /* No comment by Translator*/
+"9qQ-Zb-W6P.title" = "Key";
+
+/* No comment by Translator*/
 "C9u-cs-Ybd.title" = "Box";
 
 /* No comment by Translator*/
 "Q1c-ad-UlM.title" = "Box";
 
 /* No comment by Translator*/
+"WZQ-Ez-orR.title" = "Type";
+
+/* No comment by Translator*/
 "cKT-f8-HRw.title" = "JSON Path";
+
+/* No comment by Translator*/
+"dGd-Yd-ASC.title" = "Value";
 
 /* No comment by Translator*/
 "dJS-6Y-muz.title" = "Search";
@@ -29,8 +38,29 @@
 "q5a-zM-7v9.title" = "FIlter";
 
 /* No comment by Translator*/
+"uap-vr-zNM.title" = "e.g. users[0].name (⌘F)";
+
+/* No comment by Translator*/
 "8b9-eI-VWT.title" = "1 matches";
 
 /* No comment by Translator*/
+"FJV-tr-CjY.title" = "Find Previous ⇧⌘G";
+
+/* No comment by Translator*/
+"FJV-tr-CjY.title" = "Find Next ⌘G";
+
+/* No comment by Translator*/
+"HVd-bO-bGE.title" = "Close the Search Bar";
+
+/* No comment by Translator*/
+"cKT-f8-HRw.title" = "Use JSON Path syntax to filter the data";
+
+/* No comment by Translator*/
+"dJS-6Y-muz.title" = "Search Key/Value and jump the result. Search Mode would show other Keys/Values from the JSON Objects";
+
+/* No comment by Translator*/
 "iBQ-nD-kIZ.title" = "Done";
+
+/* No comment by Translator*/
+"q5a-zM-7v9.title" = "Filter Key/Value and only show the filtered result. Filter Mode would omit other Keys/Values from the JSON Objects.";
 
