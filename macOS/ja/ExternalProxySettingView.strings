@@ -1,23 +1,23 @@
-/* No comment by Translator*/
+/* Class = "NSTextFieldCell"; title = "Web Proxy Server"; ObjectID = "1zH-47-HFT"; */
 "1zH-47-HFT.title" = "网络代理服务器";
 
-/* No comment by Translator*/
+/* Class = "NSTextFieldCell"; title = ":"; ObjectID = "3Ig-y6-aSP"; */
 "3Ig-y6-aSP.title" = "：";
 
-/* No comment by Translator*/
+/* Class = "NSTextFieldCell"; title = "SOCKS Proxy has not supported Authentication yet."; ObjectID = "5eZ-mQ-8z6"; */
 "5eZ-mQ-8z6.title" = "SOCKS 代理尚不支持身份验证。";
 
-/* No comment by Translator*/
-"7Ea-2a-3ki.title" = "8080";
+/* Class = "NSTextFieldCell"; placeholderString = "8080"; ObjectID = "7Ea-2a-3ki"; */
+"7Ea-2a-3ki.placeholderString" = "8080";
 
-/* No comment by Translator*/
+/* Class = "NSButtonCell"; title = "Proxy Server requires password"; ObjectID = "S3d-ut-ULN"; */
 "S3d-ut-ULN.title" = "代理服务器需要密码";
 
-/* No comment by Translator*/
+/* Class = "NSTextFieldCell"; title = "Username:"; ObjectID = "lDn-tw-FmD"; */
 "lDn-tw-FmD.title" = "用户名：";
 
-/* No comment by Translator*/
+/* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "nyV-QR-ebc"; */
 "nyV-QR-ebc.title" = "密码：";
 
-/* No comment by Translator*/
-"vM2-no-oCQ.title" = "127.0.0.1";
+/* Class = "NSTextFieldCell"; placeholderString = "127.0.0.1"; ObjectID = "vM2-no-oCQ"; */
+"vM2-no-oCQ.placeholderString" = "127.0.0.1";
