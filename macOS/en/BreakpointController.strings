@@ -26,25 +26,10 @@
 "Eqx-BA-TgH.title" = "https://api.producthunt.com/v1/posts";
 
 /* No comment by Translator*/
-"FK5-Zu-AnE.title" = "Stop all breakpoints";
-
-/* No comment by Translator*/
 "FK5-Zu-AnE.title" = "Abort All";
 
 /* No comment by Translator*/
-"GA2-zt-vbF.title" = "Execute selected breakpoint";
-
-/* No comment by Translator*/
 "GA2-zt-vbF.title" = "Execute";
-
-/* No comment by Translator*/
-"LVK-b6-XVh.title" = "Abort this breakpoint and stop the current connection (⌘\\)";
-
-/* No comment by Translator*/
-"M1G-re-2Fh.title" = "Execute ⌘⏎";
-
-/* No comment by Translator*/
-"MQ2-U0-MJr.title" = "Continue the request with original data";
 
 /* No comment by Translator*/
 "MQ2-U0-MJr.title" = "Continue";
@@ -53,49 +38,25 @@
 "Mns-sf-O9D.title" = "Box";
 
 /* No comment by Translator*/
-"T9u-Q3-rrI.title" = "Add breakpoint rule (⌥⌘B)";
-
-/* No comment by Translator*/
-"TUF-sV-HyY.title" = "Abort ⌘ \\";
-
-/* No comment by Translator*/
 "VPC-lB-72Y.title" = "Execute";
 
 /* No comment by Translator*/
 "YPD-O1-l9P.title" = "Invalid URL";
 
 /* No comment by Translator*/
-"dFT-K6-36a.title" = "Add breakpoint rule (⌥⌘B)";
-
-/* No comment by Translator*/
 "dFT-K6-36a.title" = "Add Rule";
-
-/* No comment by Translator*/
-"fwB-KI-Vou.title" = "Execute all breakpoints";
 
 /* No comment by Translator*/
 "fwB-KI-Vou.title" = "Execute All";
 
 /* No comment by Translator*/
-"igu-8f-Hr8.title" = "Continue the request/response with original data, ignore all Breakpoint Changes  (⌘.)";
-
-/* No comment by Translator*/
 "kJB-cI-jeI.title" = "Manage Rules";
-
-/* No comment by Translator*/
-"m9Z-D9-dnt.title" = "Continue all request with original data";
 
 /* No comment by Translator*/
 "m9Z-D9-dnt.title" = "Continue All";
 
 /* No comment by Translator*/
-"pPE-eQ-5zR.title" = "Stop a selected breakpoint.";
-
-/* No comment by Translator*/
 "pPE-eQ-5zR.title" = "Abort";
-
-/* No comment by Translator*/
-"sHK-vT-58B.title" = "Execute the breakpoint with new Request/Response changes (⌘⏎)";
 
 /* No comment by Translator*/
 "wvN-W7-9W6.title" = "Continue All";
@@ -105,9 +66,6 @@
 
 /* No comment by Translator*/
 "xWZ-y0-M5i.title" = "Focus on this Window for new Breakpoints";
-
-/* No comment by Translator*/
-"yd0-33-MHs.title" = "Continue ⌘ .";
 
 /* No comment by Translator*/
 "zeO-DB-dDJ.title" = "Abort";
@@ -120,9 +78,6 @@
 
 /* No comment by Translator*/
 "hyy-rk-fkZ.title" = "Advance";
-
-/* No comment by Translator*/
-"lsP-p3-Pkb.title" = "Switch Layout Mode: Vertical or Horizontal";
 
 /* No comment by Translator*/
 "n3a-6g-HEy.title" = "No Breakpoint";
