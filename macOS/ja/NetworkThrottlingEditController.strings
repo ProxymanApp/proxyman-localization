@@ -14,6 +14,12 @@
 "F4h-gg-4VV.title" = "丢弃的数据包：";
 
 /* No comment by Translator*/
+"FmL-gv-JOJ.title" = "Untitled";
+
+/* No comment by Translator*/
+"GEQ-tp-csh.title" = "All ";
+
+/* No comment by Translator*/
 "GEQ-tp-csh.title" = "通过 Proxyman 代理的所有流量都将受到网络节流的影响";
 
 /* No comment by Translator*/
@@ -36,6 +42,9 @@
 
 /* No comment by Translator*/
 "QbN-wy-CFE.title" = "在系统范围内应用";
+
+/* No comment by Translator*/
+"Sbc-Tk-KhY.title" = "All ";
 
 /* No comment by Translator*/
 "Sbc-Tk-KhY.title" = "仅支持主机和端口。没有通配符或正则表达式";
@@ -74,7 +83,13 @@
 "ooQ-bl-LB9.title" = "丢弃的数据包：";
 
 /* No comment by Translator*/
+"pdE-E7-Uw5.title" = "api.proxyman.io";
+
+/* No comment by Translator*/
 "sgL-O6-lEk.title" = "第 2 项";
+
+/* No comment by Translator*/
+"ulZ-JH-hIf.title" = "All ";
 
 /* No comment by Translator*/
 "ulZ-JH-hIf.title" = "为了模拟现实生活中的网络状况，带宽是在给定范围内随机生成的";
