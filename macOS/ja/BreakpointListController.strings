@@ -1,0 +1,110 @@
+/* Class = "NSBox"; title = "Box"; ObjectID = "03m-tI-cqj"; */
+"03m-tI-cqj.title" = "箱";
+
+/* Class = "NSMenuItem"; title = "Duplicate"; ObjectID = "1d1-6H-mGO"; */
+"1d1-6H-mGO.title" = "コピー";
+
+/* Class = "NSTableColumn"; headerCell.title = "Matching Rule"; ObjectID = "3S7-Oi-P07"; */
+"3S7-Oi-P07.headerCell.title" = "匹配规则";
+
+/* Class = "NSTableColumn"; headerToolTip = "Matching URLs"; ObjectID = "3S7-Oi-P07"; */
+"3S7-Oi-P07.headerToolTip" = "匹配网址";
+
+/* Class = "NSTableColumn"; headerCell.title = "Request"; ObjectID = "3pM-3j-xiC"; */
+"3pM-3j-xiC.headerCell.title" = "Request";
+
+/* Class = "NSMenuItem"; title = "From Proxyman..."; ObjectID = "9Aw-4x-sh6"; */
+"9Aw-4x-sh6.title" = "Proxymanから...";
+
+/* Class = "NSMenuItem"; title = "Edit"; ObjectID = "Ay1-Lu-ezi"; */
+"Ay1-Lu-ezi.title" = "編集";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Rename the folder"; ObjectID = "Br5-g6-IJC"; */
+"Br5-g6-IJC.ibShadowedToolTip" = "重命名文件夹";
+
+/* Class = "NSMenuItem"; title = "Rename Folder"; ObjectID = "Br5-g6-IJC"; */
+"Br5-g6-IJC.title" = "重命名文件夹";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Toggl Enable / Disable selected rules"; ObjectID = "Gkr-zk-Ewd"; */
+"Gkr-zk-Ewd.ibShadowedToolTip" = "Toggl 启用/禁用选定的规则";
+
+/* Class = "NSMenuItem"; title = "Enable Rule"; ObjectID = "Gkr-zk-Ewd"; */
+"Gkr-zk-Ewd.title" = "启用规则";
+
+/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "IYf-g3-SWr"; */
+"IYf-g3-SWr.title" = "削除";
+
+/* Class = "NSMenuItem"; title = "More"; ObjectID = "KZG-tE-vs8"; */
+"KZG-tE-vs8.title" = "更多的";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Lcl-S9-8hD"; */
+"Lcl-S9-8hD.title" = "テキストセル";
+
+/* Class = "NSTextFieldCell"; title = "Top-Down Matching Rule"; ObjectID = "NVq-HI-Lb2"; */
+"NVq-HI-Lb2.title" = "自顶向下匹配规则";
+
+/* Class = "NSMenuItem"; title = "More"; ObjectID = "Qsl-q9-w4C"; */
+"Qsl-q9-w4C.title" = "更多的";
+
+/* Class = "NSTableColumn"; headerCell.title = "Response"; ObjectID = "QyQ-Sc-ctP"; */
+"QyQ-Sc-ctP.headerCell.title" = "Response";
+
+/* Class = "NSMenuItem"; title = "Export Settings..."; ObjectID = "SpI-xY-kqJ"; */
+"SpI-xY-kqJ.title" = "导出设置...";
+
+/* Class = "NSMenuItem"; title = "Import Settings"; ObjectID = "WDx-58-Aps"; */
+"WDx-58-Aps.title" = "インポート設定";
+
+/* Class = "NSTextFieldCell"; title = "⌘N: New; ⌘⏎: Edit; ⌘⌫: Delete; ⌘D: Duplicate; Space: Enable/Disable Rules;"; ObjectID = "WSF-w6-PGd"; */
+"WSF-w6-PGd.title" = "⌘N：新建；⌘⏎：编辑；⌘⌫：删除；⌘D：复制；空格：启用/禁用规则；";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "fVv-OK-fnS"; */
+"fVv-OK-fnS.title" = "テキストセル";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Create an empty folder. Only support 1 folder level."; ObjectID = "h9m-ru-Vk3"; */
+"h9m-ru-Vk3.ibShadowedToolTip" = "创建一个空文件夹。仅支持 1 个文件夹级别。";
+
+/* Class = "NSMenuItem"; title = "New Folder"; ObjectID = "h9m-ru-Vk3"; */
+"h9m-ru-Vk3.title" = "新しいフォルダ";
+
+/* Class = "NSButtonCell"; title = "New Folder"; ObjectID = "hTT-zk-pkP"; */
+"hTT-zk-pkP.title" = "新しいフォルダ";
+
+/* Class = "NSButtonCell"; title = "Filter"; ObjectID = "hX2-RQ-lTw"; */
+"hX2-RQ-lTw.title" = "フィルター";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "ihN-oc-318"; */
+"ihN-oc-318.title" = "テキストセル";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "jh0-gK-MhJ"; */
+"jh0-gK-MhJ.title" = "テキストセル";
+
+/* Class = "NSTextFieldCell"; title = "Set a breakpoint to change Requests and Responses on the fly"; ObjectID = "nt1-JG-pEk"; */
+"nt1-JG-pEk.title" = "设置断点以即时更改请求和响应";
+
+/* Class = "NSTableColumn"; headerCell.title = "Method"; ObjectID = "o43-dy-zV1"; */
+"o43-dy-zV1.headerCell.title" = "方法";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "oZL-I8-HE8"; */
+"oZL-I8-HE8.headerCell.title" = "名称";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "ofz-eQ-VsF"; */
+"ofz-eQ-VsF.title" = "テキストセル";
+
+/* Class = "NSTextFieldCell"; title = "Click \"+\" or ⌘N to add new entry"; ObjectID = "rpg-qs-XVX"; */
+"rpg-qs-XVX.title" = "点击 \"+\" 或 ⌘N 添加新条目";
+
+/* Class = "NSMenuItem"; title = "New..."; ObjectID = "ukb-uO-fDz"; */
+"ukb-uO-fDz.title" = "新規作成...";
+
+/* Class = "NSMenuItem"; title = "From Charles Proxy..."; ObjectID = "ukm-M2-jKQ"; */
+"ukm-M2-jKQ.title" = "Charles Proxyから...";
+
+/* Class = "NSMenu"; title = "Import Settings"; ObjectID = "vmx-Sy-4BQ"; */
+"vmx-Sy-4BQ.title" = "インポート設定";
+
+/* Class = "NSButtonCell"; title = "Templates..."; ObjectID = "wj4-8H-giL"; */
+"wj4-8H-giL.title" = "Breakpoint テンプレート...";
+
+/* Class = "NSButtonCell"; title = "Enable Breakpoint Tool"; ObjectID = "yVA-wE-BVC"; */
+"yVA-wE-BVC.title" = "Breakpoint ツールを有効化";
