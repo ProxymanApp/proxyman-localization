@@ -1,4 +1,7 @@
 /* No comment by Translator*/
+"1a2-MC-EcO.title" = "Open the diff with FileMerge application (Required Xcode)";
+
+/* No comment by Translator*/
 "1a2-MC-EcO.title" = "文件合并...";
 
 /* No comment by Translator*/
@@ -11,10 +14,22 @@
 "5Xc-aN-5o3.title" = "リセット";
 
 /* No comment by Translator*/
+"5wz-6g-ris.title" = "ID";
+
+/* No comment by Translator*/
+"8BS-lV-5rL.title" = "All JSON Keys are alphabetically sorted. It's easier to see the diff if the JSON Keys Order are changed";
+
+/* No comment by Translator*/
 "8BS-lV-5rL.title" = "排序 JSON 键";
 
 /* No comment by Translator*/
 "8Ul-SW-AQu.title" = "请升级您的 macOS 以使用此功能（macOS 11.2 或更高版本）。";
+
+/* No comment by Translator*/
+"9Z5-em-tNW.title" = "Left";
+
+/* No comment by Translator*/
+"9sa-A7-zXD.title" = "Comment";
 
 /* No comment by Translator*/
 "JQf-ZL-mlv.title" = "テキストセル";
@@ -29,7 +44,13 @@
 "MhK-Bc-Bjl.title" = "打开方式";
 
 /* No comment by Translator*/
+"NOj-Vy-sgh.title" = "Method";
+
+/* No comment by Translator*/
 "NXi-pY-eRz.title" = "テキストセル";
+
+/* No comment by Translator*/
+"O6k-Xy-sIt.title" = "Use ksdiff from Kaleidoscope app to diff two files";
 
 /* No comment by Translator*/
 "O6k-Xy-sIt.title" = "万花筒…";
@@ -101,6 +122,9 @@
 "uDy-XP-WFC.title" = "全部删除";
 
 /* No comment by Translator*/
+"vMf-zi-skT.title" = "Right";
+
+/* No comment by Translator*/
 "xw8-PW-fyB.title" = "合并显示";
 
 /* No comment by Translator*/
@@ -114,6 +138,12 @@
 
 /* No comment by Translator*/
 "ygt-Sk-AxV.title" = "1. 在主视图中选择请求/响应";
+
+/* No comment by Translator*/
+"bQ4-Wx-xML.title" = "URL";
+
+/* No comment by Translator*/
+"rJb-a0-vkg.title" = "All Header Key are alphabetically sorted. It's easier to see the diff.";
 
 /* No comment by Translator*/
 "rJb-a0-vkg.title" = "排序 Header 键";
