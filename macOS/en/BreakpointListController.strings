@@ -5,28 +5,13 @@
 "1d1-6H-mGO.title" = "Duplicate";
 
 /* No comment by Translator*/
-"3S7-Oi-P07.title" = "Matching Rule";
-
-/* No comment by Translator*/
-"3S7-Oi-P07.title" = "Matching URLs";
-
-/* No comment by Translator*/
-"3pM-3j-xiC.title" = "Request";
-
-/* No comment by Translator*/
 "9Aw-4x-sh6.title" = "From Proxyman...";
 
 /* No comment by Translator*/
 "Ay1-Lu-ezi.title" = "Edit";
 
 /* No comment by Translator*/
-"Br5-g6-IJC.title" = "Rename the folder";
-
-/* No comment by Translator*/
 "Br5-g6-IJC.title" = "Rename Folder";
-
-/* No comment by Translator*/
-"Gkr-zk-Ewd.title" = "Toggl Enable / Disable selected rules";
 
 /* No comment by Translator*/
 "Gkr-zk-Ewd.title" = "Enable Rule";
@@ -47,9 +32,6 @@
 "Qsl-q9-w4C.title" = "More";
 
 /* No comment by Translator*/
-"QyQ-Sc-ctP.title" = "Response";
-
-/* No comment by Translator*/
 "SpI-xY-kqJ.title" = "Export Settings...";
 
 /* No comment by Translator*/
@@ -60,9 +42,6 @@
 
 /* No comment by Translator*/
 "fVv-OK-fnS.title" = "Text Cell";
-
-/* No comment by Translator*/
-"h9m-ru-Vk3.title" = "Create an empty folder. Only support 1 folder level.";
 
 /* No comment by Translator*/
 "h9m-ru-Vk3.title" = "New Folder";
@@ -81,12 +60,6 @@
 
 /* No comment by Translator*/
 "nt1-JG-pEk.title" = "Set a breakpoint to change Requests and Responses on the fly";
-
-/* No comment by Translator*/
-"o43-dy-zV1.title" = "Method";
-
-/* No comment by Translator*/
-"oZL-I8-HE8.title" = "Name";
 
 /* No comment by Translator*/
 "ofz-eQ-VsF.title" = "Text Cell";
