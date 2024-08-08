@@ -1,5 +1,5 @@
 /* No comment by Translator*/
-"0IK-8b-Xur.title" = "打开设置应用 > 下载的配置文件";
+"0IK-8b-Xur.title" = "設定アプリ > ダウンロードしたプロファイルを開く";
 
 /* No comment by Translator*/
 "0Wb-Eu-YBS.title" = "箱";
@@ -17,10 +17,19 @@
 "28I-42-dde.title" = " 已安装且受信任";
 
 /* No comment by Translator*/
+"2Ij-p9-Cru.title" = "Server Certificates";
+
+/* No comment by Translator*/
 "2MB-ih-zzS.title" = "预览...";
 
 /* No comment by Translator*/
+"2Un-h2-Mz2.title" = "Override all (HTTP Proxy, Install and Trust Proxyman Certificate)";
+
+/* No comment by Translator*/
 "2vE-RS-9xb.title" = "导入 PEM / DER...";
+
+/* No comment by Translator*/
+"350-RA-CLK.title" = "Import single PKCS #12 file";
 
 /* No comment by Translator*/
 "350-RA-CLK.title" = "导入 P12...";
@@ -65,6 +74,9 @@
 "6Q0-Uk-SPu.title" = "2. 将 iOS 设备上的 Wi-Fi 代理配置为 Proxyman";
 
 /* No comment by Translator*/
+"6SF-97-tXk.title" = "Override Emulator";
+
+/* No comment by Translator*/
 "6ZG-PR-Why.title" = "4. 设置应用信任Proxyman证书（仅适用于Android 11及以上）";
 
 /* No comment by Translator*/
@@ -89,10 +101,16 @@
 "99d-Hk-vcA.title" = "端口：";
 
 /* No comment by Translator*/
+"9FZ-I8-tL7.title" = "Root Certificate";
+
+/* No comment by Translator*/
 "9gr-qr-L1N.title" = "配置与选定服务器建立 SSL 连接时使用的客户端证书";
 
 /* No comment by Translator*/
 "9mo-5n-Ok1.title" = "Proxyman CA (2022 年 5 月 20 日)";
+
+/* No comment by Translator*/
+"9zc-gl-6Gi.title" = " Automatic ";
 
 /* No comment by Translator*/
 "A8s-e9-Lhj.title" = "生成并添加";
@@ -105,6 +123,9 @@
 
 /* No comment by Translator*/
 "B8Z-hw-rUU.title" = "在所有正在运行的模拟器（iOS、iPadOS、watchOS 和 tvOS）上安装并信任。需要 Xcode 11.4+。";
+
+/* No comment by Translator*/
+"BBP-R4-5l9.title" = "Certificates";
 
 /* No comment by Translator*/
 "BD4-ui-GDK.title" = "将 <your_production_domain> 替换为您要拦截的域";
@@ -122,6 +143,9 @@
 "CPL-kl-p97.title" = "配置与客户端建立 SSL 连接时使用的服务器证书";
 
 /* No comment by Translator*/
+"D2J-YY-eJb.title" = "Revert HTTP Proxy on Emulators";
+
+/* No comment by Translator*/
 "DCB-7w-rI4.title" = "验证 Proxyman 证书是否在可信凭证 -> 用户选项卡上";
 
 /* No comment by Translator*/
@@ -135,6 +159,9 @@
 
 /* No comment by Translator*/
 "EzU-Om-nmj.title" = "削除";
+
+/* No comment by Translator*/
+"Fhl-bX-bqH.title" = "api.proxyman.io";
 
 /* No comment by Translator*/
 "H8r-HJ-rCo.title" = "Android 指南文档...";
@@ -173,10 +200,16 @@
 "MMa-xs-uoO.title" = "确保选择系统或登录钥匙串。";
 
 /* No comment by Translator*/
+"MkW-vI-062.title" = "  Manual  ";
+
+/* No comment by Translator*/
 "NHM-3n-a6a.title" = "此证书用于在与客户端和服务器进行 SSL 握手期间生成代理证书";
 
 /* No comment by Translator*/
 "NLq-bs-bzD.title" = "导入 P12...";
+
+/* No comment by Translator*/
+"NUX-KR-5aD.title" = "Go to https://proxyman.io/docs/ios-troubleshooting";
 
 /* No comment by Translator*/
 "NdX-lc-bhX.title" = "箱";
@@ -185,7 +218,13 @@
 "O11-FW-N0x.title" = "Safari 将请求您的许可来安装 \"Proxyman CA\" 证书。";
 
 /* No comment by Translator*/
+"O9z-gC-tQ1.title" = "Troubleshooting";
+
+/* No comment by Translator*/
 "OaA-cg-O1m.title" = "(需要root权限)";
+
+/* No comment by Translator*/
+"Ogk-GF-p8s.title" = "443";
 
 /* No comment by Translator*/
 "Ogk-GF-p8s.title" = "443";
@@ -204,6 +243,9 @@
 
 /* No comment by Translator*/
 "RNy-33-dYe.title" = "4. 重启应用";
+
+/* No comment by Translator*/
+"Rq2-VT-se6.title" = "Import PEM Private Key and PEM Certificate";
 
 /* No comment by Translator*/
 "Rq2-VT-se6.title" = "导入 PEM / DER...";
@@ -233,10 +275,16 @@
 "TkH-KE-jPA.title" = "尝试示例 Android 项目...";
 
 /* No comment by Translator*/
+"UON-ft-z8g.title" = "Certificates";
+
+/* No comment by Translator*/
 "Ueb-Ih-xum.title" = "管理证书";
 
 /* No comment by Translator*/
 "Uqv-6K-0Ez.title" = "3.2: 添加到 AndroidManifest.xml";
+
+/* No comment by Translator*/
+"V5X-Ik-jEt.title" = "Copy IP Address";
 
 /* No comment by Translator*/
 "VJb-wr-l1g.title" = "Proxyman CA";
@@ -389,6 +437,9 @@
 "mqm-Mf-iD1.title" = "导入";
 
 /* No comment by Translator*/
+"nMa-YT-rLp.title" = "Import single PKCS #12 file";
+
+/* No comment by Translator*/
 "nMa-YT-rLp.title" = "导入 P12...";
 
 /* No comment by Translator*/
@@ -440,10 +491,16 @@
 "sck-kk-IV2.title" = "> 证书信任设置 > 打开";
 
 /* No comment by Translator*/
+"snD-FR-o6n.title" = "Host";
+
+/* No comment by Translator*/
 "tod-KL-UA0.title" = "否";
 
 /* No comment by Translator*/
 "u2e-pe-Xi6.title" = "0 设备";
+
+/* No comment by Translator*/
+"uaZ-PK-23A.title" = "Open Android Guideline";
 
 /* No comment by Translator*/
 "vZW-He-kFQ.title" = "导入 PEM / DER...";
@@ -452,13 +509,25 @@
 "vy4-6g-yM7.title" = "(请从 Android Studio 启动 1 个 Android 模拟器)";
 
 /* No comment by Translator*/
+"wYT-Vv-Gid.title" = "Revert HTTP Proxy on Emulators";
+
+/* No comment by Translator*/
+"weJ-Mv-Sf2.title" = "Client Certificates";
+
+/* No comment by Translator*/
 "wsq-pf-r31.title" = "📲 iOS 模拟器设置";
+
+/* No comment by Translator*/
+"wto-wX-m41.title" = "Import single PKCS #12 file";
 
 /* No comment by Translator*/
 "wto-wX-m41.title" = "导入 P12...";
 
 /* No comment by Translator*/
 "xPu-pb-mvd.title" = "从Android Studio重启应用生效并开始调试！";
+
+/* No comment by Translator*/
+"xd6-Mh-c4L.title" = "Import PEM Private Key and PEM Certificate";
 
 /* No comment by Translator*/
 "xd6-Mh-c4L.title" = "导入 PEM / DER...";
@@ -494,6 +563,9 @@
 "ZsE-5q-Is1.title" = " iOS 16 问题";
 
 /* No comment by Translator*/
+"bhA-Si-Mb7.title" = "Domain";
+
+/* No comment by Translator*/
 "do3-oG-sns.title" = "表格视图单元格";
 
 /* No comment by Translator*/
@@ -501,6 +573,12 @@
 
 /* No comment by Translator*/
 "12N-zA-viy.title" = "http://proxy.man/ssl";
+
+/* No comment by Translator*/
+"TM7-CW-I16.title" = "Show QR Code";
+
+/* No comment by Translator*/
+"hRu-Te-szt.title" = "Copy the URL";
 
 /* No comment by Translator*/
 "x5x-vL-7sF.title" = "Button";
