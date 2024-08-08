@@ -1,41 +1,41 @@
 /* No comment provided by engineer. */
-"  Proxyman CA certificate is not trusted!" = "Proxyman 証明書は信頼されません。";
+"  Proxyman CA certificate is not trusted!" = "Proxyman CA 证书不受信任！";
 
 /* No comment provided by engineer. */
-"  Proxyman CA is trusted!" = "Proxyman 証明書は信頼されます。";
+"  Proxyman CA is trusted!" = "Proxyman CA 已经信任！";
 
 /* No comment provided by engineer. */
-" Active" = "アクティブ";
+" Active" = "活跃";
 
 /* No comment provided by engineer. */
 " Could not find '%@' Message Type" = "找不到“%@”消息类型";
 
 /* No comment provided by engineer. */
-" Data" = "データ";
+" Data" = "数据";
 
 /* No comment provided by engineer. */
-" Inactive" = "無効";
+" Inactive" = "无效";
 
 /* No comment provided by engineer. */
-" Install Root Certificate" = "ルート証明書のインストール";
+" Install Root Certificate" = "安装根证书";
 
 /* No comment provided by engineer. */
-" Installed & Trusted" = "インストール・認証を行う";
+" Installed & Trusted" = "已安装并信任";
 
 /* No comment provided by engineer. */
-" Installed & Trusted!" = "インストール・認証済！";
+" Installed & Trusted!" = "已安装并信任！";
 
 /* No comment provided by engineer. */
-" Installed successfully!" = "インストール完了！";
+" Installed successfully!" = "安装成功！";
 
 /* No comment provided by engineer. */
-" Installed!" = "インストール済！";
+" Installed!" = "安装！";
 
 /* No comment provided by engineer. */
-" Installed, but not Trusted!" = "インストール済、不認証";
+" Installed, but not Trusted!" = "已安装，但不受信任！";
 
 /* No comment provided by engineer. */
-" Installed: %@" = "インストール済： %@";
+" Installed: %@" = "已安装： %@";
 
 /* No comment provided by engineer. */
 " Length" = "长度";
@@ -47,7 +47,7 @@
 " Need to update" = "需要更新";
 
 /* No comment provided by engineer. */
-" Not installed" = "未インストール";
+" Not installed" = "未安装";
 
 /* No comment provided by engineer. */
 " Rebooted!" = "重新 启动！";
@@ -194,13 +194,13 @@
 "Add (⌘⏎)" = "添加 （⌘⏎）";
 
 /* No comment provided by engineer. */
-"Add Comment" = "コメントを追加";
+"Add Comment" = "添加备注";
 
 /* No comment provided by engineer. */
 "Add Comment to %d selected Requests" = "向 %d 个选定请求添加注释";
 
 /* No comment provided by engineer. */
-"Add Comment…" = "コメントを追加...";
+"Add Comment…" = "添加备注...";
 
 /* No comment provided by engineer. */
 "Add to Diff Pool…" = "添加到对比池...";
@@ -221,13 +221,13 @@
 "All good!" = "都很好！";
 
 /* No comment provided by engineer. */
-"Allow List" = "許可リスト";
+"Allow List" = "白名单";
 
 /* No comment provided by engineer. */
 "Allow List Toggle" = "白名单开关";
 
 /* No comment provided by engineer. */
-"Allow List…" = "ホワイトリスト...";
+"Allow List…" = "白名单...";
 
 /* No comment provided by engineer. */
 "Android Debug Bridge (adb) not found!" = "未找到 Android Debug Bridge （adb）！";
@@ -281,13 +281,13 @@
 "Block & Hide" = "阻止和隐藏";
 
 /* No comment provided by engineer. */
-"Block List" = "ブラックリスト";
+"Block List" = "黑名单";
 
 /* No comment provided by engineer. */
 "Block List Toggle" = "黑名单开关";
 
 /* No comment provided by engineer. */
-"Block List…" = "ブラックリスト...";
+"Block List…" = "黑名单...";
 
 /* No comment provided by engineer. */
 "Block Requests" = "阻止请求";
@@ -305,25 +305,25 @@
 "Body over 5Mb hidden for performance reasons" = "出于性能考量，隐藏超过 5Mb 的正文";
 
 /* No comment provided by engineer. */
-"Breakpoint" = "Breakpoint";
+"Breakpoint" = "断点";
 
 /* No comment provided by engineer. */
 "Breakpoint Toggle" = "断点开关";
 
 /* No comment provided by engineer. */
-"Breakpoint URL" = "Breakpoint URL";
+"Breakpoint URL" = "断点网址";
 
 /* No comment provided by engineer. */
-"Breakpoint…" = "Breakpoints...";
+"Breakpoint…" = "断点...";
 
 /* No comment provided by engineer. */
-"Buy a license" = "ライセンスを購入";
+"Buy a license" = "购买许可证";
 
 /* No comment provided by engineer. */
-"Cancel" = "キャンセル";
+"Cancel" = "取消";
 
 /* No comment provided by engineer. */
-"Certificate" = "証明書";
+"Certificate" = "证书";
 
 /* No comment provided by engineer. */
 "Certificate doesn't match with the Private Key" = "证书与私钥不匹配";
@@ -404,7 +404,7 @@
 "Copied" = "已拷贝";
 
 /* No comment provided by engineer. */
-"Copy" = "コピー";
+"Copy" = "拷贝";
 
 /* No comment provided by engineer. */
 "Copy %d URLs" = "拷贝 %d 个网址";
@@ -629,7 +629,7 @@
 "Decode JWT Token" = "解码 JWT 令牌";
 
 /* No comment provided by engineer. */
-"Delete" = "削除";
+"Delete" = "删除";
 
 /* Error */
 "Delta length (%lu) larger than source text length (%lu)." = "增量长度 （%lu） 大于源文本长度 （%lu）。";
@@ -698,7 +698,7 @@
 "e.g. Value (⌘F)" = "例如：值 （⌘F）";
 
 /* No comment provided by engineer. */
-"Edit and Repeat…" = "編集して繰り返します...";
+"Edit and Repeat…" = "编辑并重复...";
 
 /* No comment provided by engineer. */
 "Edited" = "编辑过";
@@ -755,7 +755,7 @@
 "Expand Status Code Filters" = "展开状态代码筛选器";
 
 /* No comment provided by engineer. */
-"Export" = "エクスポート";
+"Export" = "导出";
 
 /* No comment provided by engineer. */
 "Export all data of Request and Response to Proxyman File (Recommended)" = "将请求和响应的所有数据导出到 Proxyman 文件（推荐）";
@@ -797,7 +797,7 @@
 "Extend License" = "延长许可证";
 
 /* No comment provided by engineer. */
-"External Proxy" = "外部プロキシ";
+"External Proxy" = "外部代理";
 
 /* No comment provided by engineer. */
 "External Proxy Toggle" = "外部代理开关";
@@ -884,7 +884,7 @@
 "Hide Requests" = "隐藏请求";
 
 /* No comment provided by engineer. */
-"Highlight" = "ハイライト";
+"Highlight" = "高亮";
 
 /* No comment provided by engineer. */
 "Host" = "主机";
@@ -893,7 +893,7 @@
 "Host Header" = "主机标头";
 
 /* No comment provided by engineer. */
-"How to install?" = "インストールの方法";
+"How to install?" = "如何安装？";
 
 /* No comment provided by engineer. */
 "HTTPS Response" = "HTTPS Response";
@@ -902,7 +902,7 @@
 "ID" = "ID";
 
 /* No comment provided by engineer. */
-"If you have already purchased Proxyman, please check your email for the license key." = "Proxymanを既にご購入済みの方は、ライセンスキーが記載されたメールをご確認ください。";
+"If you have already purchased Proxyman, please check your email for the license key." = "如果您已经购买了 Proxyman，请查看您的电子邮件以获取许可证密钥。";
 
 /* No comment provided by engineer. */
 "Import" = "进口";
@@ -920,7 +920,7 @@
 "Incorrect HTTP Message Format (%@)" = "不正确的 HTTP 消息格式 （%@）";
 
 /* No comment provided by engineer. */
-"Install" = "インストール";
+"Install" = "安装";
 
 /* No comment provided by engineer. */
 "Install & Trust" = "安装与信任";
@@ -929,7 +929,7 @@
 "Installed Certificates" = "已安装的证书";
 
 /* No comment provided by engineer. */
-"Installed, but not Trusted!" = "インストール済、不認証";
+"Installed, but not Trusted!" = "已安装，但不受信任！";
 
 /* No comment provided by engineer. */
 "Internal Error" = "内部错误";
@@ -1145,7 +1145,7 @@
 "Map from directory" = "从目录映射";
 
 /* No comment provided by engineer. */
-"Map Local" = "Map Local";
+"Map Local" = "本地映射";
 
 /* No comment provided by engineer. */
 "Map Local for \(items.count) Requests…" = "映射 \\（items.count） 请求的本地...";
@@ -1154,16 +1154,16 @@
 "Map Local Toggle" = "本地映射开关";
 
 /* No comment provided by engineer. */
-"Map Local…" = "Map Local...";
+"Map Local…" = "本地映射...";
 
 /* No comment provided by engineer. */
-"Map Remote" = "Map Remote";
+"Map Remote" = "远程映射";
 
 /* No comment provided by engineer. */
 "Map Remote Toggle" = "远程映射开关";
 
 /* No comment provided by engineer. */
-"Map Remote…" = "Map Remote...";
+"Map Remote…" = "远程映射...";
 
 /* No comment provided by engineer. */
 "Matching Rule" = "匹配规则";
@@ -1226,10 +1226,10 @@
 "Negative number in diff_fromDelta: %@" = "diff_fromDelta负数：%@";
 
 /* No comment provided by engineer. */
-"Network Conditions" = "Network Conditions";
+"Network Conditions" = "网络条件";
 
 /* No comment provided by engineer. */
-"Network Conditions…" = "Network Conditions...";
+"Network Conditions…" = "网络状况...";
 
 /* No comment provided by engineer. */
 "Network Throttling" = "网络限制";
@@ -1241,7 +1241,7 @@
 "New %@…" = "新 %@...";
 
 /* No comment provided by engineer. */
-"New Folder" = "新しいフォルダ";
+"New Folder" = "新建文件夹";
 
 /* No comment provided by engineer. */
 "New Update" = "新更新";
@@ -1253,7 +1253,7 @@
 "New version of Proxy Helper Tool (%@)" = "新版本的代理帮助程序工具 （%@）";
 
 /* No comment provided by engineer. */
-"No Caching" = "キャッシュを無効化";
+"No Caching" = "停用缓存";
 
 /* No comment provided by engineer. */
 "No Caching Toggle" = "停用缓存开关";
@@ -1532,7 +1532,7 @@
 "Remote devices" = "远程设备";
 
 /* No comment provided by engineer. */
-"Remove" = "削除";
+"Remove" = "删除";
 
 /* No comment provided by engineer. */
 "Remove this device from your license." = "从许可证中删除此设备。";
@@ -1544,7 +1544,7 @@
 "Renew License" = "续订许可证";
 
 /* No comment provided by engineer. */
-"Repeat" = "繰り返す";
+"Repeat" = "重复";
 
 /* No comment provided by engineer. */
 "Repeat %d selected Requests" = "重复 %d 个选定的请求";
@@ -1553,7 +1553,7 @@
 "Repeat on WebSocket request is not supported!" = "不支持在 WebSocket 上重复请求！";
 
 /* No comment provided by engineer. */
-"Repeated" = "繰り返す";
+"Repeated" = "重复";
 
 /* No comment provided by engineer. */
 "Replace" = "取代";
@@ -1619,7 +1619,7 @@
 "Require Automation Permission!" = "需要自动化权限！";
 
 /* No comment provided by engineer. */
-"Reset" = "リセット";
+"Reset" = "重置";
 
 /* No comment provided by engineer. */
 "Reset all columns" = "重置所有列";
@@ -1685,7 +1685,7 @@
 "Restarting" = "重新 启动";
 
 /* No comment provided by engineer. */
-"Reverse Proxy" = "リバースプロキシ";
+"Reverse Proxy" = "反向代理";
 
 /* No comment provided by engineer. */
 "Reverse Proxy Toggle" = "反向代理开关";
@@ -1727,13 +1727,13 @@
 "Save to temporary folder and show in Finder" = "保存到临时文件夹并显示在 Finder 中";
 
 /* No comment provided by engineer. */
-"Scripting" = "Scripting";
+"Scripting" = "脚本";
 
 /* No comment provided by engineer. */
 "Scripting Toggle" = "脚本开关";
 
 /* No comment provided by engineer. */
-"Scripting…" = "Scripting...";
+"Scripting…" = "脚本...";
 
 /* No comment provided by engineer. */
 "Secure Web Proxy (HTTPS)" = "Secure Web Proxy （HTTPS）";
@@ -1778,7 +1778,7 @@
 "Show Proxyman" = "显示 Proxyman";
 
 /* No comment provided by engineer. */
-"Simulate Network Conditions with various Preset Profiles" = "プリセットのプロファイルを使用してNetwork Conditionsをシミュレートします";
+"Simulate Network Conditions with various Preset Profiles" = "使用各种预设配置文件模拟网络条件";
 
 /* No comment provided by engineer. */
 "Size" = "大小";
@@ -1814,7 +1814,7 @@
 "SSL Proxying" = "SSL 代理";
 
 /* No comment provided by engineer. */
-"SSL Proxying List" = "SSLプロキシリスト";
+"SSL Proxying List" = "SSL 代理列表";
 
 /* No comment provided by engineer. */
 "SSL Proxying Toggle" = "SSL 代理切换";
@@ -1838,7 +1838,7 @@
 "Stopped" = "停止";
 
 /* No comment provided by engineer. */
-"Strikethrough" = "取り消し線";
+"Strikethrough" = "删除线";
 
 /* No comment provided by engineer. */
 "Summary" = "摘要";
@@ -1874,7 +1874,7 @@
 "This certificate is marked as trusted for this account" = "此证书被标记为受此帐户信任";
 
 /* No comment provided by engineer. */
-"This Proxyman License is managed by Setapp." = "Proxyman ライセンスはSetappで管理されています。";
+"This Proxyman License is managed by Setapp." = "此代理许可证由 Setapp 管理。";
 
 /* No comment provided by engineer. */
 "This root certificate is not trusted" = "此根证书不受信任";
@@ -1931,7 +1931,7 @@
 "Tool Name" = "工具名称";
 
 /* No comment provided by engineer. */
-"Tools" = "ツール";
+"Tools" = "工具";
 
 /* No comment provided by engineer. */
 "Total Size" = "总大小";
@@ -2117,7 +2117,7 @@
 "🤖 Android Setup Guide" = "🤖 Android 设置指南";
 
 /* No comment provided by engineer. */
-"Advanced" = "詳細";
+"Advanced" = "高级";
 
 /* No comment provided by engineer. */
 "Appearance" = "外观";
@@ -2138,7 +2138,7 @@
 "Create a SSL Proxy Entry for this selected requests." = "为此选定的请求创建一个 SSL 代理条目。";
 
 /* No comment provided by engineer. */
-"Enable/Disable Tools" = "ツールの有効化/無効化";
+"Enable/Disable Tools" = "启用/禁用工具";
 
 /* No comment provided by engineer. */
 "Map Response Body with a local file" = "使用本地文件映射响应正文";
