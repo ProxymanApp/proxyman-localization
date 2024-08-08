@@ -1,119 +1,119 @@
-/* No comment by Translator*/
-"0Y5-A7-VCY.title" = "Create an empty folder. Only support 1 folder level.";
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Create an empty folder. Only support 1 folder level."; ObjectID = "0Y5-A7-VCY"; */
+"0Y5-A7-VCY.ibShadowedToolTip" = "创建一个空文件夹。仅支持 1 个文件夹级别。";
 
-/* No comment by Translator*/
-"0Y5-A7-VCY.title" = "新しいフォルダ";
+/* Class = "NSMenuItem"; title = "New Folder"; ObjectID = "0Y5-A7-VCY"; */
+"0Y5-A7-VCY.title" = "新建文件夹";
 
-/* No comment by Translator*/
-"1Xp-lb-ED7.title" = "新規作成...";
+/* Class = "NSMenuItem"; title = "New..."; ObjectID = "1Xp-lb-ED7"; */
+"1Xp-lb-ED7.title" = "新建...";
 
-/* No comment by Translator*/
-"49N-U2-jCF.title" = "Rename the folder";
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Rename the folder"; ObjectID = "49N-U2-jCF"; */
+"49N-U2-jCF.ibShadowedToolTip" = "重命名文件夹";
 
-/* No comment by Translator*/
+/* Class = "NSMenuItem"; title = "Rename Folder"; ObjectID = "49N-U2-jCF"; */
 "49N-U2-jCF.title" = "重命名文件夹";
 
-/* No comment by Translator*/
-"8dm-xu-eIe.title" = "テキストセル";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "8dm-xu-eIe"; */
+"8dm-xu-eIe.title" = "文本单元格";
 
-/* No comment by Translator*/
-"9Ih-OE-X0V.title" = "Enable or Disable entire Map Local Feature";
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Enable or Disable entire Map Local Feature"; ObjectID = "9Ih-OE-X0V"; */
+"9Ih-OE-X0V.ibExternalAccessibilityDescription" = "启用或禁用整个本地映射功能";
 
-/* No comment by Translator*/
-"9pb-rN-GuN.title" = "テキストセル";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "9pb-rN-GuN"; */
+"9pb-rN-GuN.title" = "文本单元格";
 
-/* No comment by Translator*/
+/* Class = "NSMenuItem"; title = "More"; ObjectID = "ART-xE-4kw"; */
 "ART-xE-4kw.title" = "更多的";
 
-/* No comment by Translator*/
+/* Class = "NSTextFieldCell"; title = "Click \"+\" or ⌘N to add new entry"; ObjectID = "B0E-Ix-T41"; */
 "B0E-Ix-T41.title" = "点击 \"+\" 或 ⌘N 添加新条目";
 
-/* No comment by Translator*/
+/* Class = "NSMenuItem"; title = "More"; ObjectID = "BM5-tw-zBC"; */
 "BM5-tw-zBC.title" = "更多的";
 
-/* No comment by Translator*/
-"CbS-Aw-Ogt.title" = "箱";
+/* Class = "NSBox"; title = "Box"; ObjectID = "CbS-Aw-Ogt"; */
+"CbS-Aw-Ogt.title" = "盒子";
 
-/* No comment by Translator*/
-"I6q-2Y-MXQ.title" = "フィルター";
+/* Class = "NSButtonCell"; title = "Filter"; ObjectID = "I6q-2Y-MXQ"; */
+"I6q-2Y-MXQ.title" = "筛选";
 
-/* No comment by Translator*/
-"Ic6-eI-nEx.title" = "インポート設定";
+/* Class = "NSMenu"; title = "Import Settings"; ObjectID = "Ic6-eI-nEx"; */
+"Ic6-eI-nEx.title" = "导入设置";
 
-/* No comment by Translator*/
-"J2W-nx-rqY.title" = "Method";
+/* Class = "NSTableColumn"; headerCell.title = "Method"; ObjectID = "J2W-nx-rqY"; */
+"J2W-nx-rqY.headerCell.title" = "方法";
 
-/* No comment by Translator*/
+/* Class = "NSTextFieldCell"; title = "Top-Down Matching Rule"; ObjectID = "KJ3-AH-rZc"; */
 "KJ3-AH-rZc.title" = "自顶向下匹配规则";
 
-/* No comment by Translator*/
-"Lgp-Gg-Co5.title" = "テキストセル";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Lgp-Gg-Co5"; */
+"Lgp-Gg-Co5.title" = "文本单元格";
 
-/* No comment by Translator*/
-"M0Z-eq-odj.title" = "テキストセル";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "M0Z-eq-odj"; */
+"M0Z-eq-odj.title" = "文本单元格";
 
-/* No comment by Translator*/
-"QXR-2x-8Qp.title" = "削除";
+/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "QXR-2x-8Qp"; */
+"QXR-2x-8Qp.title" = "删除";
 
-/* No comment by Translator*/
-"TDc-Gw-KqP.title" = "編集";
+/* Class = "NSMenuItem"; title = "Edit"; ObjectID = "TDc-Gw-KqP"; */
+"TDc-Gw-KqP.title" = "编辑";
 
-/* No comment by Translator*/
-"WOT-kt-kCF.title" = "コピー";
+/* Class = "NSMenuItem"; title = "Duplicate"; ObjectID = "WOT-kt-kCF"; */
+"WOT-kt-kCF.title" = "复制";
 
-/* No comment by Translator*/
+/* Class = "NSMenuItem"; title = "Show in Finder…"; ObjectID = "WYR-UL-E97"; */
 "WYR-UL-E97.title" = "在 Finder 中显示...";
 
-/* No comment by Translator*/
+/* Class = "NSButtonCell"; title = "Enable Map Local Tool"; ObjectID = "Y0k-JI-EVn"; */
 "Y0k-JI-EVn.title" = "启用本地映射工具";
 
-/* No comment by Translator*/
-"ZJe-WR-VVz.title" = "インポート設定";
+/* Class = "NSMenuItem"; title = "Import Settings"; ObjectID = "ZJe-WR-VVz"; */
+"ZJe-WR-VVz.title" = "导入设置";
 
-/* No comment by Translator*/
+/* Class = "NSTextFieldCell"; title = "/Users/"; ObjectID = "btk-7i-PcM"; */
 "btk-7i-PcM.title" = "/用户/";
 
-/* No comment by Translator*/
+/* Class = "NSTextFieldCell"; title = "⌘N: New; ⌘⏎: Edit; ⌘⌫: Delete; ⌘D: Duplicate; Space: Enable/Disable Rules;"; ObjectID = "cyA-JP-HlV"; */
 "cyA-JP-HlV.title" = "⌘N：新建；⌘⏎：编辑；⌘⌫：删除；⌘D：复制；空格：启用/禁用规则；";
 
-/* No comment by Translator*/
+/* Class = "NSTextFieldCell"; title = "Map local files or directories as a response for matched requests."; ObjectID = "dEh-4S-1s8"; */
 "dEh-4S-1s8.title" = "映射本地文件或目录作为匹配请求的响应。";
 
-/* No comment by Translator*/
-"gYl-CG-gTV.title" = "Map from";
+/* Class = "NSTableColumn"; headerCell.title = "Map from"; ObjectID = "gYl-CG-gTV"; */
+"gYl-CG-gTV.headerCell.title" = "从...映射";
 
-/* No comment by Translator*/
-"gYl-CG-gTV.title" = "Map Body Response from File ";
+/* Class = "NSTableColumn"; headerToolTip = "Map Body Response from File "; ObjectID = "gYl-CG-gTV"; */
+"gYl-CG-gTV.headerToolTip" = "从文件映射正文响应";
 
-/* No comment by Translator*/
-"hNU-WA-HII.title" = "Charles Proxyから...";
+/* Class = "NSMenuItem"; title = "From Charles Proxy..."; ObjectID = "hNU-WA-HII"; */
+"hNU-WA-HII.title" = "从Charles代理...";
 
-/* No comment by Translator*/
+/* Class = "NSMenuItem"; title = "From Proxyman..."; ObjectID = "jBb-xP-n0P"; */
 "jBb-xP-n0P.title" = "从代理...";
 
-/* No comment by Translator*/
-"rRb-4R-P0c.title" = "File is missing!";
+/* Class = "NSImageView"; ibShadowedToolTip = "File is missing!"; ObjectID = "rRb-4R-P0c"; */
+"rRb-4R-P0c.ibShadowedToolTip" = "文件丢失！";
 
-/* No comment by Translator*/
-"txH-Jh-AIf.title" = "Toggl Enable / Disable selected rules";
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Toggl Enable / Disable selected rules"; ObjectID = "txH-Jh-AIf"; */
+"txH-Jh-AIf.ibShadowedToolTip" = "Toggl 启用/禁用选定的规则";
 
-/* No comment by Translator*/
+/* Class = "NSMenuItem"; title = "Enable Rule"; ObjectID = "txH-Jh-AIf"; */
 "txH-Jh-AIf.title" = "启用规则";
 
-/* No comment by Translator*/
-"v4f-GX-aP1.title" = "新しいフォルダ";
+/* Class = "NSButtonCell"; title = "New Folder"; ObjectID = "v4f-GX-aP1"; */
+"v4f-GX-aP1.title" = "新建文件夹";
 
-/* No comment by Translator*/
+/* Class = "NSMenuItem"; title = "Export Settings..."; ObjectID = "wms-OZ-ysv"; */
 "wms-OZ-ysv.title" = "导出设置...";
 
-/* No comment by Translator*/
+/* Class = "NSMenuItem"; title = "Open local file with"; ObjectID = "xQk-iZ-vHV"; */
 "xQk-iZ-vHV.title" = "打开本地文件";
 
-/* No comment by Translator*/
-"xRo-b3-lIb.title" = "Matching Rule";
+/* Class = "NSTableColumn"; headerCell.title = "Matching Rule"; ObjectID = "xRo-b3-lIb"; */
+"xRo-b3-lIb.headerCell.title" = "匹配规则";
 
-/* No comment by Translator*/
-"xRo-b3-lIb.title" = "Matching URLs";
+/* Class = "NSTableColumn"; headerToolTip = "Matching URLs"; ObjectID = "xRo-b3-lIb"; */
+"xRo-b3-lIb.headerToolTip" = "匹配网址";
 
-/* No comment by Translator*/
-"xmM-Hc-Sjh.title" = "Name";
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "xmM-Hc-Sjh"; */
+"xmM-Hc-Sjh.headerCell.title" = "名称";
