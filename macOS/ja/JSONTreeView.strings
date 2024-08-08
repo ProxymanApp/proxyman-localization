@@ -1,65 +1,35 @@
-/* Class = "NSTextFieldCell"; title = "No Filter Results"; ObjectID = "0Ro-Tf-1sv"; */
+/* No comment by Translator*/
 "0Ro-Tf-1sv.title" = "无筛选结果";
 
-/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "1lu-ZJ-PQ4"; */
-"1lu-ZJ-PQ4.title" = "文本单元格";
+/* No comment by Translator*/
+"1lu-ZJ-PQ4.title" = "テキストセル";
 
-/* Class = "NSButtonCell"; title = "Learn how to use Filter with Key Path..."; ObjectID = "3mm-s7-79e"; */
+/* No comment by Translator*/
 "3mm-s7-79e.title" = "了解如何使用带键路径的筛选器...";
 
-/* Class = "NSTableColumn"; headerCell.title = "Key"; ObjectID = "9qQ-Zb-W6P"; */
-"9qQ-Zb-W6P.headerCell.title" = "键";
+/* No comment by Translator*/
+"C9u-cs-Ybd.title" = "箱";
 
-/* Class = "NSBox"; title = "Box"; ObjectID = "C9u-cs-Ybd"; */
-"C9u-cs-Ybd.title" = "盒子";
+/* No comment by Translator*/
+"Q1c-ad-UlM.title" = "箱";
 
-/* Class = "NSBox"; title = "Box"; ObjectID = "Q1c-ad-UlM"; */
-"Q1c-ad-UlM.title" = "盒子";
+/* No comment by Translator*/
+"cKT-f8-HRw.title" = "Use JSON Path syntax to filter the data";
 
-/* Class = "NSTableColumn"; headerCell.title = "Type"; ObjectID = "WZQ-Ez-orR"; */
-"WZQ-Ez-orR.headerCell.title" = "类型";
+/* No comment by Translator*/
+"dJS-6Y-muz.title" = "Search Key/Value and jump the result. Search Mode would show other Keys/Values from the JSON Objects";
 
-/* Class = "NSMenuItem"; title = "JSON Path"; ObjectID = "cKT-f8-HRw"; */
-"cKT-f8-HRw.title" = "JSON 路径";
+/* No comment by Translator*/
+"kdY-44-EKy.title" = "テキストセル";
 
-/* Class = "NSTableColumn"; headerCell.title = "Value"; ObjectID = "dGd-Yd-ASC"; */
-"dGd-Yd-ASC.headerCell.title" = "值";
+/* No comment by Translator*/
+"lmP-9k-YbL.title" = "テキストセル";
 
-/* Class = "NSMenuItem"; title = "Search"; ObjectID = "dJS-6Y-muz"; */
-"dJS-6Y-muz.title" = "搜";
+/* No comment by Translator*/
+"q5a-zM-7v9.title" = "Filter Key/Value and only show the filtered result. Filter Mode would omit other Keys/Values from the JSON Objects.";
 
-/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "kdY-44-EKy"; */
-"kdY-44-EKy.title" = "文本单元格";
-
-/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "lmP-9k-YbL"; */
-"lmP-9k-YbL.title" = "文本单元格";
-
-/* Class = "NSMenuItem"; title = "FIlter"; ObjectID = "q5a-zM-7v9"; */
-"q5a-zM-7v9.title" = "筛选";
-
-/* Class = "NSSearchFieldCell"; placeholderString = "e.g. users[0].name (⌘F)"; ObjectID = "uap-vr-zNM"; */
-"uap-vr-zNM.placeholderString" = "例如用户[0].name (⌘F)";
-
-/* Class = "NSTextFieldCell"; title = "1 matches"; ObjectID = "8b9-eI-VWT"; */
+/* No comment by Translator*/
 "8b9-eI-VWT.title" = "1 matches";
 
-/* Class = "NSSegmentedCell"; FJV-tr-CjY.ibShadowedToolTips[0] = "Find Previous ⇧⌘G"; ObjectID = "FJV-tr-CjY"; */
-"FJV-tr-CjY.ibShadowedToolTips[0]" = "Find Previous ⇧⌘G";
-
-/* Class = "NSSegmentedCell"; FJV-tr-CjY.ibShadowedToolTips[1] = "Find Next ⌘G"; ObjectID = "FJV-tr-CjY"; */
-"FJV-tr-CjY.ibShadowedToolTips[1]" = "Find Next ⌘G";
-
-/* Class = "NSButton"; ibShadowedToolTip = "Close the Search Bar"; ObjectID = "HVd-bO-bGE"; */
-"HVd-bO-bGE.ibShadowedToolTip" = "Close the Search Bar";
-
-/* Class = "NSMenuItem"; ibShadowedToolTip = "Use JSON Path syntax to filter the data"; ObjectID = "cKT-f8-HRw"; */
-"cKT-f8-HRw.ibShadowedToolTip" = "Use JSON Path syntax to filter the data";
-
-/* Class = "NSMenuItem"; ibShadowedToolTip = "Search Key/Value and jump the result. Search Mode would show other Keys/Values from the JSON Objects"; ObjectID = "dJS-6Y-muz"; */
-"dJS-6Y-muz.ibShadowedToolTip" = "Search Key/Value and jump the result. Search Mode would show other Keys/Values from the JSON Objects";
-
-/* Class = "NSButtonCell"; title = "Done"; ObjectID = "iBQ-nD-kIZ"; */
+/* No comment by Translator*/
 "iBQ-nD-kIZ.title" = "Done";
-
-/* Class = "NSMenuItem"; ibShadowedToolTip = "Filter Key/Value and only show the filtered result. Filter Mode would omit other Keys/Values from the JSON Objects."; ObjectID = "q5a-zM-7v9"; */
-"q5a-zM-7v9.ibShadowedToolTip" = "Filter Key/Value and only show the filtered result. Filter Mode would omit other Keys/Values from the JSON Objects.";
