@@ -11,6 +11,9 @@
 "ACV-KL-9fU.title" = "ローカル ポートから指定された上流サーバーに HTTP および HTTPS リクエストをプロキシします。";
 
 /* No comment by Translator*/
+"BTK-rR-f2D.title" = "Enable or Disable entire Map Local Feature";
+
+/* No comment by Translator*/
 "CxK-Gv-hSR.title" = "削除";
 
 /* No comment by Translator*/
@@ -23,13 +26,25 @@
 "GCs-n4-x4B.title" = "更多的";
 
 /* No comment by Translator*/
+"Jwt-5U-pAb.title" = "Remote Port";
+
+/* No comment by Translator*/
 "LYi-Ab-z66.title" = "点击 \"+\" 或 ⌘N 添加新条目";
+
+/* No comment by Translator*/
+"Mnh-53-9lf.title" = "Name";
+
+/* No comment by Translator*/
+"OV9-WJ-m0I.title" = "Local Port";
 
 /* No comment by Translator*/
 "PUd-93-fuq.title" = "テキストセル";
 
 /* No comment by Translator*/
 "TAb-9X-opy.title" = "⌘N：新建；⌘⏎：编辑；⌘⌫：删除；空格：启用/禁用规则；";
+
+/* No comment by Translator*/
+"TXc-e9-L8R.title" = "Remote Host";
 
 /* No comment by Translator*/
 "XXa-E2-vqy.title" = "从代理...";
@@ -57,6 +72,15 @@
 
 /* No comment by Translator*/
 "kP2-Q5-Dke.title" = "标签";
+
+/* No comment by Translator*/
+"l1E-UE-JOC.title" = "Enabled";
+
+/* No comment by Translator*/
+"l1E-UE-JOC.title" = "Enable / Disable this entry";
+
+/* No comment by Translator*/
+"m6w-Jo-aqZ.title" = "Toggl Enable / Disable selected rules";
 
 /* No comment by Translator*/
 "m6w-Jo-aqZ.title" = "启用规则";
