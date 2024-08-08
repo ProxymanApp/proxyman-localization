@@ -14,12 +14,6 @@
 "F4h-gg-4VV.title" = "Packets Dropped:";
 
 /* No comment by Translator*/
-"FmL-gv-JOJ.title" = "Untitled";
-
-/* No comment by Translator*/
-"GEQ-tp-csh.title" = "All ";
-
-/* No comment by Translator*/
 "GEQ-tp-csh.title" = "All traffic being proxied through Proxyman will be affected by Network Throttling";
 
 /* No comment by Translator*/
@@ -42,9 +36,6 @@
 
 /* No comment by Translator*/
 "QbN-wy-CFE.title" = "Apply System-wide";
-
-/* No comment by Translator*/
-"Sbc-Tk-KhY.title" = "All ";
 
 /* No comment by Translator*/
 "Sbc-Tk-KhY.title" = "Only support Host and Port. No Wildcard or Regex";
@@ -83,13 +74,7 @@
 "ooQ-bl-LB9.title" = "Packets Dropped:";
 
 /* No comment by Translator*/
-"pdE-E7-Uw5.title" = "api.proxyman.io";
-
-/* No comment by Translator*/
 "sgL-O6-lEk.title" = "Item 2";
-
-/* No comment by Translator*/
-"ulZ-JH-hIf.title" = "All ";
 
 /* No comment by Translator*/
 "ulZ-JH-hIf.title" = "To simulate network condition in real-life, the bandwidth is generated randomly in a given range";
