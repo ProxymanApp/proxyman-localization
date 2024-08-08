@@ -1,0 +1,87 @@
+/* No comment by Translator*/
+"06D-Ik-57G.title" = " Capture gRPC via Interceptor";
+
+/* No comment by Translator*/
+"1XJ-cw-FoT.title" = "<key>NSLocalNetworkUsageDescription</key>\n<string>Atlantis would use Bonjour Service to discover Proxyman app from your local network.</string>\n<key>NSBonjourServices</key>\n<array>\n    <string>_Proxyman._tcp</string>\n</array>";
+
+/* No comment by Translator*/
+"5EY-Rj-gkk.title" = "Atlantis.start()";
+
+/* No comment by Translator*/
+"70u-YQ-QHo.title" = " Support iOS Physical Devices and Simulators";
+
+/* No comment by Translator*/
+"74P-8C-9Fq.title" = "+ If you only want to connect to your Mac rather than colleague's Mac:";
+
+/* No comment by Translator*/
+"DbA-qH-UCG.title" = "A little and powerful iOS framework for intercepting HTTP/HTTPS Traffic from your app. \nNo more messing around with proxy and certificate config.";
+
+/* No comment by Translator*/
+"DwI-LG-lqG.title" = " Inspect network traffic on Proxyman app";
+
+/* No comment by Translator*/
+"EoS-fV-A7W.title" = "🧰 Atlantis - iOS Framework";
+
+/* No comment by Translator*/
+"ErA-FZ-Eke.title" = "https://github.com/ProxymanApp/atlantis";
+
+/* No comment by Translator*/
+"Kx3-DJ-4V2.title" = "Bonjour Service Error:";
+
+/* No comment by Translator*/
+"LK3-Dm-2PS.title" = "Install via CocoaPod:";
+
+/* No comment by Translator*/
+"M21-pX-A3l.title" = "By default, Atlantis will connect to all Proxyman apps from other Mac on the same Network.";
+
+/* No comment by Translator*/
+"NIt-8E-iJ4.title" = " Capture WebSocket from URLSessionWebsocketTask";
+
+/* No comment by Translator*/
+"NfB-kK-FXd.title" = "Add the following code to Info.plist (iOS 14+)";
+
+/* No comment by Translator*/
+"VwY-dG-rTd.title" = "Atlantis.start(hostName: \"nghias\")";
+
+/* No comment by Translator*/
+"Yqs-Cb-G8d.title" = "Box";
+
+/* No comment by Translator*/
+"Z2z-ZU-CKC.title" = "How to Install?";
+
+/* No comment by Translator*/
+"ZTS-2w-k1s.title" = "Box";
+
+/* No comment by Translator*/
+"aDj-C7-KCi.title" = "Swift Package Manager:";
+
+/* No comment by Translator*/
+"bya-og-kQj.title" = "+ If you have only one Mac:";
+
+/* No comment by Translator*/
+"g0h-DO-kXC.title" = "Only Support macOS 10.14+";
+
+/* No comment by Translator*/
+"g6F-W8-wu0.title" = " No need to config HTTP Proxy, Install or Trust any Certificate";
+
+/* No comment by Translator*/
+"i97-oV-dgj.title" = "Add to application(_:didFinishLaunchingWithOptions:)";
+
+/* No comment by Translator*/
+"nRT-uP-e0V.title" = " Your Atlantis iOS version is out-of-date and not compatible. Please update Atlantis!";
+
+/* No comment by Translator*/
+"nkB-fj-i3i.title" = "pod 'atlantis-proxyman'";
+
+/* No comment by Translator*/
+"txQ-HR-Di4.title" = "Github...";
+
+/* No comment by Translator*/
+"ycQ-Jd-yLH.title" = "How to Start Atlantis?";
+
+/* No comment by Translator*/
+"zXg-wd-cNO.title" = " Automatically intercept all HTTP/HTTPS Traffic from your iOS app";
+
+/* No comment by Translator*/
+"uWV-DL-U4w.title" = "Enable Atlantis Service";
+

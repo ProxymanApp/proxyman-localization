@@ -1,0 +1,507 @@
+/* No comment by Translator*/
+"0IK-8b-Xur.title" = "Open Setting app > Downloaded Profile";
+
+/* No comment by Translator*/
+"0Wb-Eu-YBS.title" = "Box";
+
+/* No comment by Translator*/
+"0g9-Jz-zEX.title" = "iOS Settings app > Wi-Fi > Select current Wi-Fi > Configure Proxy > Manual";
+
+/* No comment by Translator*/
+"247-Ze-atF.title" = "Window";
+
+/* No comment by Translator*/
+"27z-Ia-iWs.title" = "Your certificate doesn't comply new Apple Security Requirement (https://support.apple.com/en-us/HT210176)";
+
+/* No comment by Translator*/
+"28I-42-dde.title" = " Installed and Trusted";
+
+/* No comment by Translator*/
+"2MB-ih-zzS.title" = "Preview...";
+
+/* No comment by Translator*/
+"2vE-RS-9xb.title" = "Import PEM / DER...";
+
+/* No comment by Translator*/
+"350-RA-CLK.title" = "Import P12...";
+
+/* No comment by Translator*/
+"35G-yF-RjE.title" = "Delete";
+
+/* No comment by Translator*/
+"3Gf-lf-931.title" = "Table View Cell";
+
+/* No comment by Translator*/
+"3Qo-NJ-51Z.title" = "3.1: Add res/xml/network_security_config.xml";
+
+/* No comment by Translator*/
+"3me-kK-BKu.title" = "Button";
+
+/* No comment by Translator*/
+"3w9-NR-iOT.title" = "Custom Certificates";
+
+/* No comment by Translator*/
+"4As-3o-OGw.title" = "1. Install Root Proxyman Certificate to this Mac";
+
+/* No comment by Translator*/
+"4Or-Eq-Hh7.title" = "PEM / DER File:";
+
+/* No comment by Translator*/
+"4oo-po-W5P.title" = "Automatically Override HTTP Proxy, Install and Trust Proxyman Certificate.";
+
+/* No comment by Translator*/
+"4u2-ta-7Uk.title" = "Invalid Private Key";
+
+/* No comment by Translator*/
+"5ta-i9-je0.title" = "Open Setting app -> Security -> Encryption & Credentials -> Install a Certificate -> CA Certificate";
+
+/* No comment by Translator*/
+"65e-73-Q0G.title" = "Please find your current IP Address by holding Option and Click on Wifi Icon on the System Menu";
+
+/* No comment by Translator*/
+"6IL-OC-fe9.title" = "Missing Extend Service";
+
+/* No comment by Translator*/
+"6Q0-Uk-SPu.title" = "2. Config Wifi Proxy on iOS devices to Proxyman";
+
+/* No comment by Translator*/
+"6ZG-PR-Why.title" = "4. Trust Proxyman Certificate in Setting app (Only for Android 11 and above)";
+
+/* No comment by Translator*/
+"7Ik-Hc-tUa.title" = "3. Reboot iOS Simulators";
+
+/* No comment by Translator*/
+"8Vf-ft-XbX.title" = "Troubleshooting";
+
+/* No comment by Translator*/
+"8Wf-ky-fty.title" = "Only Override HTTP Proxy";
+
+/* No comment by Translator*/
+"8iV-K1-LhX.title" = "Select File...";
+
+/* No comment by Translator*/
+"8rb-hH-jwg.title" = "http://proxy.man/ssl";
+
+/* No comment by Translator*/
+"90P-rB-29M.title" = "Select File...";
+
+/* No comment by Translator*/
+"99d-Hk-vcA.title" = "Port:";
+
+/* No comment by Translator*/
+"9gr-qr-L1N.title" = "Config Client Certificates that use when establishing SSL connections to selected servers";
+
+/* No comment by Translator*/
+"9mo-5n-Ok1.title" = "Proxyman CA (20 May, 2022)";
+
+/* No comment by Translator*/
+"A8s-e9-Lhj.title" = "Generate and Add";
+
+/* No comment by Translator*/
+"AX3-a3-Js3.title" = "3. Open Safari on iOS devices";
+
+/* No comment by Translator*/
+"B3B-RL-Tre.title" = "Import";
+
+/* No comment by Translator*/
+"B8Z-hw-rUU.title" = "Install & Trust on all running Simulators (iOS, iPadOS, watchOS and tvOS). Require Xcode 11.4+.";
+
+/* No comment by Translator*/
+"BD4-ui-GDK.title" = "Replace <your_production_domain> with your domains that you would intercept";
+
+/* No comment by Translator*/
+"BMA-JI-QHh.title" = "iPhone Simulator Guideline";
+
+/* No comment by Translator*/
+"BrG-nw-fju.title" = "4.1";
+
+/* No comment by Translator*/
+"COL-vX-IbZ.title" = "💻 Mac Setup Guide";
+
+/* No comment by Translator*/
+"CPL-kl-p97.title" = "Config Server Certificates that use when establishing SSL connections to clients";
+
+/* No comment by Translator*/
+"DCB-7w-rI4.title" = "Verify that Proxyman Certificate is on Trusted Credentials -> User Tab";
+
+/* No comment by Translator*/
+"DkZ-5q-9fN.title" = "Only Support Android Emulators with Google APIs (Not Google Play Store)";
+
+/* No comment by Translator*/
+"Dkk-yY-jwV.title" = "Authentication:";
+
+/* No comment by Translator*/
+"DpG-WS-524.title" = "Import";
+
+/* No comment by Translator*/
+"EzU-Om-nmj.title" = "Delete";
+
+/* No comment by Translator*/
+"H8r-HJ-rCo.title" = "Android Guideline Document...";
+
+/* No comment by Translator*/
+"HJ6-Mk-udO.title" = "Add to AndroidManifest.xml";
+
+/* No comment by Translator*/
+"I0z-ek-erl.title" = "📱 iOS Devices Setup";
+
+/* No comment by Translator*/
+"I7p-WJ-bLP.title" = "Accept .pem and .der certificate format ";
+
+/* No comment by Translator*/
+"IGC-bV-tWi.title" = "Install and Trust Proxyman CA Certificate in Keychain Access";
+
+/* No comment by Translator*/
+"IKZ-g5-QyE.title" = "Server:";
+
+/* No comment by Translator*/
+"IRg-04-m6D.title" = "Reload new certificates and ready to work.";
+
+/* No comment by Translator*/
+"JxA-aY-R0r.title" = "Make sure you turn OFF the certificate when you are not using Proxyman to debug.";
+
+/* No comment by Translator*/
+"KIa-Bx-NHj.title" = "1. Generate and Add Proxyman CA Certificate to System Keychain";
+
+/* No comment by Translator*/
+"LgV-B5-riS.title" = "Open:";
+
+/* No comment by Translator*/
+"MAV-qN-xEV.title" = "If you could not download the certificate, please read \"Troubleshooting Page\"";
+
+/* No comment by Translator*/
+"MMa-xs-uoO.title" = "Make sure you Select System or Login Keychains.";
+
+/* No comment by Translator*/
+"NHM-3n-a6a.title" = "This certificate is used for generating Proxy Certificates during SSL-Handshake to clients & servers";
+
+/* No comment by Translator*/
+"NLq-bs-bzD.title" = "Import P12...";
+
+/* No comment by Translator*/
+"NdX-lc-bhX.title" = "Box";
+
+/* No comment by Translator*/
+"O11-FW-N0x.title" = "Safari will request your permission to install the \"Proxyman CA\" certificate.";
+
+/* No comment by Translator*/
+"OaA-cg-O1m.title" = "(Require root privileges)";
+
+/* No comment by Translator*/
+"Ogk-GF-p8s.title" = "443";
+
+/* No comment by Translator*/
+"PCb-aj-SS0.title" = "  Proxyman CA hasn't been trusted yet!";
+
+/* No comment by Translator*/
+"PSH-A6-bIN.title" = "Troubleshooting";
+
+/* No comment by Translator*/
+"PX1-sB-oAk.title" = "Preview";
+
+/* No comment by Translator*/
+"PY7-Yt-MH6.title" = "Certificate Importer";
+
+/* No comment by Translator*/
+"RNy-33-dYe.title" = "4. Restart the app";
+
+/* No comment by Translator*/
+"Rq2-VT-se6.title" = "Import PEM / DER...";
+
+/* No comment by Translator*/
+"ScP-eh-kna.title" = "Script Failed? Try to Run the Script Manually...";
+
+/* No comment by Translator*/
+"Sg7-Tw-vWn.title" = "Sample Android Project";
+
+/* No comment by Translator*/
+"T1P-PN-zFN.title" = "Add res/xml/network_security_config.xml";
+
+/* No comment by Translator*/
+"T5n-el-xqE.title" = "It's suitable for clients, which use Mutual Authentication";
+
+/* No comment by Translator*/
+"TOz-b0-cls.title" = "2. Trust the Proxyman CA Certificate in Keychain";
+
+/* No comment by Translator*/
+"TVb-Wg-hL7.title" = "Please follow 2 steps to Install and Trust Proxyman Certificate in your iOS devices:";
+
+/* No comment by Translator*/
+"Ted-5U-pXk.title" = "Does not work?";
+
+/* No comment by Translator*/
+"TkH-KE-jPA.title" = "Try Sample Android Project...";
+
+/* No comment by Translator*/
+"Ueb-Ih-xum.title" = "Manage Certificates";
+
+/* No comment by Translator*/
+"Uqv-6K-0Ez.title" = "3.2: Add to AndroidManifest.xml";
+
+/* No comment by Translator*/
+"VJb-wr-l1g.title" = "Proxyman CA";
+
+/* No comment by Translator*/
+"Vgs-ST-nUJ.title" = "How to generate self-signed certificates";
+
+/* No comment by Translator*/
+"Vns-2D-BGp.title" = "4. Install & Trust Proxyman CA Certificate";
+
+/* No comment by Translator*/
+"VuH-W4-046.title" = "By installing and trusting Proxyman CA Certificate,\nProxyman can decrypt encrypted traffic on the fly and enable to see raw HTTPS requests and responses";
+
+/* No comment by Translator*/
+"WHc-jw-pgT.title" = "Make sure to turn OFF all VPNs from your Macbook and iOS Devices.";
+
+/* No comment by Translator*/
+"WMt-Gm-fcD.title" = "Text Cell";
+
+/* No comment by Translator*/
+"Xiq-W2-KVE.title" = "(Found 1 Simulators)";
+
+/* No comment by Translator*/
+"Y6x-SP-ZDS.title" = "Box";
+
+/* No comment by Translator*/
+"Y8R-1e-7vu.title" = "Open \"Keychain Access\" app -> Search \"Proxyman CA\"  -> Open -> Select \"Always Trust\" -> Quit & Save";
+
+/* No comment by Translator*/
+"YZR-4x-biq.title" = "- Or -";
+
+/* No comment by Translator*/
+"a2Q-ye-hyo.title" = "Import P12...";
+
+/* No comment by Translator*/
+"aD3-a5-dRj.title" = "Install Root Certificate ";
+
+/* No comment by Translator*/
+"b1k-eW-OIt.title" = "Add Your Custom Certificate";
+
+/* No comment by Translator*/
+"b8I-Jj-XKE.title" = "Config with the following info:";
+
+/* No comment by Translator*/
+"bBk-Lg-1eY.title" = " Reboot";
+
+/* No comment by Translator*/
+"bvf-FZ-bZk.title" = "Android Emulator Devices found:";
+
+/* No comment by Translator*/
+"bxO-nB-eKN.title" = "Problem?";
+
+/* No comment by Translator*/
+"c1O-gs-Kwe.title" = "Install & Trust Certificate";
+
+/* No comment by Translator*/
+"cL1-xa-8ps.title" = "Make sure you remove these configs from your Production build.";
+
+/* No comment by Translator*/
+"cg8-Up-CiV.title" = "Revert Override";
+
+/* No comment by Translator*/
+"d4Z-ua-4n4.title" = "3. Add Proxyman Config in your Android app (Only for Android 10 and above)";
+
+/* No comment by Translator*/
+"dZ6-yF-Jgh.title" = "Preview";
+
+/* No comment by Translator*/
+"eQH-Rs-8y4.title" = "8080";
+
+/* No comment by Translator*/
+"eTM-Vw-U40.title" = "Install Certificate ";
+
+/* No comment by Translator*/
+"f9c-r2-itF.title" = "Setting app > General > About ";
+
+/* No comment by Translator*/
+"faQ-pI-rif.title" = "Replace <your_production_domain> with your domains that you would intercept:";
+
+/* No comment by Translator*/
+"fbm-4e-X8L.title" = "Preview...";
+
+/* No comment by Translator*/
+"fmT-1c-f5F.title" = "2. Install and Trust the certificate to running Simulators";
+
+/* No comment by Translator*/
+"h4N-0s-EOk.title" = "macOS Setup Guideline";
+
+/* No comment by Translator*/
+"hAD-vs-5pl.title" = "Text Cell";
+
+/* No comment by Translator*/
+"hNe-Cx-92t.title" = "Script Failed? Open Github Ticket...";
+
+/* No comment by Translator*/
+"hfo-aA-RBs.title" = "Import";
+
+/* No comment by Translator*/
+"huf-Oc-ssT.title" = "Table View Cell";
+
+/* No comment by Translator*/
+"i3s-mO-7Zu.title" = "Generated: Monday 2017";
+
+/* No comment by Translator*/
+"iqL-tk-kyC.title" = "Certificate Importer";
+
+/* No comment by Translator*/
+"iwX-Zy-dHh.title" = "1. Install Root Proxyman Certificate to this Mac";
+
+/* No comment by Translator*/
+"j5C-En-j7N.title" = "Visit Website:";
+
+/* No comment by Translator*/
+"jJu-0X-bMz.title" = "Private Key:";
+
+/* No comment by Translator*/
+"jMm-cW-K7Q.title" = "Install and Trust";
+
+/* No comment by Translator*/
+"jSe-tI-1oO.title" = "Delete";
+
+/* No comment by Translator*/
+"jSp-7A-ddk.title" = "Tired of manual config?";
+
+/* No comment by Translator*/
+"jlX-f0-s42.title" = "Preview";
+
+/* No comment by Translator*/
+"jno-Mx-64Y.title" = "Delete";
+
+/* No comment by Translator*/
+"k41-aG-wU7.title" = "Try Atlantis for iOS";
+
+/* No comment by Translator*/
+"kNC-HC-635.title" = "Make sure you remove these configs from your Production build.";
+
+/* No comment by Translator*/
+"kfV-W1-OLC.title" = "> Select Proxyman CA > Install";
+
+/* No comment by Translator*/
+"lMc-RP-KuC.title" = "Custom Certificates";
+
+/* No comment by Translator*/
+"lwD-Gi-pEf.title" = "Cancel";
+
+/* No comment by Translator*/
+"mVq-mh-DT7.title" = "2. Automatic Script";
+
+/* No comment by Translator*/
+"mqm-Mf-iD1.title" = "Import";
+
+/* No comment by Translator*/
+"nMa-YT-rLp.title" = "Import P12...";
+
+/* No comment by Translator*/
+"nRi-lX-48n.title" = "Host:";
+
+/* No comment by Translator*/
+"nXl-MI-aHe.title" = "5. Add Proxyman Configs to your Android project (Only for Android 10 and above)";
+
+/* No comment by Translator*/
+"nXr-yg-WW5.title" = "192.168.1.1 ";
+
+/* No comment by Translator*/
+"neY-c6-5Zp.title" = "Try standard Android Guideline";
+
+/* No comment by Translator*/
+"oKL-FY-AOt.title" = "Button";
+
+/* No comment by Translator*/
+"oYo-VZ-TT2.title" = "It's suitable for clients, which use Certificate-Pinning";
+
+/* No comment by Translator*/
+"p6G-f3-KyG.title" = "4.2";
+
+/* No comment by Translator*/
+"q9S-v7-gsy.title" = "Quit Proxyman?";
+
+/* No comment by Translator*/
+"qCH-kQ-jhJ.title" = "Expired: Monday 2017";
+
+/* No comment by Translator*/
+"qfM-5Q-kmV.title" = "iPhone Setup Guideline";
+
+/* No comment by Translator*/
+"qfZ-4J-Ozp.title" = "Table View Cell";
+
+/* No comment by Translator*/
+"qpZ-iz-m9a.title" = "Invalid Private Key";
+
+/* No comment by Translator*/
+"r9P-5L-Xdw.title" = "Port:";
+
+/* No comment by Translator*/
+"rSn-kM-gjw.title" = "Please Revert when you quit Proxyman to make Android Emulators work normally";
+
+/* No comment by Translator*/
+"ruG-5M-aLx.title" = "Text Cell";
+
+/* No comment by Translator*/
+"sck-kk-IV2.title" = "> Certificate Trust Settings > Switch ON";
+
+/* No comment by Translator*/
+"tod-KL-UA0.title" = "No";
+
+/* No comment by Translator*/
+"u2e-pe-Xi6.title" = "0 Device(s)";
+
+/* No comment by Translator*/
+"vZW-He-kFQ.title" = "Import PEM / DER...";
+
+/* No comment by Translator*/
+"vy4-6g-yM7.title" = "(Please Launch 1 Android Emulator from Android Studio)";
+
+/* No comment by Translator*/
+"wsq-pf-r31.title" = "📲 iOS Simulators Setup";
+
+/* No comment by Translator*/
+"wto-wX-m41.title" = "Import P12...";
+
+/* No comment by Translator*/
+"xPu-pb-mvd.title" = "Restart the app from Android Studio to take effect and start debugging!";
+
+/* No comment by Translator*/
+"xd6-Mh-c4L.title" = "Import PEM / DER...";
+
+/* No comment by Translator*/
+"yXW-uz-LGv.title" = "What does it mean?";
+
+/* No comment by Translator*/
+"yeA-l0-rXE.title" = "Delete";
+
+/* No comment by Translator*/
+"zA8-J1-5Px.title" = "Root Certificate";
+
+/* No comment by Translator*/
+"zH2-qa-c0Y.title" = "Android Setup Guideline";
+
+/* No comment by Translator*/
+"zf0-3d-Fte.title" = "Select \"Install Anyway\" and select \"CA Proxyman Certificate\" that you downloaded from Step 3";
+
+/* No comment by Translator*/
+"1Z7-xp-AoB.title" = "Click + to add new domain";
+
+/* No comment by Translator*/
+"E9l-lP-2U7.title" = "Text Cell";
+
+/* No comment by Translator*/
+"FTI-rK-Pqe.title" = "Manage Domains";
+
+/* No comment by Translator*/
+"YQX-ji-ztV.title" = "Manage Domains";
+
+/* No comment by Translator*/
+"ZsE-5q-Is1.title" = " iOS 16 issues";
+
+/* No comment by Translator*/
+"do3-oG-sns.title" = "Table View Cell";
+
+/* No comment by Translator*/
+"fbe-IK-o5O.title" = "Add your domains for `network_security_config.xml` file";
+
+/* No comment by Translator*/
+"12N-zA-viy.title" = "http://proxy.man/ssl";
+
+/* No comment by Translator*/
+"x5x-vL-7sF.title" = "Button";
+

@@ -1,0 +1,633 @@
+/* No comment by Translator*/
+"0Ff-RD-OZI.title" = "Protobuf";
+
+/* No comment by Translator*/
+"0fQ-Vd-5Tg.title" = "Leave textfields blank to keep it unchanged from matched requests";
+
+/* No comment by Translator*/
+"15u-la-efl.title" = "Message Type:";
+
+/* No comment by Translator*/
+"1Al-WX-YZY.title" = "Converter";
+
+/* No comment by Translator*/
+"1Ee-dS-zG7.title" = "Delimited List";
+
+/* No comment by Translator*/
+"1xs-li-QXh.title" = "Done";
+
+/* No comment by Translator*/
+"24u-L6-FTD.title" = "Untitled";
+
+/* No comment by Translator*/
+"2Fd-yl-3R8.title" = "Inclusive List for External Proxies:";
+
+/* No comment by Translator*/
+"2RO-xf-Gjo.title" = "Block & Hide Request";
+
+/* No comment by Translator*/
+"2qi-Pl-Pur.title" = "Matching Rule";
+
+/* No comment by Translator*/
+"33J-mu-EVh.title" = "Edit...";
+
+/* No comment by Translator*/
+"3TH-m3-mox.title" = "New...";
+
+/* No comment by Translator*/
+"3p9-uN-0fp.title" = "Text Cell";
+
+/* No comment by Translator*/
+"495-Zy-klz.title" = "Cancel";
+
+/* No comment by Translator*/
+"49O-am-DTu.title" = "Text Cell";
+
+/* No comment by Translator*/
+"4ka-a6-Sj1.title" = "From Charles Proxy...";
+
+/* No comment by Translator*/
+"4st-4u-PxL.title" = "Bypass List for External Proxies:";
+
+/* No comment by Translator*/
+"54j-bd-iV2.title" = "Box";
+
+/* No comment by Translator*/
+"6p9-2t-NMs.title" = "From Proxyman...";
+
+/* No comment by Translator*/
+"6yN-WS-9Vg.title" = "Duplicate";
+
+/* No comment by Translator*/
+"7KD-dz-m6N.title" = " Not found in Schema List";
+
+/* No comment by Translator*/
+"7WC-AY-SS1.title" = "Export Settings...";
+
+/* No comment by Translator*/
+"7lm-yD-mJr.title" = "Response";
+
+/* No comment by Translator*/
+"7u5-Hm-wEX.title" = "Enable Rule";
+
+/* No comment by Translator*/
+"8Mz-VP-qDC.title" = "⌘N: New; ⌘⏎: Edit; ⌘⌫: Delete; ⌘D: Duplicate;";
+
+/* No comment by Translator*/
+"8Wk-O3-4HB.title" = "http://api.proxyman.io";
+
+/* No comment by Translator*/
+"8dG-KB-OlC.title" = "Box";
+
+/* No comment by Translator*/
+"8dZ-ZZ-UQW.title" = "Label";
+
+/* No comment by Translator*/
+"8ke-bh-uZB.title" = "Map Remote";
+
+/* No comment by Translator*/
+"91T-xN-aX4.title" = "Matching Rule:";
+
+/* No comment by Translator*/
+"9Ax-05-gIA.title" = "Text Cell";
+
+/* No comment by Translator*/
+"9yR-kz-Jas.title" = "Matching Rule:";
+
+/* No comment by Translator*/
+"A3S-hP-iWX.title" = "⌘N: New; ⌘⏎: Edit; ⌘⌫: Delete; ⌘D: Duplicate; Space: Enable/Disable Rules;";
+
+/* No comment by Translator*/
+"ATA-cs-a47.title" = "Text Cell";
+
+/* No comment by Translator*/
+"Avy-J0-H1L.title" = "Convert";
+
+/* No comment by Translator*/
+"Bke-zb-QOr.title" = "Box";
+
+/* No comment by Translator*/
+"Btl-Af-HZO.title" = "Block List";
+
+/* No comment by Translator*/
+"Caq-bJ-JRc.title" = "Text Cell";
+
+/* No comment by Translator*/
+"Cd5-hR-RP4.title" = "Text Cell";
+
+/* No comment by Translator*/
+"CyY-Ci-Nna.title" = "Map To";
+
+/* No comment by Translator*/
+"D4i-n4-odt.title" = "Name:";
+
+/* No comment by Translator*/
+"DA5-iA-Soe.title" = "Use different Message Type for Request / Response";
+
+/* No comment by Translator*/
+"DKp-b3-yuf.title" = "Click \"+\" or ⌘N to add new entry";
+
+/* No comment by Translator*/
+"EVC-EH-rCg.title" = "More";
+
+/* No comment by Translator*/
+"EjO-kr-9Ce.title" = "Block List Rules";
+
+/* No comment by Translator*/
+"Esu-hv-zjU.title" = "Auto";
+
+/* No comment by Translator*/
+"EvP-SG-jOq.title" = "Require Charles Proxy app for converting";
+
+/* No comment by Translator*/
+"FnH-TS-fzU.title" = "Select App...";
+
+/* No comment by Translator*/
+"FrW-VV-SNa.title" = "Untitled";
+
+/* No comment by Translator*/
+"G1K-ac-8yE.title" = "Wildcard is not allowed";
+
+/* No comment by Translator*/
+"G4z-qO-dFS.title" = "Host:";
+
+/* No comment by Translator*/
+"GD4-VB-I8N.title" = "New...";
+
+/* No comment by Translator*/
+"GcR-SJ-hvI.title" = "Map Remote";
+
+/* No comment by Translator*/
+"GeB-Zg-10m.title" = "More";
+
+/* No comment by Translator*/
+"GsR-5F-Och.title" = "Edit...";
+
+/* No comment by Translator*/
+"HrE-xg-75O.title" = "Box";
+
+/* No comment by Translator*/
+"Hux-u9-Hob.title" = "Box";
+
+/* No comment by Translator*/
+"HvE-iu-dZA.title" = "Map Local";
+
+/* No comment by Translator*/
+"IgZ-Eo-5Xg.title" = "Matching Rule:";
+
+/* No comment by Translator*/
+"JXr-nP-XYo.title" = "Single Message";
+
+/* No comment by Translator*/
+"JYF-4o-VV8.title" = "From Charles Proxy...";
+
+/* No comment by Translator*/
+"JtV-Wc-aCX.title" = "Text Cell";
+
+/* No comment by Translator*/
+"JuN-dF-ONn.title" = "Import Settings";
+
+/* No comment by Translator*/
+"KMY-dB-3sx.title" = "How to get *.desc file?";
+
+/* No comment by Translator*/
+"KpL-qD-frB.title" = "If localhost requests don't show on Proxyman, please set domain aliases on /etc/hosts file";
+
+/* No comment by Translator*/
+"LBt-h0-TJp.title" = "Text Cell";
+
+/* No comment by Translator*/
+"Lvj-Kf-9lf.title" = "Duplicate";
+
+/* No comment by Translator*/
+"M61-5L-p5n.title" = "Duplicate";
+
+/* No comment by Translator*/
+"MBG-sg-M7m.title" = "Protobuf Schema...";
+
+/* No comment by Translator*/
+"MPT-OC-LCw.title" = "Protobuf File Descriptor List";
+
+/* No comment by Translator*/
+"MaT-em-kD1.title" = "Click \"+\" or ⌘N to add new entry";
+
+/* No comment by Translator*/
+"Mdl-TG-Eas.title" = "Host:";
+
+/* No comment by Translator*/
+"NiQ-oE-pjP.title" = "⌘N: New; ⌘⏎: Edit; ⌘⌫: Delete; ⌘D: Duplicate; Space: Enable/Disable Rules;";
+
+/* No comment by Translator*/
+"Nxm-Kd-hTk.title" = "Edit...";
+
+/* No comment by Translator*/
+"O19-c6-aPb.title" = "Import Settings";
+
+/* No comment by Translator*/
+"OIK-d8-3EG.title" = "Done";
+
+/* No comment by Translator*/
+"Ocz-RQ-cda.title" = "From Charles Proxy...";
+
+/* No comment by Translator*/
+"OgI-An-vDr.title" = " Not found in Schema List";
+
+/* No comment by Translator*/
+"Ol3-S1-uzs.title" = "Text Cell";
+
+/* No comment by Translator*/
+"OqY-Ed-ONf.title" = "Allow List";
+
+/* No comment by Translator*/
+"PSt-De-Jao.title" = "Request";
+
+/* No comment by Translator*/
+"PqQ-W6-1l7.title" = "Auto";
+
+/* No comment by Translator*/
+"Prf-Ri-T1J.title" = "Cancel";
+
+/* No comment by Translator*/
+"QAU-3B-a5Q.title" = "Protobuf Settings";
+
+/* No comment by Translator*/
+"QbD-2K-tTV.title" = "Enable Block List Tool";
+
+/* No comment by Translator*/
+"Qsa-Bo-ypX.title" = "More";
+
+/* No comment by Translator*/
+"Qwb-4B-kSS.title" = "Protobuf Rules";
+
+/* No comment by Translator*/
+"ROX-0z-YD2.title" = "Always bypass external proxies for localhost";
+
+/* No comment by Translator*/
+"RS0-lD-3OF.title" = "Text Cell";
+
+/* No comment by Translator*/
+"Rv9-zB-96L.title" = "Port:";
+
+/* No comment by Translator*/
+"SAU-N3-pLL.title" = "Path:";
+
+/* No comment by Translator*/
+"Sd3-Su-szh.title" = "Schema:";
+
+/* No comment by Translator*/
+"SrL-tC-BBL.title" = "Edit...";
+
+/* No comment by Translator*/
+"TS4-kl-0nc.title" = "Box";
+
+/* No comment by Translator*/
+"Tvh-MA-fpE.title" = "List of *.desc files used to define the structure of the protocol buffer's data";
+
+/* No comment by Translator*/
+"Twv-OE-Ufn.title" = "From .chls File:";
+
+/* No comment by Translator*/
+"U6N-em-rO4.title" = "Matching Rule";
+
+/* No comment by Translator*/
+"V0a-cm-20s.title" = "http://api.proxyman.io";
+
+/* No comment by Translator*/
+"VaM-JX-ej2.title" = "Delete";
+
+/* No comment by Translator*/
+"Vat-v6-QgF.title" = "Delete";
+
+/* No comment by Translator*/
+"ViK-WY-Vbx.title" = "Text Cell";
+
+/* No comment by Translator*/
+"WEz-i4-5P5.title" = "Top-Down Matching Rule";
+
+/* No comment by Translator*/
+"WM0-ia-4zd.title" = "Enable Rule";
+
+/* No comment by Translator*/
+"Waz-kb-RG5.title" = " Couldn't found Charles Proxy";
+
+/* No comment by Translator*/
+"WeD-sE-TTK.title" = "Text Cell";
+
+/* No comment by Translator*/
+"Wjf-NV-Kvz.title" = "http://api.proxyman.io";
+
+/* No comment by Translator*/
+"WvC-xG-1Wu.title" = "Invalid PAC File";
+
+/* No comment by Translator*/
+"WxO-KP-A8t.title" = "Import Settings";
+
+/* No comment by Translator*/
+"Xyc-Fs-3nf.title" = "Define Rules for blocking or hiding particular domains";
+
+/* No comment by Translator*/
+"YaH-EH-dHs.title" = "New...";
+
+/* No comment by Translator*/
+"YwO-2o-l3Y.title" = "Enable Rule";
+
+/* No comment by Translator*/
+"Ziy-kl-v84.title" = "Import Settings";
+
+/* No comment by Translator*/
+"ZnW-Bs-RAq.title" = "Done";
+
+/* No comment by Translator*/
+"ZwT-sc-yUr.title" = "http://api.proxyman.io";
+
+/* No comment by Translator*/
+"aV0-LX-HBk.title" = "Top-Down Matching Rule";
+
+/* No comment by Translator*/
+"ai4-Dj-nHT.title" = "Cancel";
+
+/* No comment by Translator*/
+"avB-jb-d6l.title" = "Text Cell";
+
+/* No comment by Translator*/
+"b9p-Vb-ytG.title" = "Protobuf Console Log";
+
+/* No comment by Translator*/
+"bGC-yu-Ejf.title" = "Rule:";
+
+/* No comment by Translator*/
+"bJk-fe-XGb.title" = "Box";
+
+/* No comment by Translator*/
+"bJm-Fm-LXw.title" = "Delete";
+
+/* No comment by Translator*/
+"bdG-wf-7zr.title" = "-";
+
+/* No comment by Translator*/
+"cS7-Nv-qCv.title" = "Preserve Host in Header Fields";
+
+/* No comment by Translator*/
+"cUo-KN-9XF.title" = "Box";
+
+/* No comment by Translator*/
+"cf1-Hn-IZ0.title" = "Protobuf Settings";
+
+/* No comment by Translator*/
+"cnK-t9-lcZ.title" = "Done";
+
+/* No comment by Translator*/
+"cpR-pg-qce.title" = "Map From";
+
+/* No comment by Translator*/
+"d0U-ff-Eiw.title" = "Action:";
+
+/* No comment by Translator*/
+"dEP-SJ-y2j.title" = "Cancel";
+
+/* No comment by Translator*/
+"dHm-ip-VI1.title" = "GET";
+
+/* No comment by Translator*/
+"dRg-W2-our.title" = "Box";
+
+/* No comment by Translator*/
+"dSi-ge-eV4.title" = "To .har File:";
+
+/* No comment by Translator*/
+"ddW-TL-deK.title" = "Protocol:";
+
+/* No comment by Translator*/
+"dg1-As-tyP.title" = "Enable External Proxy Tool";
+
+/* No comment by Translator*/
+"e4p-dX-1VH.title" = "Include all subpaths of this domain";
+
+/* No comment by Translator*/
+"eEu-x7-8h1.title" = "Block and Hide";
+
+/* No comment by Translator*/
+"eO0-3D-8ut.title" = "⌘N: New; ⌘⏎: Edit; ⌘⌫: Delete; ⌘D: Duplicate; Space: Enable/Disable Rules;";
+
+/* No comment by Translator*/
+"eRn-AX-Ioo.title" = "Cancel";
+
+/* No comment by Translator*/
+"fIW-i8-0ys.title" = "Export Settings...";
+
+/* No comment by Translator*/
+"fUi-2O-NHD.title" = "Matching Rule:";
+
+/* No comment by Translator*/
+"fk2-Kq-qT3.title" = "Name:";
+
+/* No comment by Translator*/
+"gZC-qp-uG9.title" = "Text Cell";
+
+/* No comment by Translator*/
+"gie-57-rnH.title" = "Protobuf Schema List";
+
+/* No comment by Translator*/
+"h2y-SY-SFz.title" = "Text Cell";
+
+/* No comment by Translator*/
+"hB9-WI-l6l.title" = "Leave empty if you'd allow all traffic to go to the External Proxies.";
+
+/* No comment by Translator*/
+"hGm-jh-75d.title" = "Hide, but not Block";
+
+/* No comment by Translator*/
+"hKB-3P-6cG.title" = "From Proxyman...";
+
+/* No comment by Translator*/
+"hrm-aJ-Sdy.title" = "Query:";
+
+/* No comment by Translator*/
+"iAy-qs-4kh.title" = "Delete";
+
+/* No comment by Translator*/
+"iMj-pD-mMb.title" = "Change the request location to new location";
+
+/* No comment by Translator*/
+"ivJ-Kh-P4O.title" = "Text Cell";
+
+/* No comment by Translator*/
+"j9A-m6-SwX.title" = "New...";
+
+/* No comment by Translator*/
+"j9L-LL-GiB.title" = "Name:";
+
+/* No comment by Translator*/
+"js3-TC-X9c.title" = "Text Cell";
+
+/* No comment by Translator*/
+"kMJ-wP-wVM.title" = "Label";
+
+/* No comment by Translator*/
+"kO0-CO-hYh.title" = "Text Cell";
+
+/* No comment by Translator*/
+"l1s-Ls-GJV.title" = "Wildcard * and ? are supported";
+
+/* No comment by Translator*/
+"lOA-Tr-nm3.title" = "Cancel";
+
+/* No comment by Translator*/
+"lWY-UN-3Di.title" = "Enable Allow List Tool";
+
+/* No comment by Translator*/
+"lXO-Pq-YX1.title" = "Path:";
+
+/* No comment by Translator*/
+"mIQ-Am-U2t.title" = "Enable Map Remote Tool";
+
+/* No comment by Translator*/
+"mRc-Tt-HKr.title" = "If the Message Type does not exist, please add the Schema firstly";
+
+/* No comment by Translator*/
+"nwz-0P-n2k.title" = "Box";
+
+/* No comment by Translator*/
+"o2f-BN-OQR.title" = "Delete";
+
+/* No comment by Translator*/
+"oRL-hu-zB2.title" = "Allow List";
+
+/* No comment by Translator*/
+"oje-TA-GPl.title" = "Done";
+
+/* No comment by Translator*/
+"opx-sZ-ijY.title" = "Click \"+\" or ⌘N to import Protobuf Schema (*.desc)";
+
+/* No comment by Translator*/
+"orx-y9-b2o.title" = "Text Cell";
+
+/* No comment by Translator*/
+"pCZ-Ap-SjV.title" = "Export Settings...";
+
+/* No comment by Translator*/
+"pTQ-wT-bCq.title" = "New...";
+
+/* No comment by Translator*/
+"pud-ei-tlC.title" = "Top-Down Matching Rule";
+
+/* No comment by Translator*/
+"pwm-eM-r0y.title" = "Charles Proxy:";
+
+/* No comment by Translator*/
+"qT1-0Z-4qQ.title" = "Start the breakpoint for out-going request or in-coming response.";
+
+/* No comment by Translator*/
+"qwn-rK-VIm.title" = "More";
+
+/* No comment by Translator*/
+"r6V-2H-t1B.title" = "Import Settings";
+
+/* No comment by Translator*/
+"rFg-kE-I1U.title" = "Name:";
+
+/* No comment by Translator*/
+"rLD-D7-Pu3.title" = "From Proxyman...";
+
+/* No comment by Translator*/
+"rQz-iV-rmI.title" = "Support Wildcard (* and ?). Separate by Comma.";
+
+/* No comment by Translator*/
+"rng-I1-ygy.title" = "Protobuf Schema List";
+
+/* No comment by Translator*/
+"s6a-uq-wFJ.title" = "Block & Display Requests";
+
+/* No comment by Translator*/
+"tT1-LO-l8Y.title" = "For Response:";
+
+/* No comment by Translator*/
+"tZ5-Fu-fWk.title" = "Box";
+
+/* No comment by Translator*/
+"uY0-8c-fcJ.title" = "Query:";
+
+/* No comment by Translator*/
+"ucq-jw-ioc.title" = "Define Rules for capturing only specific domains. Ignore others domains.";
+
+/* No comment by Translator*/
+"uiN-ld-RFT.title" = "Done";
+
+/* No comment by Translator*/
+"uwf-ly-0bc.title" = "Untitled";
+
+/* No comment by Translator*/
+"vgL-e3-btf.title" = "Box";
+
+/* No comment by Translator*/
+"viL-q0-xbs.title" = "Table View Cell";
+
+/* No comment by Translator*/
+"vtY-iU-gKe.title" = "Box";
+
+/* No comment by Translator*/
+"vwl-nn-iX0.title" = "Text Cell";
+
+/* No comment by Translator*/
+"wMZ-m0-4qj.title" = "Add Schema...";
+
+/* No comment by Translator*/
+"wVS-GY-yL5.title" = "Top-Down Matching Rule";
+
+/* No comment by Translator*/
+"wVu-5x-ISS.title" = "http://api.proxyman.io";
+
+/* No comment by Translator*/
+"wac-uQ-OAI.title" = "Select File...";
+
+/* No comment by Translator*/
+"wlH-m9-6HI.title" = "Breakpoint:";
+
+/* No comment by Translator*/
+"wuM-Cv-isf.title" = "Click \"+\" or ⌘N to add new entry";
+
+/* No comment by Translator*/
+"wwZ-II-75L.title" = "Cancel";
+
+/* No comment by Translator*/
+"x5Q-LT-Mwa.title" = "Protocol:";
+
+/* No comment by Translator*/
+"xGg-2k-hgY.title" = "Convert .chls to .har that Proxyman can understand";
+
+/* No comment by Translator*/
+"xmW-g9-tsk.title" = "ANY";
+
+/* No comment by Translator*/
+"y8W-et-qCH.title" = "Select a protocol to configure:";
+
+/* No comment by Translator*/
+"yId-We-08h.title" = "Payload Type:";
+
+/* No comment by Translator*/
+"yOx-Ov-TOq.title" = "Duplicate";
+
+/* No comment by Translator*/
+"ybB-CT-jUq.title" = "Breakpoint rules";
+
+/* No comment by Translator*/
+"ytP-0y-R1e.title" = "http://api.proxyman.io";
+
+/* No comment by Translator*/
+"yuh-PD-4XT.title" = "Import Settings";
+
+/* No comment by Translator*/
+"Gls-g2-AJY.title" = "Click \"+\" or ⌘N to add new entry";
+
+/* No comment by Translator*/
+"mMu-Uq-RFk.title" = "More";
+
+/* No comment by Translator*/
+"qxb-JD-Cyf.title" = "Port:";
+
+/* No comment by Translator*/
+"c8M-mL-bp8.title" = "Import Settings…";
+
+/* No comment by Translator*/
+"fTi-JU-nUQ.title" = "Export Setting…";
+

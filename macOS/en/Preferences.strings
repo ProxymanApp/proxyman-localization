@@ -1,0 +1,666 @@
+/* No comment by Translator*/
+"0Vr-ZZ-FII.title" = "15";
+
+/* No comment by Translator*/
+"1D9-Iv-Gsp.title" = "License";
+
+/* No comment by Translator*/
+"1Fq-MH-826.title" = "© 2023 Proxyman LLC";
+
+/* No comment by Translator*/
+"1xc-Rq-yug.title" = "Display Full Time Format";
+
+/* No comment by Translator*/
+"2Ce-wr-Nk1.title" = "Proxy Port:";
+
+/* No comment by Translator*/
+"2Ec-LR-DO9.title" = "Append Proxyman Headers to matched flows";
+
+/* No comment by Translator*/
+"2Zj-jQ-RO4.title" = "~/Desktop";
+
+/* No comment by Translator*/
+"2Zz-AT-VRb.title" = "Random (1-15)";
+
+/* No comment by Translator*/
+"3ht-YN-L4A.title" = "Auto open the Export Directory after exporting";
+
+/* No comment by Translator*/
+"3nA-cp-gr0.title" = "Apply to all tabs in the Request and Response Panel and the main table.";
+
+/* No comment by Translator*/
+"3ss-XQ-P1M.title" = "*.chls Converter:";
+
+/* No comment by Translator*/
+"4bl-2c-n7Z.title" = "The content in Body Previewer would wrap to new line.";
+
+/* No comment by Translator*/
+"532-Yx-67Y.title" = "Review or Revoke Application Authorization.";
+
+/* No comment by Translator*/
+"5CW-ZF-nf6.title" = "Map Local Directory:";
+
+/* No comment by Translator*/
+"5E6-g7-gT1.title" = "Thank you for using Proxyman 🌟";
+
+/* No comment by Translator*/
+"5Ey-ac-cqq.title" = "Activate";
+
+/* No comment by Translator*/
+"5NG-EH-cta.title" = "24";
+
+/* No comment by Translator*/
+"5OH-0G-bSf.title" = "13";
+
+/* No comment by Translator*/
+"5Ph-iC-AZQ.title" = "17";
+
+/* No comment by Translator*/
+"6Q1-Nq-cEo.title" = "License Registration";
+
+/* No comment by Translator*/
+"7NJ-Hj-gFj.title" = "Only the owner or colleagues who have a link can access the Gist.";
+
+/* No comment by Translator*/
+"8iB-3A-4cm.title" = "Delete";
+
+/* No comment by Translator*/
+"921-Uo-FJn.title" = "3 seconds";
+
+/* No comment by Translator*/
+"9SX-VA-zL1.title" = "Use `simctl` command line (Xcode 11.4+)";
+
+/* No comment by Translator*/
+"9sk-ku-nl7.title" = "Publish as:";
+
+/* No comment by Translator*/
+"9sk-pC-1Vk.title" = "Coming soon. Stay tuned!";
+
+/* No comment by Translator*/
+"9tM-hY-Kd0.title" = "Display Proxyman on System Status Bar";
+
+/* No comment by Translator*/
+"AD3-c3-hL6.title" = "Box";
+
+/* No comment by Translator*/
+"Bxk-sN-68i.title" = "Help improve Proxyman by automatically sending diagnostics and usage data. Diagnostic data is collected anonymously and cannot be used to identify you.";
+
+/* No comment by Translator*/
+"C4R-eB-LvV.title" = "Registered to nghia@proxyman.io";
+
+/* No comment by Translator*/
+"Cbg-oU-CgP.title" = "Proxyman Dock Icon";
+
+/* No comment by Translator*/
+"DOF-RA-YAC.title" = "Time Format:";
+
+/* No comment by Translator*/
+"DRx-PJ-Off.title" = "Switch between 12-Hour or 24-Hour format.";
+
+/* No comment by Translator*/
+"Df8-Z9-UTz.title" = "Restore Defaults";
+
+/* No comment by Translator*/
+"EBU-HH-AYP.title" = "More";
+
+/* No comment by Translator*/
+"EHm-bg-ulm.title" = " Persist and Restore to your previous Proxy setting";
+
+/* No comment by Translator*/
+"ET3-Tc-Zjs.title" = "Version 1.4.0";
+
+/* No comment by Translator*/
+"EoZ-nI-IvY.title" = "Action";
+
+/* No comment by Translator*/
+"EvB-M6-TBJ.title" = "11";
+
+/* No comment by Translator*/
+"F6v-yQ-5Lx.title" = "All Proxyman windows are float on top.";
+
+/* No comment by Translator*/
+"FWy-xl-1ZO.title" = "Font Size";
+
+/* No comment by Translator*/
+"Fec-Fl-khM.title" = "Icon Only";
+
+/* No comment by Translator*/
+"Fjt-o1-3As.title" = "If you have already purchased Proxyman, please check your email for the license key.";
+
+/* No comment by Translator*/
+"G0s-1b-ptK.title" = "Record HTTP/HTTPS Traffic and display on the main table view.";
+
+/* No comment by Translator*/
+"G3H-YD-tNc.title" = "2 seconds";
+
+/* No comment by Translator*/
+"G3k-eP-qB5.title" = "You can activate a Premium Proxyman for iOS with your license Key.";
+
+/* No comment by Translator*/
+"G4Q-Rk-WW9.title" = "Preview...";
+
+/* No comment by Translator*/
+"GI2-GU-BDu.title" = "Export";
+
+/* No comment by Translator*/
+"GRh-ar-Fcg.title" = "Manage Access";
+
+/* No comment by Translator*/
+"GcU-Ks-Z4Z.title" = "Auto Start Recording Traffic at Launch Time";
+
+/* No comment by Translator*/
+"Gf7-2K-UO9.title" = "Selected Request/Response Tabs will be restored after the app launches.";
+
+/* No comment by Translator*/
+"HGS-90-QyJ.title" = "After Publish:";
+
+/* No comment by Translator*/
+"HWt-Vj-m9R.title" = "iOS Simulators:";
+
+/* No comment by Translator*/
+"HdF-Wc-eWS.title" = "License Key:";
+
+/* No comment by Translator*/
+"Hf3-sZ-9ad.title" = "60 seconds";
+
+/* No comment by Translator*/
+"HfA-QJ-tDS.title" = "macOS Proxy Settings";
+
+/* No comment by Translator*/
+"HjQ-KW-7TK.title" = "Export Log:";
+
+/* No comment by Translator*/
+"Hm9-ql-dWy.title" = "Box";
+
+/* No comment by Translator*/
+"I0h-51-7d4.title" = "16";
+
+/* No comment by Translator*/
+"IKr-ow-7xJ.title" = "UI and Syntax Highlight Theme";
+
+/* No comment by Translator*/
+"IM9-xB-06w.title" = "Lost Key?";
+
+/* No comment by Translator*/
+"ISQ-zy-ocW.title" = "15 seconds";
+
+/* No comment by Translator*/
+"IhB-tT-LSS.title" = "Renew";
+
+/* No comment by Translator*/
+"JgM-DQ-8jS.title" = "Powered by Microsoft App Center";
+
+/* No comment by Translator*/
+"JuX-gz-PVq.title" = "10";
+
+/* No comment by Translator*/
+"K62-B0-EXH.title" = "Miscellaneous:";
+
+/* No comment by Translator*/
+"K6f-dH-Woe.title" = "Help improve Proxyman's stability and performance by sending the crash report if Proxyman is crashed unexpectedly. This crash report is collected anonymously and contains no personal information.";
+
+/* No comment by Translator*/
+"L8W-up-oIP.title" = "Show Resource Usage in Bottom Bar";
+
+/* No comment by Translator*/
+"LLi-3b-pjV.title" = "Use No-Caching on Repeated Requests";
+
+/* No comment by Translator*/
+"LkA-UH-azw.title" = "Upgrade to Premium to unlock all features.";
+
+/* No comment by Translator*/
+"Lqm-Rb-4v3.title" = "Include memory usage, upload and download speed.";
+
+/* No comment by Translator*/
+"MJm-cy-Ovb.title" = " This port is occupied! Please select available port.";
+
+/* No comment by Translator*/
+"MN2-cP-LLI.title" = "Stay On Top";
+
+/* No comment by Translator*/
+"Mb7-KU-npu.title" = "Uninstall";
+
+/* No comment by Translator*/
+"Mn8-XJ-7v0.title" = "Time Label will display with Date, Time, and keep the TimeZone.";
+
+/* No comment by Translator*/
+"N6K-G2-QMY.title" = "28";
+
+/* No comment by Translator*/
+"NMP-nz-g9l.title" = "Request and Response panels in Vertical or Horizontal Layout.";
+
+/* No comment by Translator*/
+"NSZ-qX-Kq1.title" = "Acknowledgment";
+
+/* No comment by Translator*/
+"NYd-S0-tpS.title" = "Not Authorize Yet";
+
+/* No comment by Translator*/
+"NZh-v6-y1S.title" = "It's useful if you're using different Proxy Server at the same time with Proxyman.";
+
+/* No comment by Translator*/
+"O5T-gR-uix.title" = "Unlink this Device";
+
+/* No comment by Translator*/
+"ONU-RP-7UJ.title" = "Debugging Tools:";
+
+/* No comment by Translator*/
+"Odh-9K-Po6.title" = "Horizontal";
+
+/* No comment by Translator*/
+"PdR-jA-mPr.title" = "If your license is expired, Proxyman would not notify it on the status bar.";
+
+/* No comment by Translator*/
+"QF9-qQ-1q1.title" = "You're using a Trial Version";
+
+/* No comment by Translator*/
+"Qgq-TP-lie.title" = "Hide *.apple.com and *.icloud.com request from iOS Simulators.";
+
+/* No comment by Translator*/
+"RDc-l7-83E.title" = "Default directory to create temporary Map Local files.";
+
+/* No comment by Translator*/
+"Rgb-wI-DPe.title" = "Text Only";
+
+/* No comment by Translator*/
+"Riv-kU-y3g.title" = "You're no longer receive any further updates, please Renew to get the latest updates.";
+
+/* No comment by Translator*/
+"STu-UY-CEs.title" = "Analytics:";
+
+/* No comment by Translator*/
+"Sby-GA-bQs.title" = "Open Gist with default Web Browser";
+
+/* No comment by Translator*/
+"Smd-It-cvi.title" = "Anyone can access the Gist.";
+
+/* No comment by Translator*/
+"TEm-bK-haX.title" = "Content Layout:";
+
+/* No comment by Translator*/
+"TFV-ln-1Bd.title" = "Toolbar Style:";
+
+/* No comment by Translator*/
+"VWC-SK-7lV.title" = "Root Certificate as PEM...";
+
+/* No comment by Translator*/
+"VgO-yw-Imi.title" = "Simulate the delay before sending the Map Local Response.";
+
+/* No comment by Translator*/
+"WWJ-OP-BzR.title" = "20";
+
+/* No comment by Translator*/
+"WY7-qJ-smu.title" = "Allow Scripts to read System Environment Variables";
+
+/* No comment by Translator*/
+"WbR-zh-4eo.title" = "About";
+
+/* No comment by Translator*/
+"XiK-LT-h82.title" = "To read or write Gists on a user's behalf, Proxyman requires Gist Permission from your Github account. After the authorization, your Github Access Token will securely store in System Keychain.";
+
+/* No comment by Translator*/
+"YJs-z2-3ut.title" = "Privacy Policy";
+
+/* No comment by Translator*/
+"Ymf-kA-MTA.title" = "(Required Root Privileges)";
+
+/* No comment by Translator*/
+"YoJ-zs-nWA.title" = "Auto override the proxy config in Network -> Wifi -> Advanced -> Proxies tab.";
+
+/* No comment by Translator*/
+"Z4q-GN-Y7F.title" = "Applied for Map Local, Map Remote, and Scripting.";
+
+/* No comment by Translator*/
+"ZKj-HO-4Ct.title" = "18";
+
+/* No comment by Translator*/
+"ZSE-HI-cFP.title" = "Version 1.3.5 (1350)";
+
+/* No comment by Translator*/
+"ZVn-eI-9a7.title" = "Root Certificate as P12...";
+
+/* No comment by Translator*/
+"aMS-wb-prv.title" = "Vertical";
+
+/* No comment by Translator*/
+"aQK-db-vY9.title" = "Extend seats";
+
+/* No comment by Translator*/
+"aq4-Lu-QC8.title" = "Restore to previous selected Request/Response tab";
+
+/* No comment by Translator*/
+"b2V-zQ-exT.title" = "No Delay";
+
+/* No comment by Translator*/
+"bGB-Se-A8C.title" = "Dock Icon does not update? ";
+
+/* No comment by Translator*/
+"bGa-nX-15Z.title" = "Enjoy using Proxyman?";
+
+/* No comment by Translator*/
+"bIb-oI-qtR.title" = "Private Key...";
+
+/* No comment by Translator*/
+"bK9-a8-8Fm.title" = "Expired: Monday 2017";
+
+/* No comment by Translator*/
+"bKO-Vo-2Mu.title" = "Hide Unnecessary Apple Requests from iOS Simulators";
+
+/* No comment by Translator*/
+"bUG-dY-IO2.title" = "Instead of sorting by created_at time, it will sort alphabetically.";
+
+/* No comment by Translator*/
+"bgG-mH-L87.title" = " Auto Override HTTP/HTTPS Proxy with high performance";
+
+/* No comment by Translator*/
+"c1X-wk-d27.title" = "Select directory";
+
+/* No comment by Translator*/
+"d8g-Mc-OBF.title" = " Not installed";
+
+/* No comment by Translator*/
+"dBO-Gw-e3y.title" = "1 second";
+
+/* No comment by Translator*/
+"dak-aO-RNj.title" = "Advanced:";
+
+/* No comment by Translator*/
+"dez-HH-Yrh.title" = "Share analytics with Proxyman";
+
+/* No comment by Translator*/
+"dnS-x1-vCO.title" = "Select directory";
+
+/* No comment by Translator*/
+"dyt-cH-Hbp.title" = "Proxyman won't prompt the Mac Setup Guide Window if the certificate is not properly trusted in Keychain Access for domain/app SSL Proxying.";
+
+/* No comment by Translator*/
+"e9l-Lm-FEF.title" = " Graceful Revert the Proxy if the app is crashed unexpectedly";
+
+/* No comment by Translator*/
+"eHL-0p-sMt.title" = "Upgrade to Premium version to unlock all features.";
+
+/* No comment by Translator*/
+"eYG-rd-2Bv.title" = "Map Local Path:";
+
+/* No comment by Translator*/
+"ebx-5B-G7j.title" = "Proxyman";
+
+/* No comment by Translator*/
+"ewR-Wc-HS0.title" = "Your current HTTP/HTTPS Proxy is overridden by networksetup CLI.";
+
+/* No comment by Translator*/
+"exW-fI-aTf.title" = "Environment variables are defined in ~/.bashrc or ~/.zshrc";
+
+/* No comment by Translator*/
+"f9B-Y4-yps.title" = "14";
+
+/* No comment by Translator*/
+"fMP-YS-E39.title" = "Generate new...";
+
+/* No comment by Translator*/
+"gME-HQ-a46.title" = "Proxyman uses `simctl` (from Xcode) or Custom Scripts (Legacy).";
+
+/* No comment by Translator*/
+"gMr-9j-oRr.title" = "Your support would help Proxyman Team to develop the app even better.";
+
+/* No comment by Translator*/
+"hHh-rO-YSJ.title" = "Auto Override System Proxy Configs at Launch Time";
+
+/* No comment by Translator*/
+"hS9-1K-Tah.title" = "Updates available until 20 Jun 2019 (190 days from now)";
+
+/* No comment by Translator*/
+"iGm-01-g5F.title" = "🛠 Install Proxy Helper Tool";
+
+/* No comment by Translator*/
+"jQB-eS-1Fy.title" = "Proxyman Proxy Helper Tool";
+
+/* No comment by Translator*/
+"jTR-5Y-9vt.title" = "Install Helper Tool";
+
+/* No comment by Translator*/
+"jaQ-Yb-BYu.title" = "App Update:";
+
+/* No comment by Translator*/
+"jkq-Sy-qsj.title" = "5 seconds";
+
+/* No comment by Translator*/
+"kAz-Lt-M4H.title" = "Proxy Helper Tool:";
+
+/* No comment by Translator*/
+"kYO-ql-bvQ.title" = "License";
+
+/* No comment by Translator*/
+"lFT-nb-pmJ.title" = "Auto Select Available Port";
+
+/* No comment by Translator*/
+"lTm-qH-0x1.title" = "Show me!";
+
+/* No comment by Translator*/
+"lVO-3H-ICA.title" = "12";
+
+/* No comment by Translator*/
+"lmQ-sA-w5F.title" = "Proxyman CA";
+
+/* No comment by Translator*/
+"lrA-Zd-eon.title" = "Map Local Delay:";
+
+/* No comment by Translator*/
+"mQ9-8L-NnV.title" = "Root Certificate as DER...";
+
+/* No comment by Translator*/
+"n1w-sh-rbz.title" = "Your HTTP/HTTPS Proxy is currently overridden by `networksetup` CLI. It works, but slow!";
+
+/* No comment by Translator*/
+"of6-tn-K4d.title" = "Scripting:";
+
+/* No comment by Translator*/
+"pOe-gF-s8n.title" = "Private Gist";
+
+/* No comment by Translator*/
+"pRd-JS-8ms.title" = "Sort Clients and Domains by Alphabetical Order";
+
+/* No comment by Translator*/
+"pcs-a9-SJX.title" = "Authorize";
+
+/* No comment by Translator*/
+"pdf-1N-QGZ.title" = "Buy a license";
+
+/* No comment by Translator*/
+"pei-oi-u77.title" = "~/Desktop";
+
+/* No comment by Translator*/
+"qCz-f8-2g7.title" = "180 seconds";
+
+/* No comment by Translator*/
+"qqW-Za-BcY.title" = "Proxyman will choose an available port if it's occupied at launch time.";
+
+/* No comment by Translator*/
+"qwF-fZ-Ryx.title" = "Installed & Trusted";
+
+/* No comment by Translator*/
+"rVP-dV-fen.title" = "19";
+
+/* No comment by Translator*/
+"sp9-Yb-MaJ.title" = "Install Proxyman Proxy Helper Tool for better performance.";
+
+/* No comment by Translator*/
+"sr9-da-aVR.title" = "Use 24-Hour Time";
+
+/* No comment by Translator*/
+"tZH-DX-1bT.title" = "About";
+
+/* No comment by Translator*/
+"tb5-eJ-Oaq.title" = "Install";
+
+/* No comment by Translator*/
+"tcs-xX-nH0.title" = "Share crash report with Proxyman";
+
+/* No comment by Translator*/
+"ttL-8F-J8l.title" = "Public Gist";
+
+/* No comment by Translator*/
+"u8I-he-EGc.title" = "App Status Bar:";
+
+/* No comment by Translator*/
+"uI9-Bg-v36.title" = "Require Trusted Proxyman Certificate in Keychain Access ";
+
+/* No comment by Translator*/
+"uVE-HK-2Ga.title" = "Default directory to save a *.har file after converting from *.chls.";
+
+/* No comment by Translator*/
+"ufF-pt-cbl.title" = "About Team";
+
+/* No comment by Translator*/
+"vK7-8k-VY9.title" = "Crash Report:";
+
+/* No comment by Translator*/
+"vKG-7N-DB6.title" = "Generated: Monday 2017";
+
+/* No comment by Translator*/
+"vPQ-0P-oHM.title" = "Word Wrap in Body Previewer";
+
+/* No comment by Translator*/
+"vRn-Tc-gVM.title" = "Ignore Caching and always Fetch Response from the Server.";
+
+/* No comment by Translator*/
+"vSX-gg-USd.title" = "Icon Only (Default)";
+
+/* No comment by Translator*/
+"vlg-C6-YTq.title" = "Export";
+
+/* No comment by Translator*/
+"vor-c5-bJQ.title" = "Icon and Label";
+
+/* No comment by Translator*/
+"xha-qq-63S.title" = "120 seconds";
+
+/* No comment by Translator*/
+"yKd-N8-Rgt.title" = "Restore to previous HTTP/HTTPS Proxy when Proxyman is closed";
+
+/* No comment by Translator*/
+"z7C-CH-rw0.title" = "Gist Permission:";
+
+/* No comment by Translator*/
+"zxe-Pi-ZIB.title" = "Hide the Expired License Status on the Status Bar";
+
+/* No comment by Translator*/
+"GTV-I2-kK7.title" = "Show Update Notification at Launch";
+
+/* No comment by Translator*/
+"1jq-FG-09y.title" = "Copy Library:";
+
+/* No comment by Translator*/
+"4rf-aD-Vtu.title" = "Set default Copy Library in the Right-Menu Context.";
+
+/* No comment by Translator*/
+"6aX-Qj-OSK.title" = "cURL";
+
+/* No comment by Translator*/
+"Nxn-jS-u1v.title" = "(Require Restart App)";
+
+/* No comment by Translator*/
+"h9G-3i-EVr.title" = "(Require Restart App!)";
+
+/* No comment by Translator*/
+"iJu-uC-frl.title" = "Proxyman Proxy Server will listen on 0.0.0.0 (IPv4) and ::0 (IPv6).";
+
+/* No comment by Translator*/
+"n9g-pH-YCy.title" = "Listening on both IPv4 & IPv6";
+
+/* No comment by Translator*/
+"oes-V6-8FP.title" = "HTTPie";
+
+/* No comment by Translator*/
+"rZ6-da-QPY.title" = "It allows Proxyman capture cURL traffic.";
+
+/* No comment by Translator*/
+"s8X-8q-rjl.title" = "Add --proxy flag into cURL command";
+
+/* No comment by Translator*/
+"sWT-ah-CKH.title" = "(Require Restart App!)";
+
+/* No comment by Translator*/
+"4gX-Cf-9DQ.title" = "What's new on 1.4.0";
+
+/* No comment by Translator*/
+"AJ8-QS-cN3.title" = "Control the language you see in Proxyman UI.";
+
+/* No comment by Translator*/
+"NHj-XZ-BGK.title" = "(Require Restart App)";
+
+/* No comment by Translator*/
+"RHe-pI-8FQ.title" = "App Language:";
+
+/* No comment by Translator*/
+"RjY-fE-LA8.title" = "English";
+
+/* No comment by Translator*/
+"aBm-x9-i2O.title" = "Listen on 127.0.0.1 and ::1 (Remote Devices might not connect to Proxyman)";
+
+/* No comment by Translator*/
+"agF-Ru-6Ul.title" = "Show Invisible Characters";
+
+/* No comment by Translator*/
+"bTk-6o-7ya.title" = "Chinese - Simplified";
+
+/* No comment by Translator*/
+"hNr-F6-kwf.title" = " Comply with new macOS 13 Ventura Requirements for Helper Tool";
+
+/* No comment by Translator*/
+"jbl-1k-wPC.title" = "Display Whitepsace, newline, tab, nonspacing characters in Previewer Tabs";
+
+/* No comment by Translator*/
+"lJC-HM-pBb.title" = "Only Listen on localhost";
+
+/* No comment by Translator*/
+"24o-Jl-MOk.title" = "Documentations…";
+
+/* No comment by Translator*/
+"8PY-AO-8pK.title" = "Capture HTTP(s) traffic without a Mac (iOS 15+).";
+
+/* No comment by Translator*/
+"DAh-s6-dzn.title" = "Windows 10/11";
+
+/* No comment by Translator*/
+"Iyg-sC-F8k.title" = "You're behind 5 updates";
+
+/* No comment by Translator*/
+"MKM-5X-0dt.title" = "AppStore…";
+
+/* No comment by Translator*/
+"VNb-kR-sZN.title" = "⚠️ Expired";
+
+/* No comment by Translator*/
+"Vng-5b-MgI.title" = "Linux";
+
+/* No comment by Translator*/
+"YQ4-gw-r0u.title" = "macOS";
+
+/* No comment by Translator*/
+"aAb-or-9Id.title" = "Not complete, but ready for development.";
+
+/* No comment by Translator*/
+"cgP-Vh-dpf.title" = "Download…";
+
+/* No comment by Translator*/
+"d8D-2f-O2n.title" = "You're behind 5 updates";
+
+/* No comment by Translator*/
+"j2o-wZ-gjP.title" = "iOS";
+
+/* No comment by Translator*/
+"lKU-As-Hkg.title" = "Complete suite of debugging tools.";
+
+/* No comment by Translator*/
+"mrj-zq-sdm.title" = "Homepage…";
+
+/* No comment by Translator*/
+"ut9-5Q-ssa.title" = "Up-to-date";
+
+/* No comment by Translator*/
+"vRm-QK-qM3.title" = "Coming soon!";
+
+/* No comment by Translator*/
+"vr4-Cy-gYD.title" = "Up-to-date";
+

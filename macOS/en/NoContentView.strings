@@ -1,0 +1,48 @@
+/* No comment by Translator*/
+"0Uh-i8-mQI.title" = "Missing SSL Certificate from iOS Simulator";
+
+/* No comment by Translator*/
+"31d-Iy-ovn.title" = "or";
+
+/* No comment by Translator*/
+"4aq-Ys-4f8.title" = "HTTPS Response";
+
+/* No comment by Translator*/
+"6XL-eT-687.title" = "Error";
+
+/* No comment by Translator*/
+"6yp-io-dmy.title" = "Enable all domains from \"Proxyman\"";
+
+/* No comment by Translator*/
+"GBn-nr-VB9.title" = "No Response Data";
+
+/* No comment by Translator*/
+"Gs9-ru-u5x.title" = "Troubleshooting";
+
+/* No comment by Translator*/
+"GxC-5t-ymG.title" = "Please install to see the HTTPS response";
+
+/* No comment by Translator*/
+"GxF-XD-BcQ.title" = "Enable SSL Proxying to see the content.";
+
+/* No comment by Translator*/
+"XkF-QZ-37G.title" = "Enable this Domain";
+
+/* No comment by Translator*/
+"ZB9-8G-tzO.title" = "This HTTPS request is signed with custom CA Certificate (SSL-Pinning).\nYou may need to config your browser or application to trust the Proxyman CA Certificate. ";
+
+/* No comment by Translator*/
+"Zo7-X9-gkR.title" = "Your iOS simulator hasn't installed any Proxyman Certificate yet";
+
+/* No comment by Translator*/
+"cm5-Xc-OGe.title" = "This HTTPS response is encrypted.";
+
+/* No comment by Translator*/
+"kl0-Mc-HcD.title" = "Install Certificate";
+
+/* No comment by Translator*/
+"ndj-TK-mKm.title" = "Box";
+
+/* No comment by Translator*/
+"zfJ-2L-Ojf.title" = "Client SSL Handshake Failed";
+
