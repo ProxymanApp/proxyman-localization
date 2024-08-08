@@ -1,101 +1,86 @@
-/* Class = "NSButtonCell"; title = " Capture gRPC via Interceptor"; ObjectID = "06D-Ik-57G"; */
+/* No comment by Translator*/
 "06D-Ik-57G.title" = " 通过拦截器捕获 gRPC";
 
-/* Class = "NSTextFieldCell"; title = "<key>NSLocalNetworkUsageDescription</key>\n<string>Atlantis would use Bonjour Service to discover Proxyman app from your local network.</string>\n<key>NSBonjourServices</key>\n<array>\n    <string>_Proxyman._tcp</string>\n</array>"; ObjectID = "1XJ-cw-FoT"; */
+/* No comment by Translator*/
 "1XJ-cw-FoT.title" = "<key>NSLocalNetworkUsageDescription</key>\n<string>Atlantis 将使用 Bonjour 服务从您的本地网络发现 Proxyman 应用程序。</string>\n<key>NSBonjourServices</key>\n<array>\n <string >_Proxyman._tcp</string>\n</array>";
 
-/* Class = "NSTextFieldCell"; title = "Atlantis.start()"; ObjectID = "5EY-Rj-gkk"; */
+/* No comment by Translator*/
 "5EY-Rj-gkk.title" = "Atlantis.start()";
 
-/* Class = "NSButtonCell"; title = " Support iOS Physical Devices and Simulators"; ObjectID = "70u-YQ-QHo"; */
+/* No comment by Translator*/
 "70u-YQ-QHo.title" = " iOS 実機デバイスとシミュレータをサポート";
 
-/* Class = "NSTextFieldCell"; title = "+ If you only want to connect to your Mac rather than colleague's Mac:"; ObjectID = "74P-8C-9Fq"; */
+/* No comment by Translator*/
 "74P-8C-9Fq.title" = "+ 自分の Mac にのみ接続したい場合：";
 
-/* Class = "NSTextFieldCell"; title = "A little and powerful iOS framework for intercepting HTTP/HTTPS Traffic from your app. \nNo more messing around with proxy and certificate config."; ObjectID = "DbA-qH-UCG"; */
+/* No comment by Translator*/
 "DbA-qH-UCG.title" = "アプリからHTTP/HTTPSトラフィックをトラッキングするための、小さくも強力なiOSフレームワーク。 \nプロキシや証明書の設定に悩む必要はありません。";
 
-/* Class = "NSButtonCell"; title = " Inspect network traffic on Proxyman app"; ObjectID = "DwI-LG-lqG"; */
+/* No comment by Translator*/
 "DwI-LG-lqG.title" = " Proxymanでのネットワークトラフィックの表示";
 
-/* Class = "NSTextFieldCell"; title = "🧰 Atlantis - iOS Framework"; ObjectID = "EoS-fV-A7W"; */
+/* No comment by Translator*/
 "EoS-fV-A7W.title" = "🧰 Atlantis - iOSフレームワーク";
 
-/* Class = "NSTextFieldCell"; title = "https://github.com/ProxymanApp/atlantis"; ObjectID = "ErA-FZ-Eke"; */
+/* No comment by Translator*/
 "ErA-FZ-Eke.title" = "https://github.com/ProxymanApp/atlantis";
 
-/* Class = "NSButtonCell"; title = "Bonjour Service Error:"; ObjectID = "Kx3-DJ-4V2"; */
+/* No comment by Translator*/
 "Kx3-DJ-4V2.title" = "Bonjour サービス エラー：";
 
-/* Class = "NSTextFieldCell"; title = "Install via CocoaPod:"; ObjectID = "LK3-Dm-2PS"; */
+/* No comment by Translator*/
 "LK3-Dm-2PS.title" = "CocoaPod 経由でインストール：";
 
-/* Class = "NSTextFieldCell"; title = "By default, Atlantis will connect to all Proxyman apps from other Mac on the same Network."; ObjectID = "M21-pX-A3l"; */
+/* No comment by Translator*/
 "M21-pX-A3l.title" = "デフォルトでは、Atlantis は同じネットワーク上のすべてのMacの Proxyman アプリに接続します。";
 
-/* Class = "NSButtonCell"; title = " Capture WebSocket from URLSessionWebsocketTask"; ObjectID = "NIt-8E-iJ4"; */
+/* No comment by Translator*/
 "NIt-8E-iJ4.title" = " URLSessionWebsocketTask から WebSocket をキャプチャする";
 
-/* Class = "NSTextFieldCell"; title = "Add the following code to Info.plist (iOS 14+)"; ObjectID = "NfB-kK-FXd"; */
+/* No comment by Translator*/
 "NfB-kK-FXd.title" = "次のコードを Info.plist に追加します（iOS 14 以降）";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Copy"; ObjectID = "PkR-iH-H1j"; */
-"PkR-iH-H1j.ibShadowedToolTip" = "コピー";
-
-/* Class = "NSTextFieldCell"; title = "Atlantis.start(hostName: \"nghias\")"; ObjectID = "VwY-dG-rTd"; */
+/* No comment by Translator*/
 "VwY-dG-rTd.title" = "Atlantis.start(hostName: \\\"nghias\\\")";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Copy"; ObjectID = "Yfe-og-Un2"; */
-"Yfe-og-Un2.ibShadowedToolTip" = "コピー";
-
-/* Class = "NSBox"; title = "Box"; ObjectID = "Yqs-Cb-G8d"; */
+/* No comment by Translator*/
 "Yqs-Cb-G8d.title" = "箱";
 
-/* Class = "NSButtonCell"; title = "How to Install?"; ObjectID = "Z2z-ZU-CKC"; */
+/* No comment by Translator*/
 "Z2z-ZU-CKC.title" = "インストールの方法";
 
-/* Class = "NSBox"; title = "Box"; ObjectID = "ZTS-2w-k1s"; */
+/* No comment by Translator*/
 "ZTS-2w-k1s.title" = "箱";
 
-/* Class = "NSTextFieldCell"; title = "Swift Package Manager:"; ObjectID = "aDj-C7-KCi"; */
+/* No comment by Translator*/
 "aDj-C7-KCi.title" = "Swift パッケージマネージャー：";
 
-/* Class = "NSTextFieldCell"; title = "+ If you have only one Mac:"; ObjectID = "bya-og-kQj"; */
+/* No comment by Translator*/
 "bya-og-kQj.title" = "+ Mac しか持っていない場合：";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Copy"; ObjectID = "cye-18-Mv1"; */
-"cye-18-Mv1.ibShadowedToolTip" = "コピー";
-
-/* Class = "NSButton"; ibShadowedToolTip = "Copy"; ObjectID = "egS-8e-yfa"; */
-"egS-8e-yfa.ibShadowedToolTip" = "コピー";
-
-/* Class = "NSButtonCell"; title = "Only Support macOS 10.14+"; ObjectID = "g0h-DO-kXC"; */
+/* No comment by Translator*/
 "g0h-DO-kXC.title" = "macOS 10.14以降のみをサポートします";
 
-/* Class = "NSButtonCell"; title = " No need to config HTTP Proxy, Install or Trust any Certificate"; ObjectID = "g6F-W8-wu0"; */
+/* No comment by Translator*/
 "g6F-W8-wu0.title" = " HTTP プロキシを構成したり、証明書を設定する必要はありません。";
 
-/* Class = "NSTextFieldCell"; title = "Add to application(_:didFinishLaunchingWithOptions:)"; ObjectID = "i97-oV-dgj"; */
+/* No comment by Translator*/
 "i97-oV-dgj.title" = "アプリケーションに追加(_:didFinishLaunchingWithOptions:)";
 
-/* Class = "NSButtonCell"; title = " Your Atlantis iOS version is out-of-date and not compatible. Please update Atlantis!"; ObjectID = "nRT-uP-e0V"; */
+/* No comment by Translator*/
 "nRT-uP-e0V.title" = " お使いの Atlantis iOS のバージョンは古く、互換性がありません。Atlantisをアップデートしてください！";
 
-/* Class = "NSTextFieldCell"; title = "pod 'atlantis-proxyman'"; ObjectID = "nkB-fj-i3i"; */
+/* No comment by Translator*/
 "nkB-fj-i3i.title" = "pod 'atlantis-proxyman'";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Copy"; ObjectID = "nw5-9I-htw"; */
-"nw5-9I-htw.ibShadowedToolTip" = "コピー";
-
-/* Class = "NSButtonCell"; title = "Github..."; ObjectID = "txQ-HR-Di4"; */
+/* No comment by Translator*/
 "txQ-HR-Di4.title" = "GitHub...";
 
-/* Class = "NSButtonCell"; title = "How to Start Atlantis?"; ObjectID = "ycQ-Jd-yLH"; */
+/* No comment by Translator*/
 "ycQ-Jd-yLH.title" = "Atlantisチュートリアル";
 
-/* Class = "NSButtonCell"; title = " Automatically intercept all HTTP/HTTPS Traffic from your iOS app"; ObjectID = "zXg-wd-cNO"; */
+/* No comment by Translator*/
 "zXg-wd-cNO.title" = " iOS アプリからの全 HTTP/HTTPS トラフィックを自動的にブロックします";
 
-/* Class = "NSTextFieldCell"; title = "Enable Atlantis Service"; ObjectID = "uWV-DL-U4w"; */
+/* No comment by Translator*/
 "uWV-DL-U4w.title" = "Atlantis サービスを有効化";

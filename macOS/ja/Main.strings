@@ -1,1043 +1,806 @@
-/* Class = "NSMenuItem"; title = "Import Settings"; ObjectID = "08N-7h-DR7"; */
+/* No comment by Translator*/
 "08N-7h-DR7.title" = "インポート設定";
 
-/* Class = "NSMenuItem"; title = "as Proxyman Log"; ObjectID = "0Pl-rz-tXH"; */
+/* No comment by Translator*/
 "0Pl-rz-tXH.title" = "Proxyman ログ";
 
-/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "0SR-1M-z3W"; */
+/* No comment by Translator*/
 "0SR-1M-z3W.title" = "キャンセル";
 
-/* Class = "NSMenuItem"; title = "Breakpoints..."; ObjectID = "0tn-mp-cR3"; */
+/* No comment by Translator*/
 "0tn-mp-cR3.title" = "Breakpoints...";
 
-/* Class = "NSMenuItem"; title = "Duplicate"; ObjectID = "17D-23-JHQ"; */
+/* No comment by Translator*/
 "17D-23-JHQ.title" = "コピー";
 
-/* Class = "NSMenuItem"; title = "Proxyman"; ObjectID = "1Xt-HY-uBw"; */
+/* No comment by Translator*/
 "1Xt-HY-uBw.title" = "Proxyman";
 
-/* Class = "NSMenu"; title = "Find"; ObjectID = "1b7-l0-nxx"; */
+/* No comment by Translator*/
 "1b7-l0-nxx.title" = "検索";
 
-/* Class = "NSMenuItem"; ibShadowedToolTip = "All Proxyman Certificate will be removed"; ObjectID = "1cY-IH-L90"; */
-"1cY-IH-L90.ibShadowedToolTip" = "全てのProxyman 証明書が削除されます。";
-
-/* Class = "NSMenuItem"; title = "Reset all Proxyman Certificates"; ObjectID = "1cY-IH-L90"; */
+/* No comment by Translator*/
 "1cY-IH-L90.title" = "すべての Proxyman 証明書をリセット";
 
-/* Class = "NSMenuItem"; title = "Purple"; ObjectID = "2IX-Rt-veX"; */
+/* No comment by Translator*/
 "2IX-Rt-veX.title" = "紫色";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Reverse Proxy Server is enabled"; ObjectID = "2Lu-od-oG8"; */
-"2Lu-od-oG8.ibShadowedToolTip" = "リバースプロキシサーバーが有効です。";
-
-/* Class = "NSMenuItem"; ibShadowedToolTip = "Prevent client applications form caching requests and responses"; ObjectID = "2eA-6u-s1g"; */
-"2eA-6u-s1g.ibShadowedToolTip" = "クライアントアプリがキャッシュリクエストと応答することを防ぎます。";
-
-/* Class = "NSMenuItem"; title = "No Caching"; ObjectID = "2eA-6u-s1g"; */
+/* No comment by Translator*/
 "2eA-6u-s1g.title" = "キャッシュを無効化";
 
-/* Class = "NSButtonCell"; title = "Allow List"; ObjectID = "3JW-nX-CMn"; */
+/* No comment by Translator*/
 "3JW-nX-CMn.title" = "許可リスト";
 
-/* Class = "NSButtonCell"; title = "No Caching"; ObjectID = "3ns-bq-OcJ"; */
+/* No comment by Translator*/
 "3ns-bq-OcJ.title" = "キャッシュを無効化";
 
-/* Class = "NSMenu"; title = "Install Certificate on iOS"; ObjectID = "460-rg-fFI"; */
+/* No comment by Translator*/
 "460-rg-fFI.title" = "iOS に証明書をインストール";
 
-/* Class = "NSMenuItem"; title = "Find"; ObjectID = "4EN-yA-p0u"; */
+/* No comment by Translator*/
 "4EN-yA-p0u.title" = "検索";
 
-/* Class = "NSMenuItem"; title = "Enter Full Screen"; ObjectID = "4J7-dP-txa"; */
+/* No comment by Translator*/
 "4J7-dP-txa.title" = "全画面表示に移動";
 
-/* Class = "NSMenuItem"; title = "Block List…"; ObjectID = "4Rw-NG-5eG"; */
+/* No comment by Translator*/
 "4Rw-NG-5eG.title" = "ブラックリスト…";
 
-/* Class = "NSMenu"; title = "Advanced"; ObjectID = "4Xg-UT-6f3"; */
+/* No comment by Translator*/
 "4Xg-UT-6f3.title" = "詳細設定";
 
-/* Class = "NSSearchFieldCell"; placeholderString = "Search app or domain (⌘⇧F)"; ObjectID = "4eb-gj-qS6"; */
-"4eb-gj-qS6.placeholderString" = "アプリケーションまたはドメインを検索します (⌘⇧F)";
-
-/* Class = "NSMenuItem"; ibShadowedToolTip = "Guideline how to install Proxyman Certificate to Firefox Browsers"; ObjectID = "4mv-UD-NzZ"; */
-"4mv-UD-NzZ.ibShadowedToolTip" = "Proxyman 証明書を Firefox にインストールする方法について";
-
-/* Class = "NSMenuItem"; title = "Install Certificate on Firefox Browsers…"; ObjectID = "4mv-UD-NzZ"; */
+/* No comment by Translator*/
 "4mv-UD-NzZ.title" = "Firefox ブラウザに証明書をインストール...";
 
-/* Class = "NSButtonCell"; title = "Scripting"; ObjectID = "4rb-xr-f83"; */
+/* No comment by Translator*/
 "4rb-xr-f83.title" = "Scripting";
 
-/* Class = "NSMenuItem"; title = "Quit Proxyman"; ObjectID = "4sb-4s-VLi"; */
+/* No comment by Translator*/
 "4sb-4s-VLi.title" = "Proxymanを終了";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Scripting is enabled (⌥⌘I)"; ObjectID = "5L7-nW-b98"; */
-"5L7-nW-b98.ibShadowedToolTip" = "Scriptingが有効です。 (⌥⌘I)";
-
-/* Class = "NSMenuItem"; title = "Scripting"; ObjectID = "5NR-X1-Rra"; */
+/* No comment by Translator*/
 "5NR-X1-Rra.title" = "Scripting";
 
-/* Class = "NSMenuItem"; title = "Edit"; ObjectID = "5QF-Oa-p0T"; */
+/* No comment by Translator*/
 "5QF-Oa-p0T.title" = "編集";
 
-/* Class = "NSMenuItem"; ibShadowedToolTip = "Guideline how to install Proxyman Certificate to all Simulator (watchOS and tvOS)"; ObjectID = "5fM-rW-rAr"; */
-"5fM-rW-rAr.ibShadowedToolTip" = "Proxyman 証明書をすべてのエミュレーター (watchOS および tvOS) にインストールする方法に関する説明";
-
-/* Class = "NSMenuItem"; title = "watchOS or tvOS…"; ObjectID = "5fM-rW-rAr"; */
+/* No comment by Translator*/
 "5fM-rW-rAr.title" = "watchOS または tvOS…";
 
-/* Class = "NSMenuItem"; title = "About Proxyman"; ObjectID = "5kV-Vb-QxS"; */
+/* No comment by Translator*/
 "5kV-Vb-QxS.title" = "Proxymanについて";
 
-/* Class = "NSButtonCell"; title = "Clear"; ObjectID = "6EB-Fh-xMk"; */
+/* No comment by Translator*/
 "6EB-Fh-xMk.title" = "クリア";
 
-/* Class = "NSMenu"; title = "Proxy Settings"; ObjectID = "6FN-mr-9oR"; */
+/* No comment by Translator*/
 "6FN-mr-9oR.title" = "プロキシ設定";
 
-/* Class = "NSMenuItem"; title = "Scripting..."; ObjectID = "6Vm-iF-r8V"; */
+/* No comment by Translator*/
 "6Vm-iF-r8V.title" = "Scripting...";
 
-/* Class = "NSMenuItem"; title = "Redo"; ObjectID = "6dh-zS-Vam"; */
+/* No comment by Translator*/
 "6dh-zS-Vam.title" = "やり直し";
 
-/* Class = "NSMenuItem"; title = "I could not see any traffics on Proxyman?…"; ObjectID = "6hk-fr-5md"; */
+/* No comment by Translator*/
 "6hk-fr-5md.title" = "Proxyman にトラフィックが表示されません。 ...";
 
-/* Class = "NSMenuItem"; title = "Proxy Settings"; ObjectID = "6tF-Tn-DEy"; */
+/* No comment by Translator*/
 "6tF-Tn-DEy.title" = "プロキシ設定";
 
-/* Class = "NSMenuItem"; title = "I could not see any requests from my localhost server?…"; ObjectID = "7B1-ki-vsr"; */
+/* No comment by Translator*/
 "7B1-ki-vsr.title" = "localhost サーバーからのリクエストが表示されません。 ...";
 
-/* Class = "NSMenu"; title = "Install Certificate on Java VMs"; ObjectID = "7Hn-fi-SWn"; */
+/* No comment by Translator*/
 "7Hn-fi-SWn.title" = "Java VM に証明書をインストール";
 
-/* Class = "NSTextFieldCell"; title = "Export Session Config:"; ObjectID = "7M5-rh-wjY"; */
+/* No comment by Translator*/
 "7M5-rh-wjY.title" = "セッションの構成をエクスポート：";
 
-/* Class = "NSMenuItem"; title = "Strikethrough"; ObjectID = "7m3-WU-C2c"; */
+/* No comment by Translator*/
 "7m3-WU-C2c.title" = "取り消し線";
 
-/* Class = "NSMenuItem"; title = "Publish to Gist..."; ObjectID = "7oN-RK-D8y"; */
+/* No comment by Translator*/
 "7oN-RK-D8y.title" = "Gistに投稿...";
 
-/* Class = "NSButtonCell"; title = "Buy Proxyman License"; ObjectID = "7t4-Ov-rXr"; */
+/* No comment by Translator*/
 "7t4-Ov-rXr.title" = "Proxyman ライセンスを購入する";
 
-/* Class = "NSTextFieldCell"; title = "Content Panel is in detachable Window Mode"; ObjectID = "7ts-E2-4NF"; */
+/* No comment by Translator*/
 "7ts-E2-4NF.title" = "コンテンツ パネルは取り外し可能なウィンドウ モードです";
 
-/* Class = "NSMenuItem"; ibShadowedToolTip = "Map local file as a response to matching requests"; ObjectID = "88X-yj-swt"; */
-"88X-yj-swt.ibShadowedToolTip" = "一致するリクエストに応じてローカル ファイルをマッピングする";
-
-/* Class = "NSMenuItem"; title = "Map Local…"; ObjectID = "88X-yj-swt"; */
+/* No comment by Translator*/
 "88X-yj-swt.title" = "Map Local...";
 
-/* Class = "NSMenuItem"; title = "Install Certificate on Java VMs"; ObjectID = "8bF-yl-RsA"; */
+/* No comment by Translator*/
 "8bF-yl-RsA.title" = "Java VM に証明書をインストール";
 
-/* Class = "NSButtonCell"; title = "• 0MB ↑ 0 KB/s ↓ 0 KB/s"; ObjectID = "8iX-Yw-prD"; */
+/* No comment by Translator*/
 "8iX-Yw-prD.title" = "• 0MB ↑ 0 KB/秒 ↓ 0 KB/秒";
 
-/* Class = "NSMenuItem"; ibShadowedToolTip = "Filter specific domains or app in the Source Panel (Left Panel)"; ObjectID = "8rh-r4-MBy"; */
-"8rh-r4-MBy.ibShadowedToolTip" = "ソース パネルで特定のドメインまたはアプリケーションをフィルタリングします (左側のパネル)";
-
-/* Class = "NSMenuItem"; title = "Filter Domain or App"; ObjectID = "8rh-r4-MBy"; */
+/* No comment by Translator*/
 "8rh-r4-MBy.title" = "ドメイン・アプリをフィルターする";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Map Remote is enabled (⌥⌘R)"; ObjectID = "9hR-dt-PP4"; */
-"9hR-dt-PP4.ibShadowedToolTip" = "Map Remoteが有効になります。 (⌥⌘R)";
-
-/* Class = "NSMenu"; title = "Breakpoint"; ObjectID = "9um-sj-sOV"; */
+/* No comment by Translator*/
 "9um-sj-sOV.title" = "Breakpoint";
 
-/* Class = "NSMenu"; title = "Main Menu"; ObjectID = "AYu-sK-qS6"; */
+/* No comment by Translator*/
 "AYu-sK-qS6.title" = "メインメニュー";
 
-/* Class = "NSMenuItem"; ibShadowedToolTip = "Save and Activate the current script"; ObjectID = "AqU-jl-qRT"; */
-"AqU-jl-qRT.ibShadowedToolTip" = "現在のScriptingを保存して有効化する。";
-
-/* Class = "NSMenuItem"; title = "Save and Activate"; ObjectID = "AqU-jl-qRT"; */
+/* No comment by Translator*/
 "AqU-jl-qRT.title" = "保存して有効化する";
 
-/* Class = "NSMenuItem"; title = "Reverse Proxy..."; ObjectID = "Asg-75-GFE"; */
+/* No comment by Translator*/
 "Asg-75-GFE.title" = "リバースプロキシ...";
 
-/* Class = "NSMenuItem"; ibShadowedToolTip = "Copy selected request as cURL/HTTPie format"; ObjectID = "AwM-lX-ZaA"; */
-"AwM-lX-ZaA.ibShadowedToolTip" = "選択したリクエストを cURL リクエストとしてコピーします";
-
-/* Class = "NSMenuItem"; title = "Copy as cURL"; ObjectID = "AwM-lX-ZaA"; */
+/* No comment by Translator*/
 "AwM-lX-ZaA.title" = "cURL にコピー";
 
-/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "BOF-NM-1cW"; */
+/* No comment by Translator*/
 "BOF-NM-1cW.title" = "設定…";
 
-/* Class = "NSMenuItem"; title = "Select Previous Tab"; ObjectID = "Bez-oE-QKu"; */
+/* No comment by Translator*/
 "Bez-oE-QKu.title" = "前のタブを選択";
 
-/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "Bm2-yv-CV5"; */
+/* No comment by Translator*/
 "Bm2-yv-CV5.title" = "削除";
 
-/* Class = "NSMenuItem"; ibShadowedToolTip = "It's where Proxyman stores all user backups."; ObjectID = "BnQ-MT-dPy"; */
-"BnQ-MT-dPy.ibShadowedToolTip" = "これは、Proxyman がすべてのユーザーのバックアップを保存する場所です。";
-
-/* Class = "NSMenuItem"; title = "Open Backup Folder…"; ObjectID = "BnQ-MT-dPy"; */
+/* No comment by Translator*/
 "BnQ-MT-dPy.title" = "バックアップフォルダーを開くと…";
 
-/* Class = "NSMenuItem"; ibShadowedToolTip = "Save entire working session to file"; ObjectID = "Bw7-FT-i3A"; */
-"Bw7-FT-i3A.ibShadowedToolTip" = "作業セッション全体をファイルに保存する";
-
-/* Class = "NSMenuItem"; title = "Save Session…"; ObjectID = "Bw7-FT-i3A"; */
+/* No comment by Translator*/
 "Bw7-FT-i3A.title" = "セッションを保存…";
 
-/* Class = "NSMenuItem"; title = "Reverse Proxy..."; ObjectID = "BxC-vD-K30"; */
+/* No comment by Translator*/
 "BxC-vD-K30.title" = "リバースプロキシ...";
 
-/* Class = "NSMenuItem"; ibShadowedToolTip = "Open new session on new tab"; ObjectID = "C37-ok-gCS"; */
-"C37-ok-gCS.ibShadowedToolTip" = "新規セッションを新規タブで開く";
-
-/* Class = "NSMenuItem"; title = "New Session"; ObjectID = "C37-ok-gCS"; */
+/* No comment by Translator*/
 "C37-ok-gCS.title" = "新規セッション";
 
-/* Class = "NSWindow"; title = "Request and Response"; ObjectID = "C9u-Xq-jpW"; */
+/* No comment by Translator*/
 "C9u-Xq-jpW.title" = "リクエストとレスポンス";
 
-/* Class = "NSMenuItem"; title = "Technical Documents…"; ObjectID = "Cjg-r7-MG3"; */
+/* No comment by Translator*/
 "Cjg-r7-MG3.title" = "Proxyman ドキュメント...";
 
-/* Class = "NSWindow"; title = "Proxyman"; ObjectID = "Ckk-yw-fiv"; */
+/* No comment by Translator*/
 "Ckk-yw-fiv.title" = "Proxyman";
 
-/* Class = "NSMenuItem"; ibShadowedToolTip = "Add your custom certificates to Proxyman"; ObjectID = "CzI-85-4Ih"; */
-"CzI-85-4Ih.ibShadowedToolTip" = "カスタム証明書を Proxyman に追加します";
-
-/* Class = "NSMenuItem"; title = "Add Custom Certificates…"; ObjectID = "CzI-85-4Ih"; */
+/* No comment by Translator*/
 "CzI-85-4Ih.title" = "カスタム証明書を追加...";
 
-/* Class = "NSMenuItem"; title = "Close"; ObjectID = "DVo-aG-piG"; */
+/* No comment by Translator*/
 "DVo-aG-piG.title" = "閉じる";
 
-/* Class = "NSMenuItem"; ibShadowedToolTip = "Create new folder in Source Panel (Left Panel)"; ObjectID = "DWA-p4-NCT"; */
-"DWA-p4-NCT.ibShadowedToolTip" = "ソース パネル (左側のパネル) に新しいフォルダーを作成します。";
-
-/* Class = "NSMenuItem"; title = "New Folder"; ObjectID = "DWA-p4-NCT"; */
+/* No comment by Translator*/
 "DWA-p4-NCT.title" = "新しいフォルダ";
 
-/* Class = "NSMenuItem"; ibShadowedToolTip = "All Proxyman and User Data are gone."; ObjectID = "Dg2-zm-cMR"; */
-"Dg2-zm-cMR.ibShadowedToolTip" = "すべての Proxyman とユーザー データが消えてしまいました。";
-
-/* Class = "NSMenuItem"; title = "Factory Reset…"; ObjectID = "Dg2-zm-cMR"; */
+/* No comment by Translator*/
 "Dg2-zm-cMR.title" = "データを初期化する...";
 
-/* Class = "NSMenuItem"; title = "as CSV"; ObjectID = "E6V-hs-DkP"; */
+/* No comment by Translator*/
 "E6V-hs-DkP.title" = "CSVとして";
 
-/* Class = "NSMenuItem"; title = "SSL Proxying List…"; ObjectID = "EJp-eC-Wbg"; */
+/* No comment by Translator*/
 "EJp-eC-Wbg.title" = "SSL プロキシ リスト...";
 
-/* Class = "NSMenuItem"; title = "Toggle Loggging Console in Scripting"; ObjectID = "EKS-Tx-r2L"; */
+/* No comment by Translator*/
 "EKS-Tx-r2L.title" = "Scriptingでログコンソールを切り替える";
 
-/* Class = "NSMenuItem"; ibShadowedToolTip = "Guideline how to integrate Atlantis iOS Framework"; ObjectID = "ENf-xc-cWH"; */
-"ENf-xc-cWH.ibShadowedToolTip" = "Atlantis iOS フレームワークを統合する方法に関するガイド";
-
-/* Class = "NSMenuItem"; title = "with Atlantis…"; ObjectID = "ENf-xc-cWH"; */
+/* No comment by Translator*/
 "ENf-xc-cWH.title" = "Atlantis…";
 
-/* Class = "NSMenuItem"; ibShadowedToolTip = "Proxy HTTP & HTTPS Requests from local ports to specified upstream servers"; ObjectID = "EhD-Ld-rfT"; */
-"EhD-Ld-rfT.ibShadowedToolTip" = "ローカル ポートから指定された上流サーバーに HTTP および HTTPS リクエストをプロキシします。";
-
-/* Class = "NSMenuItem"; title = "Reverse Proxy…"; ObjectID = "EhD-Ld-rfT"; */
+/* No comment by Translator*/
 "EhD-Ld-rfT.title" = "リバースプロキシ...";
 
-/* Class = "NSMenu"; title = "Help"; ObjectID = "F2S-fz-NVQ"; */
+/* No comment by Translator*/
 "F2S-fz-NVQ.title" = "ヘルプ";
 
-/* Class = "NSMenuItem"; title = "Detach Content Windows"; ObjectID = "F2X-Te-H4P"; */
+/* No comment by Translator*/
 "F2X-Te-H4P.title" = "コンテンツウィンドウを切り離す";
 
-/* Class = "NSMenuItem"; title = "Map Local..."; ObjectID = "FW2-MC-gIh"; */
+/* No comment by Translator*/
 "FW2-MC-gIh.title" = "Map Local...";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Delete all flows from the current table (⇧⌘⌫)"; ObjectID = "G4s-39-OzM"; */
-"G4s-39-OzM.ibShadowedToolTip" = "現在のテーブルからすべてのストリームを削除します (⇧⌘⌫)";
-
-/* Class = "NSMenuItem"; title = "Changelogs…"; ObjectID = "G7r-Ai-wOV"; */
+/* No comment by Translator*/
 "G7r-Ai-wOV.title" = "チェンジログ…";
 
-/* Class = "NSMenuItem"; title = "as HAR (HTTP Archive)"; ObjectID = "GCw-x0-RRD"; */
+/* No comment by Translator*/
 "GCw-x0-RRD.title" = "HAR (HTTP アーカイブ) 用";
 
-/* Class = "NSMenu"; title = "Diff"; ObjectID = "GVQ-jl-aJy"; */
+/* No comment by Translator*/
 "GVQ-jl-aJy.title" = "差分";
 
-/* Class = "NSMenuItem"; ibShadowedToolTip = "Execute the Script to install Proxyman Certificate to all available Java Store"; ObjectID = "GbH-TB-5qd"; */
-"GbH-TB-5qd.ibShadowedToolTip" = "スクリプトを実行して、利用可能なすべての Java ストアに Proxyman 証明書をインストールします。";
-
-/* Class = "NSMenuItem"; title = "Run Script..."; ObjectID = "GbH-TB-5qd"; */
+/* No comment by Translator*/
 "GbH-TB-5qd.title" = "Scriptingを実行...";
 
-/* Class = "NSMenuItem"; title = "View"; ObjectID = "H8h-7b-M4v"; */
+/* No comment by Translator*/
 "H8h-7b-M4v.title" = "チェック";
 
-/* Class = "NSMenuItem"; title = "Diff"; ObjectID = "HT1-14-m1i"; */
+/* No comment by Translator*/
 "HT1-14-m1i.title" = "差分";
 
-/* Class = "NSMenu"; title = "View"; ObjectID = "HyV-fh-RgO"; */
+/* No comment by Translator*/
 "HyV-fh-RgO.title" = "チェック";
 
-/* Class = "NSMenuItem"; title = "Left Side"; ObjectID = "I5X-iG-DrG"; */
+/* No comment by Translator*/
 "I5X-iG-DrG.title" = "左";
 
-/* Class = "NSMenuItem"; ibShadowedToolTip = "Simulate Network Conditions with various preset profiles"; ObjectID = "I8k-MP-wuk"; */
-"I8k-MP-wuk.ibShadowedToolTip" = "プリセットのプロファイルを使用してNetwork Conditionsをシミュレートします";
-
-/* Class = "NSMenuItem"; title = "Network Conditions…"; ObjectID = "I8k-MP-wuk"; */
+/* No comment by Translator*/
 "I8k-MP-wuk.title" = "Network Conditions...";
 
-/* Class = "NSMenuItem"; title = "Open…"; ObjectID = "IAo-SY-fd9"; */
+/* No comment by Translator*/
 "IAo-SY-fd9.title" = "開く…";
 
-/* Class = "NSMenu"; title = "Highlight"; ObjectID = "IBf-9y-v8u"; */
+/* No comment by Translator*/
 "IBf-9y-v8u.title" = "ハイライト";
 
-/* Class = "NSMenuItem"; title = "*.local requests do not appear on Proxyman?…"; ObjectID = "ICa-uJ-cwx"; */
+/* No comment by Translator*/
 "ICa-uJ-cwx.title" = "*.local リクエストが Proxyman に表示されない? ...";
 
-/* Class = "NSMenuItem"; title = "Red"; ObjectID = "ITs-qk-rKu"; */
+/* No comment by Translator*/
 "ITs-qk-rKu.title" = "赤色";
 
-/* Class = "NSMenuItem"; title = "Enable Debug Mode…"; ObjectID = "IUu-fw-GYj"; */
+/* No comment by Translator*/
 "IUu-fw-GYj.title" = "デバッグモードを有効にする...";
 
-/* Class = "NSMenuItem"; ibShadowedToolTip = "How to use Proxyman Command-line"; ObjectID = "Idc-iR-L0Y"; */
-"Idc-iR-L0Y.ibShadowedToolTip" = "Proxyman コマンドラインの使用方法";
-
-/* Class = "NSMenuItem"; title = "Command Line…"; ObjectID = "Idc-iR-L0Y"; */
+/* No comment by Translator*/
 "Idc-iR-L0Y.title" = "コマンドライン…";
 
-/* Class = "NSBox"; title = "Box"; ObjectID = "Ihf-L4-h3I"; */
+/* No comment by Translator*/
 "Ihf-L4-h3I.title" = "箱";
 
-/* Class = "NSMenuItem"; title = "Toggle Dock to Bottom Window"; ObjectID = "Imc-bK-Vzj"; */
+/* No comment by Translator*/
 "Imc-bK-Vzj.title" = "ドックを下のウィンドウに切り替えます";
 
-/* Class = "NSButtonCell"; title = "Export…"; ObjectID = "K1a-Yq-oka"; */
+/* No comment by Translator*/
 "K1a-Yq-oka.title" = "エクスポート…";
 
-/* Class = "NSButtonCell"; title = "Map Local"; ObjectID = "KHW-EB-emh"; */
+/* No comment by Translator*/
 "KHW-EB-emh.title" = "Map Local";
 
-/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "Kd2-mp-pUS"; */
+/* No comment by Translator*/
 "Kd2-mp-pUS.title" = "すべてを表示";
 
-/* Class = "NSMenuItem"; title = "Highlight"; ObjectID = "Kgh-wC-mpr"; */
+/* No comment by Translator*/
 "Kgh-wC-mpr.title" = "ハイライト";
 
-/* Class = "NSMenuItem"; title = "Breakpoint"; ObjectID = "Kim-fe-7qg"; */
+/* No comment by Translator*/
 "Kim-fe-7qg.title" = "Breakpoint";
 
-/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "LE2-aR-0XJ"; */
+/* No comment by Translator*/
 "LE2-aR-0XJ.title" = "すべてを手前に移動";
 
-/* Class = "NSMenuItem"; title = "Install Certificate on Android"; ObjectID = "LPx-O2-n19"; */
+/* No comment by Translator*/
 "LPx-O2-n19.title" = "Android に証明書をインストール";
 
-/* Class = "NSMenuItem"; title = "Install Certificate on Developments"; ObjectID = "MHh-7c-kMO"; */
+/* No comment by Translator*/
 "MHh-7c-kMO.title" = "開発証明書をインストール";
 
-/* Class = "NSMenuItem"; ibShadowedToolTip = "Guideline how to install Proxyman Certificate to Android Emulator by using Script"; ObjectID = "MIw-t1-AWs"; */
-"MIw-t1-AWs.ibShadowedToolTip" = "スクリプトを使用して Proxyman 証明書を Android エミュレータにインストールする方法についての説明";
-
-/* Class = "NSMenuItem"; title = "Emulators…"; ObjectID = "MIw-t1-AWs"; */
+/* No comment by Translator*/
 "MIw-t1-AWs.title" = "シミュレーター…";
 
-/* Class = "NSMenuItem"; ibShadowedToolTip = "Clear entire session to release all caching memory"; ObjectID = "MTD-lK-rwg"; */
-"MTD-lK-rwg.ibShadowedToolTip" = "セッションをクリアし、メモリを開放します。";
-
-/* Class = "NSMenuItem"; title = "Clear Session"; ObjectID = "MTD-lK-rwg"; */
+/* No comment by Translator*/
 "MTD-lK-rwg.title" = "セッションをクリア";
 
-/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "Mll-Gh-XSQ"; */
+/* No comment by Translator*/
 "Mll-Gh-XSQ.title" = "キャンセル";
 
-/* Class = "NSMenuItem"; title = "Services"; ObjectID = "NMo-om-nkz"; */
+/* No comment by Translator*/
 "NMo-om-nkz.title" = "サービス";
 
-/* Class = "NSMenuItem"; title = "Proxyman for iOS…"; ObjectID = "NVp-Bk-pm9"; */
+/* No comment by Translator*/
 "NVp-Bk-pm9.title" = "iOS 版 Proxyman...";
 
-/* Class = "NSMenuItem"; title = "From Proxyman"; ObjectID = "Ncd-Sv-Y7F"; */
+/* No comment by Translator*/
 "Ncd-Sv-Y7F.title" = "Proxymanから";
 
-/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "NeH-TW-9PE"; */
+/* No comment by Translator*/
 "NeH-TW-9PE.title" = "テキストセル";
 
-/* Class = "NSMenuItem"; title = "Network Condition..."; ObjectID = "NjY-vl-9ro"; */
+/* No comment by Translator*/
 "NjY-vl-9ro.title" = "Network Conditions...";
 
-/* Class = "NSMenuItem"; title = "Get SSL Errors from HTTPS Request and Response?…"; ObjectID = "Npz-di-X2z"; */
+/* No comment by Translator*/
 "Npz-di-X2z.title" = "HTTPS リクエストとレスポンスで SSL エラーが発生していますか? ...";
 
-/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "OY7-WF-poV"; */
+/* No comment by Translator*/
 "OY7-WF-poV.title" = "最小化する";
 
-/* Class = "NSMenuItem"; title = "Hide Proxyman"; ObjectID = "Olw-nP-bQN"; */
+/* No comment by Translator*/
 "Olw-nP-bQN.title" = "Proxymanを隠す";
 
-/* Class = "NSMenuItem"; title = "Map Local..."; ObjectID = "Otg-EI-NHc"; */
+/* No comment by Translator*/
 "Otg-EI-NHc.title" = "Map Local...";
 
-/* Class = "NSMenu"; title = "Import Settings"; ObjectID = "OwL-SB-WNV"; */
+/* No comment by Translator*/
 "OwL-SB-WNV.title" = "インポート設定";
 
-/* Class = "NSMenuItem"; title = "Find Previous"; ObjectID = "OwM-mh-QMV"; */
+/* No comment by Translator*/
 "OwM-mh-QMV.title" = "前を検索";
 
-/* Class = "NSMenuItem"; title = "Green"; ObjectID = "PCh-Tn-aVc"; */
+/* No comment by Translator*/
 "PCh-Tn-aVc.title" = "緑色";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Simulate Network Conditions with various presets profiles  (⌥⌘J)"; ObjectID = "PTh-m2-pZo"; */
-"PTh-m2-pZo.ibShadowedToolTip" = "プリセットのプロファイルを使用してNetwork Conditionsをシミュレートします (⌥⌘J)";
-
-/* Class = "NSMenuItem"; title = "Getting Started"; ObjectID = "PYL-qC-SVe"; */
+/* No comment by Translator*/
 "PYL-qC-SVe.title" = "チュートリアル";
 
-/* Class = "NSMenuItem"; title = "React Native…"; ObjectID = "Pgh-OW-VrR"; */
+/* No comment by Translator*/
 "Pgh-OW-VrR.title" = "React Native…";
 
-/* Class = "NSMenuItem"; ibExternalAccessibilityDescription = "Override macOS Proxy Setting in Network.prefpanel"; ObjectID = "PwA-fQ-eaG"; */
-"PwA-fQ-eaG.ibExternalAccessibilityDescription" = "Network.prefpanel の macOS プロキシ設定をオーバーライドする";
-
-/* Class = "NSMenuItem"; title = "Override macOS Proxy"; ObjectID = "PwA-fQ-eaG"; */
+/* No comment by Translator*/
 "PwA-fQ-eaG.title" = "macOS のプロキシをオーバーライドする";
 
-/* Class = "NSButtonCell"; title = "Proxy Overridden"; ObjectID = "QVb-xA-A0h"; */
+/* No comment by Translator*/
 "QVb-xA-A0h.title" = "Proxy Overridden";
 
-/* Class = "NSMenu"; title = "Troubleshooting"; ObjectID = "QWa-6G-Xq7"; */
+/* No comment by Translator*/
 "QWa-6G-Xq7.title" = "トラブルシューティング";
 
-/* Class = "NSMenuItem"; ibShadowedToolTip = "Drop connection for all matched URLs on blocklist"; ObjectID = "Qvq-a9-0aG"; */
-"Qvq-a9-0aG.ibShadowedToolTip" = "ブラックリスト内の URL に一致するすべての接続を削除します";
-
-/* Class = "NSMenuItem"; title = "Block List…"; ObjectID = "Qvq-a9-0aG"; */
+/* No comment by Translator*/
 "Qvq-a9-0aG.title" = "ブラックリスト…";
 
-/* Class = "NSBox"; title = "Box"; ObjectID = "R3p-95-TfT"; */
+/* No comment by Translator*/
 "R3p-95-TfT.title" = "箱";
 
-/* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "R4o-n2-Eq4"; */
+/* No comment by Translator*/
 "R4o-n2-Eq4.title" = "最大化する";
 
-/* Class = "NSMenuItem"; ibShadowedToolTip = "Export Proxyman CA (.pem)"; ObjectID = "RIe-6p-hhf"; */
-"RIe-6p-hhf.ibShadowedToolTip" = "Proxyman CA (.pem) をエクスポート";
-
-/* Class = "NSMenuItem"; title = "Root Certificate as PEM..."; ObjectID = "RIe-6p-hhf"; */
+/* No comment by Translator*/
 "RIe-6p-hhf.title" = "PEM（ルート証明書）...";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Auto Select the latest requests (⇧⌘L). Click on any rows to disable it."; ObjectID = "RJe-2S-X79"; */
-"RJe-2S-X79.ibShadowedToolTip" = "最新のリクエストを自動的に選択します (⇧⌘L)。無効にするには、任意の行をクリックします。";
-
-/* Class = "NSMenuItem"; title = "SSL Proxying List..."; ObjectID = "RMV-Z4-4ih"; */
+/* No comment by Translator*/
 "RMV-Z4-4ih.title" = "SSL プロキシ リスト...";
 
-/* Class = "NSMenuItem"; title = "Select All"; ObjectID = "Ruw-6m-B2m"; */
+/* No comment by Translator*/
 "Ruw-6m-B2m.title" = "すべて選択";
 
-/* Class = "NSMenuItem"; title = "Jump to Selection"; ObjectID = "S0p-oC-mLd"; */
+/* No comment by Translator*/
 "S0p-oC-mLd.title" = "選択範囲にジャンプ";
 
-/* Class = "NSMenuItem"; title = "Flow"; ObjectID = "SeB-q6-Eeu"; */
+/* No comment by Translator*/
 "SeB-q6-Eeu.title" = "プロセス";
 
-/* Class = "NSTextFieldCell"; title = "Export faster and significantly reduce the size of the exported file. "; ObjectID = "Sth-D1-OD6"; */
+/* No comment by Translator*/
 "Sth-D1-OD6.title" = "エクスポートが高速になり、エクスポート ファイル サイズが大幅に削減されます。";
 
-/* Class = "NSMenuItem"; title = "White List..."; ObjectID = "Stu-BV-Lkk"; */
+/* No comment by Translator*/
 "Stu-BV-Lkk.title" = "ホワイトリスト...";
 
-/* Class = "NSMenuItem"; title = "Toggle Dock to Right Window"; ObjectID = "TL5-7M-KTY"; */
+/* No comment by Translator*/
 "TL5-7M-KTY.title" = "ドックウィンドウを右に";
 
-/* Class = "NSMenu"; title = "Window"; ObjectID = "Td7-aD-5lo"; */
+/* No comment by Translator*/
 "Td7-aD-5lo.title" = "ウィンドウ";
 
-/* Class = "NSMenuItem"; ibShadowedToolTip = "Settings for External Proxy"; ObjectID = "Tx9-Hp-lAT"; */
-"Tx9-Hp-lAT.ibShadowedToolTip" = "外部プロキシ設定";
-
-/* Class = "NSMenuItem"; title = "External Proxy Settings…"; ObjectID = "Tx9-Hp-lAT"; */
+/* No comment by Translator*/
 "Tx9-Hp-lAT.title" = "外部プロキシ設定...";
 
-/* Class = "NSMenuItem"; title = "Map Remote..."; ObjectID = "UDU-2G-PIN"; */
+/* No comment by Translator*/
 "UDU-2G-PIN.title" = "Map Remote...";
 
-/* Class = "NSTextFieldCell"; title = "No item yet\n\"Command + K\" to add item"; ObjectID = "UMm-4m-xtu"; */
+/* No comment by Translator*/
 "UMm-4m-xtu.title" = "まだ項目はありません\n「Command + K」 項目を追加";
 
-/* Class = "NSMenuItem"; title = "Advanced"; ObjectID = "V9c-JV-0Mv"; */
+/* No comment by Translator*/
 "V9c-JV-0Mv.title" = "詳細設定";
 
-/* Class = "NSMenuItem"; title = "Block List..."; ObjectID = "VUs-2d-B6f"; */
+/* No comment by Translator*/
 "VUs-2d-B6f.title" = "ブラックリスト...";
 
-/* Class = "NSMenuItem"; title = "Check for Updates…"; ObjectID = "VcR-90-Coz"; */
+/* No comment by Translator*/
 "VcR-90-Coz.title" = "アップデートを確認…";
 
-/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "Vdr-fp-XzO"; */
+/* No comment by Translator*/
 "Vdr-fp-XzO.title" = "他を隠す";
 
-/* Class = "NSMenuItem"; title = "Homepage…"; ObjectID = "VeP-8Q-K5o"; */
+/* No comment by Translator*/
 "VeP-8Q-K5o.title" = "Proxyman ウェブサイト…";
 
-/* Class = "NSMenuItem"; ibShadowedToolTip = "Current Application Folder"; ObjectID = "W09-u5-2LZ"; */
-"W09-u5-2LZ.ibShadowedToolTip" = "現在のアプリケーションフォルダー";
-
-/* Class = "NSMenuItem"; title = "Open User Data Folder…"; ObjectID = "W09-u5-2LZ"; */
+/* No comment by Translator*/
 "W09-u5-2LZ.title" = "ユーザーデータフォルダーを開く...";
 
-/* Class = "NSMenu"; title = "Edit"; ObjectID = "W48-6f-4Dl"; */
+/* No comment by Translator*/
 "W48-6f-4Dl.title" = "編集";
 
-/* Class = "NSMenuItem"; title = "Export"; ObjectID = "WMm-Kk-YBm"; */
+/* No comment by Translator*/
 "WMm-Kk-YBm.title" = "エクスポート";
 
-/* Class = "NSMenuItem"; ibShadowedToolTip = "Export Pirvate Key of Proxyman CA"; ObjectID = "WuK-2M-JYO"; */
-"WuK-2M-JYO.ibShadowedToolTip" = "Proxyman CA の秘密キーをエクスポートする";
-
-/* Class = "NSMenuItem"; title = "Private Key..."; ObjectID = "WuK-2M-JYO"; */
+/* No comment by Translator*/
 "WuK-2M-JYO.title" = "秘密鍵...";
 
-/* Class = "NSMenuItem"; title = "Map Remote..."; ObjectID = "XSj-xj-8zk"; */
+/* No comment by Translator*/
 "XSj-xj-8zk.title" = "Map Remote...";
 
-/* Class = "NSTextFieldCell"; title = "0 items"; ObjectID = "XZI-Uu-ZTS"; */
+/* No comment by Translator*/
 "XZI-Uu-ZTS.title" = "0 件";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Proxyman will proxy all flows to the external proxy server."; ObjectID = "Xkd-SQ-lBA"; */
-"Xkd-SQ-lBA.ibShadowedToolTip" = "Proxyman は、すべてのストリームを外部プロキシ サーバーにプロキシします。";
-
-/* Class = "NSMenuItem"; title = "Find…"; ObjectID = "Xz5-n4-O0W"; */
+/* No comment by Translator*/
 "Xz5-n4-O0W.title" = "探しています…";
 
-/* Class = "NSMenuItem"; title = "Find and Replace…"; ObjectID = "YEy-JH-Tfz"; */
+/* No comment by Translator*/
 "YEy-JH-Tfz.title" = "検索して置換…";
 
-/* Class = "NSButtonCell"; title = "Add"; ObjectID = "YdX-1w-xWI"; */
+/* No comment by Translator*/
 "YdX-1w-xWI.title" = "新規作成";
 
-/* Class = "NSButtonCell"; title = "Breakpoint"; ObjectID = "YfX-Qv-Fip"; */
+/* No comment by Translator*/
 "YfX-Qv-Fip.title" = "Breakpoint";
 
-/* Class = "NSMenuItem"; ibShadowedToolTip = "Send private message to Proxyman team"; ObjectID = "Yib-Ld-rop"; */
-"Yib-Ld-rop.ibShadowedToolTip" = "Proxyman チームにプライベート メッセージを送信する";
-
-/* Class = "NSMenuItem"; title = "Send Private Message…"; ObjectID = "Yib-Ld-rop"; */
+/* No comment by Translator*/
 "Yib-Ld-rop.title" = "プライベートメッセージを送信...";
 
-/* Class = "NSButtonCell"; title = "Auto Select"; ObjectID = "YrN-cD-1BC"; */
+/* No comment by Translator*/
 "YrN-cD-1BC.title" = "自動選択";
 
-/* Class = "NSMenuItem"; ibShadowedToolTip = "The rule of breakpoints"; ObjectID = "Zag-6a-svC"; */
-"Zag-6a-svC.ibShadowedToolTip" = "Breakpointsのルール";
-
-/* Class = "NSMenuItem"; title = "Rules…"; ObjectID = "Zag-6a-svC"; */
+/* No comment by Translator*/
 "Zag-6a-svC.title" = "ルール…";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Show / Hide the Filter Panel (⌘F)"; ObjectID = "Zih-VI-Rcb"; */
-"Zih-VI-Rcb.ibShadowedToolTip" = "フィルターパネルの表示/非表示 (⌘F)";
-
-/* Class = "NSButton"; ibShadowedToolTip = "Prevent client applications form caching requests and responses (⌥⌘N)"; ObjectID = "Zv0-x6-lgN"; */
-"Zv0-x6-lgN.ibShadowedToolTip" = "クライアント アプリケーションがキャッシュされたリクエストとレスポンスを形成しないようにします (⌥⌘N)";
-
-/* Class = "NSMenuItem"; ibShadowedToolTip = "Use Proxyman with HTTP Clients, such as Paw, Postman and Insomnia"; ObjectID = "a2u-MZ-zs7"; */
-"a2u-MZ-zs7.ibShadowedToolTip" = "Paw、Postman、Insomnia などの HTTP クライアントで Proxyman を使用する";
-
-/* Class = "NSMenuItem"; title = "HTTP Clients…"; ObjectID = "a2u-MZ-zs7"; */
+/* No comment by Translator*/
 "a2u-MZ-zs7.title" = "HTTP クライアント…";
 
-/* Class = "NSMenuItem"; title = "Window"; ObjectID = "aUF-d1-5bR"; */
+/* No comment by Translator*/
 "aUF-d1-5bR.title" = "ウィンドウ";
 
-/* Class = "NSMenuItem"; title = "Troubleshooting"; ObjectID = "aqJ-az-i2l"; */
+/* No comment by Translator*/
 "aqJ-az-i2l.title" = "トラブルシューティング";
 
-/* Class = "NSMenuItem"; ibShadowedToolTip = "Compose new request for debugging"; ObjectID = "bTM-EF-3Na"; */
-"bTM-EF-3Na.ibShadowedToolTip" = "新しいデバッグ リクエストを作成する";
-
-/* Class = "NSMenuItem"; title = "Compose Request…"; ObjectID = "bTM-EF-3Na"; */
+/* No comment by Translator*/
 "bTM-EF-3Na.title" = "リクエストを新規作成...";
 
-/* Class = "NSMenuItem"; title = "Delele all"; ObjectID = "bU6-IB-Tja"; */
+/* No comment by Translator*/
 "bU6-IB-Tja.title" = "すべて削除";
 
-/* Class = "NSMenu"; title = "File"; ObjectID = "bib-Uj-vzu"; */
+/* No comment by Translator*/
 "bib-Uj-vzu.title" = "書類";
 
-/* Class = "NSMenuItem"; ibShadowedToolTip = "A tutorial how to retreive your data if there is something wrong!"; ObjectID = "bqg-mb-EG7"; */
-"bqg-mb-EG7.ibShadowedToolTip" = "何か問題が発生した場合にデータを取得する方法のチュートリアル!";
-
-/* Class = "NSMenuItem"; title = "Lost Data?…"; ObjectID = "bqg-mb-EG7"; */
+/* No comment by Translator*/
 "bqg-mb-EG7.title" = "データロストについて...";
 
-/* Class = "NSMenuItem"; title = "From Charles Proxy"; ObjectID = "bqz-Ef-vED"; */
+/* No comment by Translator*/
 "bqz-Ef-vED.title" = "Charles Proxyから";
 
-/* Class = "NSMenuItem"; ibShadowedToolTip = "Use Proxyman with Docker"; ObjectID = "bte-hE-8Pw"; */
-"bte-hE-8Pw.ibShadowedToolTip" = "Docker での Proxyman の使用";
-
-/* Class = "NSMenuItem"; title = "Docker…"; ObjectID = "bte-hE-8Pw"; */
+/* No comment by Translator*/
 "bte-hE-8Pw.title" = "Docker…";
 
-/* Class = "NSMenuItem"; title = "Use Selection for Find"; ObjectID = "buJ-ug-pKt"; */
+/* No comment by Translator*/
 "buJ-ug-pKt.title" = "フィルターを使用して検索する";
 
-/* Class = "NSMenuItem"; title = "Convert"; ObjectID = "cUE-Z0-jBK"; */
+/* No comment by Translator*/
 "cUE-Z0-jBK.title" = "変換する";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Map Local is enabled (⌥⌘L)"; ObjectID = "cX1-mf-48B"; */
-"cX1-mf-48B.ibShadowedToolTip" = "Map Localが有効です (⌥⌘L)";
-
-/* Class = "NSMenuItem"; ibShadowedToolTip = "Define the Protobuf setting to parse properly"; ObjectID = "dBR-4N-MkK"; */
-"dBR-4N-MkK.ibShadowedToolTip" = "正しい解析のための Protobuf 設定を定義する";
-
-/* Class = "NSMenuItem"; title = "Protobuf…"; ObjectID = "dBR-4N-MkK"; */
+/* No comment by Translator*/
 "dBR-4N-MkK.title" = "プロトブフ…";
 
-/* Class = "NSMenuItem"; title = "File"; ObjectID = "dMs-cI-mzQ"; */
+/* No comment by Translator*/
 "dMs-cI-mzQ.title" = "書類";
 
-/* Class = "NSMenuItem"; title = "Select"; ObjectID = "dQ2-Xe-D9x"; */
+/* No comment by Translator*/
 "dQ2-Xe-D9x.title" = "選択する";
 
-/* Class = "NSMenuItem"; title = "Undo"; ObjectID = "dRJ-4n-Yzg"; */
+/* No comment by Translator*/
 "dRJ-4n-Yzg.title" = "元に戻す";
 
-/* Class = "NSButton"; ibExternalAccessibilityDescription = "Add domain/client (⌘+K)"; ObjectID = "dRq-zp-xwe"; */
-"dRq-zp-xwe.ibExternalAccessibilityDescription" = "ドメイン/クライアントを追加 (⌘+K)";
-
-/* Class = "NSButtonCell"; title = "Filter"; ObjectID = "dY1-Ts-oI9"; */
+/* No comment by Translator*/
 "dY1-Ts-oI9.title" = "フィルター";
 
-/* Class = "NSMenuItem"; title = "White List..."; ObjectID = "dbg-kg-Yir"; */
+/* No comment by Translator*/
 "dbg-kg-Yir.title" = "ホワイトリスト...";
 
-/* Class = "NSTextFieldCell"; title = "Launch your app/domain to see it in the list"; ObjectID = "dkZ-lD-EWc"; */
+/* No comment by Translator*/
 "dkZ-lD-EWc.title" = "アプリケーション/ドメインを起動してリストに表示します。";
 
-/* Class = "NSButtonCell"; title = "Reverse Proxy"; ObjectID = "dwv-9k-9eX"; */
+/* No comment by Translator*/
 "dwv-9k-9eX.title" = "リバースプロキシ";
 
-/* Class = "NSMenuItem"; ibShadowedToolTip = "Guideline how to install Proxyman Certificate to Android Physical Devices"; ObjectID = "eD5-dY-prA"; */
-"eD5-dY-prA.ibShadowedToolTip" = "Android 物理デバイスに Proxyman 証明書をインストールする方法に関するガイド";
-
-/* Class = "NSMenuItem"; title = "Physical Devices…"; ObjectID = "eD5-dY-prA"; */
+/* No comment by Translator*/
 "eD5-dY-prA.title" = "ハードウェア実機...";
 
-/* Class = "NSMenuItem"; title = "Add Comment..."; ObjectID = "eWV-Yt-E5W"; */
+/* No comment by Translator*/
 "eWV-Yt-E5W.title" = "コメントを追加...";
 
-/* Class = "NSMenuItem"; title = "Tools"; ObjectID = "eXk-a1-yK2"; */
+/* No comment by Translator*/
 "eXk-a1-yK2.title" = "ツール";
 
-/* Class = "NSMenuItem"; title = "Customize Toolbar…"; ObjectID = "eaW-If-9V8"; */
+/* No comment by Translator*/
 "eaW-If-9V8.title" = "ツールバーをカスタマイズ...";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Breakpoint is enabled (⌥⌘B)"; ObjectID = "f2H-uv-L71"; */
-"f2H-uv-L71.ibShadowedToolTip" = "Breakpointが有効になっています (⌥⌘B)";
-
-/* Class = "NSMenuItem"; title = "Domain..."; ObjectID = "fOO-Zx-YnO"; */
+/* No comment by Translator*/
 "fOO-Zx-YnO.title" = "ドメイン...";
 
-/* Class = "NSMenuItem"; title = "Auto Select the Latest Request"; ObjectID = "fRd-qS-qIs"; */
+/* No comment by Translator*/
 "fRd-qS-qIs.title" = "最新のリクエストを選択";
 
-/* Class = "NSMenuItem"; ibShadowedToolTip = "Manage the Custom Columns on the main table"; ObjectID = "fYJ-Ls-Exc"; */
-"fYJ-Ls-Exc.ibShadowedToolTip" = "メインテーブルのカスタム列を管理する";
-
-/* Class = "NSMenuItem"; title = "Customize Columns…"; ObjectID = "fYJ-Ls-Exc"; */
+/* No comment by Translator*/
 "fYJ-Ls-Exc.title" = "カスタム列...";
 
-/* Class = "NSMenuItem"; ibShadowedToolTip = "From .chls (Charles Proxy) to .har (HTTP Archive) that Proxyman can understand"; ObjectID = "fef-Qi-lia"; */
-"fef-Qi-lia.ibShadowedToolTip" = ".chls (Charles Proxy) から Proxyman が理解できる .har (HTTP アーカイブ) へ";
-
-/* Class = "NSMenuItem"; title = "From .chls to .har"; ObjectID = "fef-Qi-lia"; */
+/* No comment by Translator*/
 "fef-Qi-lia.title" = ".chls から .har へ";
 
-/* Class = "NSMenuItem"; title = "Certificate"; ObjectID = "fgz-5N-77C"; */
+/* No comment by Translator*/
 "fgz-5N-77C.title" = "証明書";
 
-/* Class = "NSMenuItem"; title = "Gray"; ObjectID = "gTF-aI-lYi"; */
+/* No comment by Translator*/
 "gTF-aI-lYi.title" = "灰色";
 
-/* Class = "NSMenuItem"; title = "Paste"; ObjectID = "gVA-U4-sdL"; */
+/* No comment by Translator*/
 "gVA-U4-sdL.title" = "ペースト";
 
-/* Class = "NSMenu"; title = "Export"; ObjectID = "gfh-cM-6rd"; */
+/* No comment by Translator*/
 "gfh-cM-6rd.title" = "エクスポート";
 
-/* Class = "NSMenuItem"; ibShadowedToolTip = "All Proxyman Windows will stay on top of other apps"; ObjectID = "gnF-Q6-2QN"; */
-"gnF-Q6-2QN.ibShadowedToolTip" = "すべての Proxyman Windows は他のアプリケーションの上に残ります";
-
-/* Class = "NSMenuItem"; title = "Stay On Top"; ObjectID = "gnF-Q6-2QN"; */
+/* No comment by Translator*/
 "gnF-Q6-2QN.title" = "ウィンドウを手前に";
 
-/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "gpY-FV-wV4"; */
+/* No comment by Translator*/
 "gpY-FV-wV4.title" = "テキストセル";
 
-/* Class = "NSMenu"; title = "Tools"; ObjectID = "hG3-5B-eXf"; */
+/* No comment by Translator*/
 "hG3-5B-eXf.title" = "ツール";
 
-/* Class = "NSMenuItem"; title = "My Remote devices (iOS, Android) could not connect to Proxyman?…"; ObjectID = "hJD-Jc-dUc"; */
+/* No comment by Translator*/
 "hJD-Jc-dUc.title" = "リモート デバイス (iOS、Android) が Proxyman に接続できませんか? ...";
 
-/* Class = "NSMenuItem"; ibShadowedToolTip = "All domains and apps which are enabled SSL Proxying"; ObjectID = "hfW-gz-bVi"; */
-"hfW-gz-bVi.ibShadowedToolTip" = "すべてのドメインとアプリケーションに対して SSL プロキシを有効にする";
-
-/* Class = "NSMenuItem"; title = "SSL Proxying List…"; ObjectID = "hfW-gz-bVi"; */
+/* No comment by Translator*/
 "hfW-gz-bVi.title" = "SSL プロキシ リスト...";
 
-/* Class = "NSMenu"; title = "Services"; ObjectID = "hz9-B4-Xy5"; */
+/* No comment by Translator*/
 "hz9-B4-Xy5.title" = "サービス";
 
-/* Class = "NSMenu"; title = "Convert"; ObjectID = "i8J-io-caN"; */
+/* No comment by Translator*/
 "i8J-io-caN.title" = "変換する";
 
-/* Class = "NSMenuItem"; ibShadowedToolTip = "Manage the Previewer Tabs on Request or Response Panel"; ObjectID = "iee-fo-ccT"; */
-"iee-fo-ccT.ibShadowedToolTip" = "管理リクエストまたは応答パネルの「プレビューア」タブ";
-
-/* Class = "NSMenuItem"; title = "Customize Previewer Tab…"; ObjectID = "iee-fo-ccT"; */
+/* No comment by Translator*/
 "iee-fo-ccT.title" = "プレビューアのタブをカスタマイズ...";
 
-/* Class = "NSMenuItem"; title = "Report Bug?…"; ObjectID = "ifQ-cq-1Ps"; */
+/* No comment by Translator*/
 "ifQ-cq-1Ps.title" = "問題を報告…";
 
-/* Class = "NSMenuItem"; title = "Toggle Source List Panel"; ObjectID = "j0A-ov-hPQ"; */
+/* No comment by Translator*/
 "j0A-ov-hPQ.title" = "ソース パネルの折りたたみ";
 
-/* Class = "NSMenu"; title = "Install Certificate on Developments"; ObjectID = "j21-5N-koR"; */
+/* No comment by Translator*/
 "j21-5N-koR.title" = "開発証明書をインストール";
 
-/* Class = "NSMenu"; title = "Install Certificate on Android"; ObjectID = "jVi-P4-wdn"; */
+/* No comment by Translator*/
 "jVi-P4-wdn.title" = "Android に証明書をインストール";
 
-/* Class = "NSMenu"; title = "Flow"; ObjectID = "jWT-Mn-Kpi"; */
+/* No comment by Translator*/
 "jWT-Mn-Kpi.title" = "プロセス";
 
-/* Class = "NSMenuItem"; ibShadowedToolTip = "Use Proxyman with your VPN apps"; ObjectID = "jYe-46-HrS"; */
-"jYe-46-HrS.ibShadowedToolTip" = "VPN アプリケーションで Proxyman を使用する";
-
-/* Class = "NSMenuItem"; title = "VPN…"; ObjectID = "jYe-46-HrS"; */
+/* No comment by Translator*/
 "jYe-46-HrS.title" = "VPN…";
 
-/* Class = "NSMenuItem"; ibShadowedToolTip = "Open Compose windows for editing the current selected request"; ObjectID = "jcQ-j3-Mza"; */
-"jcQ-j3-Mza.ibShadowedToolTip" = "作成ウィンドウを開いて現在選択されているリクエストを編集します";
-
-/* Class = "NSMenuItem"; title = "Edit and Repeat..."; ObjectID = "jcQ-j3-Mza"; */
+/* No comment by Translator*/
 "jcQ-j3-Mza.title" = "編集して繰り返します...";
 
-/* Class = "NSButtonCell"; title = "Map Remote"; ObjectID = "jms-6X-UGP"; */
+/* No comment by Translator*/
 "jms-6X-UGP.title" = "Map Remote";
 
-/* Class = "NSMenuItem"; title = "Yellow"; ObjectID = "jsI-zy-nCl"; */
+/* No comment by Translator*/
 "jsI-zy-nCl.title" = "黄色";
 
-/* Class = "NSMenuItem"; title = "Reset Network Proxy…"; ObjectID = "jvs-n5-e1R"; */
+/* No comment by Translator*/
 "jvs-n5-e1R.title" = "ネットワーク プロキシをリセット...";
 
-/* Class = "NSTextFieldCell"; title = "You're using Proxyman Free version"; ObjectID = "kEt-Ln-Cgm"; */
+/* No comment by Translator*/
 "kEt-Ln-Cgm.title" = "Proxymanの無料版を使用しています";
 
-/* Class = "NSButtonCell"; title = "Network Conditions"; ObjectID = "lAC-2O-yAz"; */
+/* No comment by Translator*/
 "lAC-2O-yAz.title" = "Network Conditions";
 
-/* Class = "NSMenuItem"; ibShadowedToolTip = "Export Proxyman CA (.der)"; ObjectID = "lDW-gr-1bg"; */
-"lDW-gr-1bg.ibShadowedToolTip" = "Proxyman CA (.der) をエクスポート";
-
-/* Class = "NSMenuItem"; title = "Root Certificate as DER..."; ObjectID = "lDW-gr-1bg"; */
+/* No comment by Translator*/
 "lDW-gr-1bg.title" = "DER（ルート証明書）...";
 
-/* Class = "NSMenuItem"; ibShadowedToolTip = "Manage the Request/Response Template"; ObjectID = "lEd-ns-ZiS"; */
-"lEd-ns-ZiS.ibShadowedToolTip" = "リクエスト/レスポンステンプレートの管理";
-
-/* Class = "NSMenuItem"; title = "Breakpoint Templates…"; ObjectID = "lEd-ns-ZiS"; */
+/* No comment by Translator*/
 "lEd-ns-ZiS.title" = "Breakpoint テンプレート...";
 
-/* Class = "NSMenuItem"; ibShadowedToolTip = "Repeat the current selected request"; ObjectID = "lPR-UL-J97"; */
-"lPR-UL-J97.ibShadowedToolTip" = "選択したリクエストを繰り返す";
-
-/* Class = "NSMenuItem"; title = "Repeat"; ObjectID = "lPR-UL-J97"; */
+/* No comment by Translator*/
 "lPR-UL-J97.title" = "繰り返す";
 
-/* Class = "NSMenu"; title = "From Charles Proxy"; ObjectID = "ldG-IO-T9q"; */
+/* No comment by Translator*/
 "ldG-IO-T9q.title" = "Charles Proxyから";
 
-/* Class = "NSMenuItem"; ibShadowedToolTip = "Map specific request to different request location"; ObjectID = "lxJ-8m-6PI"; */
-"lxJ-8m-6PI.ibShadowedToolTip" = "特定のリクエストをさまざまなリクエストの場所にマッピングする";
-
-/* Class = "NSMenuItem"; title = "Map Remote…"; ObjectID = "lxJ-8m-6PI"; */
+/* No comment by Translator*/
 "lxJ-8m-6PI.title" = "Map Remote…";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Custom Certificates is enabled"; ObjectID = "mKD-Hp-ETJ"; */
-"mKD-Hp-ETJ.ibShadowedToolTip" = "カスタム証明書が有効になっています";
-
-/* Class = "NSMenuItem"; title = "Right Side"; ObjectID = "mOd-Vy-ZL7"; */
+/* No comment by Translator*/
 "mOd-Vy-ZL7.title" = "右";
 
-/* Class = "NSTextFieldCell"; title = "Upgrade to Premium version to unlock all features"; ObjectID = "mu5-Q7-VLo"; */
+/* No comment by Translator*/
 "mu5-Q7-VLo.title" = "プレミアムにアップグレードしてすべての機能をロック解除します";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Your HTTP/HTTPS Proxy is overridden by Proxyman (⌥⌘O)"; ObjectID = "ndw-cW-F7D"; */
-"ndw-cW-F7D.ibShadowedToolTip" = "あなたの HTTP/HTTPS プロキシは Proxyman によってカバーされています (⌥⌘O)";
-
-/* Class = "NSMenu"; title = "Open Recent"; ObjectID = "oas-Oc-fiZ"; */
+/* No comment by Translator*/
 "oas-Oc-fiZ.title" = "最近開いた";
 
-/* Class = "NSMenu"; title = "Export"; ObjectID = "oaz-80-FiP"; */
+/* No comment by Translator*/
 "oaz-80-FiP.title" = "エクスポート";
 
-/* Class = "NSTextFieldCell"; title = "Add favorite app or domain"; ObjectID = "odu-IM-9hv"; */
+/* No comment by Translator*/
 "odu-IM-9hv.title" = "お気に入りのアプリケーションまたはドメインを追加する";
 
-/* Class = "NSMenuItem"; title = "Add selected items to Diff Pool…"; ObjectID = "ozy-tH-5wN"; */
+/* No comment by Translator*/
 "ozy-tH-5wN.title" = "選択した項目を差分リストに追加...";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Allow List is applied to record exclusively matched URLs. Other URLs are ignored  (⌥⌘A)"; ObjectID = "p1m-xS-O9V"; */
-"p1m-xS-O9V.ibShadowedToolTip" = "ホワイトリストは、完全に一致する URL を記録するために使用されます。他の URL は無視されます (⌥⌘A)";
-
-/* Class = "NSMenuItem"; title = "Github…"; ObjectID = "p3m-pz-uha"; */
+/* No comment by Translator*/
 "p3m-pz-uha.title" = "GitHub…";
 
-/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "pa3-QI-u2k"; */
+/* No comment by Translator*/
 "pa3-QI-u2k.title" = "削除";
 
-/* Class = "NSMenu"; title = "From Proxyman"; ObjectID = "pph-dX-usQ"; */
+/* No comment by Translator*/
 "pph-dX-usQ.title" = "Proxyman より";
 
-/* Class = "NSMenuItem"; title = "Find Next"; ObjectID = "q09-fT-Sye"; */
+/* No comment by Translator*/
 "q09-fT-Sye.title" = "次を検索";
 
-/* Class = "NSMenu"; title = "Certificate"; ObjectID = "q4m-y1-nYE"; */
+/* No comment by Translator*/
 "q4m-y1-nYE.title" = "証明書";
 
-/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "qo6-5e-kZg"; */
+/* No comment by Translator*/
 "qo6-5e-kZg.title" = "テキストセル";
 
-/* Class = "NSButtonCell"; title = "Block List"; ObjectID = "rNg-Pa-YbN"; */
+/* No comment by Translator*/
 "rNg-Pa-YbN.title" = "ブラックリスト";
 
-/* Class = "NSMenuItem"; ibShadowedToolTip = "Guideline how to install Proxyman Certificate to iOS Devices (iPhone/iPad/AppleTV/Apple Watch)"; ObjectID = "rsG-Su-SeQ"; */
-"rsG-Su-SeQ.ibShadowedToolTip" = "iOS デバイス (iPhone/iPad/AppleTV/Apple Watch) に Proxyman 証明書をインストールする方法についての説明";
-
-/* Class = "NSMenuItem"; title = "Physical Devices…"; ObjectID = "rsG-Su-SeQ"; */
+/* No comment by Translator*/
 "rsG-Su-SeQ.title" = "ハードウェア実機...";
 
-/* Class = "NSMenuItem"; title = "Blue"; ObjectID = "s6o-Dv-fxR"; */
+/* No comment by Translator*/
 "s6o-Dv-fxR.title" = "青色";
 
-/* Class = "NSMenuItem"; title = "Ruby…"; ObjectID = "s8V-Tb-gBL"; */
+/* No comment by Translator*/
 "s8V-Tb-gBL.title" = "Ruby…";
 
-/* Class = "NSMenuItem"; title = "Flutter…"; ObjectID = "sEI-fC-hlc"; */
+/* No comment by Translator*/
 "sEI-fC-hlc.title" = "Flutter…";
 
-/* Class = "NSMenuItem"; ibShadowedToolTip = "Breakpoint list"; ObjectID = "seo-dr-hjm"; */
-"seo-dr-hjm.ibShadowedToolTip" = "Breakpoint リスト";
-
-/* Class = "NSMenuItem"; title = "Breakpoints…"; ObjectID = "seo-dr-hjm"; */
+/* No comment by Translator*/
 "seo-dr-hjm.title" = "Breakpoints…";
 
-/* Class = "NSMenuItem"; title = "Show Toolbar"; ObjectID = "snW-S8-Cw5"; */
+/* No comment by Translator*/
 "snW-S8-Cw5.title" = "ツールバーを表示";
 
-/* Class = "NSMenuItem"; title = "Install Certificate on iOS"; ObjectID = "ssw-3F-Rg2"; */
+/* No comment by Translator*/
 "ssw-3F-Rg2.title" = "iOS に証明書をインストール";
 
-/* Class = "NSMenu"; title = "Getting Started"; ObjectID = "t0K-OI-Qxz"; */
+/* No comment by Translator*/
 "t0K-OI-Qxz.title" = "チュートリアル";
 
-/* Class = "NSMenuItem"; ibShadowedToolTip = "Guideline how to install Proxyman Certificate to all Simulator (iOS, iPadOS)"; ObjectID = "tEF-kV-SFS"; */
-"tEF-kV-SFS.ibShadowedToolTip" = "Proxyman 証明書をすべてのシミュレーター (iOS、iPadOS) にインストールする方法に関する説明";
-
-/* Class = "NSMenuItem"; title = "Simulators…"; ObjectID = "tEF-kV-SFS"; */
+/* No comment by Translator*/
 "tEF-kV-SFS.title" = "シミュレーター…";
 
-/* Class = "NSMenuItem"; title = "Open Recent"; ObjectID = "tXI-mr-wws"; */
+/* No comment by Translator*/
 "tXI-mr-wws.title" = "最近開いた";
 
-/* Class = "NSMenuItem"; title = "Use External Proxy"; ObjectID = "tY3-f2-wJ6"; */
+/* No comment by Translator*/
 "tY3-f2-wJ6.title" = "外部プロキシを使用する";
 
-/* Class = "NSButtonCell"; title = "External Proxying"; ObjectID = "uDn-AD-TMd"; */
+/* No comment by Translator*/
 "uDn-AD-TMd.title" = "外部プロキシ";
 
-/* Class = "NSMenu"; title = "Proxyman"; ObjectID = "uQy-DD-JDr"; */
+/* No comment by Translator*/
 "uQy-DD-JDr.title" = "Proxyman";
 
-/* Class = "NSMenuItem"; title = "Cut"; ObjectID = "uRl-iY-unG"; */
+/* No comment by Translator*/
 "uRl-iY-unG.title" = "カット";
 
-/* Class = "NSMenuItem"; title = "Select Next Tab"; ObjectID = "usX-uv-Uu3"; */
+/* No comment by Translator*/
 "usX-uv-Uu3.title" = "次のタブを選択してください";
 
-/* Class = "NSMenuItem"; title = "Clear Menu"; ObjectID = "vNY-rz-j42"; */
+/* No comment by Translator*/
 "vNY-rz-j42.title" = "クリアメニュー";
 
-/* Class = "NSMenuItem"; title = "Beautify"; ObjectID = "vxo-Yk-owy"; */
+/* No comment by Translator*/
 "vxo-Yk-owy.title" = "美化する";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Resource Usage: Memory, Upload and Download"; ObjectID = "w0X-qx-Aym"; */
-"w0X-qx-Aym.ibShadowedToolTip" = "リソース使用量：メモリ、アップロードおよびダウンロード";
-
-/* Class = "NSMenuItem"; title = "Python…"; ObjectID = "wTh-vD-k7l"; */
+/* No comment by Translator*/
 "wTh-vD-k7l.title" = "Python…";
 
-/* Class = "NSBox"; title = "Box"; ObjectID = "wmf-xV-Lb8"; */
+/* No comment by Translator*/
 "wmf-xV-Lb8.title" = "箱";
 
-/* Class = "NSSearchFieldCell"; placeholderString = "Filter (⌘⇧F)"; ObjectID = "wng-11-iu1"; */
-"wng-11-iu1.placeholderString" = "フィルター(⌘⇧F)";
-
-/* Class = "NSMenuItem"; title = "Help"; ObjectID = "wpr-3q-Mcd"; */
+/* No comment by Translator*/
 "wpr-3q-Mcd.title" = "ヘルプ";
 
-/* Class = "NSMenuItem"; title = "Copy"; ObjectID = "x3v-GG-iWU"; */
+/* No comment by Translator*/
 "x3v-GG-iWU.title" = "コピー";
 
-/* Class = "NSButtonCell"; title = "Dock to Side Windows"; ObjectID = "xI1-27-z4r"; */
+/* No comment by Translator*/
 "xI1-27-z4r.title" = "サイドウィンドウにドッキング";
 
-/* Class = "NSMenuItem"; title = "Open Diff View…"; ObjectID = "xJd-Uf-BK5"; */
+/* No comment by Translator*/
 "xJd-Uf-BK5.title" = "差分ビューを開く…";
 
-/* Class = "NSMenuItem"; ibShadowedToolTip = "Instruction to install Proxyman CA to this mac"; ObjectID = "xnY-jX-D87"; */
-"xnY-jX-D87.ibShadowedToolTip" = "Proxyman CA をこの Mac にインストールする手順";
-
-/* Class = "NSMenuItem"; title = "Install Certificate on this Mac…"; ObjectID = "xnY-jX-D87"; */
+/* No comment by Translator*/
 "xnY-jX-D87.title" = "この Mac に証明書をインストール…";
 
-/* Class = "NSMenuItem"; title = "App..."; ObjectID = "xti-kr-tkZ"; */
+/* No comment by Translator*/
 "xti-kr-tkZ.title" = "アプリ...";
 
-/* Class = "NSMenuItem"; title = "Proxyman for macOS…"; ObjectID = "xuK-i2-5fM"; */
+/* No comment by Translator*/
 "xuK-i2-5fM.title" = "macOS 版 Proxyman…";
 
-/* Class = "NSMenuItem"; title = "Breakpoints..."; ObjectID = "yBE-G1-kKG"; */
+/* No comment by Translator*/
 "yBE-G1-kKG.title" = "Breakpoints...";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Block List is applied to block all matched URLs  (⌥⌘X)"; ObjectID = "yHp-Wk-jHo"; */
-"yHp-Wk-jHo.ibShadowedToolTip" = "ブラックリストは、一致するすべての URL をブロックするために使用されます (⌥⌘X)";
-
-/* Class = "NSButtonCell"; title = "Skip exporting large body data (>= 5Mb) of Requests / Responses"; ObjectID = "yIg-2W-rqg"; */
+/* No comment by Translator*/
 "yIg-2W-rqg.title" = "リクエスト/レスポンスの大きな本文データ (>= 5Mb) のエクスポートをスキップする";
 
-/* Class = "NSMenu"; title = "Scripting"; ObjectID = "yqp-ee-esT"; */
+/* No comment by Translator*/
 "yqp-ee-esT.title" = "Scripting";
 
-/* Class = "NSMenuItem"; title = "Register License…"; ObjectID = "z4l-8W-vHV"; */
+/* No comment by Translator*/
 "z4l-8W-vHV.title" = "ライセンスを登録...";
 
-/* Class = "NSButtonCell"; title = "Custom Certificates"; ObjectID = "zC8-9z-w9Y"; */
+/* No comment by Translator*/
 "zC8-9z-w9Y.title" = "カスタム証明書";
 
-/* Class = "NSMenuItem"; title = "Export"; ObjectID = "zIG-ep-Vq1"; */
+/* No comment by Translator*/
 "zIG-ep-Vq1.title" = "エクスポート";
 
-/* Class = "NSMenuItem"; title = "Reset"; ObjectID = "zJp-6M-7Yo"; */
+/* No comment by Translator*/
 "zJp-6M-7Yo.title" = "リセット";
 
-/* Class = "NSMenuItem"; title = "Twitter…"; ObjectID = "zPa-4T-gtr"; */
+/* No comment by Translator*/
 "zPa-4T-gtr.title" = "ツイッター…";
 
-/* Class = "NSMenuItem"; title = "Script List…"; ObjectID = "zQH-5l-VXn"; */
+/* No comment by Translator*/
 "zQH-5l-VXn.title" = "Scriptingの一覧...";
 
-/* Class = "NSMenuItem"; ibShadowedToolTip = "Only capture matched URLs. Ignore the rest"; ObjectID = "zRf-ev-leU"; */
-"zRf-ev-leU.ibShadowedToolTip" = "一致する URL のみをキャプチャします。残りを無視する";
-
-/* Class = "NSMenuItem"; title = "Allow List…"; ObjectID = "zRf-ev-leU"; */
+/* No comment by Translator*/
 "zRf-ev-leU.title" = "ホワイトリスト...";
 
-/* Class = "NSMenuItem"; ibShadowedToolTip = "Add new domains or apps into Source Panel (Left Panel)"; ObjectID = "zXo-eI-h7d"; */
-"zXo-eI-h7d.ibShadowedToolTip" = "新しいドメインまたはアプリケーションを [ソース] パネル (左側のパネル) に追加します。";
-
-/* Class = "NSMenuItem"; title = "New Domain or App"; ObjectID = "zXo-eI-h7d"; */
+/* No comment by Translator*/
 "zXo-eI-h7d.title" = "新しいドメインまたはアプリケーション";
 
-/* Class = "NSMenuItem"; ibShadowedToolTip = "Export Proxyman CA (.p12)"; ObjectID = "zYz-aO-geY"; */
-"zYz-aO-geY.ibShadowedToolTip" = "Proxyman CA (.p12) をエクスポート";
-
-/* Class = "NSMenuItem"; title = "Root Certificate as P12..."; ObjectID = "zYz-aO-geY"; */
+/* No comment by Translator*/
 "zYz-aO-geY.title" = "P12（ルート証明書）...";
 
-/* Class = "NSMenuItem"; title = "Proxyman does not work with my VPN?…"; ObjectID = "zfm-Nx-lph"; */
+/* No comment by Translator*/
 "zfm-Nx-lph.title" = "Proxyman は私の VPN と互換性がありませんか? ...";
 
-/* Class = "NSMenuItem"; ibShadowedToolTip = "Toggle Enable/Disable the Breakpoint Tool"; ObjectID = "5bG-V7-Rho"; */
-"5bG-V7-Rho.ibShadowedToolTip" = "Breakpoint ツールの有効化/無効化を切り替える";
-
-/* Class = "NSMenuItem"; title = "Breakpoint"; ObjectID = "5bG-V7-Rho"; */
+/* No comment by Translator*/
 "5bG-V7-Rho.title" = "Breakpoint";
 
-/* Class = "NSMenuItem"; ibShadowedToolTip = "Toggle Enable/Disable the Block List Tool"; ObjectID = "7gm-fb-2xP"; */
-"7gm-fb-2xP.ibShadowedToolTip" = "ブラックリストツールの有効化/無効化を切り替える";
-
-/* Class = "NSMenuItem"; title = "Block List"; ObjectID = "7gm-fb-2xP"; */
+/* No comment by Translator*/
 "7gm-fb-2xP.title" = "ブラックリスト";
 
-/* Class = "NSMenuItem"; title = "Enable/Disable Tools"; ObjectID = "Bpz-gb-j44"; */
+/* No comment by Translator*/
 "Bpz-gb-j44.title" = "ツールの有効化/無効化";
 
-/* Class = "NSMenuItem"; ibShadowedToolTip = "Toggle Enable/Disable the Map Local Tool"; ObjectID = "Jbb-Ov-C7d"; */
-"Jbb-Ov-C7d.ibShadowedToolTip" = "Map Local ツールの有効化/無効化を切り替えます";
-
-/* Class = "NSMenuItem"; title = "Map Local"; ObjectID = "Jbb-Ov-C7d"; */
+/* No comment by Translator*/
 "Jbb-Ov-C7d.title" = "Map Local";
 
-/* Class = "NSMenuItem"; ibShadowedToolTip = "Toggle Enable/Disable the Allow List Tool"; ObjectID = "Mrd-VT-G6e"; */
-"Mrd-VT-G6e.ibShadowedToolTip" = "許可リストツールの有効化/無効化を切り替える";
-
-/* Class = "NSMenuItem"; title = "Allow List"; ObjectID = "Mrd-VT-G6e"; */
+/* No comment by Translator*/
 "Mrd-VT-G6e.title" = "許可リスト";
 
-/* Class = "NSMenuItem"; ibShadowedToolTip = "Toggle Enable/Disable the Map Remtote Tool"; ObjectID = "Uei-Ey-Z6a"; */
-"Uei-Ey-Z6a.ibShadowedToolTip" = "Map Remote ツールの有効化/無効化を切り替えます。";
-
-/* Class = "NSMenuItem"; title = "Map Remote"; ObjectID = "Uei-Ey-Z6a"; */
+/* No comment by Translator*/
 "Uei-Ey-Z6a.title" = "Map Remote";
 
-/* Class = "NSMenuItem"; title = "Network Conditions"; ObjectID = "bAx-Ze-BjE"; */
+/* No comment by Translator*/
 "bAx-Ze-BjE.title" = "Network Conditions";
 
-/* Class = "NSMenu"; title = "Enable/Disable Tools"; ObjectID = "e2x-fd-IqD"; */
+/* No comment by Translator*/
 "e2x-fd-IqD.title" = "ツールの有効化/無効化";
 
-/* Class = "NSMenuItem"; title = "SSL Proxying List"; ObjectID = "lHc-jp-TXM"; */
+/* No comment by Translator*/
 "lHc-jp-TXM.title" = "SSLプロキシリスト";
 
-/* Class = "NSMenuItem"; ibShadowedToolTip = "Save selected requests to the Saved Folder"; ObjectID = "p0b-sK-SRd"; */
-"p0b-sK-SRd.ibShadowedToolTip" = "選択したリクエストを保存フォルダーに保存します";
-
-/* Class = "NSMenuItem"; title = "Save Requests"; ObjectID = "p0b-sK-SRd"; */
+/* No comment by Translator*/
 "p0b-sK-SRd.title" = "保存リクエスト";
 
-/* Class = "NSMenuItem"; title = "Scripting"; ObjectID = "sEj-5w-peJ"; */
+/* No comment by Translator*/
 "sEj-5w-peJ.title" = "Scripting";
 
-/* Class = "NSMenuItem"; title = "Protobuf…"; ObjectID = "9Eq-oO-pF6"; */
+/* No comment by Translator*/
 "9Eq-oO-pF6.title" = "プロトブフ…";
 
-/* Class = "NSMenuItem"; title = "NodeJS…"; ObjectID = "Geb-Vv-nny"; */
+/* No comment by Translator*/
 "Geb-Vv-nny.title" = "NodeJS…";
 
-/* Class = "NSMenuItem"; ibShadowedToolTip = "Display invisible characters in the Request/Response panels. e.g. New Line, Whitespace, Controls, Nonspacing, etc"; ObjectID = "OId-5B-2WD"; */
-"OId-5B-2WD.ibShadowedToolTip" = "リクエスト/レスポンスパネルに改行、空白、ゼロ幅スペースなどの不可視文字を表示します。";
-
-/* Class = "NSMenuItem"; title = "Show Invisibles"; ObjectID = "OId-5B-2WD"; */
+/* No comment by Translator*/
 "OId-5B-2WD.title" = "見えない文字を表示する";
 
-/* Class = "NSMenuItem"; title = "Access Control…"; ObjectID = "URZ-dx-YL1"; */
+/* No comment by Translator*/
 "URZ-dx-YL1.title" = "アクセス制御…";

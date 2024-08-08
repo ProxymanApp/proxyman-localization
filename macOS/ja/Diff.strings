@@ -1,149 +1,119 @@
-/* Class = "NSMenuItem"; ibShadowedToolTip = "Open the diff with FileMerge application (Required Xcode)"; ObjectID = "1a2-MC-EcO"; */
-"1a2-MC-EcO.ibShadowedToolTip" = "使用 FileMerge 应用程序打开 diff（需要 Xcode）";
-
-/* Class = "NSMenuItem"; title = "FileMerge…"; ObjectID = "1a2-MC-EcO"; */
+/* No comment by Translator*/
 "1a2-MC-EcO.title" = "文件合并...";
 
-/* Class = "NSTextFieldCell"; title = "No Item Selection"; ObjectID = "3Tt-gM-SlN"; */
+/* No comment by Translator*/
 "3Tt-gM-SlN.title" = "无项目选择";
 
-/* Class = "NSMenuItem"; title = "Add Comment…"; ObjectID = "5Nl-nS-x8J"; */
+/* No comment by Translator*/
 "5Nl-nS-x8J.title" = "コメントを追加...";
 
-/* Class = "NSMenuItem"; title = "Reset"; ObjectID = "5Xc-aN-5o3"; */
+/* No comment by Translator*/
 "5Xc-aN-5o3.title" = "リセット";
 
-/* Class = "NSTableColumn"; headerCell.title = "ID"; ObjectID = "5wz-6g-ris"; */
-"5wz-6g-ris.headerCell.title" = "ID";
-
-/* Class = "NSMenuItem"; ibShadowedToolTip = "All JSON Keys are alphabetically sorted. It's easier to see the diff if the JSON Keys Order are changed"; ObjectID = "8BS-lV-5rL"; */
-"8BS-lV-5rL.ibShadowedToolTip" = "所有 JSON 键都按字母顺序排序。如果更改了 JSON 键顺序，则更容易看到对比";
-
-/* Class = "NSMenuItem"; title = "Sort JSON Key"; ObjectID = "8BS-lV-5rL"; */
+/* No comment by Translator*/
 "8BS-lV-5rL.title" = "排序 JSON 键";
 
-/* Class = "NSTextFieldCell"; title = "Please upgrade your macOS to use this feature (macOS 11.2 or later)."; ObjectID = "8Ul-SW-AQu"; */
+/* No comment by Translator*/
 "8Ul-SW-AQu.title" = "请升级您的 macOS 以使用此功能（macOS 11.2 或更高版本）。";
 
-/* Class = "NSTableColumn"; headerCell.title = "Left"; ObjectID = "9Z5-em-tNW"; */
-"9Z5-em-tNW.headerCell.title" = "剩下";
-
-/* Class = "NSTableColumn"; headerCell.title = "Comment"; ObjectID = "9sa-A7-zXD"; */
-"9sa-A7-zXD.headerCell.title" = "备注";
-
-/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "JQf-ZL-mlv"; */
+/* No comment by Translator*/
 "JQf-ZL-mlv.title" = "テキストセル";
 
-/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "MHC-7k-QtD"; */
+/* No comment by Translator*/
 "MHC-7k-QtD.title" = "テキストセル";
 
-/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "MIh-2i-1gh"; */
+/* No comment by Translator*/
 "MIh-2i-1gh.title" = "削除";
 
-/* Class = "NSMenu"; title = "Open with"; ObjectID = "MhK-Bc-Bjl"; */
+/* No comment by Translator*/
 "MhK-Bc-Bjl.title" = "打开方式";
 
-/* Class = "NSTableColumn"; headerCell.title = "Method"; ObjectID = "NOj-Vy-sgh"; */
-"NOj-Vy-sgh.headerCell.title" = "方法";
-
-/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "NXi-pY-eRz"; */
+/* No comment by Translator*/
 "NXi-pY-eRz.title" = "テキストセル";
 
-/* Class = "NSMenuItem"; ibShadowedToolTip = "Use ksdiff from Kaleidoscope app to diff two files"; ObjectID = "O6k-Xy-sIt"; */
-"O6k-Xy-sIt.ibShadowedToolTip" = "使用 Kaleidoscope 应用程序中的 ksdiff 来区分两个文件";
-
-/* Class = "NSMenuItem"; title = "Kaleidoscope…"; ObjectID = "O6k-Xy-sIt"; */
+/* No comment by Translator*/
 "O6k-Xy-sIt.title" = "万花筒…";
 
-/* Class = "NSMenuItem"; title = "Green"; ObjectID = "Pmc-Kw-SKp"; */
+/* No comment by Translator*/
 "Pmc-Kw-SKp.title" = "绿色";
 
-/* Class = "NSMenuItem"; title = "Strikethrough"; ObjectID = "QNk-T7-cqM"; */
+/* No comment by Translator*/
 "QNk-T7-cqM.title" = "取り消し線";
 
-/* Class = "NSMenuItem"; title = "Red"; ObjectID = "Uwu-CL-nAi"; */
+/* No comment by Translator*/
 "Uwu-CL-nAi.title" = "红色";
 
-/* Class = "NSMenuItem"; title = "Side By Side"; ObjectID = "VgV-en-by3"; */
+/* No comment by Translator*/
 "VgV-en-by3.title" = "并排显示";
 
-/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Xwz-Md-J1n"; */
+/* No comment by Translator*/
 "Xwz-Md-J1n.title" = "テキストセル";
 
-/* Class = "NSTextFieldCell"; title = "Diff on:"; ObjectID = "YHR-0h-QW7"; */
+/* No comment by Translator*/
 "YHR-0h-QW7.title" = "区分：";
 
-/* Class = "NSMenuItem"; title = "Right Side"; ObjectID = "aIw-46-5hz"; */
+/* No comment by Translator*/
 "aIw-46-5hz.title" = "右侧";
 
-/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "ccD-YZ-W1b"; */
+/* No comment by Translator*/
 "ccD-YZ-W1b.title" = "テキストセル";
 
-/* Class = "NSButtonCell"; title = "Request"; ObjectID = "f2F-ml-FVZ"; */
+/* No comment by Translator*/
 "f2F-ml-FVZ.title" = "请求";
 
-/* Class = "NSButtonCell"; title = "Response"; ObjectID = "hQh-ob-KJb"; */
+/* No comment by Translator*/
 "hQh-ob-KJb.title" = "响应";
 
-/* Class = "NSBox"; title = "Box"; ObjectID = "ief-t6-MUr"; */
+/* No comment by Translator*/
 "ief-t6-MUr.title" = "箱";
 
-/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "iiw-rL-egi"; */
+/* No comment by Translator*/
 "iiw-rL-egi.title" = "テキストセル";
 
-/* Class = "NSMenuItem"; title = "Highlight"; ObjectID = "luF-d2-Nns"; */
+/* No comment by Translator*/
 "luF-d2-Nns.title" = "突出显示";
 
-/* Class = "NSMenuItem"; title = "Gray"; ObjectID = "m8J-pW-PvJ"; */
+/* No comment by Translator*/
 "m8J-pW-PvJ.title" = "灰色";
 
-/* Class = "NSMenuItem"; title = "Purple"; ObjectID = "m8Z-7l-bBE"; */
+/* No comment by Translator*/
 "m8Z-7l-bBE.title" = "紫色";
 
-/* Class = "NSMenuItem"; title = "Open with"; ObjectID = "ntd-a2-vPS"; */
+/* No comment by Translator*/
 "ntd-a2-vPS.title" = "打开方式";
 
-/* Class = "NSMenuItem"; title = "Yellow"; ObjectID = "oGF-93-cOf"; */
+/* No comment by Translator*/
 "oGF-93-cOf.title" = "黄色";
 
-/* Class = "NSMenuItem"; title = "Left Side"; ObjectID = "oKd-lF-RDf"; */
+/* No comment by Translator*/
 "oKd-lF-RDf.title" = "左侧";
 
-/* Class = "NSWindow"; title = "Diff"; ObjectID = "oul-mj-e8E"; */
+/* No comment by Translator*/
 "oul-mj-e8E.title" = "Diff";
 
-/* Class = "NSMenu"; title = "Highlight"; ObjectID = "r0e-6r-hoR"; */
+/* No comment by Translator*/
 "r0e-6r-hoR.title" = "突出显示";
 
-/* Class = "NSTextFieldCell"; title = "Diff Tool is not available!"; ObjectID = "tKp-dK-G2A"; */
+/* No comment by Translator*/
 "tKp-dK-G2A.title" = "对比工具不可用！";
 
-/* Class = "NSMenuItem"; title = "Delete All"; ObjectID = "uDy-XP-WFC"; */
+/* No comment by Translator*/
 "uDy-XP-WFC.title" = "全部删除";
 
-/* Class = "NSTableColumn"; headerCell.title = "Right"; ObjectID = "vMf-zi-skT"; */
-"vMf-zi-skT.headerCell.title" = "对";
-
-/* Class = "NSMenuItem"; title = "Unified"; ObjectID = "xw8-PW-fyB"; */
+/* No comment by Translator*/
 "xw8-PW-fyB.title" = "合并显示";
 
-/* Class = "NSMenuItem"; title = "Blue"; ObjectID = "y5q-RY-LfK"; */
+/* No comment by Translator*/
 "y5q-RY-LfK.title" = "蓝色";
 
-/* Class = "NSBox"; title = "Box"; ObjectID = "yQV-wm-J4q"; */
+/* No comment by Translator*/
 "yQV-wm-J4q.title" = "箱";
 
-/* Class = "NSTextFieldCell"; title = "2. ⌘Y or Right-Click -> Tools -> Add to Diff Pool"; ObjectID = "yYR-bn-Vqt"; */
+/* No comment by Translator*/
 "yYR-bn-Vqt.title" = "2. ⌘Y 或右键单击 -> 工具 -> 添加到对比池";
 
-/* Class = "NSTextFieldCell"; title = "1. Select the request/response on the main view"; ObjectID = "ygt-Sk-AxV"; */
+/* No comment by Translator*/
 "ygt-Sk-AxV.title" = "1. 在主视图中选择请求/响应";
 
-/* Class = "NSTableColumn"; headerCell.title = "URL"; ObjectID = "bQ4-Wx-xML"; */
-"bQ4-Wx-xML.headerCell.title" = "URL";
-
-/* Class = "NSMenuItem"; ibShadowedToolTip = "All Header Key are alphabetically sorted. It's easier to see the diff."; ObjectID = "rJb-a0-vkg"; */
-"rJb-a0-vkg.ibShadowedToolTip" = "所有 Header 键都是按字母排序的。这更容易看到差异。";
-
-/* Class = "NSMenuItem"; title = "Sort Key Header"; ObjectID = "rJb-a0-vkg"; */
+/* No comment by Translator*/
 "rJb-a0-vkg.title" = "排序 Header 键";
