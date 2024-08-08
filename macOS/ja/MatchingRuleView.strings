@@ -29,6 +29,9 @@
 "Ysk-hj-HK6.title" = "POST";
 
 /* No comment by Translator*/
+"aLr-49-U0F.title" = "Use simple Wildcard (* and ?)";
+
+/* No comment by Translator*/
 "aLr-49-U0F.title" = "使用通配符";
 
 /* No comment by Translator*/
@@ -36,6 +39,12 @@
 
 /* No comment by Translator*/
 "e6b-ss-qIB.title" = "ANY";
+
+/* No comment by Translator*/
+"eNi-xg-bQx.title" = "e.g. GetUser";
+
+/* No comment by Translator*/
+"ey3-cI-3o6.title" = "Use full-matching regex";
 
 /* No comment by Translator*/
 "ey3-cI-3o6.title" = "使用正则表达式";
