@@ -1,47 +1,47 @@
 /* No comment by Translator*/
-"0Uh-i8-mQI.title" = "iOS 模拟器缺少 SSL 证书";
+"0Uh-i8-mQI.title" = "Missing SSL Certificate from iOS Simulator";
 
 /* No comment by Translator*/
-"31d-Iy-ovn.title" = "或者";
+"31d-Iy-ovn.title" = "or";
 
 /* No comment by Translator*/
-"4aq-Ys-4f8.title" = "HTTPS 响应";
+"4aq-Ys-4f8.title" = "HTTPS Response";
 
 /* No comment by Translator*/
-"6XL-eT-687.title" = "错误";
+"6XL-eT-687.title" = "Error";
 
 /* No comment by Translator*/
 "6yp-io-dmy.title" = "Enable all domains from \"Proxyman\"";
 
 /* No comment by Translator*/
-"GBn-nr-VB9.title" = "无响应数据";
+"GBn-nr-VB9.title" = "No Response Data";
 
 /* No comment by Translator*/
 "Gs9-ru-u5x.title" = "トラブルシューティング";
 
 /* No comment by Translator*/
-"GxC-5t-ymG.title" = "请安装以查看 HTTPS 响应";
+"GxC-5t-ymG.title" = "Please install to see the HTTPS response";
 
 /* No comment by Translator*/
-"GxF-XD-BcQ.title" = "启用 SSL 代理以查看内容。";
+"GxF-XD-BcQ.title" = "Enable SSL Proxying to see the content.";
 
 /* No comment by Translator*/
-"XkF-QZ-37G.title" = "启用此域";
+"XkF-QZ-37G.title" = "Enable this Domain";
 
 /* No comment by Translator*/
-"ZB9-8G-tzO.title" = "此 HTTPS 请求使用自定义 CA 证书（SSL-Pinning）签名。\n您可能需要配置浏览器或应用程序以信任 Proxyman CA 证书。";
+"ZB9-8G-tzO.title" = "This HTTPS request is signed with custom CA Certificate (SSL-Pinning).\nYou may need to config your browser or application to trust the Proxyman CA Certificate. ";
 
 /* No comment by Translator*/
-"Zo7-X9-gkR.title" = "您的 iOS 模拟器尚未安装任何 Proxyman 证书";
+"Zo7-X9-gkR.title" = "Your iOS simulator hasn't installed any Proxyman Certificate yet";
 
 /* No comment by Translator*/
-"cm5-Xc-OGe.title" = "此 HTTPS 响应已加密。";
+"cm5-Xc-OGe.title" = "This HTTPS response is encrypted.";
 
 /* No comment by Translator*/
-"kl0-Mc-HcD.title" = "安装证书";
+"kl0-Mc-HcD.title" = "Install Certificate";
 
 /* No comment by Translator*/
-"ndj-TK-mKm.title" = "箱";
+"ndj-TK-mKm.title" = "Box";
 
 /* No comment by Translator*/
-"zfJ-2L-Ojf.title" = "客户端 SSL 握手失败";
+"zfJ-2L-Ojf.title" = "Client SSL Handshake Failed";
