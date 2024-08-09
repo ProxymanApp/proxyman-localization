@@ -2,16 +2,16 @@
 "1a2-MC-EcO.title" = "Open the diff with FileMerge application (Required Xcode)";
 
 /* No comment by Translator*/
-"1a2-MC-EcO.title" = "文件合并...";
+"1a2-MC-EcO.title" = "FileMerge…";
 
 /* No comment by Translator*/
-"3Tt-gM-SlN.title" = "无项目选择";
+"3Tt-gM-SlN.title" = "No Item Selection";
 
 /* No comment by Translator*/
-"5Nl-nS-x8J.title" = "コメントを追加...";
+"5Nl-nS-x8J.title" = "Add Comment…";
 
 /* No comment by Translator*/
-"5Xc-aN-5o3.title" = "リセット";
+"5Xc-aN-5o3.title" = "Reset";
 
 /* No comment by Translator*/
 "5wz-6g-ris.title" = "ID";
@@ -20,10 +20,10 @@
 "8BS-lV-5rL.title" = "All JSON Keys are alphabetically sorted. It's easier to see the diff if the JSON Keys Order are changed";
 
 /* No comment by Translator*/
-"8BS-lV-5rL.title" = "排序 JSON 键";
+"8BS-lV-5rL.title" = "Sort JSON Key";
 
 /* No comment by Translator*/
-"8Ul-SW-AQu.title" = "请升级您的 macOS 以使用此功能（macOS 11.2 或更高版本）。";
+"8Ul-SW-AQu.title" = "Please upgrade your macOS to use this feature (macOS 11.2 or later).";
 
 /* No comment by Translator*/
 "9Z5-em-tNW.title" = "Left";
@@ -32,112 +32,112 @@
 "9sa-A7-zXD.title" = "Comment";
 
 /* No comment by Translator*/
-"JQf-ZL-mlv.title" = "テキストセル";
+"JQf-ZL-mlv.title" = "Text Cell";
 
 /* No comment by Translator*/
-"MHC-7k-QtD.title" = "テキストセル";
+"MHC-7k-QtD.title" = "Text Cell";
 
 /* No comment by Translator*/
-"MIh-2i-1gh.title" = "削除";
+"MIh-2i-1gh.title" = "Delete";
 
 /* No comment by Translator*/
-"MhK-Bc-Bjl.title" = "打开方式";
+"MhK-Bc-Bjl.title" = "Open with";
 
 /* No comment by Translator*/
 "NOj-Vy-sgh.title" = "Method";
 
 /* No comment by Translator*/
-"NXi-pY-eRz.title" = "テキストセル";
+"NXi-pY-eRz.title" = "Text Cell";
 
 /* No comment by Translator*/
 "O6k-Xy-sIt.title" = "Use ksdiff from Kaleidoscope app to diff two files";
 
 /* No comment by Translator*/
-"O6k-Xy-sIt.title" = "万花筒…";
+"O6k-Xy-sIt.title" = "Kaleidoscope…";
 
 /* No comment by Translator*/
-"Pmc-Kw-SKp.title" = "绿色";
+"Pmc-Kw-SKp.title" = "Green";
 
 /* No comment by Translator*/
-"QNk-T7-cqM.title" = "取り消し線";
+"QNk-T7-cqM.title" = "Strikethrough";
 
 /* No comment by Translator*/
-"Uwu-CL-nAi.title" = "红色";
+"Uwu-CL-nAi.title" = "Red";
 
 /* No comment by Translator*/
-"VgV-en-by3.title" = "并排显示";
+"VgV-en-by3.title" = "Side By Side";
 
 /* No comment by Translator*/
-"Xwz-Md-J1n.title" = "テキストセル";
+"Xwz-Md-J1n.title" = "Text Cell";
 
 /* No comment by Translator*/
-"YHR-0h-QW7.title" = "区分：";
+"YHR-0h-QW7.title" = "Diff on:";
 
 /* No comment by Translator*/
-"aIw-46-5hz.title" = "右侧";
+"aIw-46-5hz.title" = "Right Side";
 
 /* No comment by Translator*/
-"ccD-YZ-W1b.title" = "テキストセル";
+"ccD-YZ-W1b.title" = "Text Cell";
 
 /* No comment by Translator*/
-"f2F-ml-FVZ.title" = "请求";
+"f2F-ml-FVZ.title" = "Request";
 
 /* No comment by Translator*/
-"hQh-ob-KJb.title" = "响应";
+"hQh-ob-KJb.title" = "Response";
 
 /* No comment by Translator*/
-"ief-t6-MUr.title" = "箱";
+"ief-t6-MUr.title" = "Box";
 
 /* No comment by Translator*/
-"iiw-rL-egi.title" = "テキストセル";
+"iiw-rL-egi.title" = "Text Cell";
 
 /* No comment by Translator*/
-"luF-d2-Nns.title" = "突出显示";
+"luF-d2-Nns.title" = "Highlight";
 
 /* No comment by Translator*/
-"m8J-pW-PvJ.title" = "灰色";
+"m8J-pW-PvJ.title" = "Gray";
 
 /* No comment by Translator*/
-"m8Z-7l-bBE.title" = "紫色";
+"m8Z-7l-bBE.title" = "Purple";
 
 /* No comment by Translator*/
-"ntd-a2-vPS.title" = "打开方式";
+"ntd-a2-vPS.title" = "Open with";
 
 /* No comment by Translator*/
-"oGF-93-cOf.title" = "黄色";
+"oGF-93-cOf.title" = "Yellow";
 
 /* No comment by Translator*/
-"oKd-lF-RDf.title" = "左侧";
+"oKd-lF-RDf.title" = "Left Side";
 
 /* No comment by Translator*/
 "oul-mj-e8E.title" = "Diff";
 
 /* No comment by Translator*/
-"r0e-6r-hoR.title" = "突出显示";
+"r0e-6r-hoR.title" = "Highlight";
 
 /* No comment by Translator*/
-"tKp-dK-G2A.title" = "对比工具不可用！";
+"tKp-dK-G2A.title" = "Diff Tool is not available!";
 
 /* No comment by Translator*/
-"uDy-XP-WFC.title" = "全部删除";
+"uDy-XP-WFC.title" = "Delete All";
 
 /* No comment by Translator*/
 "vMf-zi-skT.title" = "Right";
 
 /* No comment by Translator*/
-"xw8-PW-fyB.title" = "合并显示";
+"xw8-PW-fyB.title" = "Unified";
 
 /* No comment by Translator*/
-"y5q-RY-LfK.title" = "蓝色";
+"y5q-RY-LfK.title" = "Blue";
 
 /* No comment by Translator*/
-"yQV-wm-J4q.title" = "箱";
+"yQV-wm-J4q.title" = "Box";
 
 /* No comment by Translator*/
-"yYR-bn-Vqt.title" = "2. ⌘Y 或右键单击 -> 工具 -> 添加到对比池";
+"yYR-bn-Vqt.title" = "2. ⌘Y or Right-Click -> Tools -> Add to Diff Pool";
 
 /* No comment by Translator*/
-"ygt-Sk-AxV.title" = "1. 在主视图中选择请求/响应";
+"ygt-Sk-AxV.title" = "1. Select the request/response on the main view";
 
 /* No comment by Translator*/
 "bQ4-Wx-xML.title" = "URL";
@@ -146,4 +146,4 @@
 "rJb-a0-vkg.title" = "All Header Key are alphabetically sorted. It's easier to see the diff.";
 
 /* No comment by Translator*/
-"rJb-a0-vkg.title" = "排序 Header 键";
+"rJb-a0-vkg.title" = "Sort Key Header";
