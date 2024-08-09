@@ -2,7 +2,7 @@
 "0Mw-hM-kfI.title" = "http://my-server.com/proxy.pac";
 
 /* No comment by Translator*/
-"cEA-mK-ye8.title" = "代理配置网址：";
+"cEA-mK-ye8.title" = "Proxy Configuration URL:";
 
 /* No comment by Translator*/
-"gya-08-ANz.title" = "如果您的网络管理员为您提供了自动代理配置 (.pac) 文件的地址，请在上方输入。";
+"gya-08-ANz.title" = "If your network administrator provided you with the address of an automatic proxy configuration (.pac) file, enter it above.";
