@@ -1,89 +1,89 @@
 /* No comment by Translator*/
-"55I-2j-N3c.title" = "映射到";
+"55I-2j-N3c.title" = "Map To";
 
 /* No comment by Translator*/
 "5uA-nj-f0B.title" = "File is missing!";
 
 /* No comment by Translator*/
-"9Zx-Ag-3rZ.title" = "箱";
+"9Zx-Ag-3rZ.title" = "Box";
 
 /* No comment by Translator*/
-"A6k-Kh-bHE.title" = "匹配规则";
+"A6k-Kh-bHE.title" = "Matching Rule";
 
 /* No comment by Translator*/
-"CtJ-RX-caQ.title" = "网址：";
+"CtJ-RX-caQ.title" = "URL:";
 
 /* No comment by Translator*/
-"EvC-7b-Zry.title" = "箱";
+"EvC-7b-Zry.title" = "Box";
 
 /* No comment by Translator*/
-"Fd3-2m-HDt.title" = "箱";
+"Fd3-2m-HDt.title" = "Box";
 
 /* No comment by Translator*/
-"Gpn-wO-ERb.title" = "接受 HTTP 消息格式或本地文件";
+"Gpn-wO-ERb.title" = "Accept HTTP Message Format or Local File";
 
 /* No comment by Translator*/
 "KQw-Vb-PCA.title" = "Local Directory";
 
 /* No comment by Translator*/
-"Kq1-Nf-zLf.title" = "选择本地文件";
+"Kq1-Nf-zLf.title" = "Select Local File";
 
 /* No comment by Translator*/
-"MWi-dd-DTl.title" = "名称：";
+"MWi-dd-DTl.title" = "Name:";
 
 /* No comment by Translator*/
-"Ozt-dG-TW5.title" = "启用本地文件";
+"Ozt-dG-TW5.title" = "Enable Local File";
 
 /* No comment by Translator*/
-"P4o-dl-BDp.title" = "在 Finder 中显示...";
+"P4o-dl-BDp.title" = "Show in Finder…";
 
 /* No comment by Translator*/
 "Xpk-bH-UCS.title" = "api.proxyman.io/v1/*";
 
 /* No comment by Translator*/
-"YJp-VX-TxN.title" = "有效的 HTTP 消息格式";
+"YJp-VX-TxN.title" = "Valid HTTP Message Format";
 
 /* No comment by Translator*/
-"Z3N-9I-kUD.title" = "打开用";
+"Z3N-9I-kUD.title" = "More";
 
 /* No comment by Translator*/
-"a50-iV-ios.title" = "箱";
+"a50-iV-ios.title" = "Box";
 
 /* No comment by Translator*/
-"arj-9D-ccT.title" = "来自根目录或子目录的支持映射";
+"arj-9D-ccT.title" = "Support map from Root or Sub-Directories";
 
 /* No comment by Translator*/
 "beY-LR-MBq.title" = "<Invalid File. Please select the local directory>";
 
 /* No comment by Translator*/
-"beY-LR-MBq.title" = "~/临时/json.txt";
+"beY-LR-MBq.title" = "~/temporary/json.txt";
 
 /* No comment by Translator*/
-"dFD-om-xyu.title" = "フォルダを選択";
+"dFD-om-xyu.title" = "Select Directory";
 
 /* No comment by Translator*/
-"e9w-wF-trx.title" = "在 Finder 中显示";
-
-/* No comment by Translator*/
-"f5x-eA-loC.title" = "无标题";
+"e9w-wF-trx.title" = "Show in Finder";
 
 /* No comment by Translator*/
 "f5x-eA-loC.title" = "Untitled";
 
 /* No comment by Translator*/
-"gu0-HQ-5fy.title" = "文件：";
+"f5x-eA-loC.title" = "Untitled";
 
 /* No comment by Translator*/
-"iX9-Av-adp.title" = "启用本地目录";
+"gu0-HQ-5fy.title" = "File:";
+
+/* No comment by Translator*/
+"iX9-Av-adp.title" = "Enable Local Directory";
 
 /* No comment by Translator*/
 "j6O-e3-d9Q.title" = "Local File";
 
 /* No comment by Translator*/
-"kv0-ZL-9Zq.title" = "目录路径：";
+"kv0-ZL-9Zq.title" = "Directory Path:";
 
 /* No comment by Translator*/
-"qHm-ke-rPr.title" = "文件大小大于 20Mb 可能会影响性能！";
+"qHm-ke-rPr.title" = "File size is bigger than 20Mb could impact the performance!";
 
 /* No comment by Translator*/
 "rif-3l-FwS.title" = "Automatically Save file after 1 second";
@@ -92,10 +92,10 @@
 "2fo-Px-M5m.title" = "The content of local file is automatically saved after 2 seconds";
 
 /* No comment by Translator*/
-"2fo-Px-M5m.title" = "自动保存";
+"2fo-Px-M5m.title" = "Auto-Save";
 
 /* No comment by Translator*/
-"b8M-Se-0Ew.title" = "（已保存）";
+"b8M-Se-0Ew.title" = "(Saved)";
 
 /* No comment by Translator*/
-"dDP-if-jl8.title" = "保存⌘S";
+"dDP-if-jl8.title" = "Save ⌘S";
