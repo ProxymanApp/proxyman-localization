@@ -2,40 +2,40 @@
 "7yj-r2-5F1.title" = "Automatically Save file after 1 second";
 
 /* No comment by Translator*/
-"9Fk-ui-AmQ.title" = "有效的 HTTP 消息格式";
+"9Fk-ui-AmQ.title" = "Valid HTTP Message Format";
 
 /* No comment by Translator*/
-"9OG-ja-nhC.title" = "箱";
+"9OG-ja-nhC.title" = "Box";
 
 /* No comment by Translator*/
-"Df7-xt-iEx.title" = "请求模板";
+"Df7-xt-iEx.title" = "Request Template";
 
 /* No comment by Translator*/
-"Izv-ct-v1I.title" = "箱";
-
-/* No comment by Translator*/
-"S5X-8o-5FW.title" = "无标题";
+"Izv-ct-v1I.title" = "Box";
 
 /* No comment by Translator*/
 "S5X-8o-5FW.title" = "Untitled";
 
 /* No comment by Translator*/
-"SoZ-Lw-ECB.title" = "名称：";
+"S5X-8o-5FW.title" = "Untitled";
 
 /* No comment by Translator*/
-"VOX-1b-ibn.title" = "⇧⌘N：添加新的响应";
+"SoZ-Lw-ECB.title" = "Name:";
 
 /* No comment by Translator*/
-"Vnz-Ol-bvE.title" = "请求原始消息";
+"VOX-1b-ibn.title" = "⇧⌘N: Add new Response";
 
 /* No comment by Translator*/
-"j0e-RE-rR9.title" = "没有模板选择";
+"Vnz-Ol-bvE.title" = "Request Raw Message";
 
 /* No comment by Translator*/
-"vbP-2I-jUB.title" = "应用断点模板：在断点窗口中 -> 选择原始选项卡 -> 模板";
+"j0e-RE-rR9.title" = "No Template Selection";
 
 /* No comment by Translator*/
-"xPm-2i-pXF.title" = "箱";
+"vbP-2I-jUB.title" = "To apply Breakpoint Template: In the Breakpoint Window -> Select Raw Tab -> Template";
 
 /* No comment by Translator*/
-"yML-xK-kVi.title" = "⌘N：添加新请求";
+"xPm-2i-pXF.title" = "Box";
+
+/* No comment by Translator*/
+"yML-xK-kVi.title" = "⌘N: Add new Request";
