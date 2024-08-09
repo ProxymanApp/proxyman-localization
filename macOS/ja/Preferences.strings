@@ -2,52 +2,52 @@
 "0Vr-ZZ-FII.title" = "15";
 
 /* No comment by Translator*/
-"1D9-Iv-Gsp.title" = "ライセンス";
+"1D9-Iv-Gsp.title" = "License";
 
 /* No comment by Translator*/
 "1Fq-MH-826.title" = "© 2023 Proxyman LLC";
 
 /* No comment by Translator*/
-"1xc-Rq-yug.title" = "完全な時間フォーマットを表示";
+"1xc-Rq-yug.title" = "Display Full Time Format";
 
 /* No comment by Translator*/
-"2Ce-wr-Nk1.title" = "プロキシポート：";
+"2Ce-wr-Nk1.title" = "Proxy Port:";
 
 /* No comment by Translator*/
-"2Ec-LR-DO9.title" = "在匹配的工作流中添加 Proxyman 的标头";
+"2Ec-LR-DO9.title" = "Append Proxyman Headers to matched flows";
 
 /* No comment by Translator*/
-"2Zj-jQ-RO4.title" = "〜/桌面";
+"2Zj-jQ-RO4.title" = "~/Desktop";
 
 /* No comment by Translator*/
 "2Zz-AT-VRb.title" = "Random from 1-10 seconds";
 
 /* No comment by Translator*/
-"2Zz-AT-VRb.title" = "随机 (1-15)";
+"2Zz-AT-VRb.title" = "Random (1-15)";
 
 /* No comment by Translator*/
-"3ht-YN-L4A.title" = "导出后自动打开导出目录";
+"3ht-YN-L4A.title" = "Auto open the Export Directory after exporting";
 
 /* No comment by Translator*/
-"3nA-cp-gr0.title" = "应用于请求与响应面板以及主表中的所有选项卡。";
+"3nA-cp-gr0.title" = "Apply to all tabs in the Request and Response Panel and the main table.";
 
 /* No comment by Translator*/
-"3ss-XQ-P1M.title" = "*.chls 转换器：";
+"3ss-XQ-P1M.title" = "*.chls Converter:";
 
 /* No comment by Translator*/
-"4bl-2c-n7Z.title" = "ボディプレビューの内容は改行されます。";
+"4bl-2c-n7Z.title" = "The content in Body Previewer would wrap to new line.";
 
 /* No comment by Translator*/
-"532-Yx-67Y.title" = "检查或撤销应用程序授权。";
+"532-Yx-67Y.title" = "Review or Revoke Application Authorization.";
 
 /* No comment by Translator*/
-"5CW-ZF-nf6.title" = "本地映射目录：";
+"5CW-ZF-nf6.title" = "Map Local Directory:";
 
 /* No comment by Translator*/
-"5E6-g7-gT1.title" = "Proxymanをご使用いただきありがとうございます🌟";
+"5E6-g7-gT1.title" = "Thank you for using Proxyman 🌟";
 
 /* No comment by Translator*/
-"5Ey-ac-cqq.title" = "アクティブ";
+"5Ey-ac-cqq.title" = "Activate";
 
 /* No comment by Translator*/
 "5NG-EH-cta.title" = "24";
@@ -59,265 +59,265 @@
 "5Ph-iC-AZQ.title" = "17";
 
 /* No comment by Translator*/
-"6Q1-Nq-cEo.title" = "ライセンス登録";
+"6Q1-Nq-cEo.title" = "License Registration";
 
 /* No comment by Translator*/
-"7NJ-Hj-gFj.title" = "Gistにアクセスできるのは、所有者またはリンクを持つ人のみです。";
+"7NJ-Hj-gFj.title" = "Only the owner or colleagues who have a link can access the Gist.";
 
 /* No comment by Translator*/
-"8iB-3A-4cm.title" = "削除";
+"8iB-3A-4cm.title" = "Delete";
 
 /* No comment by Translator*/
-"921-Uo-FJn.title" = "3 秒";
+"921-Uo-FJn.title" = "3 seconds";
 
 /* No comment by Translator*/
-"9SX-VA-zL1.title" = "使用 `simctl` 命令行 (Xcode 11.4+)";
+"9SX-VA-zL1.title" = "Use `simctl` command line (Xcode 11.4+)";
 
 /* No comment by Translator*/
-"9sk-ku-nl7.title" = "发布为：";
+"9sk-ku-nl7.title" = "Publish as:";
 
 /* No comment by Translator*/
-"9sk-pC-1Vk.title" = "近日公開。乞うご期待！";
+"9sk-pC-1Vk.title" = "Coming soon. Stay tuned!";
 
 /* No comment by Translator*/
-"9tM-hY-Kd0.title" = "ステータスバーにProxymanを表示";
+"9tM-hY-Kd0.title" = "Display Proxyman on System Status Bar";
 
 /* No comment by Translator*/
-"AD3-c3-hL6.title" = "箱";
+"AD3-c3-hL6.title" = "Box";
 
 /* No comment by Translator*/
-"Bxk-sN-68i.title" = "診断データと使用状況データを自動的に送信することで、Proxyman の改善に役立ちます。診断データは匿名で収集され、あなたを特定することはできません。";
+"Bxk-sN-68i.title" = "Help improve Proxyman by automatically sending diagnostics and usage data. Diagnostic data is collected anonymously and cannot be used to identify you.";
 
 /* No comment by Translator*/
-"C4R-eB-LvV.title" = "注册到 nghia@proxyman.io";
+"C4R-eB-LvV.title" = "Registered to nghia@proxyman.io";
 
 /* No comment by Translator*/
-"Cbg-oU-CgP.title" = "Proxymanのドックアイコン";
+"Cbg-oU-CgP.title" = "Proxyman Dock Icon";
 
 /* No comment by Translator*/
-"DOF-RA-YAC.title" = "時間フォーマット：";
+"DOF-RA-YAC.title" = "Time Format:";
 
 /* No comment by Translator*/
-"DRx-PJ-Off.title" = "12h / 24h形式の切り替え";
+"DRx-PJ-Off.title" = "Switch between 12-Hour or 24-Hour format.";
 
 /* No comment by Translator*/
-"Df8-Z9-UTz.title" = "初期設定に戻す";
+"Df8-Z9-UTz.title" = "Restore Defaults";
 
 /* No comment by Translator*/
-"EBU-HH-AYP.title" = "詳細";
+"EBU-HH-AYP.title" = "More";
 
 /* No comment by Translator*/
-"EHm-bg-ulm.title" = " 以前のプロキシ設定を記憶し復元する";
+"EHm-bg-ulm.title" = " Persist and Restore to your previous Proxy setting";
 
 /* No comment by Translator*/
 "ET3-Tc-Zjs.title" = "Version 1.4.0";
 
 /* No comment by Translator*/
-"EoZ-nI-IvY.title" = "操作";
+"EoZ-nI-IvY.title" = "Action";
 
 /* No comment by Translator*/
 "EvB-M6-TBJ.title" = "11";
 
 /* No comment by Translator*/
-"F6v-yQ-5Lx.title" = "所有 Proxyman 窗口将置顶显示。";
+"F6v-yQ-5Lx.title" = "All Proxyman windows are float on top.";
 
 /* No comment by Translator*/
-"FWy-xl-1ZO.title" = "字体大小";
+"FWy-xl-1ZO.title" = "Font Size";
 
 /* No comment by Translator*/
-"Fec-Fl-khM.title" = "仅图标";
+"Fec-Fl-khM.title" = "Icon Only";
 
 /* No comment by Translator*/
-"Fjt-o1-3As.title" = "Proxymanを既にご購入済みの方は、ライセンスキーが記載されたメールをご確認ください。";
+"Fjt-o1-3As.title" = "If you have already purchased Proxyman, please check your email for the license key.";
 
 /* No comment by Translator*/
-"G0s-1b-ptK.title" = "HTTP/HTTPS トラフィックはログに記録され、メインのテーブル ビューに表示されます。";
+"G0s-1b-ptK.title" = "Record HTTP/HTTPS Traffic and display on the main table view.";
 
 /* No comment by Translator*/
-"G3H-YD-tNc.title" = "2 秒";
+"G3H-YD-tNc.title" = "2 seconds";
 
 /* No comment by Translator*/
-"G3k-eP-qB5.title" = "ライセンスキーにより、Premium Proxyman for iOSをアクティベートできます。";
+"G3k-eP-qB5.title" = "You can activate a Premium Proxyman for iOS with your license Key.";
 
 /* No comment by Translator*/
-"G4Q-Rk-WW9.title" = "预览...";
+"G4Q-Rk-WW9.title" = "Preview...";
 
 /* No comment by Translator*/
-"GI2-GU-BDu.title" = "エクスポート";
+"GI2-GU-BDu.title" = "Export";
 
 /* No comment by Translator*/
-"GRh-ar-Fcg.title" = "管理访问权限";
+"GRh-ar-Fcg.title" = "Manage Access";
 
 /* No comment by Translator*/
-"GcU-Ks-Z4Z.title" = "启动时自动开始记录流量";
+"GcU-Ks-Z4Z.title" = "Auto Start Recording Traffic at Launch Time";
 
 /* No comment by Translator*/
-"Gf7-2K-UO9.title" = "选定的请求/响应选项卡将在应用启动后恢复。";
+"Gf7-2K-UO9.title" = "Selected Request/Response Tabs will be restored after the app launches.";
 
 /* No comment by Translator*/
-"HGS-90-QyJ.title" = "发布后：";
+"HGS-90-QyJ.title" = "After Publish:";
 
 /* No comment by Translator*/
-"HWt-Vj-m9R.title" = "iOS シミュレータ：";
+"HWt-Vj-m9R.title" = "iOS Simulators:";
 
 /* No comment by Translator*/
-"HdF-Wc-eWS.title" = "ライセンスキー：";
+"HdF-Wc-eWS.title" = "License Key:";
 
 /* No comment by Translator*/
-"Hf3-sZ-9ad.title" = "60 秒";
+"Hf3-sZ-9ad.title" = "60 seconds";
 
 /* No comment by Translator*/
-"HfA-QJ-tDS.title" = "macOS プロキシ設定";
+"HfA-QJ-tDS.title" = "macOS Proxy Settings";
 
 /* No comment by Translator*/
-"HjQ-KW-7TK.title" = "导出日志：";
+"HjQ-KW-7TK.title" = "Export Log:";
 
 /* No comment by Translator*/
-"Hm9-ql-dWy.title" = "箱";
+"Hm9-ql-dWy.title" = "Box";
 
 /* No comment by Translator*/
 "I0h-51-7d4.title" = "16";
 
 /* No comment by Translator*/
-"IKr-ow-7xJ.title" = "UI 和语法高亮主题";
+"IKr-ow-7xJ.title" = "UI and Syntax Highlight Theme";
 
 /* No comment by Translator*/
-"IM9-xB-06w.title" = "密钥丢了？";
+"IM9-xB-06w.title" = "Lost Key?";
 
 /* No comment by Translator*/
-"ISQ-zy-ocW.title" = "15 秒";
+"ISQ-zy-ocW.title" = "15 seconds";
 
 /* No comment by Translator*/
-"IhB-tT-LSS.title" = "续订";
+"IhB-tT-LSS.title" = "Renew";
 
 /* No comment by Translator*/
-"JgM-DQ-8jS.title" = "Powered by Microsoft App Center ";
+"JgM-DQ-8jS.title" = "Powered by Microsoft App Center";
 
 /* No comment by Translator*/
 "JuX-gz-PVq.title" = "10";
 
 /* No comment by Translator*/
-"K62-B0-EXH.title" = "杂项：";
+"K62-B0-EXH.title" = "Miscellaneous:";
 
 /* No comment by Translator*/
-"K6f-dH-Woe.title" = "Proxymanが予期せずクラッシュした際にクラッシュレポートを送信し、安定性とパフォーマンスの向上に貢献できます。クラッシュレポートは匿名で収集され、個人情報は一切含まれません。";
+"K6f-dH-Woe.title" = "Help improve Proxyman's stability and performance by sending the crash report if Proxyman is crashed unexpectedly. This crash report is collected anonymously and contains no personal information.";
 
 /* No comment by Translator*/
-"L8W-up-oIP.title" = "ボトムバーにリソース使用量を表示";
+"L8W-up-oIP.title" = "Show Resource Usage in Bottom Bar";
 
 /* No comment by Translator*/
-"LLi-3b-pjV.title" = "对重复请求停用缓存";
+"LLi-3b-pjV.title" = "Use No-Caching on Repeated Requests";
 
 /* No comment by Translator*/
-"LkA-UH-azw.title" = "プレミアムにアップグレードすると、すべての機能がアンロックされます。";
+"LkA-UH-azw.title" = "Upgrade to Premium to unlock all features.";
 
 /* No comment by Translator*/
-"Lqm-Rb-4v3.title" = "包括内存使用、上传和下载速度。";
+"Lqm-Rb-4v3.title" = "Include memory usage, upload and download speed.";
 
 /* No comment by Translator*/
-"MJm-cy-Ovb.title" = "此端口已被占用！请选择可用端口。";
+"MJm-cy-Ovb.title" = " This port is occupied! Please select available port.";
 
 /* No comment by Translator*/
-"MN2-cP-LLI.title" = "始终置顶";
+"MN2-cP-LLI.title" = "Stay On Top";
 
 /* No comment by Translator*/
-"Mb7-KU-npu.title" = "卸载";
+"Mb7-KU-npu.title" = "Uninstall";
 
 /* No comment by Translator*/
-"Mn8-XJ-7v0.title" = "時間タブには、日付、時間、タイムゾーンが表示されます。";
+"Mn8-XJ-7v0.title" = "Time Label will display with Date, Time, and keep the TimeZone.";
 
 /* No comment by Translator*/
 "N6K-G2-QMY.title" = "28";
 
 /* No comment by Translator*/
-"NMP-nz-g9l.title" = "リクエストパネルとレスポンスパネルの縦または横のレイアウト。";
+"NMP-nz-g9l.title" = "Request and Response panels in Vertical or Horizontal Layout.";
 
 /* No comment by Translator*/
 "NMt-QP-oxJ.title" = "PXM-XXXX-XXXX-XXXX-XXXX-XXXX";
 
 /* No comment by Translator*/
-"NSZ-qX-Kq1.title" = "致谢";
+"NSZ-qX-Kq1.title" = "Acknowledgment";
 
 /* No comment by Translator*/
-"NYd-S0-tpS.title" = "尚未授权";
+"NYd-S0-tpS.title" = "Not Authorize Yet";
 
 /* No comment by Translator*/
-"NZh-v6-y1S.title" = "Proxymanとその他のプロキシサーバーの両方を利用している場合に有用です。";
+"NZh-v6-y1S.title" = "It's useful if you're using different Proxy Server at the same time with Proxyman.";
 
 /* No comment by Translator*/
-"O5T-gR-uix.title" = "取消链接此设备";
+"O5T-gR-uix.title" = "Unlink this Device";
 
 /* No comment by Translator*/
-"ONU-RP-7UJ.title" = "调试工具：";
+"ONU-RP-7UJ.title" = "Debugging Tools:";
 
 /* No comment by Translator*/
-"Odh-9K-Po6.title" = "横";
+"Odh-9K-Po6.title" = "Horizontal";
 
 /* No comment by Translator*/
-"PdR-jA-mPr.title" = "ライセンスの有効期限が切れている場合、Proxymanはステータスバーを表示しません。";
+"PdR-jA-mPr.title" = "If your license is expired, Proxyman would not notify it on the status bar.";
 
 /* No comment by Translator*/
-"QF9-qQ-1q1.title" = "你使用的是免费版";
+"QF9-qQ-1q1.title" = "You're using a Trial Version";
 
 /* No comment by Translator*/
-"Qgq-TP-lie.title" = "隐藏 iOS 模拟器中的 *.apple.com 和 *.icloud.com 请求。";
+"Qgq-TP-lie.title" = "Hide *.apple.com and *.icloud.com request from iOS Simulators.";
 
 /* No comment by Translator*/
-"RDc-l7-83E.title" = "创建临时本地映射文件的默认目录。";
+"RDc-l7-83E.title" = "Default directory to create temporary Map Local files.";
 
 /* No comment by Translator*/
-"Rgb-wI-DPe.title" = "仅文本";
+"Rgb-wI-DPe.title" = "Text Only";
 
 /* No comment by Translator*/
-"Riv-kU-y3g.title" = "您不再收到任何更新，请更新以获取最新更新。";
+"Riv-kU-y3g.title" = "You're no longer receive any further updates, please Renew to get the latest updates.";
 
 /* No comment by Translator*/
-"STu-UY-CEs.title" = "分析：";
+"STu-UY-CEs.title" = "Analytics:";
 
 /* No comment by Translator*/
-"Sby-GA-bQs.title" = "使用默认 Web 浏览器打开 Gist";
+"Sby-GA-bQs.title" = "Open Gist with default Web Browser";
 
 /* No comment by Translator*/
-"Smd-It-cvi.title" = "任何人都可以访问 Gist。";
+"Smd-It-cvi.title" = "Anyone can access the Gist.";
 
 /* No comment by Translator*/
-"TEm-bK-haX.title" = "レイアウト：";
+"TEm-bK-haX.title" = "Content Layout:";
 
 /* No comment by Translator*/
-"TFV-ln-1Bd.title" = "工具栏样式：";
+"TFV-ln-1Bd.title" = "Toolbar Style:";
 
 /* No comment by Translator*/
-"VWC-SK-7lV.title" = "PEM（ルート証明書）...";
+"VWC-SK-7lV.title" = "Root Certificate as PEM...";
 
 /* No comment by Translator*/
-"VgO-yw-Imi.title" = "模拟发送本地映射响应之前的延迟。";
+"VgO-yw-Imi.title" = "Simulate the delay before sending the Map Local Response.";
 
 /* No comment by Translator*/
 "WWJ-OP-BzR.title" = "20";
 
 /* No comment by Translator*/
-"WY7-qJ-smu.title" = "允许脚本读取系统环境变量";
+"WY7-qJ-smu.title" = "Allow Scripts to read System Environment Variables";
 
 /* No comment by Translator*/
-"WbR-zh-4eo.title" = "アプリについて";
+"WbR-zh-4eo.title" = "About";
 
 /* No comment by Translator*/
 "Xdr-2w-VSv.title" = "Generate new Proxyman CA";
 
 /* No comment by Translator*/
-"XiK-LT-h82.title" = "Proxymanは、あなたのIDを使ってGistにアクセスするために、あなたのGithubアカウントのGist権限を必要とします。認証後、あなたのGithubアクセストークンはシステムのキーチェーンに安全に保存されます。";
+"XiK-LT-h82.title" = "To read or write Gists on a user's behalf, Proxyman requires Gist Permission from your Github account. After the authorization, your Github Access Token will securely store in System Keychain.";
 
 /* No comment by Translator*/
-"YJs-z2-3ut.title" = "プライバシーポリシー";
+"YJs-z2-3ut.title" = "Privacy Policy";
 
 /* No comment by Translator*/
-"Ymf-kA-MTA.title" = "(Root権限が必要です)";
+"Ymf-kA-MTA.title" = "(Required Root Privileges)";
 
 /* No comment by Translator*/
-"YoJ-zs-nWA.title" = "Network -> Wifi -> Advanced -> Proxyタブでプロキシ設定を自動的に上書きします。";
+"YoJ-zs-nWA.title" = "Auto override the proxy config in Network -> Wifi -> Advanced -> Proxies tab.";
 
 /* No comment by Translator*/
-"Z4q-GN-Y7F.title" = "Map Local, Map Remote, Scriptingに適用されます";
+"Z4q-GN-Y7F.title" = "Applied for Map Local, Map Remote, and Scripting.";
 
 /* No comment by Translator*/
 "ZKj-HO-4Ct.title" = "18";
@@ -326,79 +326,79 @@
 "ZSE-HI-cFP.title" = "Version 1.3.5 (1350)";
 
 /* No comment by Translator*/
-"ZVn-eI-9a7.title" = "P12（ルート証明書）...";
+"ZVn-eI-9a7.title" = "Root Certificate as P12...";
 
 /* No comment by Translator*/
-"aMS-wb-prv.title" = "縦";
+"aMS-wb-prv.title" = "Vertical";
 
 /* No comment by Translator*/
-"aQK-db-vY9.title" = "扩展席位";
+"aQK-db-vY9.title" = "Extend seats";
 
 /* No comment by Translator*/
-"aq4-Lu-QC8.title" = "恢复到之前选择的请求/响应选项卡";
+"aq4-Lu-QC8.title" = "Restore to previous selected Request/Response tab";
 
 /* No comment by Translator*/
-"b2V-zQ-exT.title" = "无延迟";
+"b2V-zQ-exT.title" = "No Delay";
 
 /* No comment by Translator*/
-"bGB-Se-A8C.title" = "ドックアイコンが更新されない場合";
+"bGB-Se-A8C.title" = "Dock Icon does not update? ";
 
 /* No comment by Translator*/
-"bGa-nX-15Z.title" = "Proxymanをお楽しみいただいてますか？";
+"bGa-nX-15Z.title" = "Enjoy using Proxyman?";
 
 /* No comment by Translator*/
-"bIb-oI-qtR.title" = "秘密鍵...";
+"bIb-oI-qtR.title" = "Private Key...";
 
 /* No comment by Translator*/
-"bK9-a8-8Fm.title" = "过期时间：2017 年星期一";
+"bK9-a8-8Fm.title" = "Expired: Monday 2017";
 
 /* No comment by Translator*/
-"bKO-Vo-2Mu.title" = "隐藏 iOS 模拟器中不必要的 Apple 请求";
+"bKO-Vo-2Mu.title" = "Hide Unnecessary Apple Requests from iOS Simulators";
 
 /* No comment by Translator*/
-"bUG-dY-IO2.title" = "不按 created_at 时间排序，而是按字母顺序排序。";
+"bUG-dY-IO2.title" = "Instead of sorting by created_at time, it will sort alphabetically.";
 
 /* No comment by Translator*/
-"bgG-mH-L87.title" = " 高パフォーマンスのHTTP/HTTPS プロキシを自動的にオーバーライドする";
+"bgG-mH-L87.title" = " Auto Override HTTP/HTTPS Proxy with high performance";
 
 /* No comment by Translator*/
-"c1X-wk-d27.title" = "フォルダを選択";
+"c1X-wk-d27.title" = "Select directory";
 
 /* No comment by Translator*/
-"d8g-Mc-OBF.title" = " 未インストール";
+"d8g-Mc-OBF.title" = " Not installed";
 
 /* No comment by Translator*/
-"dBO-Gw-e3y.title" = "1 秒";
+"dBO-Gw-e3y.title" = "1 second";
 
 /* No comment by Translator*/
-"dak-aO-RNj.title" = "詳細：";
+"dak-aO-RNj.title" = "Advanced:";
 
 /* No comment by Translator*/
-"dez-HH-Yrh.title" = "分析データをProxymanと共有";
+"dez-HH-Yrh.title" = "Share analytics with Proxyman";
 
 /* No comment by Translator*/
-"dnS-x1-vCO.title" = "フォルダを選択";
+"dnS-x1-vCO.title" = "Select directory";
 
 /* No comment by Translator*/
-"dyt-cH-Hbp.title" = "ドメイン/アプリケーションのSSLプロキシ時に、証明書がキーチェーンアクセスで適切に信頼されていない場合、ProxymanがMacセットアップガイドウィンドウをポップアップしない。";
+"dyt-cH-Hbp.title" = "Proxyman won't prompt the Mac Setup Guide Window if the certificate is not properly trusted in Keychain Access for domain/app SSL Proxying.";
 
 /* No comment by Translator*/
-"e9l-Lm-FEF.title" = " アプリケーションが予期せずクラッシュした場合に、プロキシを正常に復元します。";
+"e9l-Lm-FEF.title" = " Graceful Revert the Proxy if the app is crashed unexpectedly";
 
 /* No comment by Translator*/
-"eHL-0p-sMt.title" = "プレミアムにアップグレードすると、すべての機能がアンロックされます。";
+"eHL-0p-sMt.title" = "Upgrade to Premium version to unlock all features.";
 
 /* No comment by Translator*/
-"eYG-rd-2Bv.title" = "本地映射路径：";
+"eYG-rd-2Bv.title" = "Map Local Path:";
 
 /* No comment by Translator*/
 "ebx-5B-G7j.title" = "Proxyman";
 
 /* No comment by Translator*/
-"ewR-Wc-HS0.title" = "現在の HTTP/HTTPS プロキシは networksetup CLI によって上書きされました。";
+"ewR-Wc-HS0.title" = "Your current HTTP/HTTPS Proxy is overridden by networksetup CLI.";
 
 /* No comment by Translator*/
-"exW-fI-aTf.title" = "環境変数は ~/.bashrc または ~/.zshrc で定義";
+"exW-fI-aTf.title" = "Environment variables are defined in ~/.bashrc or ~/.zshrc";
 
 /* No comment by Translator*/
 "f9B-Y4-yps.title" = "14";
@@ -407,40 +407,40 @@
 "fMP-YS-E39.title" = "新規生成...";
 
 /* No comment by Translator*/
-"gME-HQ-a46.title" = "Proxyman 使用 `simctl`（来自 Xcode）或自定义脚本（旧版）。";
+"gME-HQ-a46.title" = "Proxyman uses `simctl` (from Xcode) or Custom Scripts (Legacy).";
 
 /* No comment by Translator*/
-"gMr-9j-oRr.title" = "あなたのご支援は、Proxymanチームがより良いアプリケーションを開発するための助けとなります。";
+"gMr-9j-oRr.title" = "Your support would help Proxyman Team to develop the app even better.";
 
 /* No comment by Translator*/
-"hHh-rO-YSJ.title" = "システムのプロキシ設定を自動的にオーバーライドする";
+"hHh-rO-YSJ.title" = "Auto Override System Proxy Configs at Launch Time";
 
 /* No comment by Translator*/
-"hS9-1K-Tah.title" = "更新可用至 2019 年 6 月 20 日（从现在起 190 天）";
+"hS9-1K-Tah.title" = "Updates available until 20 Jun 2019 (190 days from now)";
 
 /* No comment by Translator*/
-"iGm-01-g5F.title" = "🛠 Proxy Helper Toolをインストール";
+"iGm-01-g5F.title" = "🛠 Install Proxy Helper Tool";
 
 /* No comment by Translator*/
-"jQB-eS-1Fy.title" = "Proxyman Proxt Helper Tool";
+"jQB-eS-1Fy.title" = "Proxyman Proxy Helper Tool";
 
 /* No comment by Translator*/
-"jTR-5Y-9vt.title" = "Helper Toolをインストール";
+"jTR-5Y-9vt.title" = "Install Helper Tool";
 
 /* No comment by Translator*/
-"jaQ-Yb-BYu.title" = "アプリ更新：";
+"jaQ-Yb-BYu.title" = "App Update:";
 
 /* No comment by Translator*/
-"jkq-Sy-qsj.title" = "5 秒";
+"jkq-Sy-qsj.title" = "5 seconds";
 
 /* No comment by Translator*/
-"kAz-Lt-M4H.title" = "Proxy Helper Tool：";
+"kAz-Lt-M4H.title" = "Proxy Helper Tool:";
 
 /* No comment by Translator*/
-"kYO-ql-bvQ.title" = "ライセンス";
+"kYO-ql-bvQ.title" = "License";
 
 /* No comment by Translator*/
-"lFT-nb-pmJ.title" = "有効なポートを自動選択";
+"lFT-nb-pmJ.title" = "Auto Select Available Port";
 
 /* No comment by Translator*/
 "lTm-qH-0x1.title" = "Show me!";
@@ -452,13 +452,13 @@
 "lmQ-sA-w5F.title" = "Proxyman CA";
 
 /* No comment by Translator*/
-"lrA-Zd-eon.title" = "Map Localの遅延：";
+"lrA-Zd-eon.title" = "Map Local Delay:";
 
 /* No comment by Translator*/
-"mQ9-8L-NnV.title" = "DER（ルート証明書）...";
+"mQ9-8L-NnV.title" = "Root Certificate as DER...";
 
 /* No comment by Translator*/
-"n1w-sh-rbz.title" = "現在、HTTP/HTTPS プロキシは networksetup CLI でオーバーライドされています。動作しますが、遅延が発生します。";
+"n1w-sh-rbz.title" = "Your HTTP/HTTPS Proxy is currently overridden by `networksetup` CLI. It works, but slow!";
 
 /* No comment by Translator*/
 "of6-tn-K4d.title" = "Scripting:";
@@ -467,28 +467,28 @@
 "pOe-gF-s8n.title" = "Private Gist";
 
 /* No comment by Translator*/
-"pRd-JS-8ms.title" = "クライアントとドメインをアルファベット順に並べ替える";
+"pRd-JS-8ms.title" = "Sort Clients and Domains by Alphabetical Order";
 
 /* No comment by Translator*/
-"pcs-a9-SJX.title" = "授权";
+"pcs-a9-SJX.title" = "Authorize";
 
 /* No comment by Translator*/
-"pdf-1N-QGZ.title" = "ライセンスを購入";
+"pdf-1N-QGZ.title" = "Buy a license";
 
 /* No comment by Translator*/
 "pei-oi-u77.title" = "~/Desktop";
 
 /* No comment by Translator*/
-"qCz-f8-2g7.title" = "180 秒";
+"qCz-f8-2g7.title" = "180 seconds";
 
 /* No comment by Translator*/
 "qhy-Ny-qSr.title" = "What's Proxy Helper Tool?";
 
 /* No comment by Translator*/
-"qqW-Za-BcY.title" = "起動時にこのポートが使用済みの場合、Proxyman は使用可能なポートを選択します。";
+"qqW-Za-BcY.title" = "Proxyman will choose an available port if it's occupied at launch time.";
 
 /* No comment by Translator*/
-"qwF-fZ-Ryx.title" = "インストールされ、認証されている";
+"qwF-fZ-Ryx.title" = "Installed & Trusted";
 
 /* No comment by Translator*/
 "rVP-dV-fen.title" = "19";
@@ -497,142 +497,142 @@
 "sge-3n-UXT.title" = "1-65535";
 
 /* No comment by Translator*/
-"sp9-Yb-MaJ.title" = "より良いパフォーマンスのため、Proxyman Proxy Helper Toolのインストールをお願いします。";
+"sp9-Yb-MaJ.title" = "Install Proxyman Proxy Helper Tool for better performance.";
 
 /* No comment by Translator*/
-"sr9-da-aVR.title" = "使用 24 小时制";
+"sr9-da-aVR.title" = "Use 24-Hour Time";
 
 /* No comment by Translator*/
-"tZH-DX-1bT.title" = "アプリについて";
+"tZH-DX-1bT.title" = "About";
 
 /* No comment by Translator*/
-"tb5-eJ-Oaq.title" = "インストール";
+"tb5-eJ-Oaq.title" = "Install";
 
 /* No comment by Translator*/
-"tcs-xX-nH0.title" = "クラッシュレポートをProxymanと共有";
+"tcs-xX-nH0.title" = "Share crash report with Proxyman";
 
 /* No comment by Translator*/
 "ttL-8F-J8l.title" = "Public Gist";
 
 /* No comment by Translator*/
-"u8I-he-EGc.title" = "ステータスバー：";
+"u8I-he-EGc.title" = "App Status Bar:";
 
 /* No comment by Translator*/
-"uI9-Bg-v36.title" = "キーチェーンアクセスにはProxyman証明書が必要です。";
+"uI9-Bg-v36.title" = "Require Trusted Proxyman Certificate in Keychain Access ";
 
 /* No comment by Translator*/
-"uVE-HK-2Ga.title" = "*.chls から変換された *.har ファイルが保存されるデフォルトのフォルダ。";
+"uVE-HK-2Ga.title" = "Default directory to save a *.har file after converting from *.chls.";
 
 /* No comment by Translator*/
-"ufF-pt-cbl.title" = "チームについて";
+"ufF-pt-cbl.title" = "About Team";
 
 /* No comment by Translator*/
-"vK7-8k-VY9.title" = "クラッシュレポート：";
+"vK7-8k-VY9.title" = "Crash Report:";
 
 /* No comment by Translator*/
-"vKG-7N-DB6.title" = "生成时间：2017 年星期一";
+"vKG-7N-DB6.title" = "Generated: Monday 2017";
 
 /* No comment by Translator*/
-"vPQ-0P-oHM.title" = "正文预览器的自动换行";
+"vPQ-0P-oHM.title" = "Word Wrap in Body Previewer";
 
 /* No comment by Translator*/
-"vRn-Tc-gVM.title" = "キャッシュを無視し、常にサーバーから応答を取得します。";
+"vRn-Tc-gVM.title" = "Ignore Caching and always Fetch Response from the Server.";
 
 /* No comment by Translator*/
-"vSX-gg-USd.title" = "アイコンのみ（デフォルト）";
+"vSX-gg-USd.title" = "Icon Only (Default)";
 
 /* No comment by Translator*/
-"vlg-C6-YTq.title" = "エクスポート";
+"vlg-C6-YTq.title" = "Export";
 
 /* No comment by Translator*/
-"vor-c5-bJQ.title" = "アイコンとラベル";
+"vor-c5-bJQ.title" = "Icon and Label";
 
 /* No comment by Translator*/
-"xha-qq-63S.title" = "120 秒";
+"xha-qq-63S.title" = "120 seconds";
 
 /* No comment by Translator*/
-"yKd-N8-Rgt.title" = "Proxymanのシャットダウン時に以前のHTTP/HTTPSプロキシに戻す";
+"yKd-N8-Rgt.title" = "Restore to previous HTTP/HTTPS Proxy when Proxyman is closed";
 
 /* No comment by Translator*/
-"z7C-CH-rw0.title" = "Gist 権限：";
+"z7C-CH-rw0.title" = "Gist Permission:";
 
 /* No comment by Translator*/
-"zxe-Pi-ZIB.title" = "ステータスバーの期限切れライセンスステータスを非表示にする";
+"zxe-Pi-ZIB.title" = "Hide the Expired License Status on the Status Bar";
 
 /* No comment by Translator*/
 "1M9-oR-Pak.title" = "Restore the font size and theme to default configs";
 
 /* No comment by Translator*/
-"GTV-I2-kK7.title" = "起動時のアップデート通知を有効化";
+"GTV-I2-kK7.title" = "Show Update Notification at Launch";
 
 /* No comment by Translator*/
-"1jq-FG-09y.title" = "ライブラリをコピー：";
+"1jq-FG-09y.title" = "Copy Library:";
 
 /* No comment by Translator*/
-"4rf-aD-Vtu.title" = "右クリック メニュー オプションでデフォルトのコピー ライブラリを設定します。";
+"4rf-aD-Vtu.title" = "Set default Copy Library in the Right-Menu Context.";
 
 /* No comment by Translator*/
 "6aX-Qj-OSK.title" = "cURL";
 
 /* No comment by Translator*/
-"Nxn-jS-u1v.title" = "（再起動が必要）";
+"Nxn-jS-u1v.title" = "(Require Restart App)";
 
 /* No comment by Translator*/
-"h9G-3i-EVr.title" = "（再起動が必要）";
+"h9G-3i-EVr.title" = "(Require Restart App!)";
 
 /* No comment by Translator*/
-"iJu-uC-frl.title" = "Proxyman プロキシ サーバーは 0.0.0.0 (IPv4) および ::0 (IPv6) で監視します。";
+"iJu-uC-frl.title" = "Proxyman Proxy Server will listen on 0.0.0.0 (IPv4) and ::0 (IPv6).";
 
 /* No comment by Translator*/
-"n9g-pH-YCy.title" = "IPv4とIPv6を同時に監視";
+"n9g-pH-YCy.title" = "Listening on both IPv4 & IPv6";
 
 /* No comment by Translator*/
 "oes-V6-8FP.title" = "HTTPie";
 
 /* No comment by Translator*/
-"rZ6-da-QPY.title" = "此标志允许 Proxyman 捕获 cURL 流量。";
+"rZ6-da-QPY.title" = "It allows Proxyman capture cURL traffic.";
 
 /* No comment by Translator*/
-"s8X-8q-rjl.title" = "cURLコマンドに--proxyフラグを追加する。";
+"s8X-8q-rjl.title" = "Add --proxy flag into cURL command";
 
 /* No comment by Translator*/
-"sWT-ah-CKH.title" = "（再起動が必要）";
+"sWT-ah-CKH.title" = "(Require Restart App!)";
 
 /* No comment by Translator*/
-"4gX-Cf-9DQ.title" = "1.4.0 的新功能";
+"4gX-Cf-9DQ.title" = "What's new on 1.4.0";
 
 /* No comment by Translator*/
-"AJ8-QS-cN3.title" = "Proxyman UIの言語を変更する。";
+"AJ8-QS-cN3.title" = "Control the language you see in Proxyman UI.";
 
 /* No comment by Translator*/
-"NHj-XZ-BGK.title" = "（再起動が必要）";
+"NHj-XZ-BGK.title" = "(Require Restart App)";
 
 /* No comment by Translator*/
-"RHe-pI-8FQ.title" = "設定言語：";
+"RHe-pI-8FQ.title" = "App Language:";
 
 /* No comment by Translator*/
 "RjY-fE-LA8.title" = "English";
 
 /* No comment by Translator*/
-"aBm-x9-i2O.title" = "127.0.0.1 および ::1 で監視します（リモートデバイスは Proxyman に接続できない場合があります）";
+"aBm-x9-i2O.title" = "Listen on 127.0.0.1 and ::1 (Remote Devices might not connect to Proxyman)";
 
 /* No comment by Translator*/
-"agF-Ru-6Ul.title" = "不可視文字を表示する";
+"agF-Ru-6Ul.title" = "Show Invisible Characters";
 
 /* No comment by Translator*/
-"bTk-6o-7ya.title" = "简体中文";
+"bTk-6o-7ya.title" = "Chinese - Simplified";
 
 /* No comment by Translator*/
-"hNr-F6-kwf.title" = "Helper ToolのmacOS 13 Ventura新要件への準拠";
+"hNr-F6-kwf.title" = " Comply with new macOS 13 Ventura Requirements for Helper Tool";
 
 /* No comment by Translator*/
-"jbl-1k-wPC.title" = "空白、改行、タブ、ゼロ幅スペースなどの文字をプレビュータブに表示";
+"jbl-1k-wPC.title" = "Display Whitepsace, newline, tab, nonspacing characters in Previewer Tabs";
 
 /* No comment by Translator*/
 "k7p-yV-INk.title" = "Force to reload the Icon Plugin";
 
 /* No comment by Translator*/
-"lJC-HM-pBb.title" = "ローカルホストのみを監視";
+"lJC-HM-pBb.title" = "Only Listen on localhost";
 
 /* No comment by Translator*/
 "24o-Jl-MOk.title" = "Documentations…";
@@ -650,7 +650,7 @@
 "MKM-5X-0dt.title" = "AppStore…";
 
 /* No comment by Translator*/
-"VNb-kR-sZN.title" = "⚠️ 失効";
+"VNb-kR-sZN.title" = "⚠️ Expired";
 
 /* No comment by Translator*/
 "Vng-5b-MgI.title" = "Linux";
