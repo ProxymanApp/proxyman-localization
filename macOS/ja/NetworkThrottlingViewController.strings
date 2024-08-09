@@ -1,35 +1,35 @@
 /* No comment by Translator*/
-"1q6-hk-dn9.title" = "更多的";
+"1q6-hk-dn9.title" = "More";
 
 /* No comment by Translator*/
-"3qF-DC-MmD.title" = "无标题";
+"3qF-DC-MmD.title" = "Untitled";
 
 /* No comment by Translator*/
 "5QT-P3-3M5.title" = "http://api.proxyman.io";
 
 /* No comment by Translator*/
-"6eg-PE-4Wy.title" = "プリセットのプロファイルを使用してNetwork Conditionsをシミュレートします";
+"6eg-PE-4Wy.title" = "Simulate Network Conditions with various Preset Profiles";
 
 /* No comment by Translator*/
 "7sL-v3-7Ai.title" = "3G";
 
 /* No comment by Translator*/
-"83t-Au-dRB.title" = "箱";
+"83t-Au-dRB.title" = "Box";
 
 /* No comment by Translator*/
 "9Kp-93-0Hj.title" = "Enable or Disable entire Map Local Feature";
 
 /* No comment by Translator*/
-"9nl-Oj-IpG.title" = "テキストセル";
+"9nl-Oj-IpG.title" = "Text Cell";
 
 /* No comment by Translator*/
-"CCD-eX-Xw5.title" = "启用网络条件";
+"CCD-eX-Xw5.title" = "Enable Network Conditions";
 
 /* No comment by Translator*/
-"EdX-WI-TEz.title" = "テキストセル";
+"EdX-WI-TEz.title" = "Text Cell";
 
 /* No comment by Translator*/
-"Efa-Cj-LAb.title" = "編集";
+"Efa-Cj-LAb.title" = "Edit";
 
 /* No comment by Translator*/
 "KJF-xP-zpJ.title" = "Enabled";
@@ -38,19 +38,19 @@
 "KJF-xP-zpJ.title" = "Enable / Disable this entry";
 
 /* No comment by Translator*/
-"LsW-mT-0My.title" = "点击 \"+\" 或 ⌘N 添加新条目";
+"LsW-mT-0My.title" = "Click \"+\" or ⌘N to add new entry";
 
 /* No comment by Translator*/
-"RGJ-38-SUK.title" = "削除";
+"RGJ-38-SUK.title" = "Delete";
 
 /* No comment by Translator*/
-"Rup-NA-x8o.title" = "更多的";
+"Rup-NA-x8o.title" = "More";
 
 /* No comment by Translator*/
-"TbX-4g-Ga4.title" = "テキストセル";
+"TbX-4g-Ga4.title" = "Text Cell";
 
 /* No comment by Translator*/
-"Tz6-yr-DCF.title" = "从代理...";
+"Tz6-yr-DCF.title" = "From Proxyman...";
 
 /* No comment by Translator*/
 "UFi-RN-YSX.title" = "Network Profile";
@@ -59,13 +59,13 @@
 "UFi-RN-YSX.title" = "Preset Profiles";
 
 /* No comment by Translator*/
-"UVH-eC-5ha.title" = "一次只能激活 1 个规则";
+"UVH-eC-5ha.title" = "Only 1 Rule can be activated at once";
 
 /* No comment by Translator*/
 "V9E-km-YjS.title" = "新規作成...";
 
 /* No comment by Translator*/
-"VfX-5a-Nkz.title" = "インポート設定";
+"VfX-5a-Nkz.title" = "Import Settings";
 
 /* No comment by Translator*/
 "Xh6-Yk-hFL.title" = "Name";
@@ -74,19 +74,19 @@
 "aBw-Ef-c6N.title" = "コピー";
 
 /* No comment by Translator*/
-"bqA-kq-SvE.title" = "テキストセル";
+"bqA-kq-SvE.title" = "Text Cell";
 
 /* No comment by Translator*/
-"cuP-Ls-q1h.title" = "インポート設定";
+"cuP-Ls-q1h.title" = "Import Settings";
 
 /* No comment by Translator*/
-"j2E-1v-pml.title" = "导出设置...";
+"j2E-1v-pml.title" = "Export Setting...";
 
 /* No comment by Translator*/
 "n5a-vj-tHc.title" = "Toggl Enable / Disable selected rules";
 
 /* No comment by Translator*/
-"n5a-vj-tHc.title" = "启用规则";
+"n5a-vj-tHc.title" = "Enable Rules";
 
 /* No comment by Translator*/
 "sm6-NU-Bil.title" = "Host";
@@ -95,13 +95,13 @@
 "sm6-NU-Bil.title" = "Host and Port";
 
 /* No comment by Translator*/
-"u3I-Jl-6Xx.title" = "アクティブ";
+"u3I-Jl-6Xx.title" = "Active";
 
 /* No comment by Translator*/
-"uTp-kp-utZ.title" = "テキストセル";
+"uTp-kp-utZ.title" = "Text Cell";
 
 /* No comment by Translator*/
 "yB4-eu-flT.title" = "Status";
 
 /* No comment by Translator*/
-"z9y-BT-pBJ.title" = "⌘N：新建；⌘⏎：编辑；⌘⌫：删除；⌘D：重复；⌘T：启用/禁用规则；";
+"z9y-BT-pBJ.title" = "⌘N: 新規; ⌘⏎: 編集; ⌘⌫: 削除; ⌘D: コピー; ⌘T: ルールの有効化/無効化;";
