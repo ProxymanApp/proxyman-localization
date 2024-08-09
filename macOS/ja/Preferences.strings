@@ -104,7 +104,7 @@
 "Df8-Z9-UTz.title" = "Restore Defaults";
 
 /* No comment by Translator*/
-"EBU-HH-AYP.title" = "More";
+"EBU-HH-AYP.title" = "さらに表示";
 
 /* No comment by Translator*/
 "EHm-bg-ulm.title" = " Persist and Restore to your previous Proxy setting";
@@ -419,13 +419,13 @@
 "hS9-1K-Tah.title" = "Updates available until 20 Jun 2019 (190 days from now)";
 
 /* No comment by Translator*/
-"iGm-01-g5F.title" = "🛠 Install Proxy Helper Tool";
+"iGm-01-g5F.title" = "🛠 Proxy Helper Toolのインストール";
 
 /* No comment by Translator*/
 "jQB-eS-1Fy.title" = "Proxyman Proxy Helper Tool";
 
 /* No comment by Translator*/
-"jTR-5Y-9vt.title" = "Install Helper Tool";
+"jTR-5Y-9vt.title" = "Helper Toolのインストール";
 
 /* No comment by Translator*/
 "jaQ-Yb-BYu.title" = "App Update:";
@@ -434,7 +434,7 @@
 "jkq-Sy-qsj.title" = "5 seconds";
 
 /* No comment by Translator*/
-"kAz-Lt-M4H.title" = "Proxy Helper Tool:";
+"kAz-Lt-M4H.title" = "Proxy Helper Tool：";
 
 /* No comment by Translator*/
 "kYO-ql-bvQ.title" = "License";
@@ -482,7 +482,7 @@
 "qCz-f8-2g7.title" = "180 seconds";
 
 /* No comment by Translator*/
-"qhy-Ny-qSr.title" = "What's Proxy Helper Tool?";
+"qhy-Ny-qSr.title" = "Proxy Helper Toolについて";
 
 /* No comment by Translator*/
 "qqW-Za-BcY.title" = "Proxyman will choose an available port if it's occupied at launch time.";
@@ -497,7 +497,7 @@
 "sge-3n-UXT.title" = "1-65535";
 
 /* No comment by Translator*/
-"sp9-Yb-MaJ.title" = "Install Proxyman Proxy Helper Tool for better performance.";
+"sp9-Yb-MaJ.title" = "より良いパフォーマンスのため、Proxyman Proxy Helper Toolのインストールをお願いします。";
 
 /* No comment by Translator*/
 "sr9-da-aVR.title" = "Use 24-Hour Time";
@@ -581,10 +581,10 @@
 "h9G-3i-EVr.title" = "(Require Restart App!)";
 
 /* No comment by Translator*/
-"iJu-uC-frl.title" = "Proxyman Proxy Server will listen on 0.0.0.0 (IPv4) and ::0 (IPv6).";
+"iJu-uC-frl.title" = "Proxyman プロキシ サーバーは 0.0.0.0 (IPv4) および ::0 (IPv6) で聴取します。";
 
 /* No comment by Translator*/
-"n9g-pH-YCy.title" = "Listening on both IPv4 & IPv6";
+"n9g-pH-YCy.title" = "IPv4とIPv6を同時に聴取";
 
 /* No comment by Translator*/
 "oes-V6-8FP.title" = "HTTPie";
@@ -614,7 +614,7 @@
 "RjY-fE-LA8.title" = "English";
 
 /* No comment by Translator*/
-"aBm-x9-i2O.title" = "Listen on 127.0.0.1 and ::1 (Remote Devices might not connect to Proxyman)";
+"aBm-x9-i2O.title" = "127.0.0.1 および ::1 で聴取（リモートデバイスは Proxyman に接続できない可能性があります）";
 
 /* No comment by Translator*/
 "agF-Ru-6Ul.title" = "Show Invisible Characters";
@@ -623,7 +623,7 @@
 "bTk-6o-7ya.title" = "Chinese - Simplified";
 
 /* No comment by Translator*/
-"hNr-F6-kwf.title" = " Comply with new macOS 13 Ventura Requirements for Helper Tool";
+"hNr-F6-kwf.title" = " Helper ToolのmacOS 13 Ventura新要件への準拠";
 
 /* No comment by Translator*/
 "jbl-1k-wPC.title" = "Display Whitepsace, newline, tab, nonspacing characters in Previewer Tabs";
@@ -632,7 +632,7 @@
 "k7p-yV-INk.title" = "Force to reload the Icon Plugin";
 
 /* No comment by Translator*/
-"lJC-HM-pBb.title" = "Only Listen on localhost";
+"lJC-HM-pBb.title" = "127.0.0.1 および ::1 で聴取（リモートデバイスは Proxyman に接続できない可能性があります）";
 
 /* No comment by Translator*/
 "24o-Jl-MOk.title" = "Documentations…";
