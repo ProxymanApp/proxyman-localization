@@ -1,5 +1,5 @@
 /* No comment by Translator*/
-"4gm-eM-Siv.title" = "2.选择一个本地文件";
+"4gm-eM-Siv.title" = "2. Select a Local File";
 
 /* No comment by Translator*/
 "82I-4y-Fhg.title" = "•";
@@ -8,85 +8,85 @@
 "Cxh-Ep-6Fp.title" = "•";
 
 /* No comment by Translator*/
-"FNd-sP-Bc6.title" = "拷贝到剪贴板";
+"FNd-sP-Bc6.title" = "Copy to Clipboard";
 
 /* No comment by Translator*/
 "H1Q-Yv-j27.title" = "https:\\/\\/my-server\\.com\\/build\\/v1\\/(.*)";
 
 /* No comment by Translator*/
-"IAK-tU-4CU.title" = "1. HTTP/1.x 消息格式";
+"IAK-tU-4CU.title" = "1. HTTP/1.x Message format";
 
 /* No comment by Translator*/
 "JLi-dE-Xqx.title" = "https:\\/\\/my-server\\.com\\/(.*\\.html)";
 
 /* No comment by Translator*/
-"Jsv-dc-D5s.title" = "支持从路径及其子目录映射或映射整个主机";
+"Jsv-dc-D5s.title" = "Supports map from a path and its subdirectories or map entire host";
 
 /* No comment by Translator*/
-"LFG-KV-GnQ.title" = "正则表达式";
+"LFG-KV-GnQ.title" = "Regex";
 
 /* No comment by Translator*/
-"Lvl-G7-8P4.title" = "映射整个 HTTP 响应消息，包括标头、状态代码和正文内容";
+"Lvl-G7-8P4.title" = "Map entire HTTP Response Message, including Headers, Status Code and Body Content";
 
 /* No comment by Translator*/
-"Ovp-Nl-t1i.title" = "开启“包含子路径”复选框";
+"Ovp-Nl-t1i.title" = "ON \"Include SubPath\" checkbox";
 
 /* No comment by Translator*/
-"SVg-eA-Waz.title" = "映射子目录";
+"SVg-eA-Waz.title" = "Map Subdirectories";
 
 /* No comment by Translator*/
-"SiC-Y0-PV5.title" = "1. 本地目录";
+"SiC-Y0-PV5.title" = "1. Local Directory";
 
 /* No comment by Translator*/
-"Xv7-u0-qrm.title" = "如果本地目录不存在，它将从远程服务器服务";
+"Xv7-u0-qrm.title" = "If the local directory doesn't exist, it will serve from the remote server";
 
 /* No comment by Translator*/
-"ZAh-pT-uYJ.title" = "正确格式示例：";
+"ZAh-pT-uYJ.title" = "Correct Format Sample:";
 
 /* No comment by Translator*/
-"aQf-jK-uzX.title" = "将路径留空或使用 * 通配符";
+"aQf-jK-uzX.title" = "Leave Path empty or use * wildcard";
 
 /* No comment by Translator*/
 "dmZ-Vh-RLd.title" = "•";
 
 /* No comment by Translator*/
-"eLW-4E-YzZ.title" = "箱";
+"eLW-4E-YzZ.title" = "Box";
 
 /* No comment by Translator*/
-"eMm-nY-FAD.title" = "请确保标题和正文之间有一个新行 (\n)";
+"eMm-nY-FAD.title" = "Please make sure there is a new line (\n) between the header and the Body";
 
 /* No comment by Translator*/
-"ehC-Kq-0bq.title" = "或者在末尾使用 /* 通配符";
+"ehC-Kq-0bq.title" = "Or Use /* wildcard at the end";
 
 /* No comment by Translator*/
 "hFW-9R-Vzw.title" = "•";
 
 /* No comment by Translator*/
-"idb-Fq-5bx.title" = "规则";
+"idb-Fq-5bx.title" = "Rule";
 
 /* No comment by Translator*/
-"lyQ-vi-b9F.title" = "通配符";
+"lyQ-vi-b9F.title" = "Wildcard";
 
 /* No comment by Translator*/
-"mnb-lX-1LF.title" = "查看文档";
+"mnb-lX-1LF.title" = "See Documentation";
 
 /* No comment by Translator*/
-"ohk-OL-rKq.title" = "将响应正文与所选文件映射。例如：二进制文件、图像、PDF、...";
+"ohk-OL-rKq.title" = "Map the Response Body with the selected file. Ex: Binary File, Image, PDF, ...";
 
 /* No comment by Translator*/
 "p5B-c4-lai.title" = "https:\\/\\/my-server\\.com\\/(.*)";
 
 /* No comment by Translator*/
-"q3a-ii-KqX.title" = "最后使用 (.*)";
+"q3a-ii-KqX.title" = "Use (.*) at the end";
 
 /* No comment by Translator*/
-"rO2-df-1Hy.title" = "映射整个主机";
+"rO2-df-1Hy.title" = "Map Entire Host";
 
 /* No comment by Translator*/
 "tQG-bb-8EZ.title" = "•";
 
 /* No comment by Translator*/
-"w89-YB-yCJ.title" = "使用结尾包含 (.*) 的单一路径";
+"w89-YB-yCJ.title" = "Use Single Path that contains (.*) at the end";
 
 /* No comment by Translator*/
-"zz9-WV-pd3.title" = "匹配示例：";
+"zz9-WV-pd3.title" = "Matching Example:";
