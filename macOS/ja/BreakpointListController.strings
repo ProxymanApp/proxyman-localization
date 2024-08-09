@@ -1,5 +1,5 @@
 /* No comment by Translator*/
-"03m-tI-cqj.title" = "箱";
+"03m-tI-cqj.title" = "Box";
 
 /* No comment by Translator*/
 "1d1-6H-mGO.title" = "コピー";
@@ -23,43 +23,43 @@
 "Br5-g6-IJC.title" = "Rename the folder";
 
 /* No comment by Translator*/
-"Br5-g6-IJC.title" = "重命名文件夹";
+"Br5-g6-IJC.title" = "Rename Folder";
 
 /* No comment by Translator*/
 "Gkr-zk-Ewd.title" = "Toggl Enable / Disable selected rules";
 
 /* No comment by Translator*/
-"Gkr-zk-Ewd.title" = "启用规则";
+"Gkr-zk-Ewd.title" = "Enable Rule";
 
 /* No comment by Translator*/
 "IYf-g3-SWr.title" = "削除";
 
 /* No comment by Translator*/
-"KZG-tE-vs8.title" = "更多的";
+"KZG-tE-vs8.title" = "More";
 
 /* No comment by Translator*/
-"Lcl-S9-8hD.title" = "テキストセル";
+"Lcl-S9-8hD.title" = "Text Cell";
 
 /* No comment by Translator*/
-"NVq-HI-Lb2.title" = "自顶向下匹配规则";
+"NVq-HI-Lb2.title" = "Top-Down Matching Rule";
 
 /* No comment by Translator*/
-"Qsl-q9-w4C.title" = "更多的";
+"Qsl-q9-w4C.title" = "More";
 
 /* No comment by Translator*/
 "QyQ-Sc-ctP.title" = "Response";
 
 /* No comment by Translator*/
-"SpI-xY-kqJ.title" = "导出设置...";
+"SpI-xY-kqJ.title" = "Export Settings...";
 
 /* No comment by Translator*/
 "WDx-58-Aps.title" = "インポート設定";
 
 /* No comment by Translator*/
-"WSF-w6-PGd.title" = "⌘N：新建；⌘⏎：编辑；⌘⌫：删除；⌘D：复制；空格：启用/禁用规则；";
+"WSF-w6-PGd.title" = "⌘N: 新規; ⌘⏎: 編集; ⌘⌫: 削除; ⌘D: 複製; スペース: ルールの有効化/無効化;";
 
 /* No comment by Translator*/
-"fVv-OK-fnS.title" = "テキストセル";
+"fVv-OK-fnS.title" = "Text Cell";
 
 /* No comment by Translator*/
 "h9m-ru-Vk3.title" = "Create an empty folder. Only support 1 folder level.";
@@ -74,13 +74,13 @@
 "hX2-RQ-lTw.title" = "フィルター";
 
 /* No comment by Translator*/
-"ihN-oc-318.title" = "テキストセル";
+"ihN-oc-318.title" = "Text Cell";
 
 /* No comment by Translator*/
-"jh0-gK-MhJ.title" = "テキストセル";
+"jh0-gK-MhJ.title" = "Text Cell";
 
 /* No comment by Translator*/
-"nt1-JG-pEk.title" = "设置断点以即时更改请求和响应";
+"nt1-JG-pEk.title" = "Set a breakpoint to change Requests and Responses on the fly";
 
 /* No comment by Translator*/
 "o43-dy-zV1.title" = "Method";
@@ -89,10 +89,10 @@
 "oZL-I8-HE8.title" = "Name";
 
 /* No comment by Translator*/
-"ofz-eQ-VsF.title" = "テキストセル";
+"ofz-eQ-VsF.title" = "Text Cell";
 
 /* No comment by Translator*/
-"rpg-qs-XVX.title" = "点击 \"+\" 或 ⌘N 添加新条目";
+"rpg-qs-XVX.title" = "Click \"+\" or ⌘N to add new entry";
 
 /* No comment by Translator*/
 "ukb-uO-fDz.title" = "新規作成...";
