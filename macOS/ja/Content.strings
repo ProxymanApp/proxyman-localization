@@ -2,10 +2,10 @@
 "0Ec-tm-ZJS.title" = "コピー";
 
 /* No comment by Translator*/
-"2dL-Y7-QWR.title" = "无选择";
+"2dL-Y7-QWR.title" = "No Selection";
 
 /* No comment by Translator*/
-"4jT-W0-wpq.title" = "箱";
+"4jT-W0-wpq.title" = "Box";
 
 /* No comment by Translator*/
 "5NR-xD-i3g.title" = "Value";
@@ -14,10 +14,10 @@
 "7Df-Vv-l0m.title" = "Only receive socket messages";
 
 /* No comment by Translator*/
-"7Df-Vv-l0m.title" = "接收";
+"7Df-Vv-l0m.title" = "Receive";
 
 /* No comment by Translator*/
-"Bc2-ET-Iw4.title" = "表格视图单元格";
+"Bc2-ET-Iw4.title" = "Table View Cell";
 
 /* No comment by Translator*/
 "BqW-AU-E4g.title" = "Value";
@@ -29,34 +29,34 @@
 "EAp-gu-4Xd.title" = "Part";
 
 /* No comment by Translator*/
-"F8h-zy-Yb1.title" = "テキストセル";
+"F8h-zy-Yb1.title" = "Text Cell";
 
 /* No comment by Translator*/
-"HWM-ws-3XD.title" = "格式化为";
-
-/* No comment by Translator*/
-"Jp4-l3-uXg.title" = "Try to format JSON Prettier if possible";
+"HWM-ws-3XD.title" = "Format with";
 
 /* No comment by Translator*/
 "Jp4-l3-uXg.title" = "Try to format JSON Prettier if possible";
 
 /* No comment by Translator*/
-"KRI-eZ-xJU.title" = "箱";
+"Jp4-l3-uXg.title" = "JSON Prettier";
 
 /* No comment by Translator*/
-"KSs-Os-D7g.title" = "テキストセル";
+"KRI-eZ-xJU.title" = "Box";
 
 /* No comment by Translator*/
-"Mos-7C-6hY.title" = "文本";
+"KSs-Os-D7g.title" = "Text Cell";
+
+/* No comment by Translator*/
+"Mos-7C-6hY.title" = "Text";
 
 /* No comment by Translator*/
 "Nth-Iy-aEH.title" = "Filter the type of Socket Message (All, Sent or Receive)";
 
 /* No comment by Translator*/
-"QUy-fo-bK2.title" = "重置筛选器";
+"QUy-fo-bK2.title" = "Reset Filters";
 
 /* No comment by Translator*/
-"R4o-gD-QYY.title" = "テキストセル";
+"R4o-gD-QYY.title" = "Text Cell";
 
 /* No comment by Translator*/
 "RaG-Yo-ESe.title" = "200";
@@ -68,10 +68,10 @@
 "RfD-Xj-1QW.title" = "Only sent socket messages";
 
 /* No comment by Translator*/
-"RfD-Xj-1QW.title" = "已发送";
+"RfD-Xj-1QW.title" = "Sent";
 
 /* No comment by Translator*/
-"Svq-pU-5QF.title" = "テキストセル";
+"Svq-pU-5QF.title" = "Text Cell";
 
 /* No comment by Translator*/
 "TA1-c1-Dmo.title" = "https://api.producthunt.com/v1/posts";
@@ -86,7 +86,7 @@
 "Y0J-c2-vMC.title" = "JSON";
 
 /* No comment by Translator*/
-"ZDJ-B7-Xee.title" = "格式错误的 multipart/form-data";
+"ZDJ-B7-Xee.title" = "Malformed multipart/form-data";
 
 /* No comment by Translator*/
 "c0J-1R-aVI.title" = "Base64";
@@ -95,55 +95,55 @@
 "d67-qP-DLJ.title" = "Header";
 
 /* No comment by Translator*/
-"f5f-9b-j0T.title" = "表格视图单元格";
+"f5f-9b-j0T.title" = "Table View Cell";
 
 /* No comment by Translator*/
-"g6C-6V-UV3.title" = "格式化为";
+"g6C-6V-UV3.title" = "Format with";
 
 /* No comment by Translator*/
-"jGJ-Xa-ys7.title" = "箱";
+"jGJ-Xa-ys7.title" = "Box";
 
 /* No comment by Translator*/
-"lx6-gm-5Dc.title" = "テキストセル";
+"lx6-gm-5Dc.title" = "Text Cell";
 
 /* No comment by Translator*/
-"mxg-ha-EYq.title" = "削除";
+"mxg-ha-EYq.title" = "Delete";
 
 /* No comment by Translator*/
-"neM-D1-qAe.title" = "筛选器：JSON && 1xx";
+"neM-D1-qAe.title" = "Filter: JSON && 1xx";
 
 /* No comment by Translator*/
-"nzN-Q2-GcP.title" = "状态代码：";
+"nzN-Q2-GcP.title" = "Status Code:";
 
 /* No comment by Translator*/
-"q4r-Va-1lZ.title" = "箱";
+"q4r-Va-1lZ.title" = "Box";
 
 /* No comment by Translator*/
 "qXg-mS-Ttj.title" = "JSON";
 
 /* No comment by Translator*/
-"qrc-qK-DcB.title" = "好的";
+"qrc-qK-DcB.title" = "OK";
 
 /* No comment by Translator*/
-"syn-lb-f0J.title" = "表格视图单元格";
+"syn-lb-f0J.title" = "Table View Cell";
 
 /* No comment by Translator*/
-"tx8-oN-uH0.title" = "箱";
+"tx8-oN-uH0.title" = "Box";
 
 /* No comment by Translator*/
-"w03-lJ-VXr.title" = "テキストセル";
+"w03-lJ-VXr.title" = "Text Cell";
 
 /* No comment by Translator*/
 "wC4-JC-OdQ.title" = "Type";
 
 /* No comment by Translator*/
-"wU1-sd-O8r.title" = "摘要";
+"wU1-sd-O8r.title" = "Summary";
 
 /* No comment by Translator*/
 "ww6-R1-qnh.title" = "Key Value";
 
 /* No comment by Translator*/
-"xaT-1T-Pkz.title" = "未选择消息";
+"xaT-1T-Pkz.title" = "No message selected";
 
 /* No comment by Translator*/
 "xbx-fc-r1d.title" = "All socket messages";
