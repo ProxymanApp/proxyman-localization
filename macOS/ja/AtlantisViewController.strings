@@ -1,8 +1,8 @@
 /* No comment by Translator*/
-"06D-Ik-57G.title" = " 通过拦截器捕获 gRPC";
+"06D-Ik-57G.title" = " Capture gRPC via Interceptor";
 
 /* No comment by Translator*/
-"1XJ-cw-FoT.title" = "<key>NSLocalNetworkUsageDescription</key>\n<string>Atlantis 将使用 Bonjour 服务从您的本地网络发现 Proxyman 应用程序。</string>\n<key>NSBonjourServices</key>\n<array>\n <string >_Proxyman._tcp</string>\n</array>";
+"1XJ-cw-FoT.title" = "<key>NSLocalNetworkUsageDescription</key>\n<string>Atlantis would use Bonjour Service to discover Proxyman app from your local network.</string>\n<key>NSBonjourServices</key>\n<array>\n    <string>_Proxyman._tcp</string>\n</array>";
 
 /* No comment by Translator*/
 "5EY-Rj-gkk.title" = "Atlantis.start()";
@@ -41,22 +41,22 @@
 "NfB-kK-FXd.title" = "次のコードを Info.plist に追加します（iOS 14 以降）";
 
 /* No comment by Translator*/
-"PkR-iH-H1j.title" = "Copy";
+"PkR-iH-H1j.title" = "コピー";
 
 /* No comment by Translator*/
-"VwY-dG-rTd.title" = "Atlantis.start(hostName: \\\"nghias\\\")";
+"VwY-dG-rTd.title" = "Atlantis.start(hostName: \"nghias\")";
 
 /* No comment by Translator*/
-"Yfe-og-Un2.title" = "Copy";
+"Yfe-og-Un2.title" = "コピー";
 
 /* No comment by Translator*/
-"Yqs-Cb-G8d.title" = "箱";
+"Yqs-Cb-G8d.title" = "Box";
 
 /* No comment by Translator*/
 "Z2z-ZU-CKC.title" = "インストールの方法";
 
 /* No comment by Translator*/
-"ZTS-2w-k1s.title" = "箱";
+"ZTS-2w-k1s.title" = "Box";
 
 /* No comment by Translator*/
 "aDj-C7-KCi.title" = "Swift パッケージマネージャー：";
@@ -65,10 +65,10 @@
 "bya-og-kQj.title" = "+ Mac しか持っていない場合：";
 
 /* No comment by Translator*/
-"cye-18-Mv1.title" = "Copy";
+"cye-18-Mv1.title" = "コピー";
 
 /* No comment by Translator*/
-"egS-8e-yfa.title" = "Copy";
+"egS-8e-yfa.title" = "コピー";
 
 /* No comment by Translator*/
 "g0h-DO-kXC.title" = "macOS 10.14以降のみをサポートします";
@@ -86,7 +86,7 @@
 "nkB-fj-i3i.title" = "pod 'atlantis-proxyman'";
 
 /* No comment by Translator*/
-"nw5-9I-htw.title" = "Copy";
+"nw5-9I-htw.title" = "コピー";
 
 /* No comment by Translator*/
 "txQ-HR-Di4.title" = "GitHub...";
