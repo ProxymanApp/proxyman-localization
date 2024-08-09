@@ -2,22 +2,22 @@
 "33c-7b-4y4.title" = "キャンセル";
 
 /* No comment by Translator*/
-"6eh-vx-4CK.title" = "如果远程端口为 443，Proxyman 仅对远程服务器执行 SSL 握手";
+"6eh-vx-4CK.title" = "Proxyman only performs SSL Handshake to Remote Server if Remote Port is 443";
 
 /* No comment by Translator*/
-"F6C-nX-TPN.title" = "本地端口：";
+"F6C-nX-TPN.title" = "ローカルポート:";
 
 /* No comment by Translator*/
-"Kay-qj-c2w.title" = "端口被占用";
+"Kay-qj-c2w.title" = "Port is occupied ";
 
 /* No comment by Translator*/
 "PQk-Gh-cnW.title" = "10000-65535";
 
 /* No comment by Translator*/
-"U9S-fd-Y0J.title" = "远程主机：";
+"U9S-fd-Y0J.title" = "Remote Host:";
 
 /* No comment by Translator*/
-"aKf-q3-Tsc.title" = "完毕";
+"aKf-q3-Tsc.title" = "Done";
 
 /* No comment by Translator*/
 "eOj-e7-LlF.title" = "proxyman.io";
@@ -26,7 +26,7 @@
 "fa3-cI-olk.title" = "Untitled";
 
 /* No comment by Translator*/
-"gLQ-Hc-hy0.title" = "名称：";
+"gLQ-Hc-hy0.title" = "Name:";
 
 /* No comment by Translator*/
 "uDI-vF-2xO.title" = "443";
@@ -35,7 +35,7 @@
 "uDI-vF-2xO.title" = "443";
 
 /* No comment by Translator*/
-"vJ1-4w-6Oh.title" = "远程端口：";
+"vJ1-4w-6Oh.title" = "リモートポート:";
 
 /* No comment by Translator*/
-"zq4-h3-ysi.title" = "在标题字段中保留主机";
+"zq4-h3-ysi.title" = "Preserve Host in Header fields";
