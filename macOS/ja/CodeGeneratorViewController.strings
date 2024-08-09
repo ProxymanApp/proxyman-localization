@@ -5,7 +5,7 @@
 "30Z-6w-W10.title" = "コピー";
 
 /* No comment by Translator*/
-"FKH-yT-4Uk.title" = "斯威夫特+莫亚";
+"FKH-yT-4Uk.title" = "Swift + Moya";
 
 /* No comment by Translator*/
 "GJQ-An-MDc.title" = "JavaScript + jQuery";
@@ -20,16 +20,16 @@
 "MSc-h5-wuV.title" = "HTTPie";
 
 /* No comment by Translator*/
-"SbY-FI-5Av.title" = "ボタン";
+"SbY-FI-5Av.title" = "Button";
 
 /* No comment by Translator*/
-"TSs-CW-bJ7.title" = "你用的库不在此处？...";
+"TSs-CW-bJ7.title" = "Missing your library?...";
 
 /* No comment by Translator*/
 "YVk-sF-Oko.title" = "cURL";
 
 /* No comment by Translator*/
-"YeD-JT-LFC.title" = "箱";
+"YeD-JT-LFC.title" = "Box";
 
 /* No comment by Translator*/
 "chl-fm-YTF.title" = "Node + Fetch";
@@ -38,7 +38,7 @@
 "dYb-uG-XTa.title" = "HAR";
 
 /* No comment by Translator*/
-"fq9-xP-hRQ.title" = "Axios";
+"fq9-xP-hRQ.title" = "Axios";
 
 /* No comment by Translator*/
 "jgF-tK-sdX.title" = "Go";
@@ -50,13 +50,13 @@
 "lHt-eV-8sA.title" = "Export to File";
 
 /* No comment by Translator*/
-"lHt-eV-8sA.title" = "导出...";
+"lHt-eV-8sA.title" = "Export...";
 
 /* No comment by Translator*/
-"rnF-P9-f0g.title" = "打开方式";
+"rnF-P9-f0g.title" = "Open with";
 
 /* No comment by Translator*/
-"sBg-5N-b9t.title" = "Java + HTTP客户端";
+"sBg-5N-b9t.title" = "Java + HTTPClient";
 
 /* No comment by Translator*/
 "vxP-NZ-8jX.title" = "Swift + URLSession";
