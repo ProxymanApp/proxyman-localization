@@ -1,23 +1,23 @@
 /* No comment by Translator*/
-"1zH-47-HFT.title" = "网络代理服务器";
+"1zH-47-HFT.title" = "Web Proxy Server";
 
 /* No comment by Translator*/
-"3Ig-y6-aSP.title" = "：";
+"3Ig-y6-aSP.title" = ":";
 
 /* No comment by Translator*/
-"5eZ-mQ-8z6.title" = "SOCKS 代理尚不支持身份验证。";
+"5eZ-mQ-8z6.title" = "SOCKS Proxy has not supported Authentication yet.";
 
 /* No comment by Translator*/
 "7Ea-2a-3ki.title" = "8080";
 
 /* No comment by Translator*/
-"S3d-ut-ULN.title" = "代理服务器需要密码";
+"S3d-ut-ULN.title" = "Proxy Server requires password";
 
 /* No comment by Translator*/
-"lDn-tw-FmD.title" = "用户名：";
+"lDn-tw-FmD.title" = "Username:";
 
 /* No comment by Translator*/
-"nyV-QR-ebc.title" = "密码：";
+"nyV-QR-ebc.title" = "Password:";
 
 /* No comment by Translator*/
 "vM2-no-oCQ.title" = "127.0.0.1";
