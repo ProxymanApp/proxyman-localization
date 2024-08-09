@@ -11,7 +11,7 @@
 "18n-tP-ITO.title" = "Not Match Regex";
 
 /* No comment by Translator*/
-"2Nw-A4-SHl.title" = "Blue";
+"2Nw-A4-SHl.title" = "青色";
 
 /* No comment by Translator*/
 "39W-Y9-E2a.title" = "Only show Plain HTTTPS Requests";
@@ -107,16 +107,16 @@
 "GEU-jr-gKr.title" = "Media";
 
 /* No comment by Translator*/
-"H9g-Y6-yUI.title" = "Other";
+"H9g-Y6-yUI.title" = "その他";
 
 /* No comment by Translator*/
 "HNd-og-WeJ.title" = "Customize Filters... (Coming Soon)";
 
 /* No comment by Translator*/
-"HOC-2o-Xyz.title" = "Method of the Request";
+"HOC-2o-Xyz.title" = "リクエストのメソッド";
 
 /* No comment by Translator*/
-"HOC-2o-Xyz.title" = "Method";
+"HOC-2o-Xyz.title" = "メソッド";
 
 /* No comment by Translator*/
 "HSg-tz-MmU.title" = "Show all requests (HTTP, HTTPS and WebSocket)";
@@ -149,19 +149,19 @@
 "MHH-i4-KPw.title" = "Apply AND to all filters";
 
 /* No comment by Translator*/
-"MHH-i4-KPw.title" = "和所有过滤器";
+"MHH-i4-KPw.title" = "AND all filters";
 
 /* No comment by Translator*/
 "MMu-cr-K77.title" = "箱";
 
 /* No comment by Translator*/
-"Pgr-Cg-Q6x.title" = "Status Code, Method, URL, Headers and Body from all Request and Response";
+"Pgr-Cg-Q6x.title" = "すべてのリクエスト・レスポンスのステータスコード、メソッド、URL, Header, Body";
 
 /* No comment by Translator*/
-"Pgr-Cg-Q6x.title" = "全部";
+"Pgr-Cg-Q6x.title" = "全て";
 
 /* No comment by Translator*/
-"RCf-hq-RW9.title" = "文档";
+"RCf-hq-RW9.title" = "Document";
 
 /* No comment by Translator*/
 "RKS-hA-T28.title" = "HTTP";
@@ -170,7 +170,7 @@
 "SWn-Je-SR0.title" = "Not Exactly equal the filter text (!=)";
 
 /* No comment by Translator*/
-"SWn-Je-SR0.title" = "不相等";
+"SWn-Je-SR0.title" = "Not Equal";
 
 /* No comment by Translator*/
 "SdA-Nb-bOG.title" = "颜色";
@@ -206,7 +206,7 @@
 "ZCr-CL-1Zm.title" = "Enable/Disable this filter (⌘B)";
 
 /* No comment by Translator*/
-"ZSk-Oi-Rrq.title" = "重置过滤器";
+"ZSk-Oi-Rrq.title" = "Reset Filters";
 
 /* No comment by Translator*/
 "ZYI-a1-sYF.title" = "Contains any text";
@@ -218,7 +218,7 @@
 "asV-jk-wzG.title" = "Only show requests with Content-Type: text/js, application/js (⌘ click to select multiple types)";
 
 /* No comment by Translator*/
-"c1v-ot-y05.title" = "红色";
+"c1v-ot-y05.title" = "赤色";
 
 /* No comment by Translator*/
 "cx6-rr-6F5.title" = "Reset all filters";
@@ -245,7 +245,7 @@
 "hSC-r7-vmp.title" = "All media, include images, videos: Ex: JPG, PNG, GIF, SVG, MP4, MP3 ... (⌘ click to select multiple types)";
 
 /* No comment by Translator*/
-"hhN-4C-Ru6.title" = "绿色";
+"hhN-4C-Ru6.title" = "緑色";
 
 /* No comment by Translator*/
 "jBj-8O-gRK.title" = "Response with Status Code from 400 to 500 (⌘ click to select multiple types)";
@@ -266,7 +266,7 @@
 "m3C-C8-8zU.title" = "End with this filter text";
 
 /* No comment by Translator*/
-"m3C-C8-8zU.title" = "结束于";
+"m3C-C8-8zU.title" = "End With";
 
 /* No comment by Translator*/
 "oX2-vd-CaA.title" = "Text in Response Body";
@@ -287,7 +287,7 @@
 "tdw-Xi-Kd4.title" = "Start with this filter text";
 
 /* No comment by Translator*/
-"tdw-Xi-Kd4.title" = "开始于";
+"tdw-Xi-Kd4.title" = "Start With";
 
 /* No comment by Translator*/
 "thp-PL-od9.title" = "Only show GraphQL Requests, which has suffix /graphQL on the URL (⌘ click to select multiple types)";
