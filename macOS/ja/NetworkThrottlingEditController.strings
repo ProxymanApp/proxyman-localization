@@ -1,17 +1,17 @@
 /* No comment by Translator*/
-"63y-hC-oCo.title" = "第 3 项";
+"63y-hC-oCo.title" = "Item 3";
 
 /* No comment by Translator*/
 "6C0-2H-o6a.title" = "0%";
 
 /* No comment by Translator*/
-"8t1-fb-s8u.title" = "预设配置文件：";
+"8t1-fb-s8u.title" = "Preset Profiles:";
 
 /* No comment by Translator*/
-"Eh7-Ye-Rfl.title" = "1 毫秒";
+"Eh7-Ye-Rfl.title" = "1ms";
 
 /* No comment by Translator*/
-"F4h-gg-4VV.title" = "丢弃的数据包：";
+"F4h-gg-4VV.title" = "Packets Dropped:";
 
 /* No comment by Translator*/
 "FmL-gv-JOJ.title" = "Untitled";
@@ -20,7 +20,7 @@
 "GEQ-tp-csh.title" = "All ";
 
 /* No comment by Translator*/
-"GEQ-tp-csh.title" = "通过 Proxyman 代理的所有流量都将受到网络节流的影响";
+"GEQ-tp-csh.title" = "All traffic being proxied through Proxyman will be affected by Network Throttling";
 
 /* No comment by Translator*/
 "GTH-i7-5CU.title" = "キャンセル";
@@ -32,64 +32,64 @@
 "JlB-mq-mWy.title" = "Wi-Fi";
 
 /* No comment by Translator*/
-"LYH-eN-zlI.title" = "下载";
+"LYH-eN-zlI.title" = "Download";
 
 /* No comment by Translator*/
-"NEJ-Tt-TDq.title" = "主机：";
+"NEJ-Tt-TDq.title" = "Host:";
 
 /* No comment by Translator*/
-"OgR-XR-vkk.title" = "带宽：";
+"OgR-XR-vkk.title" = "Bandwidth: ";
 
 /* No comment by Translator*/
-"QbN-wy-CFE.title" = "在系统范围内应用";
+"QbN-wy-CFE.title" = "Apply System-wide";
 
 /* No comment by Translator*/
 "Sbc-Tk-KhY.title" = "All ";
 
 /* No comment by Translator*/
-"Sbc-Tk-KhY.title" = "仅支持主机和端口。没有通配符或正则表达式";
+"Sbc-Tk-KhY.title" = "Only support Host and Port. No Wildcard or Regex";
 
 /* No comment by Translator*/
-"VKp-Fg-z6u.title" = "带宽：";
+"VKp-Fg-z6u.title" = "Bandwidth: ";
 
 /* No comment by Translator*/
 "VUP-J4-2Hf.title" = "10-20 mbps";
 
 /* No comment by Translator*/
-"Ysu-pY-28u.title" = "目前的个人资料";
+"Ysu-pY-28u.title" = "Present Profiles";
 
 /* No comment by Translator*/
-"aVa-35-16R.title" = "延迟：";
+"aVa-35-16R.title" = "Delay:";
 
 /* No comment by Translator*/
-"eTF-Lu-uGc.title" = "延迟：";
+"eTF-Lu-uGc.title" = "Delay:";
 
 /* No comment by Translator*/
-"gan-fH-sUa.title" = "上传";
+"gan-fH-sUa.title" = "Upload";
 
 /* No comment by Translator*/
-"iCm-Yn-peW.title" = "名称：";
+"iCm-Yn-peW.title" = "Name:";
 
 /* No comment by Translator*/
 "k8L-0l-3gk.title" = "30-50 mbps";
 
 /* No comment by Translator*/
-"kAe-P4-PR0.title" = "1 毫秒";
+"kAe-P4-PR0.title" = "1ms";
 
 /* No comment by Translator*/
-"oZU-dk-fQe.title" = "完毕";
+"oZU-dk-fQe.title" = "Done";
 
 /* No comment by Translator*/
-"ooQ-bl-LB9.title" = "丢弃的数据包：";
+"ooQ-bl-LB9.title" = "Packets Dropped:";
 
 /* No comment by Translator*/
 "pdE-E7-Uw5.title" = "api.proxyman.io";
 
 /* No comment by Translator*/
-"sgL-O6-lEk.title" = "第 2 项";
+"sgL-O6-lEk.title" = "Item 2";
 
 /* No comment by Translator*/
 "ulZ-JH-hIf.title" = "All ";
 
 /* No comment by Translator*/
-"ulZ-JH-hIf.title" = "为了模拟现实生活中的网络状况，带宽是在给定范围内随机生成的";
+"ulZ-JH-hIf.title" = "To simulate network condition in real-life, the bandwidth is generated randomly in a given range";
