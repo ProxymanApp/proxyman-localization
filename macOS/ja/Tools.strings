@@ -125,7 +125,7 @@
 "Avy-J0-H1L.title" = "Convert";
 
 /* No comment by Translator*/
-"BWe-JR-zbG.title" = "Method";
+"BWe-JR-zbG.title" = "メソッド";
 
 /* No comment by Translator*/
 "Bke-zb-QOr.title" = "Box";
@@ -161,7 +161,7 @@
 "E5o-70-3xU.title" = "api.proxyman.io/v1/*";
 
 /* No comment by Translator*/
-"EVC-EH-rCg.title" = "More";
+"EVC-EH-rCg.title" = "さらに表示";
 
 /* No comment by Translator*/
 "EiT-ui-6UM.title" = "Untitled";
@@ -194,7 +194,7 @@
 "GcR-SJ-hvI.title" = "Map Remote";
 
 /* No comment by Translator*/
-"GeB-Zg-10m.title" = "More";
+"GeB-Zg-10m.title" = "さらに表示";
 
 /* No comment by Translator*/
 "GsR-5F-Och.title" = "Edit...";
@@ -248,7 +248,7 @@
 "M61-5L-p5n.title" = "コピー";
 
 /* No comment by Translator*/
-"MBG-sg-M7m.title" = "Protobuf Schema...";
+"MBG-sg-M7m.title" = "Protobuf スキーマ...";
 
 /* No comment by Translator*/
 "MPT-OC-LCw.title" = "Protobuf File Descriptor List";
@@ -275,7 +275,7 @@
 "OIK-d8-3EG.title" = "Done";
 
 /* No comment by Translator*/
-"OVL-Jm-Cgw.title" = "Method";
+"OVL-Jm-Cgw.title" = "メソッド";
 
 /* No comment by Translator*/
 "Ocz-RQ-cda.title" = "From Charles Proxy...";
@@ -299,7 +299,7 @@
 "Prf-Ri-T1J.title" = "キャンセル";
 
 /* No comment by Translator*/
-"QAU-3B-a5Q.title" = "Protobuf Settings";
+"QAU-3B-a5Q.title" = "Protobuf 設定";
 
 /* No comment by Translator*/
 "QPs-zw-YiG.title" = "443";
@@ -311,10 +311,10 @@
 "QnD-qF-9SL.title" = "https";
 
 /* No comment by Translator*/
-"Qsa-Bo-ypX.title" = "More";
+"Qsa-Bo-ypX.title" = "さらに表示";
 
 /* No comment by Translator*/
-"Qwb-4B-kSS.title" = "Protobuf Rules";
+"Qwb-4B-kSS.title" = "Protobuf ルール";
 
 /* No comment by Translator*/
 "ROX-0z-YD2.title" = "Always bypass external proxies for localhost";
@@ -437,7 +437,7 @@
 "b98-7D-5hF.title" = "api.proxyman.io/v1/*";
 
 /* No comment by Translator*/
-"b9p-Vb-ytG.title" = "Protobuf Console Log";
+"b9p-Vb-ytG.title" = "Protobuf コンソール ログ";
 
 /* No comment by Translator*/
 "bGC-yu-Ejf.title" = "Rule:";
@@ -473,7 +473,7 @@
 "cUo-KN-9XF.title" = "Box";
 
 /* No comment by Translator*/
-"cf1-Hn-IZ0.title" = "Protobuf Settings";
+"cf1-Hn-IZ0.title" = "Protobuf 設定";
 
 /* No comment by Translator*/
 "cnK-t9-lcZ.title" = "Done";
@@ -533,7 +533,7 @@
 "gcU-h0-wu7.title" = "Payload Encoding";
 
 /* No comment by Translator*/
-"gie-57-rnH.title" = "Protobuf Schema List";
+"gie-57-rnH.title" = "Protobuf スキーマ一覧";
 
 /* No comment by Translator*/
 "h2y-SY-SFz.title" = "Text Cell";
@@ -578,7 +578,7 @@
 "jE3-xf-YOW.title" = "Matching URLs";
 
 /* No comment by Translator*/
-"jgc-Ir-DKh.title" = "Method";
+"jgc-Ir-DKh.title" = "メソッド";
 
 /* No comment by Translator*/
 "js3-TC-X9c.title" = "Text Cell";
@@ -647,10 +647,10 @@
 "qT1-0Z-4qQ.title" = "Start the breakpoint for out-going request or in-coming response.";
 
 /* No comment by Translator*/
-"qTO-BF-7LW.title" = "Method";
+"qTO-BF-7LW.title" = "メソッド";
 
 /* No comment by Translator*/
-"qwn-rK-VIm.title" = "More";
+"qwn-rK-VIm.title" = "さらに表示";
 
 /* No comment by Translator*/
 "qzU-Ry-c1f.title" = "api.proxyman.io/v1/*";
@@ -668,7 +668,7 @@
 "rQz-iV-rmI.title" = "Support Wildcard (* and ?). Separate by Comma.";
 
 /* No comment by Translator*/
-"rng-I1-ygy.title" = "Protobuf Schema List";
+"rng-I1-ygy.title" = "Protobuf スキーマ一覧";
 
 /* No comment by Translator*/
 "s6a-uq-wFJ.title" = "Block all matched requests, but displays them on the app";
@@ -782,7 +782,7 @@
 "Gls-g2-AJY.title" = "Click \"+\" or ⌘N to add new entry";
 
 /* No comment by Translator*/
-"mMu-Uq-RFk.title" = "More";
+"mMu-Uq-RFk.title" = "さらに表示";
 
 /* No comment by Translator*/
 "qxb-JD-Cyf.title" = "Port:";
