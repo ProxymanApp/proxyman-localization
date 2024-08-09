@@ -1,14 +1,14 @@
 /* No comment by Translator*/
-"CNF-fC-sXQ.title" = "区分大小写";
+"CNF-fC-sXQ.title" = "大文字と小文字を区別する";
 
 /* No comment by Translator*/
-"bp6-It-Vqm.title" = "文本";
+"bp6-It-Vqm.title" = "テキスト";
 
 /* No comment by Translator*/
-"ee5-yn-o0B.title" = "正则表达式";
+"ee5-yn-o0B.title" = "正規表現";
 
 /* No comment by Translator*/
-"jr3-Dm-cgC.title" = "不区分大小写";
+"jr3-Dm-cgC.title" = "大文字と小文字を区別しない";
 
 /* No comment by Translator*/
-"zZC-xQ-1AV.title" = "Filter (Show: ⌘F, Hide: ESC)";
+"zZC-xQ-1AV.title" = "フィルター (表示: ⌘F, 非表示: ESC)";
