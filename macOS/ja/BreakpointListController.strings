@@ -35,7 +35,7 @@
 "IYf-g3-SWr.title" = "削除";
 
 /* No comment by Translator*/
-"KZG-tE-vs8.title" = "More";
+"KZG-tE-vs8.title" = "さらに表示";
 
 /* No comment by Translator*/
 "Lcl-S9-8hD.title" = "Text Cell";
@@ -44,7 +44,7 @@
 "NVq-HI-Lb2.title" = "Top-Down Matching Rule";
 
 /* No comment by Translator*/
-"Qsl-q9-w4C.title" = "More";
+"Qsl-q9-w4C.title" = "さらに表示";
 
 /* No comment by Translator*/
 "QyQ-Sc-ctP.title" = "Response";
@@ -56,7 +56,7 @@
 "WDx-58-Aps.title" = "インポート設定";
 
 /* No comment by Translator*/
-"WSF-w6-PGd.title" = "⌘N: 新規; ⌘⏎: 編集; ⌘⌫: 削除; ⌘D: 複製; スペース: ルールの有効化/無効化;";
+"WSF-w6-PGd.title" = "⌘N: 新規; ⌘⏎: 編集; ⌘⌫: 削除; ⌘D: コピー; Space: ルールの有効化/無効化;";
 
 /* No comment by Translator*/
 "fVv-OK-fnS.title" = "Text Cell";
@@ -83,7 +83,7 @@
 "nt1-JG-pEk.title" = "Set a breakpoint to change Requests and Responses on the fly";
 
 /* No comment by Translator*/
-"o43-dy-zV1.title" = "Method";
+"o43-dy-zV1.title" = "メソッド";
 
 /* No comment by Translator*/
 "oZL-I8-HE8.title" = "Name";
