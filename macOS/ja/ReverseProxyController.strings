@@ -5,7 +5,7 @@
 "4Dn-FT-QJ3.title" = "インポート設定";
 
 /* No comment by Translator*/
-"9Bm-Ar-qoB.title" = "箱";
+"9Bm-Ar-qoB.title" = "Box";
 
 /* No comment by Translator*/
 "ACV-KL-9fU.title" = "ローカル ポートから指定された上流サーバーに HTTP および HTTPS リクエストをプロキシします。";
@@ -17,37 +17,37 @@
 "CxK-Gv-hSR.title" = "削除";
 
 /* No comment by Translator*/
-"E64-WZ-BOd.title" = "テキストセル";
+"E64-WZ-BOd.title" = "Text Cell";
 
 /* No comment by Translator*/
-"GAK-Ld-Brj.title" = "启用反向代理工具";
+"GAK-Ld-Brj.title" = "Enable Reverse Proxy Tool";
 
 /* No comment by Translator*/
-"GCs-n4-x4B.title" = "更多的";
+"GCs-n4-x4B.title" = "詳細";
 
 /* No comment by Translator*/
-"Jwt-5U-pAb.title" = "Remote Port";
+"Jwt-5U-pAb.title" = "リモートポート";
 
 /* No comment by Translator*/
-"LYi-Ab-z66.title" = "点击 \"+\" 或 ⌘N 添加新条目";
+"LYi-Ab-z66.title" = "Click \"+\" or ⌘N to add new entry";
 
 /* No comment by Translator*/
-"Mnh-53-9lf.title" = "Name";
+"Mnh-53-9lf.title" = "名前";
 
 /* No comment by Translator*/
-"OV9-WJ-m0I.title" = "Local Port";
+"OV9-WJ-m0I.title" = "ローカルポート";
 
 /* No comment by Translator*/
 "PUd-93-fuq.title" = "テキストセル";
 
 /* No comment by Translator*/
-"TAb-9X-opy.title" = "⌘N：新建；⌘⏎：编辑；⌘⌫：删除；空格：启用/禁用规则；";
+"TAb-9X-opy.title" = "⌘N: 新規; ⌘⏎: 編集; ⌘⌫: 削除; Space: ルールの有効化/無効化;";
 
 /* No comment by Translator*/
-"TXc-e9-L8R.title" = "Remote Host";
+"TXc-e9-L8R.title" = "リモートホスト";
 
 /* No comment by Translator*/
-"XXa-E2-vqy.title" = "从代理...";
+"XXa-E2-vqy.title" = "Proxymanから...";
 
 /* No comment by Translator*/
 "a0b-iX-Aa2.title" = "インポート設定";
@@ -56,25 +56,25 @@
 "akt-WR-xTS.title" = "6100";
 
 /* No comment by Translator*/
-"eUr-Ix-LiF.title" = "标签";
+"eUr-Ix-LiF.title" = "Label";
 
 /* No comment by Translator*/
-"fQf-XM-8So.title" = "更多的";
+"fQf-XM-8So.title" = "More";
 
 /* No comment by Translator*/
 "g6E-OA-DZL.title" = "テキストセル";
 
 /* No comment by Translator*/
-"h7l-bZ-obl.title" = "导出设置...";
+"h7l-bZ-obl.title" = "エクスポート設定...";
 
 /* No comment by Translator*/
 "kA9-Uk-531.title" = "Charles Proxyから...";
 
 /* No comment by Translator*/
-"kP2-Q5-Dke.title" = "标签";
+"kP2-Q5-Dke.title" = "Label";
 
 /* No comment by Translator*/
-"l1E-UE-JOC.title" = "Enabled";
+"l1E-UE-JOC.title" = "有効";
 
 /* No comment by Translator*/
 "l1E-UE-JOC.title" = "Enable / Disable this entry";
@@ -83,7 +83,7 @@
 "m6w-Jo-aqZ.title" = "Toggl Enable / Disable selected rules";
 
 /* No comment by Translator*/
-"m6w-Jo-aqZ.title" = "启用规则";
+"m6w-Jo-aqZ.title" = "ルールを有効化";
 
 /* No comment by Translator*/
 "oWR-9H-aa1.title" = "新規作成...";
@@ -92,7 +92,7 @@
 "u6U-wB-iX5.title" = "テキストセル";
 
 /* No comment by Translator*/
-"vxF-gX-CEA.title" = "无标题";
+"vxF-gX-CEA.title" = "Untitled";
 
 /* No comment by Translator*/
-"ytn-MS-YWc.title" = "编辑...";
+"ytn-MS-YWc.title" = "Edit...";
