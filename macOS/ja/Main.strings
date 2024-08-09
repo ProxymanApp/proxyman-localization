@@ -38,7 +38,7 @@
 "2eA-6u-s1g.title" = "キャッシュを無効化";
 
 /* No comment by Translator*/
-"3JW-nX-CMn.title" = "許可リスト";
+"3JW-nX-CMn.title" = "ホワイトリスト";
 
 /* No comment by Translator*/
 "3ns-bq-OcJ.title" = "キャッシュを無効化";
@@ -149,7 +149,7 @@
 "8rh-r4-MBy.title" = "ドメインまたはアプリでのフィルター";
 
 /* No comment by Translator*/
-"9hR-dt-PP4.title" = "Map Remote is enabled (⌥⌘R)";
+"9hR-dt-PP4.title" = "Map Remoet が有効 (⌥⌘R)";
 
 /* No comment by Translator*/
 "9um-sj-sOV.title" = "Breakpoint";
@@ -167,7 +167,7 @@
 "Asg-75-GFE.title" = "リバースプロキシ...";
 
 /* No comment by Translator*/
-"AwM-lX-ZaA.title" = "Copy selected request as cURL/HTTPie format";
+"AwM-lX-ZaA.title" = "このリクエストを cURL/HTTPie 形式でコピー";
 
 /* No comment by Translator*/
 "AwM-lX-ZaA.title" = "cURL にコピー";
@@ -236,7 +236,7 @@
 "E6V-hs-DkP.title" = "CSVとして";
 
 /* No comment by Translator*/
-"EJp-eC-Wbg.title" = "SSL プロキシ リスト...";
+"EJp-eC-Wbg.title" = "SSLプロキシ リスト...";
 
 /* No comment by Translator*/
 "EKS-Tx-r2L.title" = "Scriptingでログコンソールを切り替える";
@@ -257,7 +257,7 @@
 "F2S-fz-NVQ.title" = "ヘルプ";
 
 /* No comment by Translator*/
-"F2X-Te-H4P.title" = "コンテンツウィンドウを切り離す";
+"F2X-Te-H4P.title" = "コンテンツウィンドウの分離";
 
 /* No comment by Translator*/
 "FW2-MC-gIh.title" = "Map Local...";
@@ -323,7 +323,7 @@
 "Ihf-L4-h3I.title" = "箱";
 
 /* No comment by Translator*/
-"Imc-bK-Vzj.title" = "ドックを下のウィンドウに切り替えます";
+"Imc-bK-Vzj.title" = "ドックをウィンドウ下側に";
 
 /* No comment by Translator*/
 "K1a-Yq-oka.title" = "エクスポート…";
@@ -347,7 +347,7 @@
 "LPx-O2-n19.title" = "Android に証明書をインストール";
 
 /* No comment by Translator*/
-"MHh-7c-kMO.title" = "開発証明書をインストール";
+"MHh-7c-kMO.title" = "開発環境に証明書をインストール";
 
 /* No comment by Translator*/
 "MIw-t1-AWs.title" = "Guideline how to install Proxyman Certificate to Android Emulator by using Script";
@@ -443,7 +443,7 @@
 "RJe-2S-X79.title" = "Auto Select the latest requests (⇧⌘L). Click on any rows to disable it.";
 
 /* No comment by Translator*/
-"RMV-Z4-4ih.title" = "SSL プロキシ リスト...";
+"RMV-Z4-4ih.title" = "SSLプロキシ リスト...";
 
 /* No comment by Translator*/
 "Ruw-6m-B2m.title" = "すべて選択";
@@ -461,7 +461,7 @@
 "Stu-BV-Lkk.title" = "ホワイトリスト...";
 
 /* No comment by Translator*/
-"TL5-7M-KTY.title" = "ドックウィンドウを右に";
+"TL5-7M-KTY.title" = "ドックをウィンドウ右側に";
 
 /* No comment by Translator*/
 "Td7-aD-5lo.title" = "ウィンドウ";
@@ -521,7 +521,7 @@
 "Xkd-SQ-lBA.title" = "Proxyman will proxy all flows to the external proxy server.";
 
 /* No comment by Translator*/
-"Xz5-n4-O0W.title" = "探しています…";
+"Xz5-n4-O0W.title" = "検索…";
 
 /* No comment by Translator*/
 "YEy-JH-Tfz.title" = "検索して置換…";
@@ -599,7 +599,7 @@
 "cUE-Z0-jBK.title" = "変換する";
 
 /* No comment by Translator*/
-"cX1-mf-48B.title" = "Map Local is enabled (⌥⌘L)";
+"cX1-mf-48B.title" = "Map Local が有効 (⌥⌘L)";
 
 /* No comment by Translator*/
 "dBR-4N-MkK.title" = "Define the Protobuf setting to parse properly";
@@ -698,7 +698,7 @@
 "hfW-gz-bVi.title" = "All domains and apps which are enabled SSL Proxying";
 
 /* No comment by Translator*/
-"hfW-gz-bVi.title" = "SSL プロキシ リスト...";
+"hfW-gz-bVi.title" = "SSLプロキシ リスト...";
 
 /* No comment by Translator*/
 "hz9-B4-Xy5.title" = "サービス";
@@ -716,10 +716,10 @@
 "ifQ-cq-1Ps.title" = "問題を報告…";
 
 /* No comment by Translator*/
-"j0A-ov-hPQ.title" = "ソース パネルの折りたたみ";
+"j0A-ov-hPQ.title" = "ソースリスト パネルを切り替え";
 
 /* No comment by Translator*/
-"j21-5N-koR.title" = "開発証明書をインストール";
+"j21-5N-koR.title" = "開発環境に証明書をインストール";
 
 /* No comment by Translator*/
 "jVi-P4-wdn.title" = "Android に証明書をインストール";
@@ -737,7 +737,7 @@
 "jcQ-j3-Mza.title" = "Open Compose windows for editing the current selected request";
 
 /* No comment by Translator*/
-"jcQ-j3-Mza.title" = "編集して繰り返します...";
+"jcQ-j3-Mza.title" = "編集しRepeatする...";
 
 /* No comment by Translator*/
 "jms-6X-UGP.title" = "Map Remote";
@@ -767,10 +767,10 @@
 "lEd-ns-ZiS.title" = "Breakpoint テンプレート...";
 
 /* No comment by Translator*/
-"lPR-UL-J97.title" = "Repeat the current selected request";
+"lPR-UL-J97.title" = "選択しているリクエストをRepeat";
 
 /* No comment by Translator*/
-"lPR-UL-J97.title" = "繰り返す";
+"lPR-UL-J97.title" = "Repeat";
 
 /* No comment by Translator*/
 "ldG-IO-T9q.title" = "Charles Proxyから";
@@ -779,7 +779,7 @@
 "lxJ-8m-6PI.title" = "Map specific request to different request location";
 
 /* No comment by Translator*/
-"lxJ-8m-6PI.title" = "Map specific request to different request location";
+"lxJ-8m-6PI.title" = "Map Remote…";
 
 /* No comment by Translator*/
 "mKD-Hp-ETJ.title" = "Custom Certificates is enabled";
@@ -794,7 +794,7 @@
 "ndw-cW-F7D.title" = "Your HTTP/HTTPS Proxy is overridden by Proxyman (⌥⌘O)";
 
 /* No comment by Translator*/
-"oas-Oc-fiZ.title" = "最近開いた";
+"oas-Oc-fiZ.title" = "最近開いた項目を開く";
 
 /* No comment by Translator*/
 "oaz-80-FiP.title" = "エクスポート";
@@ -866,7 +866,7 @@
 "tEF-kV-SFS.title" = "シミュレーター…";
 
 /* No comment by Translator*/
-"tXI-mr-wws.title" = "最近開いた";
+"tXI-mr-wws.title" = "最近開いた項目を開く";
 
 /* No comment by Translator*/
 "tY3-f2-wJ6.title" = "外部プロキシを使用する";
@@ -950,7 +950,7 @@
 "zJp-6M-7Yo.title" = "リセット";
 
 /* No comment by Translator*/
-"zPa-4T-gtr.title" = "ツイッター…";
+"zPa-4T-gtr.title" = "X (旧Twitter)…";
 
 /* No comment by Translator*/
 "zQH-5l-VXn.title" = "Scriptingの一覧...";
@@ -992,22 +992,22 @@
 "Bpz-gb-j44.title" = "ツールの有効化/無効化";
 
 /* No comment by Translator*/
-"Jbb-Ov-C7d.title" = "Toggle Enable/Disable the Map Local Tool";
+"Jbb-Ov-C7d.title" = "Map Local ツールの有効/無効を切り替え";
 
 /* No comment by Translator*/
-"Jbb-Ov-C7d.title" = "Toggle Enable/Disable the Map Local Tool";
+"Jbb-Ov-C7d.title" = "Map Local";
 
 /* No comment by Translator*/
 "Mrd-VT-G6e.title" = "Toggle Enable/Disable the Allow List Tool";
 
 /* No comment by Translator*/
-"Mrd-VT-G6e.title" = "許可リスト";
+"Mrd-VT-G6e.title" = "ホワイトリスト";
 
 /* No comment by Translator*/
 "Uei-Ey-Z6a.title" = "Toggle Enable/Disable the Map Remtote Tool";
 
 /* No comment by Translator*/
-"Uei-Ey-Z6a.title" = "Toggle Enable/Disable the Map Remtote Tool";
+"Uei-Ey-Z6a.title" = "Map Remote";
 
 /* No comment by Translator*/
 "bAx-Ze-BjE.title" = "Network Conditions";
@@ -1022,7 +1022,7 @@
 "p0b-sK-SRd.title" = "Save selected requests to the Saved Folder";
 
 /* No comment by Translator*/
-"p0b-sK-SRd.title" = "保存リクエスト";
+"p0b-sK-SRd.title" = "リクエストを保存";
 
 /* No comment by Translator*/
 "sEj-5w-peJ.title" = "Scripting";
