@@ -5,7 +5,7 @@
 "1Lv-MJ-8mP.title" = "新しいフォルダ";
 
 /* No comment by Translator*/
-"1da-pd-oJb.title" = "导出设置";
+"1da-pd-oJb.title" = "Export Settings";
 
 /* No comment by Translator*/
 "2Rf-8t-48p.title" = "Enable or Disable entire Map Local Feature";
@@ -14,16 +14,16 @@
 "2WF-c9-ZLL.title" = "Export Rules that you can share with your teammates. Export the script and all imported files";
 
 /* No comment by Translator*/
-"2WF-c9-ZLL.title" = "脚本和所有导入的文件...";
+"2WF-c9-ZLL.title" = "Scripts and All Imported Files...";
 
 /* No comment by Translator*/
 "2bf-R9-Ugc.title" = "Import selected file and import to JS Code";
 
 /* No comment by Translator*/
-"2bf-R9-Ugc.title" = "导入 JSON 或其他文件...";
+"2bf-R9-Ugc.title" = "Import JSON or Other File...";
 
 /* No comment by Translator*/
-"3ZA-n0-5rl.title" = "控制台";
+"3ZA-n0-5rl.title" = "Console";
 
 /* No comment by Translator*/
 "3oU-SJ-b4w.title" = "If Mock API is enabled, the request never hits your server. You have to provide the response. It's useful for testing.";
@@ -35,37 +35,37 @@
 "49J-je-yD2.title" = "Matching URLs";
 
 /* No comment by Translator*/
-"4iP-OB-Htr.title" = "詳細";
+"4iP-OB-Htr.title" = "More";
 
 /* No comment by Translator*/
-"5YF-9i-XFK.title" = "配置";
+"5YF-9i-XFK.title" = "Configs";
 
 /* No comment by Translator*/
-"5vf-Gb-QcQ.title" = "匹配规则";
+"5vf-Gb-QcQ.title" = "Matching Rule";
 
 /* No comment by Translator*/
-"60p-Do-eUa.title" = "作为模拟 API 运行";
+"60p-Do-eUa.title" = "Run as Mock API";
 
 /* No comment by Translator*/
 "6OV-n0-cWR.title" = "Run onResponse() function";
 
 /* No comment by Translator*/
-"6wv-8S-F2I.title" = "新...";
+"6wv-8S-F2I.title" = "New…";
 
 /* No comment by Translator*/
 "783-cf-8NW.title" = "Import Script Rules";
 
 /* No comment by Translator*/
-"783-cf-8NW.title" = "Proxyman より...";
+"783-cf-8NW.title" = "From Proxyman...";
 
 /* No comment by Translator*/
-"8ag-ls-KoV.title" = "环境变量";
+"8ag-ls-KoV.title" = "Environment Variables";
 
 /* No comment by Translator*/
-"8ts-qc-3RB.title" = "运行脚本：";
+"8ts-qc-3RB.title" = "Run Script on:";
 
 /* No comment by Translator*/
-"AEe-Ox-jZb.title" = "使用 console.log() 记录事件";
+"AEe-Ox-jZb.title" = "Use console.log() to log events";
 
 /* No comment by Translator*/
 "B6T-WK-Jh2.title" = "Name";
@@ -74,13 +74,13 @@
 "B7H-Qn-1GV.title" = "Snippet Code";
 
 /* No comment by Translator*/
-"Beb-ek-dt4.title" = "インポート設定";
+"Beb-ek-dt4.title" = "Import Settings";
 
 /* No comment by Translator*/
 "EAa-s4-6jg.title" = "Export Rules that you can share with your teammates. Only Export the Script";
 
 /* No comment by Translator*/
-"EAa-s4-6jg.title" = "只有脚本...";
+"EAa-s4-6jg.title" = "Only Scripts...";
 
 /* No comment by Translator*/
 "FGU-E6-oNK.title" = "Clear all Logs";
@@ -92,61 +92,61 @@
 "HAk-P0-Ggj.title" = "If there is new log, the Console Log will automatically scroll to the bottom";
 
 /* No comment by Translator*/
-"HAk-P0-Ggj.title" = "控制台日志会自动滚动到底部";
+"HAk-P0-Ggj.title" = "Console Log will Scroll to Bottom automatically";
 
 /* No comment by Translator*/
-"JWv-dU-riJ.title" = "詳細";
+"JWv-dU-riJ.title" = "More";
 
 /* No comment by Translator*/
-"LDC-yJ-OT2.title" = "テキストセル";
+"LDC-yJ-OT2.title" = "Text Cell";
 
 /* No comment by Translator*/
-"Lhy-az-aCd.title" = "重新加载";
+"Lhy-az-aCd.title" = "Reload";
 
 /* No comment by Translator*/
-"MiB-Ry-kOU.title" = "启用脚本工具";
-
-/* No comment by Translator*/
-"Mqj-S5-ILV.title" = "无标题";
+"MiB-Ry-kOU.title" = "Enable Scripting Tool";
 
 /* No comment by Translator*/
 "Mqj-S5-ILV.title" = "Untitled";
 
 /* No comment by Translator*/
-"P2I-vf-6Nq.title" = "在 Finder 中显示...";
+"Mqj-S5-ILV.title" = "Untitled";
+
+/* No comment by Translator*/
+"P2I-vf-6Nq.title" = "Show in Finder…";
 
 /* No comment by Translator*/
 "Pai-wM-2Ib.title" = "Rename the folder";
 
 /* No comment by Translator*/
-"Pai-wM-2Ib.title" = "重命名文件夹";
+"Pai-wM-2Ib.title" = "Rename Folder";
 
 /* No comment by Translator*/
-"SQj-Kh-Qo7.title" = "⌘N：新建；⌘⏎：编辑；⌘⌫： 删除；⌘D：复制；空格：启用/禁用规则；";
+"SQj-Kh-Qo7.title" = "⌘N: 新規; ⌘⏎: 編集; ⌘⌫: 削除; ⌘D: コピー; Space: ルールの有効化/無効化;";
 
 /* No comment by Translator*/
 "TNq-P4-Q5X.title" = "Open Custom Addon Folder";
 
 /* No comment by Translator*/
-"TNq-P4-Q5X.title" = "打开自定义插件文件夹...";
+"TNq-P4-Q5X.title" = "Open Custom Addons Folder...";
 
 /* No comment by Translator*/
 "VND-zn-vZa.title" = "api.proxyman.io/v1/*";
 
 /* No comment by Translator*/
-"Xgd-Wq-j8M.title" = "筛选器";
+"Xgd-Wq-j8M.title" = "Filter";
 
 /* No comment by Translator*/
 "Xu2-KD-YTP.title" = "Response";
 
 /* No comment by Translator*/
-"YL8-Qr-mAC.title" = "脚本文档...";
+"YL8-Qr-mAC.title" = "Scripting Docs...";
 
 /* No comment by Translator*/
-"Yvx-rH-ffi.title" = "脚本编辑器";
+"Yvx-rH-ffi.title" = "Scripting Editor";
 
 /* No comment by Translator*/
-"ZYc-UB-srh.title" = "导出设置";
+"ZYc-UB-srh.title" = "Export Settings";
 
 /* No comment by Translator*/
 "Zby-zp-y61.title" = "Show / Hide Logging Console Panel (⇧⌘L)";
@@ -164,31 +164,31 @@
 "abR-Dt-dL5.title" = "削除";
 
 /* No comment by Translator*/
-"at8-8r-QR9.title" = "テキストセル";
+"at8-8r-QR9.title" = "Text Cell";
 
 /* No comment by Translator*/
 "bcp-ip-pRf.title" = "Request";
 
 /* No comment by Translator*/
-"cGe-FP-Cga.title" = "名称：";
+"cGe-FP-Cga.title" = "名前：";
 
 /* No comment by Translator*/
 "cbG-2v-RmG.title" = "Scripting";
 
 /* No comment by Translator*/
-"cyH-Yq-dxO.title" = "自上而下匹配规则";
+"cyH-Yq-dxO.title" = "Top-Down Matching Rule";
 
 /* No comment by Translator*/
-"dZq-hc-gb4.title" = "テキストセル";
+"dZq-hc-gb4.title" = "Text Cell";
 
 /* No comment by Translator*/
-"ddl-44-wPo.title" = "箱";
+"ddl-44-wPo.title" = "Box";
 
 /* No comment by Translator*/
-"e2Q-na-x9J.title" = "打开本地文件";
+"e2Q-na-x9J.title" = "Open local file with";
 
 /* No comment by Translator*/
-"eTX-mK-u1J.title" = "插件文档...";
+"eTX-mK-u1J.title" = "Addon Docs...";
 
 /* No comment by Translator*/
 "eTe-5h-VxL.title" = "コピー";
@@ -197,10 +197,10 @@
 "gB7-cb-JeF.title" = "Toggl Enable / Disable selected rules";
 
 /* No comment by Translator*/
-"gB7-cb-JeF.title" = "启用规则";
+"gB7-cb-JeF.title" = "Enable Rule";
 
 /* No comment by Translator*/
-"gMu-9e-6Pa.title" = "允许所有脚本访问环境变量";
+"gMu-9e-6Pa.title" = "Allow all scripts to access Environment Variables";
 
 /* No comment by Translator*/
 "geb-sb-72N.title" = "Save and write the current editing script to disk and activate it ⌘S";
@@ -209,61 +209,61 @@
 "had-X8-9CN.title" = "Open Doc how to write your own JS Addons";
 
 /* No comment by Translator*/
-"had-X8-9CN.title" = "编写你的自定义插件...";
+"had-X8-9CN.title" = "Write your Custom Addons...";
 
 /* No comment by Translator*/
-"jKu-Bl-Yq1.title" = "环境变量文档...";
+"jKu-Bl-Yq1.title" = "Environment Variables Docs...";
 
 /* No comment by Translator*/
-"l1b-qK-UkR.title" = "点击\"+\"或⌘N添加新条目";
+"l1b-qK-UkR.title" = "Click \"+\" or ⌘N to add new entry";
 
 /* No comment by Translator*/
 "lcF-Es-cZG.title" = "Run onRequest() function";
 
 /* No comment by Translator*/
-"ng1-oM-8Fe.title" = "保存并激活⌘S";
+"ng1-oM-8Fe.title" = "Save & Activate ⌘S";
 
 /* No comment by Translator*/
 "oIC-SX-Ukm.title" = "Method";
 
 /* No comment by Translator*/
-"pCE-gq-94c.title" = "网址：";
+"pCE-gq-94c.title" = "URL:";
 
 /* No comment by Translator*/
-"qn2-FC-Zed.title" = "环境变量";
+"qn2-FC-Zed.title" = "Environment Variables";
 
 /* No comment by Translator*/
-"r7y-sY-uEN.title" = "文档";
+"r7y-sY-uEN.title" = "Documentations";
 
 /* No comment by Translator*/
 "rKN-8X-nR8.title" = "Beautify the current JS Code";
 
 /* No comment by Translator*/
-"rKN-8X-nR8.title" = "美化(⌘B)";
+"rKN-8X-nR8.title" = "Beautify (⌘B)";
 
 /* No comment by Translator*/
-"syJ-gL-Mcz.title" = "已保存";
+"syJ-gL-Mcz.title" = "Saved";
 
 /* No comment by Translator*/
-"tYS-co-gAQ.title" = "箱";
+"tYS-co-gAQ.title" = "Box";
 
 /* No comment by Translator*/
-"xDt-jD-ufF.title" = "内置 JS 库文档...";
+"xDt-jD-ufF.title" = "Built-in JS Libraries Docs...";
 
 /* No comment by Translator*/
-"xq9-8g-BbV.title" = "使用 JavaScript 自动修改请求或响应内容";
+"xq9-8g-BbV.title" = "Use JavaScript to modify the Request or Response content automatically";
 
 /* No comment by Translator*/
-"yiM-oB-Nsu.title" = "文档";
+"yiM-oB-Nsu.title" = "Documentations";
 
 /* No comment by Translator*/
-"zhY-mM-T6l.title" = "編集";
+"zhY-mM-T6l.title" = "Edit";
 
 /* No comment by Translator*/
-"zqy-Ug-Jk0.title" = "空控制台";
+"zqy-Ug-Jk0.title" = "Empty Console";
 
 /* No comment by Translator*/
 "ZVw-hV-auO.title" = "Clear all shared State data. It's similar with `clearSharedState()` function";
 
 /* No comment by Translator*/
-"ZVw-hV-auO.title" = "重置共享状态";
+"ZVw-hV-auO.title" = "Reset Shared State";
