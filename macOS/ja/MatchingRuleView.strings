@@ -2,13 +2,13 @@
 "0r1-Xi-hIE.title" = "OPTIONS";
 
 /* No comment by Translator*/
-"1l3-Xs-tGg.title" = "完全匹配的正则表达式";
+"1l3-Xs-tGg.title" = "Full-Matching Regex";
 
 /* No comment by Translator*/
-"2NE-R1-a9J.title" = "GraphQL 查询名称";
+"2NE-R1-a9J.title" = "GraphQL QueryName";
 
 /* No comment by Translator*/
-"2ay-oz-ZRe.title" = "詳細設定";
+"2ay-oz-ZRe.title" = "Advanced";
 
 /* No comment by Translator*/
 "3be-oa-kOQ.title" = "DELETE";
@@ -20,10 +20,10 @@
 "6uW-oj-aMf.title" = "GET";
 
 /* No comment by Translator*/
-"UnC-Gv-LIU.title" = "简单的通配符 * 和 ?支持";
+"UnC-Gv-LIU.title" = "Simple wildcard * and ? are supported";
 
 /* No comment by Translator*/
-"YlL-v0-VaZ.title" = "詳細設定";
+"YlL-v0-VaZ.title" = "Advanced";
 
 /* No comment by Translator*/
 "Ysk-hj-HK6.title" = "POST";
@@ -32,7 +32,7 @@
 "aLr-49-U0F.title" = "Use simple Wildcard (* and ?)";
 
 /* No comment by Translator*/
-"aLr-49-U0F.title" = "使用通配符";
+"aLr-49-U0F.title" = "Use Wildcard";
 
 /* No comment by Translator*/
 "aMn-qb-GlQ.title" = "PATCH";
@@ -47,22 +47,22 @@
 "ey3-cI-3o6.title" = "Use full-matching regex";
 
 /* No comment by Translator*/
-"ey3-cI-3o6.title" = "使用正则表达式";
+"ey3-cI-3o6.title" = "Use Regex";
 
 /* No comment by Translator*/
-"nlG-eH-MZ8.title" = "无效的正则表达式";
+"nlG-eH-MZ8.title" = "Invalid Regex";
 
 /* No comment by Translator*/
-"sns-NL-3PL.title" = "GraphQL 查询名称：";
+"sns-NL-3PL.title" = "GraphQL Query Name:";
 
 /* No comment by Translator*/
-"tCp-2f-uaq.title" = "包含此 URL 的所有子路径";
+"tCp-2f-uaq.title" = "Include all subpaths of this URL";
 
 /* No comment by Translator*/
 "tcx-XF-CqG.title" = "TRACE";
 
 /* No comment by Translator*/
-"uxN-hg-ZVl.title" = "语法列表";
+"uxN-hg-ZVl.title" = "Syntax List";
 
 /* No comment by Translator*/
 "voR-V0-TSk.title" = "PUT";
