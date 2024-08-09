@@ -11,28 +11,28 @@
 "49N-U2-jCF.title" = "Rename the folder";
 
 /* No comment by Translator*/
-"49N-U2-jCF.title" = "重命名文件夹";
+"49N-U2-jCF.title" = "Rename Folder";
 
 /* No comment by Translator*/
-"8dm-xu-eIe.title" = "テキストセル";
+"8dm-xu-eIe.title" = "Text Cell";
 
 /* No comment by Translator*/
 "9Ih-OE-X0V.title" = "Enable or Disable entire Map Local Feature";
 
 /* No comment by Translator*/
-"9pb-rN-GuN.title" = "テキストセル";
+"9pb-rN-GuN.title" = "Text Cell";
 
 /* No comment by Translator*/
-"ART-xE-4kw.title" = "更多的";
+"ART-xE-4kw.title" = "More";
 
 /* No comment by Translator*/
-"B0E-Ix-T41.title" = "点击 \"+\" 或 ⌘N 添加新条目";
+"B0E-Ix-T41.title" = "Click \"+\" or ⌘N to add new entry";
 
 /* No comment by Translator*/
-"BM5-tw-zBC.title" = "更多的";
+"BM5-tw-zBC.title" = "More";
 
 /* No comment by Translator*/
-"CbS-Aw-Ogt.title" = "箱";
+"CbS-Aw-Ogt.title" = "Box";
 
 /* No comment by Translator*/
 "I6q-2Y-MXQ.title" = "フィルター";
@@ -44,13 +44,13 @@
 "J2W-nx-rqY.title" = "Method";
 
 /* No comment by Translator*/
-"KJ3-AH-rZc.title" = "自顶向下匹配规则";
+"KJ3-AH-rZc.title" = "Top-Down Matching Rule";
 
 /* No comment by Translator*/
-"Lgp-Gg-Co5.title" = "テキストセル";
+"Lgp-Gg-Co5.title" = "Text Cell";
 
 /* No comment by Translator*/
-"M0Z-eq-odj.title" = "テキストセル";
+"M0Z-eq-odj.title" = "Text Cell";
 
 /* No comment by Translator*/
 "QXR-2x-8Qp.title" = "削除";
@@ -62,22 +62,22 @@
 "WOT-kt-kCF.title" = "コピー";
 
 /* No comment by Translator*/
-"WYR-UL-E97.title" = "在 Finder 中显示...";
+"WYR-UL-E97.title" = "Show in Finder…";
 
 /* No comment by Translator*/
-"Y0k-JI-EVn.title" = "启用本地映射工具";
+"Y0k-JI-EVn.title" = "Enable Map Local Tool";
 
 /* No comment by Translator*/
 "ZJe-WR-VVz.title" = "インポート設定";
 
 /* No comment by Translator*/
-"btk-7i-PcM.title" = "/用户/";
+"btk-7i-PcM.title" = "/Users/";
 
 /* No comment by Translator*/
-"cyA-JP-HlV.title" = "⌘N：新建；⌘⏎：编辑；⌘⌫：删除；⌘D：复制；空格：启用/禁用规则；";
+"cyA-JP-HlV.title" = "⌘N: 新規; ⌘⏎: 編集; ⌘⌫: 削除; ⌘D: コピー; Space: ルールの有効化/無効化;";
 
 /* No comment by Translator*/
-"dEh-4S-1s8.title" = "映射本地文件或目录作为匹配请求的响应。";
+"dEh-4S-1s8.title" = "Map local files or directories as a response for matched requests.";
 
 /* No comment by Translator*/
 "gYl-CG-gTV.title" = "Map from";
@@ -89,7 +89,7 @@
 "hNU-WA-HII.title" = "Charles Proxyから...";
 
 /* No comment by Translator*/
-"jBb-xP-n0P.title" = "从代理...";
+"jBb-xP-n0P.title" = "From Proxyman...";
 
 /* No comment by Translator*/
 "rRb-4R-P0c.title" = "File is missing!";
@@ -98,16 +98,16 @@
 "txH-Jh-AIf.title" = "Toggl Enable / Disable selected rules";
 
 /* No comment by Translator*/
-"txH-Jh-AIf.title" = "启用规则";
+"txH-Jh-AIf.title" = "Enable Rule";
 
 /* No comment by Translator*/
 "v4f-GX-aP1.title" = "新しいフォルダ";
 
 /* No comment by Translator*/
-"wms-OZ-ysv.title" = "导出设置...";
+"wms-OZ-ysv.title" = "Export Settings...";
 
 /* No comment by Translator*/
-"xQk-iZ-vHV.title" = "打开本地文件";
+"xQk-iZ-vHV.title" = "Open local file with";
 
 /* No comment by Translator*/
 "xRo-b3-lIb.title" = "Matching Rule";
