@@ -74,7 +74,7 @@
 "4sb-4s-VLi.title" = "Proxymanを終了";
 
 /* No comment by Translator*/
-"5L7-nW-b98.title" = "Scripting is enabled (⌥⌘I)";
+"5L7-nW-b98.title" = "Scriptingが有効 (⌥⌘I)";
 
 /* No comment by Translator*/
 "5NR-X1-Rra.title" = "Scripting";
@@ -146,7 +146,7 @@
 "8rh-r4-MBy.title" = "Filter specific domains or app in the Source Panel (Left Panel)";
 
 /* No comment by Translator*/
-"8rh-r4-MBy.title" = "ドメイン・アプリをフィルターする";
+"8rh-r4-MBy.title" = "ドメインまたはアプリでのフィルター";
 
 /* No comment by Translator*/
 "9hR-dt-PP4.title" = "Map Remote is enabled (⌥⌘R)";
@@ -605,7 +605,7 @@
 "dBR-4N-MkK.title" = "Define the Protobuf setting to parse properly";
 
 /* No comment by Translator*/
-"dBR-4N-MkK.title" = "プロトブフ…";
+"dBR-4N-MkK.title" = "Protobuf…";
 
 /* No comment by Translator*/
 "dMs-cI-mzQ.title" = "書類";
@@ -848,7 +848,7 @@
 "seo-dr-hjm.title" = "Breakpoint list";
 
 /* No comment by Translator*/
-"seo-dr-hjm.title" = "Breakpoint list";
+"seo-dr-hjm.title" = "Breakpoints...";
 
 /* No comment by Translator*/
 "snW-S8-Cw5.title" = "ツールバーを表示";
@@ -899,7 +899,7 @@
 "wmf-xV-Lb8.title" = "箱";
 
 /* No comment by Translator*/
-"wng-11-iu1.title" = "Filter (⌘⇧F)";
+"wng-11-iu1.title" = "フィルター (⌘⇧F)";
 
 /* No comment by Translator*/
 "wpr-3q-Mcd.title" = "ヘルプ";
@@ -932,7 +932,7 @@
 "yHp-Wk-jHo.title" = "Block List is applied to block all matched URLs  (⌥⌘X)";
 
 /* No comment by Translator*/
-"yIg-2W-rqg.title" = "リクエスト/レスポンスの大きな本文データ (>= 5Mb) のエクスポートをスキップする";
+"yIg-2W-rqg.title" = "リクエスト/レスポンスの大きなBodyデータ (>= 5Mb) のエクスポートをスキップする";
 
 /* No comment by Translator*/
 "yqp-ee-esT.title" = "Scripting";
@@ -980,7 +980,7 @@
 "5bG-V7-Rho.title" = "Toggle Enable/Disable the Breakpoint Tool";
 
 /* No comment by Translator*/
-"5bG-V7-Rho.title" = "Toggle Enable/Disable the Breakpoint Tool";
+"5bG-V7-Rho.title" = "Breakpoint";
 
 /* No comment by Translator*/
 "7gm-fb-2xP.title" = "Toggle Enable/Disable the Block List Tool";
@@ -1028,7 +1028,7 @@
 "sEj-5w-peJ.title" = "Scripting";
 
 /* No comment by Translator*/
-"9Eq-oO-pF6.title" = "プロトブフ…";
+"9Eq-oO-pF6.title" = "Protobuf…";
 
 /* No comment by Translator*/
 "Geb-Vv-nny.title" = "NodeJS…";
