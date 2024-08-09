@@ -20,7 +20,7 @@
 "1b7-l0-nxx.title" = "検索";
 
 /* No comment by Translator*/
-"1cY-IH-L90.title" = "All Proxyman Certificate will be removed";
+"1cY-IH-L90.title" = "Proxymanの証明書はすべて削除されます。";
 
 /* No comment by Translator*/
 "1cY-IH-L90.title" = "すべての Proxyman 証明書をリセット";
@@ -62,7 +62,7 @@
 "4eb-gj-qS6.title" = "Search app or domain (⌘⇧F)";
 
 /* No comment by Translator*/
-"4mv-UD-NzZ.title" = "Guideline how to install Proxyman Certificate to Firefox Browsers";
+"4mv-UD-NzZ.title" = "Firefox ブラウザに Proxyman 証明書をインストールする方法";
 
 /* No comment by Translator*/
 "4mv-UD-NzZ.title" = "Firefox ブラウザに証明書をインストール...";
@@ -434,7 +434,7 @@
 "R4o-n2-Eq4.title" = "最大化する";
 
 /* No comment by Translator*/
-"RIe-6p-hhf.title" = "Export Proxyman CA (.pem)";
+"RIe-6p-hhf.title" = "Proxyman CA (.pem) をエクスポートする";
 
 /* No comment by Translator*/
 "RIe-6p-hhf.title" = "PEM（ルート証明書）...";
@@ -506,7 +506,7 @@
 "WMm-Kk-YBm.title" = "エクスポート";
 
 /* No comment by Translator*/
-"WuK-2M-JYO.title" = "Export Pirvate Key of Proxyman CA";
+"WuK-2M-JYO.title" = "Proxyman CA の秘密鍵をエクスポート";
 
 /* No comment by Translator*/
 "WuK-2M-JYO.title" = "秘密鍵...";
