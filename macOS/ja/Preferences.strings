@@ -8,10 +8,10 @@
 "1Fq-MH-826.title" = "© 2023 Proxyman LLC";
 
 /* No comment by Translator*/
-"1xc-Rq-yug.title" = "Display Full Time Format";
+"1xc-Rq-yug.title" = "フルタイム形式で表示";
 
 /* No comment by Translator*/
-"2Ce-wr-Nk1.title" = "Proxy Port:";
+"2Ce-wr-Nk1.title" = "プロキシポート：";
 
 /* No comment by Translator*/
 "2Ec-LR-DO9.title" = "Append Proxyman Headers to matched flows";
@@ -23,31 +23,31 @@
 "2Zz-AT-VRb.title" = "Random from 1-10 seconds";
 
 /* No comment by Translator*/
-"2Zz-AT-VRb.title" = "Random (1-15)";
+"2Zz-AT-VRb.title" = "ランダム（1-15）";
 
 /* No comment by Translator*/
-"3ht-YN-L4A.title" = "Auto open the Export Directory after exporting";
+"3ht-YN-L4A.title" = "エクスポート後にディレクトリを自動的に開く";
 
 /* No comment by Translator*/
-"3nA-cp-gr0.title" = "Apply to all tabs in the Request and Response Panel and the main table.";
+"3nA-cp-gr0.title" = "リクエスト＆レスポンスパネルとすべてのタブに適用されます。";
 
 /* No comment by Translator*/
-"3ss-XQ-P1M.title" = "*.chls Converter:";
+"3ss-XQ-P1M.title" = "*.chls コンバーター：";
 
 /* No comment by Translator*/
-"4bl-2c-n7Z.title" = "The content in Body Previewer would wrap to new line.";
+"4bl-2c-n7Z.title" = "Body Previewer の内容は改行されます。";
 
 /* No comment by Translator*/
 "532-Yx-67Y.title" = "Review or Revoke Application Authorization.";
 
 /* No comment by Translator*/
-"5CW-ZF-nf6.title" = "Map Local Directory:";
+"5CW-ZF-nf6.title" = "Map Local ディレクトリ：";
 
 /* No comment by Translator*/
-"5E6-g7-gT1.title" = "Thank you for using Proxyman 🌟";
+"5E6-g7-gT1.title" = "Proxymanをご使用いただきありがとうございます🌟";
 
 /* No comment by Translator*/
-"5Ey-ac-cqq.title" = "Activate";
+"5Ey-ac-cqq.title" = "アクティベート";
 
 /* No comment by Translator*/
 "5NG-EH-cta.title" = "24";
@@ -59,13 +59,13 @@
 "5Ph-iC-AZQ.title" = "17";
 
 /* No comment by Translator*/
-"6Q1-Nq-cEo.title" = "License Registration";
+"6Q1-Nq-cEo.title" = "ライセンス登録";
 
 /* No comment by Translator*/
 "7NJ-Hj-gFj.title" = "Only the owner or colleagues who have a link can access the Gist.";
 
 /* No comment by Translator*/
-"8iB-3A-4cm.title" = "Delete";
+"8iB-3A-4cm.title" = "削除";
 
 /* No comment by Translator*/
 "921-Uo-FJn.title" = "3 seconds";
@@ -95,7 +95,7 @@
 "Cbg-oU-CgP.title" = "Proxyman Dock Icon";
 
 /* No comment by Translator*/
-"DOF-RA-YAC.title" = "Time Format:";
+"DOF-RA-YAC.title" = "時間形式：";
 
 /* No comment by Translator*/
 "DRx-PJ-Off.title" = "Switch between 12-Hour or 24-Hour format.";
@@ -140,7 +140,7 @@
 "G3k-eP-qB5.title" = "You can activate a Premium Proxyman for iOS with your license Key.";
 
 /* No comment by Translator*/
-"G4Q-Rk-WW9.title" = "Preview...";
+"G4Q-Rk-WW9.title" = "プレビュー...";
 
 /* No comment by Translator*/
 "GI2-GU-BDu.title" = "Export";
@@ -158,10 +158,10 @@
 "HGS-90-QyJ.title" = "After Publish:";
 
 /* No comment by Translator*/
-"HWt-Vj-m9R.title" = "iOS Simulators:";
+"HWt-Vj-m9R.title" = "iOS シミュレータ：";
 
 /* No comment by Translator*/
-"HdF-Wc-eWS.title" = "License Key:";
+"HdF-Wc-eWS.title" = "ライセンスキー：";
 
 /* No comment by Translator*/
 "Hf3-sZ-9ad.title" = "60 seconds";
@@ -170,7 +170,7 @@
 "HfA-QJ-tDS.title" = "macOS Proxy Settings";
 
 /* No comment by Translator*/
-"HjQ-KW-7TK.title" = "Export Log:";
+"HjQ-KW-7TK.title" = "ログをエクスポート";
 
 /* No comment by Translator*/
 "Hm9-ql-dWy.title" = "Box";
@@ -182,7 +182,7 @@
 "IKr-ow-7xJ.title" = "UI and Syntax Highlight Theme";
 
 /* No comment by Translator*/
-"IM9-xB-06w.title" = "Lost Key?";
+"IM9-xB-06w.title" = "鍵を失った？";
 
 /* No comment by Translator*/
 "ISQ-zy-ocW.title" = "15 seconds";
@@ -206,7 +206,7 @@
 "L8W-up-oIP.title" = "Show Resource Usage in Bottom Bar";
 
 /* No comment by Translator*/
-"LLi-3b-pjV.title" = "Use No-Caching on Repeated Requests";
+"LLi-3b-pjV.title" = "キャッシュを使用せずリクエストをRepeatする";
 
 /* No comment by Translator*/
 "LkA-UH-azw.title" = "Upgrade to Premium to unlock all features.";
@@ -221,7 +221,7 @@
 "MN2-cP-LLI.title" = "Stay On Top";
 
 /* No comment by Translator*/
-"Mb7-KU-npu.title" = "Uninstall";
+"Mb7-KU-npu.title" = "アンインストール";
 
 /* No comment by Translator*/
 "Mn8-XJ-7v0.title" = "Time Label will display with Date, Time, and keep the TimeZone.";
@@ -287,7 +287,7 @@
 "TFV-ln-1Bd.title" = "Toolbar Style:";
 
 /* No comment by Translator*/
-"VWC-SK-7lV.title" = "Root Certificate as PEM...";
+"VWC-SK-7lV.title" = "PEM（ルート証明書）...";
 
 /* No comment by Translator*/
 "VgO-yw-Imi.title" = "Simulate the delay before sending the Map Local Response.";
@@ -308,7 +308,7 @@
 "XiK-LT-h82.title" = "To read or write Gists on a user's behalf, Proxyman requires Gist Permission from your Github account. After the authorization, your Github Access Token will securely store in System Keychain.";
 
 /* No comment by Translator*/
-"YJs-z2-3ut.title" = "Privacy Policy";
+"YJs-z2-3ut.title" = "プライバシーポリシー";
 
 /* No comment by Translator*/
 "Ymf-kA-MTA.title" = "(Required Root Privileges)";
@@ -317,7 +317,7 @@
 "YoJ-zs-nWA.title" = "Auto override the proxy config in Network -> Wifi -> Advanced -> Proxies tab.";
 
 /* No comment by Translator*/
-"Z4q-GN-Y7F.title" = "Applied for Map Local, Map Remote, and Scripting.";
+"Z4q-GN-Y7F.title" = "Map Local, Map Remote, Scriptingに適用されます";
 
 /* No comment by Translator*/
 "ZKj-HO-4Ct.title" = "18";
@@ -326,7 +326,7 @@
 "ZSE-HI-cFP.title" = "Version 1.3.5 (1350)";
 
 /* No comment by Translator*/
-"ZVn-eI-9a7.title" = "Root Certificate as P12...";
+"ZVn-eI-9a7.title" = "P12（ルート証明書）...";
 
 /* No comment by Translator*/
 "aMS-wb-prv.title" = "Vertical";
@@ -347,7 +347,7 @@
 "bGa-nX-15Z.title" = "Enjoy using Proxyman?";
 
 /* No comment by Translator*/
-"bIb-oI-qtR.title" = "Private Key...";
+"bIb-oI-qtR.title" = "秘密鍵...";
 
 /* No comment by Translator*/
 "bK9-a8-8Fm.title" = "Expired: Monday 2017";
@@ -365,7 +365,7 @@
 "c1X-wk-d27.title" = "Select directory";
 
 /* No comment by Translator*/
-"d8g-Mc-OBF.title" = " Not installed";
+"d8g-Mc-OBF.title" = " 未インストール";
 
 /* No comment by Translator*/
 "dBO-Gw-e3y.title" = "1 second";
@@ -455,7 +455,7 @@
 "lrA-Zd-eon.title" = "Map Local Delay:";
 
 /* No comment by Translator*/
-"mQ9-8L-NnV.title" = "Root Certificate as DER...";
+"mQ9-8L-NnV.title" = "DER（ルート証明書）...";
 
 /* No comment by Translator*/
 "n1w-sh-rbz.title" = "Your HTTP/HTTPS Proxy is currently overridden by `networksetup` CLI. It works, but slow!";
@@ -611,7 +611,7 @@
 "RHe-pI-8FQ.title" = "App Language:";
 
 /* No comment by Translator*/
-"RjY-fE-LA8.title" = "English";
+"RjY-fE-LA8.title" = "English (英語)";
 
 /* No comment by Translator*/
 "aBm-x9-i2O.title" = "127.0.0.1 および ::1 で聴取（リモートデバイスは Proxyman に接続できない可能性があります）";
@@ -620,7 +620,7 @@
 "agF-Ru-6Ul.title" = "Show Invisible Characters";
 
 /* No comment by Translator*/
-"bTk-6o-7ya.title" = "Chinese - Simplified";
+"bTk-6o-7ya.title" = "简体中文 (中国語)";
 
 /* No comment by Translator*/
 "hNr-F6-kwf.title" = " Helper ToolのmacOS 13 Ventura新要件への準拠";
@@ -635,7 +635,7 @@
 "lJC-HM-pBb.title" = "127.0.0.1 および ::1 で聴取（リモートデバイスは Proxyman に接続できない可能性があります）";
 
 /* No comment by Translator*/
-"24o-Jl-MOk.title" = "Documentations…";
+"24o-Jl-MOk.title" = "ドキュメント…";
 
 /* No comment by Translator*/
 "8PY-AO-8pK.title" = "Capture HTTP(s) traffic without a Mac (iOS 15+).";
