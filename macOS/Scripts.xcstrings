@@ -47,7 +47,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "导入选定文件并导入到 JS 代码"
+            "value" : "导入选中的文件并导入到 JS 代码"
           }
         }
       }
@@ -744,7 +744,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "切换启用/禁用选定规则"
+            "value" : "切换启用/禁用选中的规则"
           }
         }
       }
