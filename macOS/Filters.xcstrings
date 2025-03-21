@@ -1,0 +1,2046 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "0Kg-kG-oW0.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Do Not Contains any text\"; ObjectID = \"0Kg-kG-oW0\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Do Not Contains any text"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "不包含任何文本"
+          }
+        }
+      }
+    },
+    "0Kg-kG-oW0.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Not Contains\"; ObjectID = \"0Kg-kG-oW0\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Not Contains"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "不包含"
+          }
+        }
+      }
+    },
+    "2DK-DN-DRX.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Delete this custom filter button\"; ObjectID = \"2DK-DN-DRX\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete this custom filter button"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "删除此自定义过滤器按钮"
+          }
+        }
+      }
+    },
+    "2DK-DN-DRX.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Delete\"; ObjectID = \"2DK-DN-DRX\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "删除"
+          }
+        }
+      }
+    },
+    "2Nw-A4-SHl.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Blue\"; ObjectID = \"2Nw-A4-SHl\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blue"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "蓝色"
+          }
+        }
+      }
+    },
+    "2Td-zn-YQ9.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Filter by all customer tabs (Not default Tabs)\"; ObjectID = \"2Td-zn-YQ9\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Filter by all customer tabs (Not default Tabs)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "通过所有自定义标签筛选（非默认标签）"
+          }
+        }
+      }
+    },
+    "2Td-zn-YQ9.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"All Custom Tabs\"; ObjectID = \"2Td-zn-YQ9\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "All Custom Tabs"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "所有自定义标签"
+          }
+        }
+      }
+    },
+    "4Dz-Az-qpb.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Apply OR to all filters\"; ObjectID = \"4Dz-Az-qpb\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apply OR to all filters"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "对所有过滤器应用OR"
+          }
+        }
+      }
+    },
+    "4Dz-Az-qpb.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"OR all filters\"; ObjectID = \"4Dz-Az-qpb\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OR all filters"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "所有过滤器的OR"
+          }
+        }
+      }
+    },
+    "6dg-YB-gsf.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Only show HTML (⌘ click to select multiple types)\"; ObjectID = \"6dg-YB-gsf\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Only show HTML (⌘ click to select multiple types)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "仅显示HTML（⌘单击以选择多个类型）"
+          }
+        }
+      }
+    },
+    "6R7-iX-NME.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"2xx\"; ObjectID = \"6R7-iX-NME\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2xx"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2xx"
+          }
+        }
+      }
+    },
+    "7Xf-7o-W34.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"New Filter…\"; ObjectID = \"7Xf-7o-W34\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "New Filter…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新过滤器…"
+          }
+        }
+      }
+    },
+    "8Jp-TI-h8a.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"XML\"; ObjectID = \"8Jp-TI-h8a\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "XML"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "XML"
+          }
+        }
+      }
+    },
+    "8zD-Ew-ooz.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Response with Status Code from 100 to 200 (⌘ click to select multiple types)\"; ObjectID = \"8zD-Ew-ooz\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Response with Status Code from 100 to 200 (⌘ click to select multiple types)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "状态码从100到200的响应（⌘单击以选择多个类型）"
+          }
+        }
+      }
+    },
+    "9Bp-pR-wH4.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Clone new filter (⌘N)\"; ObjectID = \"9Bp-pR-wH4\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Clone new filter (⌘N)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "克隆新的过滤器（⌘N）"
+          }
+        }
+      }
+    },
+    "9sS-jp-bDm.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Expand more filters\"; ObjectID = \"9sS-jp-bDm\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Expand more filters"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "展开更多过滤器"
+          }
+        }
+      }
+    },
+    "18n-tP-ITO.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Not matching the given regex\"; ObjectID = \"18n-tP-ITO\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Not matching the given regex"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "与给定的正则表达式不匹配"
+          }
+        }
+      }
+    },
+    "18n-tP-ITO.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Not Match Regex\"; ObjectID = \"18n-tP-ITO\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Not Match Regex"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "不匹配正则表达式"
+          }
+        }
+      }
+    },
+    "39W-Y9-E2a.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Only show Plain HTTTPS Requests\"; ObjectID = \"39W-Y9-E2a\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Only show Plain HTTTPS Requests"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "仅显示纯HTTP请求"
+          }
+        }
+      }
+    },
+    "59K-t2-Hz1.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Add custom Filter or Column\"; ObjectID = \"59K-t2-Hz1\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add custom Filter or Column"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "添加自定义过滤器或列"
+          }
+        }
+      }
+    },
+    "83r-1L-wn2.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Only show requests with Content-Type: application/json (⌘ click to select multiple types)\"; ObjectID = \"83r-1L-wn2\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Only show requests with Content-Type: application/json (⌘ click to select multiple types)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "仅显示内容类型为：application/json的请求（⌘单击以选择多个类型）"
+          }
+        }
+      }
+    },
+    "adc-H7-bIY.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Response with Status Code from 500 to 600 (⌘ click to select multiple types)\"; ObjectID = \"adc-H7-bIY\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Response with Status Code from 500 to 600 (⌘ click to select multiple types)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "状态码为 500 到 600 的响应（⌘ 单击选择多个类型）"
+          }
+        }
+      }
+    },
+    "AGk-Fz-7x8.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Only show requests with Content-Type: text/xml, application/xml (⌘ click to select multiple types)\"; ObjectID = \"AGk-Fz-7x8\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Only show requests with Content-Type: text/xml, application/xml (⌘ click to select multiple types)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "仅显示 Content-Type: text/xml, application/xml 的请求（⌘ 单击可选择多个类型）"
+          }
+        }
+      }
+    },
+    "asV-jk-wzG.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Only show requests with Content-Type: text/js, application/js (⌘ click to select multiple types)\"; ObjectID = \"asV-jk-wzG\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Only show requests with Content-Type: text/js, application/js (⌘ click to select multiple types)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "仅显示 Content-Type: text/js, application/js 的请求（⌘ 单击选择多个类型）"
+          }
+        }
+      }
+    },
+    "BIf-fI-giN.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Customize Columns on the main table\"; ObjectID = \"BIf-fI-giN\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Customize Columns on the main table"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自定义主表中的列"
+          }
+        }
+      }
+    },
+    "BIf-fI-giN.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Customize Columns...\"; ObjectID = \"BIf-fI-giN\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Customize Columns..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自定义列..."
+          }
+        }
+      }
+    },
+    "BOC-fF-zPl.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Any Header Key / Value of the Request\"; ObjectID = \"BOC-fF-zPl\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Any Header Key / Value of the Request"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "请求的任何 Header 键 / 值"
+          }
+        }
+      }
+    },
+    "BOC-fF-zPl.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Request Header\"; ObjectID = \"BOC-fF-zPl\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Request Header"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "请求头"
+          }
+        }
+      }
+    },
+    "C0f-hB-Vwy.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"JSON\"; ObjectID = \"C0f-hB-Vwy\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "JSON"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "JSON"
+          }
+        }
+      }
+    },
+    "c1v-ot-y05.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Red\"; ObjectID = \"c1v-ot-y05\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Red"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "红色"
+          }
+        }
+      }
+    },
+    "C9k-VO-ZM9.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"1xx\"; ObjectID = \"C9k-VO-ZM9\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1xx"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1xx"
+          }
+        }
+      }
+    },
+    "CNA-TC-ECD.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Override\"; ObjectID = \"CNA-TC-ECD\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Override"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "覆盖"
+          }
+        }
+      }
+    },
+    "cNc-S8-SWC.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"Override\"; ObjectID = \"cNc-S8-SWC\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Override"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "覆盖"
+          }
+        }
+      }
+    },
+    "cx6-rr-6F5.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Reset all filters\"; ObjectID = \"cx6-rr-6F5\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reset all filters"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重置所有过滤器"
+          }
+        }
+      }
+    },
+    "dEE-WL-vzl.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"URL of the request\"; ObjectID = \"dEE-WL-vzl\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "URL of the request"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "请求的 URL"
+          }
+        }
+      }
+    },
+    "dEE-WL-vzl.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"URL\"; ObjectID = \"dEE-WL-vzl\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "URL"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "URL"
+          }
+        }
+      }
+    },
+    "DJb-DV-iId.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"No Color\"; ObjectID = \"DJb-DV-iId\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No Color"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "无颜色"
+          }
+        }
+      }
+    },
+    "DPF-Z0-ztI.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Exactly equal the filter text (==)\"; ObjectID = \"DPF-Z0-ztI\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Exactly equal the filter text (==)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "完全匹配过滤文本 (==)"
+          }
+        }
+      }
+    },
+    "DPF-Z0-ztI.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Equal\"; ObjectID = \"DPF-Z0-ztI\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Equal"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "等于"
+          }
+        }
+      }
+    },
+    "DtO-nU-sYF.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Customize Toolbar...\"; ObjectID = \"DtO-nU-sYF\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Customize Toolbar..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自定义工具栏..."
+          }
+        }
+      }
+    },
+    "e0Q-IX-lxg.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"CSS\"; ObjectID = \"e0Q-IX-lxg\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CSS"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CSS"
+          }
+        }
+      }
+    },
+    "e5e-Ur-W9g.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Yellow\"; ObjectID = \"e5e-Ur-W9g\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yellow"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "黄色"
+          }
+        }
+      }
+    },
+    "EYk-bB-L7h.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Matching the given regex\"; ObjectID = \"EYk-bB-L7h\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Matching the given regex"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "匹配给定的正则表达式"
+          }
+        }
+      }
+    },
+    "EYk-bB-L7h.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Match Regex\"; ObjectID = \"EYk-bB-L7h\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Match Regex"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "匹配正则表达式"
+          }
+        }
+      }
+    },
+    "frx-mj-kJ5.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Response with Status Code from 200 to 300 (⌘ click to select multiple types)\"; ObjectID = \"frx-mj-kJ5\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Response with Status Code from 200 to 300 (⌘ click to select multiple types)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "状态码为 200 到 300 的响应（⌘ 单击选择多个类型）"
+          }
+        }
+      }
+    },
+    "FT3-OS-ETG.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Matching the given Wildcard (* or ?)\"; ObjectID = \"FT3-OS-ETG\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Matching the given Wildcard (* or ?)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "匹配给定的通配符 (* 或 ?)"
+          }
+        }
+      }
+    },
+    "FT3-OS-ETG.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Match Wildcard\"; ObjectID = \"FT3-OS-ETG\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Match Wildcard"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "匹配通配符"
+          }
+        }
+      }
+    },
+    "g1T-Wk-eQY.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Only show requests with Content-Type: application/x-www-form-urlencoded (⌘ click to select multiple types)\"; ObjectID = \"g1T-Wk-eQY\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Only show requests with Content-Type: application/x-www-form-urlencoded (⌘ click to select multiple types)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "仅显示 Content-Type: application/x-www-form-urlencoded 的请求（⌘ 单击选择多个类型）"
+          }
+        }
+      }
+    },
+    "GEU-jr-gKr.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Media\"; ObjectID = \"GEU-jr-gKr\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Media"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "媒体"
+          }
+        }
+      }
+    },
+    "H9g-Y6-yUI.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Other\"; ObjectID = \"H9g-Y6-yUI\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Other"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "其他"
+          }
+        }
+      }
+    },
+    "hhN-4C-Ru6.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Green\"; ObjectID = \"hhN-4C-Ru6\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Green"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "绿色"
+          }
+        }
+      }
+    },
+    "HhX-cU-uSi.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"5xx\"; ObjectID = \"HhX-cU-uSi\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "5xx"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "5xx"
+          }
+        }
+      }
+    },
+    "HNd-og-WeJ.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Customize Filters...\"; ObjectID = \"HNd-og-WeJ\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Customize Filters..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自定义过滤器..."
+          }
+        }
+      }
+    },
+    "HOC-2o-Xyz.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Method of the Request\"; ObjectID = \"HOC-2o-Xyz\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Method of the Request"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "请求的方法"
+          }
+        }
+      }
+    },
+    "HOC-2o-Xyz.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Method\"; ObjectID = \"HOC-2o-Xyz\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Method"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "方法"
+          }
+        }
+      }
+    },
+    "hSC-r7-vmp.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"All media, include images, videos: Ex: JPG, PNG, GIF, SVG, MP4, MP3 ... (⌘ click to select multiple types)\"; ObjectID = \"hSC-r7-vmp\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "All media, include images, videos: Ex: JPG, PNG, GIF, SVG, MP4, MP3 ... (⌘ click to select multiple types)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "所有媒体，包括图片、视频：例如：JPG、PNG、GIF、SVG、MP4、MP3 ...（⌘ 单击选择多个类型）"
+          }
+        }
+      }
+    },
+    "HSg-tz-MmU.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Show all requests (HTTP, HTTPS and WebSocket)\"; ObjectID = \"HSg-tz-MmU\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show all requests (HTTP, HTTPS and WebSocket)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "显示所有请求（HTTP、HTTPS 和 WebSocket）"
+          }
+        }
+      }
+    },
+    "IbJ-mw-MWy.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Only show requests with Content-Type: text/css (⌘ click to select multiple types)\"; ObjectID = \"IbJ-mw-MWy\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Only show requests with Content-Type: text/css (⌘ click to select multiple types)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "仅显示 Content-Type: text/css 的请求（⌘ 单击可选择多个类型）"
+          }
+        }
+      }
+    },
+    "IyS-4G-WQm.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Remove this filter (⇧⌘N)\"; ObjectID = \"IyS-4G-WQm\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remove this filter (⇧⌘N)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "移除此过滤器（⇧⌘N）"
+          }
+        }
+      }
+    },
+    "jBj-8O-gRK.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Response with Status Code from 400 to 500 (⌘ click to select multiple types)\"; ObjectID = \"jBj-8O-gRK\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Response with Status Code from 400 to 500 (⌘ click to select multiple types)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "状态码为 400 到 500 的响应（⌘ 单击选择多个类型）"
+          }
+        }
+      }
+    },
+    "JGX-en-Gm8.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"GraphQL\"; ObjectID = \"JGX-en-Gm8\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GraphQL"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GraphQL"
+          }
+        }
+      }
+    },
+    "kjM-k5-ady.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"HTTPS\"; ObjectID = \"kjM-k5-ady\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HTTPS"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HTTPS"
+          }
+        }
+      }
+    },
+    "kjQ-9x-ckH.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Form\"; ObjectID = \"kjQ-9x-ckH\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Form"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "表单"
+          }
+        }
+      }
+    },
+    "Kzk-G3-tXi.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Text in Request Body\"; ObjectID = \"Kzk-G3-tXi\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Text in Request Body"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "请求主体中的文本"
+          }
+        }
+      }
+    },
+    "Kzk-G3-tXi.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Request Body\"; ObjectID = \"Kzk-G3-tXi\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Request Body"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "请求主体"
+          }
+        }
+      }
+    },
+    "lDK-no-EYh.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Gray\"; ObjectID = \"lDK-no-EYh\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gray"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "灰色"
+          }
+        }
+      }
+    },
+    "lF0-4S-iVW.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"WebSocket\"; ObjectID = \"lF0-4S-iVW\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "WebSocket"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "WebSocket"
+          }
+        }
+      }
+    },
+    "Lhj-Uq-WDx.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Show: ⌘F    New: ⌘N    Remove:⇧⌘N    Up:⌘↑    Down: ⌘↓    On/Off:⌘B    Hide: ESC\"; ObjectID = \"Lhj-Uq-WDx\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show: ⌘F    New: ⌘N    Remove:⇧⌘N    Up:⌘↑    Down: ⌘↓    On/Off:⌘B    Hide: ESC"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "显示: ⌘F    新建: ⌘N    删除: ⇧⌘N    向上: ⌘↑    向下: ⌘↓    开/关: ⌘B    隐藏: ESC"
+          }
+        }
+      }
+    },
+    "lPc-eM-waI.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Color\"; ObjectID = \"lPc-eM-waI\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Color"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "颜色"
+          }
+        }
+      }
+    },
+    "m3C-C8-8zU.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"End with this filter text\"; ObjectID = \"m3C-C8-8zU\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "End with this filter text"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "以此过滤文本结束"
+          }
+        }
+      }
+    },
+    "m3C-C8-8zU.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"End With\"; ObjectID = \"m3C-C8-8zU\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "End With"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "以此结束"
+          }
+        }
+      }
+    },
+    "MBC-Bd-PMb.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Other requests (⌘ click to select multiple types)\"; ObjectID = \"MBC-Bd-PMb\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Other requests (⌘ click to select multiple types)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "其他请求（⌘单击选择多个类型）"
+          }
+        }
+      }
+    },
+    "MHH-i4-KPw.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Apply AND to all filters\"; ObjectID = \"MHH-i4-KPw\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apply AND to all filters"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "将AND应用于所有过滤器"
+          }
+        }
+      }
+    },
+    "MHH-i4-KPw.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"AND all filters\"; ObjectID = \"MHH-i4-KPw\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AND all filters"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "所有过滤器"
+          }
+        }
+      }
+    },
+    "nEk-KN-v81.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"Advance\"; ObjectID = \"nEk-KN-v81\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Advance"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "高级"
+          }
+        }
+      }
+    },
+    "oX2-vd-CaA.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Text in Response Body\"; ObjectID = \"oX2-vd-CaA\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Text in Response Body"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "响应正文中的文本"
+          }
+        }
+      }
+    },
+    "oX2-vd-CaA.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Response Body\"; ObjectID = \"oX2-vd-CaA\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Response Body"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "响应正文"
+          }
+        }
+      }
+    },
+    "Pgr-Cg-Q6x.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Status Code, Method, URL, Headers and Body from all Request and Response. It might affect the performance because it evaludates all data.\"; ObjectID = \"Pgr-Cg-Q6x\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Status Code, Method, URL, Headers and Body from all Request and Response. It might affect the performance because it evaludates all data."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "状态码、方法、URL、头信息和所有请求及响应的主体。可能会影响性能，因为需要评估所有数据。"
+          }
+        }
+      }
+    },
+    "Pgr-Cg-Q6x.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"All\"; ObjectID = \"Pgr-Cg-Q6x\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "All"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "全部"
+          }
+        }
+      }
+    },
+    "pQO-ZB-qgf.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Response with Status Code from 300 to 400 (⌘ click to select multiple types)\"; ObjectID = \"pQO-ZB-qgf\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Response with Status Code from 300 to 400 (⌘ click to select multiple types)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "状态码在300到400之间的响应（⌘ 点击以选择多个类型）"
+          }
+        }
+      }
+    },
+    "pz7-k0-iLg.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Filter GraphQL: operationName, query, mutation, and subscription\"; ObjectID = \"pz7-k0-iLg\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Filter GraphQL: operationName, query, mutation, and subscription"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "筛选GraphQL：operationName，query，mutation和subscription"
+          }
+        }
+      }
+    },
+    "pz7-k0-iLg.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"GraphQL\"; ObjectID = \"pz7-k0-iLg\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GraphQL"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GraphQL"
+          }
+        }
+      }
+    },
+    "q71-VL-qxX.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Purple\"; ObjectID = \"q71-VL-qxX\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Purple"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "紫色"
+          }
+        }
+      }
+    },
+    "RCf-hq-RW9.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Document\"; ObjectID = \"RCf-hq-RW9\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Document"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "文档"
+          }
+        }
+      }
+    },
+    "RKS-hA-T28.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"HTTP\"; ObjectID = \"RKS-hA-T28\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HTTP"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HTTP"
+          }
+        }
+      }
+    },
+    "rXL-VW-6x7.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Only show WS/WSS Requests\"; ObjectID = \"rXL-VW-6x7\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Only show WS/WSS Requests"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "仅显示WS/WSS请求"
+          }
+        }
+      }
+    },
+    "SdA-Nb-bOG.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"Color\"; ObjectID = \"SdA-Nb-bOG\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Color"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "颜色"
+          }
+        }
+      }
+    },
+    "sN6-wq-yZd.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"JS\"; ObjectID = \"sN6-wq-yZd\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "JS"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "JS"
+          }
+        }
+      }
+    },
+    "SWn-Je-SR0.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Not Exactly equal the filter text (!=)\"; ObjectID = \"SWn-Je-SR0\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Not Exactly equal the filter text (!=)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "与过滤器文本不完全相等 (!=)"
+          }
+        }
+      }
+    },
+    "SWn-Je-SR0.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Not Equal\"; ObjectID = \"SWn-Je-SR0\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Not Equal"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "不等于"
+          }
+        }
+      }
+    },
+    "tdw-Xi-Kd4.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Start with this filter text\"; ObjectID = \"tdw-Xi-Kd4\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Start with this filter text"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "以此过滤文本开始"
+          }
+        }
+      }
+    },
+    "tdw-Xi-Kd4.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Start With\"; ObjectID = \"tdw-Xi-Kd4\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Start With"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "以此开始"
+          }
+        }
+      }
+    },
+    "thp-PL-od9.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Only show GraphQL Requests, which has suffix /graphQL on the URL (⌘ click to select multiple types)\"; ObjectID = \"thp-PL-od9\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Only show GraphQL Requests, which has suffix /graphQL on the URL (⌘ click to select multiple types)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "仅显示URL后缀为/graphQL的GraphQL请求（⌘ 点击以选择多个类型）"
+          }
+        }
+      }
+    },
+    "TXl-p4-ehr.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Any Header Key / Value of the Response\"; ObjectID = \"TXl-p4-ehr\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Any Header Key / Value of the Response"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "响应的任何头信息密钥/值"
+          }
+        }
+      }
+    },
+    "TXl-p4-ehr.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Response Header\"; ObjectID = \"TXl-p4-ehr\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Response Header"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "响应头"
+          }
+        }
+      }
+    },
+    "U2i-PN-qmi.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"3xx\"; ObjectID = \"U2i-PN-qmi\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3xx"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3xx"
+          }
+        }
+      }
+    },
+    "UAp-rz-abt.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Advance\"; ObjectID = \"UAp-rz-abt\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Advance"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "高级"
+          }
+        }
+      }
+    },
+    "ubc-tA-SAj.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Comment\"; ObjectID = \"ubc-tA-SAj\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comment"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "评论"
+          }
+        }
+      }
+    },
+    "UHv-31-Nhq.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"4xx\"; ObjectID = \"UHv-31-Nhq\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "4xx"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "4xx"
+          }
+        }
+      }
+    },
+    "URB-gz-yjY.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Save\"; ObjectID = \"URB-gz-yjY\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Save"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "保存"
+          }
+        }
+      }
+    },
+    "usc-mN-vox.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"My Filter\"; ObjectID = \"usc-mN-vox\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "My Filter"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我的过滤器"
+          }
+        }
+      }
+    },
+    "USo-vD-JEK.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Client\"; ObjectID = \"USo-vD-JEK\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Client"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "客户端"
+          }
+        }
+      }
+    },
+    "vfb-kf-M04.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Status code of the Request\"; ObjectID = \"vfb-kf-M04\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Status code of the Request"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "请求的状态码"
+          }
+        }
+      }
+    },
+    "vfb-kf-M04.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Status Code\"; ObjectID = \"vfb-kf-M04\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Status Code"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "状态码"
+          }
+        }
+      }
+    },
+    "VWi-iI-d4s.placeholderString" : {
+      "comment" : "Class = \"NSSearchFieldCell\"; placeholderString = \"Text\"; ObjectID = \"VWi-iI-d4s\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Text"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "文本"
+          }
+        }
+      }
+    },
+    "w2t-vl-Oll.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Not Matching the given Wildcard (* or ?)\"; ObjectID = \"w2t-vl-Oll\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Not Matching the given Wildcard (* or ?)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "不匹配给定的通配符（* 或 ?）"
+          }
+        }
+      }
+    },
+    "w2t-vl-Oll.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Not Match Wildcard\"; ObjectID = \"w2t-vl-Oll\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Not Match Wildcard"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "不匹配通配符"
+          }
+        }
+      }
+    },
+    "wiC-SP-DwX.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Only show Plain HTTP Requests\"; ObjectID = \"wiC-SP-DwX\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Only show Plain HTTP Requests"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "仅显示普通 HTTP 请求"
+          }
+        }
+      }
+    },
+    "XTr-iT-v97.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Query part of the Request\"; ObjectID = \"XTr-iT-v97\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Query part of the Request"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "请求的查询部分"
+          }
+        }
+      }
+    },
+    "XTr-iT-v97.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Query String\"; ObjectID = \"XTr-iT-v97\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Query String"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "查询字符串"
+          }
+        }
+      }
+    },
+    "yEQ-mG-0We.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Rename selected filter button\"; ObjectID = \"yEQ-mG-0We\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rename selected filter button"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重命名选定的过滤器按钮"
+          }
+        }
+      }
+    },
+    "yEQ-mG-0We.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Rename…\"; ObjectID = \"yEQ-mG-0We\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rename…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重命名…"
+          }
+        }
+      }
+    },
+    "ynS-q5-Fla.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"IP Address\"; ObjectID = \"ynS-q5-Fla\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "IP Address"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "IP 地址"
+          }
+        }
+      }
+    },
+    "Ysn-1b-fLd.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"All\"; ObjectID = \"Ysn-1b-fLd\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "All"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "全部"
+          }
+        }
+      }
+    },
+    "yzC-44-6d9.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"All Color\"; ObjectID = \"yzC-44-6d9\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "All Color"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "所有颜色"
+          }
+        }
+      }
+    },
+    "ZCr-CL-1Zm.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Enable/Disable this filter (⌘B)\"; ObjectID = \"ZCr-CL-1Zm\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enable/Disable this filter (⌘B)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "启用/禁用此过滤器 (⌘B)"
+          }
+        }
+      }
+    },
+    "zQo-BB-Hvs.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Response with Status Code from 500 to 600 (⌘ click to select multiple types)\"; ObjectID = \"zQo-BB-Hvs\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Response with Status Code from 500 to 600 (⌘ click to select multiple types)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "状态码在 500 至 600 之间的响应（⌘ 点击可选择多个类型）"
+          }
+        }
+      }
+    },
+    "ZSk-Oi-Rrq.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Reset Filters\"; ObjectID = \"ZSk-Oi-Rrq\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reset Filters"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重置过滤器"
+          }
+        }
+      }
+    },
+    "ZYI-a1-sYF.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Contains any text\"; ObjectID = \"ZYI-a1-sYF\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Contains any text"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "包含任何文本"
+          }
+        }
+      }
+    },
+    "ZYI-a1-sYF.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Contains\"; ObjectID = \"ZYI-a1-sYF\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Contains"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "包含"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

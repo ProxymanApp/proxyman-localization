@@ -1,0 +1,6245 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "0Pl-rz-tXH.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"as Proxyman Log\"; ObjectID = \"0Pl-rz-tXH\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "as Proxyman Log"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "作为 Proxyman 日志"
+          }
+        }
+      }
+    },
+    "0SR-1M-z3W.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Cancel\"; ObjectID = \"0SR-1M-z3W\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancel"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "取消"
+          }
+        }
+      }
+    },
+    "0tn-mp-cR3.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Breakpoints...\"; ObjectID = \"0tn-mp-cR3\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Breakpoints..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "断点…"
+          }
+        }
+      }
+    },
+    "1b7-l0-nxx.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"Find\"; ObjectID = \"1b7-l0-nxx\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Find"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "查找"
+          }
+        }
+      }
+    },
+    "1cY-IH-L90.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"All Proxyman Certificate will be removed\"; ObjectID = \"1cY-IH-L90\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "All Proxyman Certificate will be removed"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "所有 Proxyman 证书将被移除"
+          }
+        }
+      }
+    },
+    "1cY-IH-L90.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Reset all Proxyman Certificates\"; ObjectID = \"1cY-IH-L90\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reset all Proxyman Certificates"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重置所有 Proxyman 证书"
+          }
+        }
+      }
+    },
+    "1Xt-HY-uBw.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Proxyman\"; ObjectID = \"1Xt-HY-uBw\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Proxyman"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Proxyman"
+          }
+        }
+      }
+    },
+    "2eA-6u-s1g.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Prevent client applications from caching requests and responses\"; ObjectID = \"2eA-6u-s1g\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prevent client applications from caching requests and responses"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "防止客户端应用程序缓存请求和响应"
+          }
+        }
+      }
+    },
+    "2eA-6u-s1g.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"No Caching\"; ObjectID = \"2eA-6u-s1g\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No Caching"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "不缓存"
+          }
+        }
+      }
+    },
+    "2IX-Rt-veX.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Purple\"; ObjectID = \"2IX-Rt-veX\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Purple"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "紫色"
+          }
+        }
+      }
+    },
+    "2Lu-od-oG8.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Reverse Proxy Server is enabled\"; ObjectID = \"2Lu-od-oG8\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reverse Proxy Server is enabled"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "反向代理服务器已启用"
+          }
+        }
+      }
+    },
+    "3JW-nX-CMn.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Allow List\"; ObjectID = \"3JW-nX-CMn\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Allow List"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "允许列表"
+          }
+        }
+      }
+    },
+    "3ns-bq-OcJ.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"No Caching\"; ObjectID = \"3ns-bq-OcJ\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No Caching"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "不缓存"
+          }
+        }
+      }
+    },
+    "4eb-gj-qS6.placeholderString" : {
+      "comment" : "Class = \"NSSearchFieldCell\"; placeholderString = \"Search app or domain (⌘⇧F)\"; ObjectID = \"4eb-gj-qS6\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Search app or domain (⌘⇧F)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "搜索应用或域名 (⌘⇧F)"
+          }
+        }
+      }
+    },
+    "4EN-yA-p0u.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Find\"; ObjectID = \"4EN-yA-p0u\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Find"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "查找"
+          }
+        }
+      }
+    },
+    "4J7-dP-txa.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Enter Full Screen\"; ObjectID = \"4J7-dP-txa\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enter Full Screen"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "进入全屏"
+          }
+        }
+      }
+    },
+    "4mv-UD-NzZ.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Guideline how to install Proxyman Certificate to Firefox Browsers\"; ObjectID = \"4mv-UD-NzZ\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guideline how to install Proxyman Certificate to Firefox Browsers"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "安装 Proxyman 证书到 Firefox 浏览器的指南"
+          }
+        }
+      }
+    },
+    "4mv-UD-NzZ.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Install Certificate on Firefox Browsers…\"; ObjectID = \"4mv-UD-NzZ\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Install Certificate on Firefox Browsers…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在 Firefox 浏览器上安装证书…"
+          }
+        }
+      }
+    },
+    "4rb-xr-f83.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Scripting\"; ObjectID = \"4rb-xr-f83\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scripting"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "脚本"
+          }
+        }
+      }
+    },
+    "4Rw-NG-5eG.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Block List…\"; ObjectID = \"4Rw-NG-5eG\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Block List…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "阻塞列表…"
+          }
+        }
+      }
+    },
+    "4sb-4s-VLi.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Quit Proxyman\"; ObjectID = \"4sb-4s-VLi\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quit Proxyman"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "退出 Proxyman"
+          }
+        }
+      }
+    },
+    "4Xg-UT-6f3.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"Advanced\"; ObjectID = \"4Xg-UT-6f3\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Advanced"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "高级"
+          }
+        }
+      }
+    },
+    "5bG-V7-Rho.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Toggle Enable/Disable the Breakpoint Tool\"; ObjectID = \"5bG-V7-Rho\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toggle Enable/Disable the Breakpoint Tool"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "切换启用/禁用断点工具"
+          }
+        }
+      }
+    },
+    "5bG-V7-Rho.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Breakpoint\"; ObjectID = \"5bG-V7-Rho\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Breakpoint"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "断点"
+          }
+        }
+      }
+    },
+    "5fM-rW-rAr.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"watchOS or tvOS…\"; ObjectID = \"5fM-rW-rAr\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "watchOS or tvOS…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "watchOS 或 tvOS…"
+          }
+        }
+      }
+    },
+    "5kV-Vb-QxS.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"About Proxyman\"; ObjectID = \"5kV-Vb-QxS\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "About Proxyman"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "关于 Proxyman"
+          }
+        }
+      }
+    },
+    "5L7-nW-b98.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Scripting is enabled (⌥⌘I)\"; ObjectID = \"5L7-nW-b98\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scripting is enabled (⌥⌘I)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "脚本已启用 (⌥⌘I)"
+          }
+        }
+      }
+    },
+    "5NR-X1-Rra.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Scripting\"; ObjectID = \"5NR-X1-Rra\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scripting"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "脚本"
+          }
+        }
+      }
+    },
+    "5QF-Oa-p0T.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Edit\"; ObjectID = \"5QF-Oa-p0T\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Edit"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "编辑"
+          }
+        }
+      }
+    },
+    "06B-bf-aDd.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"TLS Key Logging is enabled\"; ObjectID = \"06B-bf-aDd\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "TLS Key Logging is enabled"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "TLS密钥记录已启用"
+          }
+        }
+      }
+    },
+    "6dh-zS-Vam.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Redo\"; ObjectID = \"6dh-zS-Vam\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Redo"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重做"
+          }
+        }
+      }
+    },
+    "6EB-Fh-xMk.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Clear\"; ObjectID = \"6EB-Fh-xMk\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Clear"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "清除"
+          }
+        }
+      }
+    },
+    "6FN-mr-9oR.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"Proxy Settings\"; ObjectID = \"6FN-mr-9oR\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Proxy Settings"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "代理设置"
+          }
+        }
+      }
+    },
+    "6hk-fr-5md.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"I could not see any traffics on Proxyman?…\"; ObjectID = \"6hk-fr-5md\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I could not see any traffics on Proxyman?…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我在 Proxyman 上看不到任何流量?…"
+          }
+        }
+      }
+    },
+    "6tF-Tn-DEy.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Proxy Settings\"; ObjectID = \"6tF-Tn-DEy\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Proxy Settings"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "代理设置"
+          }
+        }
+      }
+    },
+    "6Vm-iF-r8V.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Scripting...\"; ObjectID = \"6Vm-iF-r8V\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scripting..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "脚本编写…"
+          }
+        }
+      }
+    },
+    "7B1-ki-vsr.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"I could not see any requests from my localhost server?…\"; ObjectID = \"7B1-ki-vsr\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I could not see any requests from my localhost server?…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我在本地主机服务器上看不到任何请求?…"
+          }
+        }
+      }
+    },
+    "7CF-KZ-4sG.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Manage the System Bypass Proxy List\"; ObjectID = \"7CF-KZ-4sG\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Manage the System Bypass Proxy List"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "管理系统旁路代理列表"
+          }
+        }
+      }
+    },
+    "7CF-KZ-4sG.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Bypass Proxy Settings…\"; ObjectID = \"7CF-KZ-4sG\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bypass Proxy Settings…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "旁路代理设置…"
+          }
+        }
+      }
+    },
+    "7gm-fb-2xP.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Toggle Enable/Disable the Block List Tool\"; ObjectID = \"7gm-fb-2xP\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toggle Enable/Disable the Block List Tool"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "切换启用/禁用阻止列表工具"
+          }
+        }
+      }
+    },
+    "7gm-fb-2xP.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Block List\"; ObjectID = \"7gm-fb-2xP\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Block List"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "阻止列表"
+          }
+        }
+      }
+    },
+    "7Hn-fi-SWn.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"Install Certificate on Java VMs\"; ObjectID = \"7Hn-fi-SWn\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Install Certificate on Java VMs"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在 Java 虚拟机上安装证书"
+          }
+        }
+      }
+    },
+    "7m3-WU-C2c.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Strikethrough\"; ObjectID = \"7m3-WU-C2c\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Strikethrough"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "删除线"
+          }
+        }
+      }
+    },
+    "7M5-rh-wjY.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Export Session Config:\"; ObjectID = \"7M5-rh-wjY\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Export Session Config:"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导出会话配置："
+          }
+        }
+      }
+    },
+    "7oN-RK-D8y.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Publish to Gist...\"; ObjectID = \"7oN-RK-D8y\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Publish to Gist..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "发布到 Gist..."
+          }
+        }
+      }
+    },
+    "7ts-E2-4NF.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Content Panel is in detachable Window Mode\"; ObjectID = \"7ts-E2-4NF\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Content Panel is in detachable Window Mode"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "内容面板处于可分离窗口模式"
+          }
+        }
+      }
+    },
+    "8bF-yl-RsA.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Install Certificate on Java VMs\"; ObjectID = \"8bF-yl-RsA\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Install Certificate on Java VMs"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在 Java 虚拟机上安装证书"
+          }
+        }
+      }
+    },
+    "8iX-Yw-prD.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"• 0MB ↑ 0 KB/s ↓ 0 KB/s\"; ObjectID = \"8iX-Yw-prD\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• 0MB ↑ 0 KB/s ↓ 0 KB/s"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• 0MB ↑ 0 KB/s ↓ 0 KB/s"
+          }
+        }
+      }
+    },
+    "08N-7h-DR7.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Import Settings\"; ObjectID = \"08N-7h-DR7\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Import Settings"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导入设置"
+          }
+        }
+      }
+    },
+    "8rh-r4-MBy.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Filter specific domains or app in the Source Panel (Left Panel)\"; ObjectID = \"8rh-r4-MBy\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Filter specific domains or app in the Source Panel (Left Panel)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在源面板（左侧面板）中过滤特定域或应用"
+          }
+        }
+      }
+    },
+    "8rh-r4-MBy.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Filter Domain or App\"; ObjectID = \"8rh-r4-MBy\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Filter Domain or App"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "过滤域或应用"
+          }
+        }
+      }
+    },
+    "9Eq-oO-pF6.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Protobuf…\"; ObjectID = \"9Eq-oO-pF6\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Protobuf…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Protobuf…"
+          }
+        }
+      }
+    },
+    "9hR-dt-PP4.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Map Remote is enabled (⌥⌘R)\"; ObjectID = \"9hR-dt-PP4\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Map Remote is enabled (⌥⌘R)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "映射远程已启用 (⌥⌘R)"
+          }
+        }
+      }
+    },
+    "9um-sj-sOV.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"Breakpoint\"; ObjectID = \"9um-sj-sOV\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Breakpoint"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "断点"
+          }
+        }
+      }
+    },
+    "17D-23-JHQ.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Duplicate\"; ObjectID = \"17D-23-JHQ\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Duplicate"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "复制"
+          }
+        }
+      }
+    },
+    "88X-yj-swt.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Map local file as a response to matching requests\"; ObjectID = \"88X-yj-swt\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Map local file as a response to matching requests"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "将本地文件映射为匹配请求的响应"
+          }
+        }
+      }
+    },
+    "88X-yj-swt.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Map Local…\"; ObjectID = \"88X-yj-swt\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Map Local…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "本地映射…"
+          }
+        }
+      }
+    },
+    "460-rg-fFI.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"Install Certificate on iOS\"; ObjectID = \"460-rg-fFI\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Install Certificate on iOS"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在 iOS 上安装证书"
+          }
+        }
+      }
+    },
+    "a2u-MZ-zs7.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Use Proxyman with HTTP Clients, such as Paw, Postman and Insomnia\"; ObjectID = \"a2u-MZ-zs7\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use Proxyman with HTTP Clients, such as Paw, Postman and Insomnia"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "与 HTTP 客户端（如 Paw、Postman 和 Insomnia）一起使用 Proxyman"
+          }
+        }
+      }
+    },
+    "a2u-MZ-zs7.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"NextJS (fetch)…\"; ObjectID = \"a2u-MZ-zs7\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "NextJS (fetch)…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "NextJS（获取）…"
+          }
+        }
+      }
+    },
+    "aqJ-az-i2l.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Troubleshooting\"; ObjectID = \"aqJ-az-i2l\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Troubleshooting"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "故障排除"
+          }
+        }
+      }
+    },
+    "AqU-jl-qRT.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Save and Activate the current script\"; ObjectID = \"AqU-jl-qRT\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Save and Activate the current script"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "保存并激活当前脚本"
+          }
+        }
+      }
+    },
+    "AqU-jl-qRT.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Save and Activate\"; ObjectID = \"AqU-jl-qRT\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Save and Activate"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "保存并激活"
+          }
+        }
+      }
+    },
+    "Asg-75-GFE.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Reverse Proxy...\"; ObjectID = \"Asg-75-GFE\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reverse Proxy..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "反向代理..."
+          }
+        }
+      }
+    },
+    "At2-oT-m40.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Map your hostname to different server.\"; ObjectID = \"At2-oT-m40\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Map your hostname to different server."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "将你的主机名映射到不同的服务器。"
+          }
+        }
+      }
+    },
+    "At2-oT-m40.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"DNS Spoofing…\"; ObjectID = \"At2-oT-m40\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DNS Spoofing…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DNS 欺骗…"
+          }
+        }
+      }
+    },
+    "aUF-d1-5bR.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Window\"; ObjectID = \"aUF-d1-5bR\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Window"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "窗口"
+          }
+        }
+      }
+    },
+    "AwM-lX-ZaA.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Copy selected request as cURL/HTTPie format\"; ObjectID = \"AwM-lX-ZaA\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copy selected request as cURL/HTTPie format"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "复制选定请求为 cURL/HTTPie 格式"
+          }
+        }
+      }
+    },
+    "AwM-lX-ZaA.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Copy as cURL\"; ObjectID = \"AwM-lX-ZaA\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copy as cURL"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "复制为 cURL"
+          }
+        }
+      }
+    },
+    "AYu-sK-qS6.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"Main Menu\"; ObjectID = \"AYu-sK-qS6\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Main Menu"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "主菜单"
+          }
+        }
+      }
+    },
+    "bAx-Ze-BjE.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Toggle Enable/Disable the Network Conditions Tool\"; ObjectID = \"bAx-Ze-BjE\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toggle Enable/Disable the Network Conditions Tool"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "切换启用/禁用网络条件工具"
+          }
+        }
+      }
+    },
+    "bAx-Ze-BjE.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Network Conditions\"; ObjectID = \"bAx-Ze-BjE\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Network Conditions"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "网络条件"
+          }
+        }
+      }
+    },
+    "Bez-oE-QKu.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Select Previous Tab\"; ObjectID = \"Bez-oE-QKu\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Select Previous Tab"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "选择上一个选项卡"
+          }
+        }
+      }
+    },
+    "bib-Uj-vzu.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"File\"; ObjectID = \"bib-Uj-vzu\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "File"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "文件"
+          }
+        }
+      }
+    },
+    "Bm2-yv-CV5.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Delete\"; ObjectID = \"Bm2-yv-CV5\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "删除"
+          }
+        }
+      }
+    },
+    "BnQ-MT-dPy.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"It's where Proxyman stores all user backups.\"; ObjectID = \"BnQ-MT-dPy\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "It's where Proxyman stores all user backups."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "这是 Proxyman 存储所有用户备份的地方。"
+          }
+        }
+      }
+    },
+    "BnQ-MT-dPy.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Open Backup Folder…\"; ObjectID = \"BnQ-MT-dPy\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open Backup Folder…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "打开备份文件夹…"
+          }
+        }
+      }
+    },
+    "BOF-NM-1cW.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Preferences…\"; ObjectID = \"BOF-NM-1cW\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preferences…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "首选项…"
+          }
+        }
+      }
+    },
+    "Bpz-gb-j44.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Enable/Disable Tools\"; ObjectID = \"Bpz-gb-j44\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enable/Disable Tools"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "启用/禁用工具"
+          }
+        }
+      }
+    },
+    "bqg-mb-EG7.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"A tutorial how to retreive your data if there is something wrong!\"; ObjectID = \"bqg-mb-EG7\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A tutorial how to retreive your data if there is something wrong!"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "如果出现问题，如何检索您的数据的教程！"
+          }
+        }
+      }
+    },
+    "bqg-mb-EG7.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Lost Data?…\"; ObjectID = \"bqg-mb-EG7\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lost Data?…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "数据丢失？…"
+          }
+        }
+      }
+    },
+    "bqz-Ef-vED.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"From Charles Proxy\"; ObjectID = \"bqz-Ef-vED\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "From Charles Proxy"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "来自 Charles Proxy"
+          }
+        }
+      }
+    },
+    "bte-hE-8Pw.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Use Proxyman with Docker\"; ObjectID = \"bte-hE-8Pw\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use Proxyman with Docker"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在 Docker 中使用 Proxyman"
+          }
+        }
+      }
+    },
+    "bte-hE-8Pw.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Docker…\"; ObjectID = \"bte-hE-8Pw\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Docker…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Docker…"
+          }
+        }
+      }
+    },
+    "bTM-EF-3Na.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Compose new request for debugging\"; ObjectID = \"bTM-EF-3Na\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Compose new request for debugging"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "创建用于调试的新请求"
+          }
+        }
+      }
+    },
+    "bTM-EF-3Na.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Compose Request…\"; ObjectID = \"bTM-EF-3Na\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Compose Request…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "创建请求…"
+          }
+        }
+      }
+    },
+    "bU6-IB-Tja.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Delele all\"; ObjectID = \"bU6-IB-Tja\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delele all"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "删除全部"
+          }
+        }
+      }
+    },
+    "buJ-ug-pKt.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Use Selection for Find\"; ObjectID = \"buJ-ug-pKt\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use Selection for Find"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用选择查找"
+          }
+        }
+      }
+    },
+    "Bw7-FT-i3A.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Save entire working session to file\"; ObjectID = \"Bw7-FT-i3A\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Save entire working session to file"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "将整个工作会话保存到文件"
+          }
+        }
+      }
+    },
+    "Bw7-FT-i3A.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Save Session…\"; ObjectID = \"Bw7-FT-i3A\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Save Session…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "保存会话…"
+          }
+        }
+      }
+    },
+    "BxC-vD-K30.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Reverse Proxy...\"; ObjectID = \"BxC-vD-K30\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reverse Proxy..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "反向代理…"
+          }
+        }
+      }
+    },
+    "C9u-Xq-jpW.title" : {
+      "comment" : "Class = \"NSWindow\"; title = \"Request and Response\"; ObjectID = \"C9u-Xq-jpW\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Request and Response"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "请求和响应"
+          }
+        }
+      }
+    },
+    "C37-ok-gCS.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Open new session on new tab\"; ObjectID = \"C37-ok-gCS\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open new session on new tab"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在新标签页中打开新会话"
+          }
+        }
+      }
+    },
+    "C37-ok-gCS.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"New Session\"; ObjectID = \"C37-ok-gCS\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "New Session"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新会话"
+          }
+        }
+      }
+    },
+    "Cjg-r7-MG3.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Technical Documents…\"; ObjectID = \"Cjg-r7-MG3\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Technical Documents…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "技术文档…"
+          }
+        }
+      }
+    },
+    "Ckk-yw-fiv.title" : {
+      "comment" : "Class = \"NSWindow\"; title = \"Proxyman\"; ObjectID = \"Ckk-yw-fiv\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Proxyman"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Proxyman"
+          }
+        }
+      }
+    },
+    "cUE-Z0-jBK.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Convert\"; ObjectID = \"cUE-Z0-jBK\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Convert"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "转换"
+          }
+        }
+      }
+    },
+    "cX1-mf-48B.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Map Local is enabled (⌥⌘L)\"; ObjectID = \"cX1-mf-48B\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Map Local is enabled (⌥⌘L)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "本地映射已启用 (⌥⌘L)"
+          }
+        }
+      }
+    },
+    "cYr-f8-SEA.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"DNS Spoofing\"; ObjectID = \"cYr-f8-SEA\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DNS Spoofing"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DNS 欺骗"
+          }
+        }
+      }
+    },
+    "CzI-85-4Ih.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Add your custom certificates to Proxyman\"; ObjectID = \"CzI-85-4Ih\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add your custom certificates to Proxyman"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "将自定义证书添加到 Proxyman"
+          }
+        }
+      }
+    },
+    "CzI-85-4Ih.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Add Custom Certificates…\"; ObjectID = \"CzI-85-4Ih\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add Custom Certificates…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "添加自定义证书…"
+          }
+        }
+      }
+    },
+    "dbg-kg-Yir.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"White List...\"; ObjectID = \"dbg-kg-Yir\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "White List..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "白名单..."
+          }
+        }
+      }
+    },
+    "dBR-4N-MkK.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Define the Protobuf setting to parse properly\"; ObjectID = \"dBR-4N-MkK\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Define the Protobuf setting to parse properly"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "定义 Protobuf 设置以正确解析"
+          }
+        }
+      }
+    },
+    "dBR-4N-MkK.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Protobuf…\"; ObjectID = \"dBR-4N-MkK\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Protobuf…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Protobuf…"
+          }
+        }
+      }
+    },
+    "Dg2-zm-cMR.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"All Proxyman and User Data are gone.\"; ObjectID = \"Dg2-zm-cMR\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "All Proxyman and User Data are gone."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "所有 Proxyman 和用户数据均已消失."
+          }
+        }
+      }
+    },
+    "Dg2-zm-cMR.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Factory Reset…\"; ObjectID = \"Dg2-zm-cMR\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Factory Reset…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "恢复出厂设置…"
+          }
+        }
+      }
+    },
+    "dkZ-lD-EWc.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Launch your app/domain to see it in the list\"; ObjectID = \"dkZ-lD-EWc\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Launch your app/domain to see it in the list"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "启动你的应用/域以查看其在列表中"
+          }
+        }
+      }
+    },
+    "dMs-cI-mzQ.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"File\"; ObjectID = \"dMs-cI-mzQ\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "File"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "文件"
+          }
+        }
+      }
+    },
+    "dQ2-Xe-D9x.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Select\"; ObjectID = \"dQ2-Xe-D9x\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Select"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "选择"
+          }
+        }
+      }
+    },
+    "dRJ-4n-Yzg.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Undo\"; ObjectID = \"dRJ-4n-Yzg\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Undo"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "撤销"
+          }
+        }
+      }
+    },
+    "dRq-zp-xwe.ibExternalAccessibilityDescription" : {
+      "comment" : "Class = \"NSButton\"; ibExternalAccessibilityDescription = \"Add domain/client (⌘+K)\"; ObjectID = \"dRq-zp-xwe\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add domain/client (⌘+K)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "添加域/客户端 (⌘+K)"
+          }
+        }
+      }
+    },
+    "DVo-aG-piG.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Close\"; ObjectID = \"DVo-aG-piG\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Close"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "关闭"
+          }
+        }
+      }
+    },
+    "DWA-p4-NCT.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Create new folder in Source Panel (Left Panel)\"; ObjectID = \"DWA-p4-NCT\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Create new folder in Source Panel (Left Panel)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在源面板（左侧面板）中创建新文件夹"
+          }
+        }
+      }
+    },
+    "DWA-p4-NCT.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"New Folder\"; ObjectID = \"DWA-p4-NCT\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "New Folder"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新建文件夹"
+          }
+        }
+      }
+    },
+    "dwv-9k-9eX.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Reverse Proxy\"; ObjectID = \"dwv-9k-9eX\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reverse Proxy"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "反向代理"
+          }
+        }
+      }
+    },
+    "dY1-Ts-oI9.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Filter\"; ObjectID = \"dY1-Ts-oI9\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Filter"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "过滤器"
+          }
+        }
+      }
+    },
+    "e2x-fd-IqD.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"Enable/Disable Tools\"; ObjectID = \"e2x-fd-IqD\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enable/Disable Tools"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "启用/禁用工具"
+          }
+        }
+      }
+    },
+    "E6V-hs-DkP.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"as CSV\"; ObjectID = \"E6V-hs-DkP\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "as CSV"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "作为 CSV"
+          }
+        }
+      }
+    },
+    "eaW-If-9V8.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Customize Toolbar…\"; ObjectID = \"eaW-If-9V8\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Customize Toolbar…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自定义工具栏…"
+          }
+        }
+      }
+    },
+    "eD5-dY-prA.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Guideline how to install Proxyman Certificate to Android Physical Devices\"; ObjectID = \"eD5-dY-prA\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guideline how to install Proxyman Certificate to Android Physical Devices"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "关于如何在 Android 物理设备上安装 Proxyman 证书的指南"
+          }
+        }
+      }
+    },
+    "eD5-dY-prA.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Physical Devices…\"; ObjectID = \"eD5-dY-prA\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Physical Devices…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "物理设备…"
+          }
+        }
+      }
+    },
+    "efc-B2-Acq.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSTextField\"; ibShadowedToolTip = \"Current Selection Stats\"; ObjectID = \"efc-B2-Acq\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Current Selection Stats"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "当前选择统计"
+          }
+        }
+      }
+    },
+    "EhD-Ld-rfT.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Proxy HTTP & HTTPS Requests from local ports to specified upstream servers\"; ObjectID = \"EhD-Ld-rfT\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Proxy HTTP & HTTPS Requests from local ports to specified upstream servers"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "从本地端口代理 HTTP 和 HTTPS 请求到指定的上游服务器"
+          }
+        }
+      }
+    },
+    "EhD-Ld-rfT.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Reverse Proxy…\"; ObjectID = \"EhD-Ld-rfT\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reverse Proxy…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "反向代理…"
+          }
+        }
+      }
+    },
+    "EJp-eC-Wbg.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"SSL Proxying List…\"; ObjectID = \"EJp-eC-Wbg\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SSL Proxying List…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SSL 代理列表…"
+          }
+        }
+      }
+    },
+    "EKS-Tx-r2L.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Show / Hide the Loggin Console Panel\"; ObjectID = \"EKS-Tx-r2L\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show / Hide the Loggin Console Panel"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "显示/隐藏登录控制台面板"
+          }
+        }
+      }
+    },
+    "EKS-Tx-r2L.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Toggle Console Log in Scripting\"; ObjectID = \"EKS-Tx-r2L\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toggle Console Log in Scripting"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在脚本中切换控制台日志"
+          }
+        }
+      }
+    },
+    "ENf-xc-cWH.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Guideline how to integrate Atlantis iOS Framework\"; ObjectID = \"ENf-xc-cWH\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guideline how to integrate Atlantis iOS Framework"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "关于如何集成 Atlantis iOS 框架的指南"
+          }
+        }
+      }
+    },
+    "ENf-xc-cWH.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"with Atlantis…\"; ObjectID = \"ENf-xc-cWH\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "with Atlantis…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "与 Atlantis…"
+          }
+        }
+      }
+    },
+    "eWV-Yt-E5W.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Add Comment...\"; ObjectID = \"eWV-Yt-E5W\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add Comment..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "添加评论..."
+          }
+        }
+      }
+    },
+    "eXk-a1-yK2.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Tools\"; ObjectID = \"eXk-a1-yK2\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tools"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "工具"
+          }
+        }
+      }
+    },
+    "f2H-uv-L71.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Breakpoint is enabled (⌥⌘B)\"; ObjectID = \"f2H-uv-L71\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Breakpoint is enabled (⌥⌘B)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "断点已启用 (⌥⌘B)"
+          }
+        }
+      }
+    },
+    "F2S-fz-NVQ.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"Help\"; ObjectID = \"F2S-fz-NVQ\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Help"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "帮助"
+          }
+        }
+      }
+    },
+    "F2X-Te-H4P.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Detach Content Windows\"; ObjectID = \"F2X-Te-H4P\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Detach Content Windows"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "分离内容窗口"
+          }
+        }
+      }
+    },
+    "fef-Qi-lia.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"From .chls (Charles Proxy) to .har (HTTP Archive) that Proxyman can understand\"; ObjectID = \"fef-Qi-lia\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "From .chls (Charles Proxy) to .har (HTTP Archive) that Proxyman can understand"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "从 .chls (Charles Proxy) 到 .har (HTTP 归档) ，Proxyman 可以理解"
+          }
+        }
+      }
+    },
+    "fef-Qi-lia.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"From .chls to .har\"; ObjectID = \"fef-Qi-lia\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "From .chls to .har"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "从 .chls 到 .har"
+          }
+        }
+      }
+    },
+    "fgz-5N-77C.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Certificate\"; ObjectID = \"fgz-5N-77C\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Certificate"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "证书"
+          }
+        }
+      }
+    },
+    "FHv-Cg-Axv.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Automatic Setup…\"; ObjectID = \"FHv-Cg-Axv\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Automatic Setup…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自动设置…"
+          }
+        }
+      }
+    },
+    "fOO-Zx-YnO.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Domain...\"; ObjectID = \"fOO-Zx-YnO\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Domain..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "域名…"
+          }
+        }
+      }
+    },
+    "fRd-qS-qIs.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Auto Select the Latest Request\"; ObjectID = \"fRd-qS-qIs\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Auto Select the Latest Request"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自动选择最新请求"
+          }
+        }
+      }
+    },
+    "FW2-MC-gIh.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Map Local...\"; ObjectID = \"FW2-MC-gIh\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Map Local..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "映射本地…"
+          }
+        }
+      }
+    },
+    "fYJ-Ls-Exc.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Manage the Custom Columns on the main table\"; ObjectID = \"fYJ-Ls-Exc\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Manage the Custom Columns on the main table"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "管理主表中的自定义列"
+          }
+        }
+      }
+    },
+    "fYJ-Ls-Exc.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Customize Columns…\"; ObjectID = \"fYJ-Ls-Exc\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Customize Columns…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自定义列…"
+          }
+        }
+      }
+    },
+    "FzK-WM-5zK.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Setup\"; ObjectID = \"FzK-WM-5zK\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Setup"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "设置"
+          }
+        }
+      }
+    },
+    "G4s-39-OzM.ibExternalAccessibilityDescription" : {
+      "comment" : "Class = \"NSButton\"; ibExternalAccessibilityDescription = \"Delete all flows from the current table (⇧⌘⌫)\"; ObjectID = \"G4s-39-OzM\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete all flows from the current table (⇧⌘⌫)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "从当前表中删除所有流程 (⇧⌘⌫)"
+          }
+        }
+      }
+    },
+    "G4s-39-OzM.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Delete all flows from the current table (⇧⌘⌫)\"; ObjectID = \"G4s-39-OzM\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete all flows from the current table (⇧⌘⌫)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "从当前表中删除所有流程 (⇧⌘⌫)"
+          }
+        }
+      }
+    },
+    "G7r-Ai-wOV.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Change Logs…\"; ObjectID = \"G7r-Ai-wOV\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Change Logs…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "变更日志…"
+          }
+        }
+      }
+    },
+    "GbH-TB-5qd.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Execute the Script to install Proxyman Certificate to all available Java Store\"; ObjectID = \"GbH-TB-5qd\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Execute the Script to install Proxyman Certificate to all available Java Store"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "执行脚本将 Proxyman 证书安装到所有可用的 Java Store"
+          }
+        }
+      }
+    },
+    "GbH-TB-5qd.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Run Script...\"; ObjectID = \"GbH-TB-5qd\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Run Script..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "运行脚本…"
+          }
+        }
+      }
+    },
+    "GCw-x0-RRD.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"as HAR (HTTP Archive)\"; ObjectID = \"GCw-x0-RRD\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "as HAR (HTTP Archive)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "以 HAR (HTTP 归档) 格式"
+          }
+        }
+      }
+    },
+    "Geb-Vv-nny.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"NodeJS…\"; ObjectID = \"Geb-Vv-nny\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "NodeJS…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "NodeJS…"
+          }
+        }
+      }
+    },
+    "gfh-cM-6rd.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"Export\"; ObjectID = \"gfh-cM-6rd\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Export"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导出"
+          }
+        }
+      }
+    },
+    "gnF-Q6-2QN.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"All Proxyman Windows will stay on top of other apps\"; ObjectID = \"gnF-Q6-2QN\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "All Proxyman Windows will stay on top of other apps"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "所有 Proxyman 窗口将保持在其他应用之上"
+          }
+        }
+      }
+    },
+    "gnF-Q6-2QN.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Stay On Top\"; ObjectID = \"gnF-Q6-2QN\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stay On Top"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "保持在最上层"
+          }
+        }
+      }
+    },
+    "gTF-aI-lYi.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Gray\"; ObjectID = \"gTF-aI-lYi\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gray"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "灰色"
+          }
+        }
+      }
+    },
+    "gVA-U4-sdL.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Paste\"; ObjectID = \"gVA-U4-sdL\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Paste"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "粘贴"
+          }
+        }
+      }
+    },
+    "GVQ-jl-aJy.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"Diff\"; ObjectID = \"GVQ-jl-aJy\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Diff"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "差异"
+          }
+        }
+      }
+    },
+    "H8h-7b-M4v.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"View\"; ObjectID = \"H8h-7b-M4v\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "View"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "查看"
+          }
+        }
+      }
+    },
+    "h9W-ps-0cy.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Simulate Memory Warning\"; ObjectID = \"h9W-ps-0cy\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Simulate Memory Warning"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "模拟内存警告"
+          }
+        }
+      }
+    },
+    "hfW-gz-bVi.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"All domains and apps which are enabled SSL Proxying\"; ObjectID = \"hfW-gz-bVi\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "All domains and apps which are enabled SSL Proxying"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "所有启用 SSL 代理的域和应用"
+          }
+        }
+      }
+    },
+    "hfW-gz-bVi.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"SSL Proxying List…\"; ObjectID = \"hfW-gz-bVi\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SSL Proxying List…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SSL 代理列表…"
+          }
+        }
+      }
+    },
+    "hG3-5B-eXf.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"Tools\"; ObjectID = \"hG3-5B-eXf\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tools"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "工具"
+          }
+        }
+      }
+    },
+    "hJD-Jc-dUc.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"My Remote devices (iOS, Android) could not connect to Proxyman?…\"; ObjectID = \"hJD-Jc-dUc\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "My Remote devices (iOS, Android) could not connect to Proxyman?…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我的远程设备（iOS、Android）无法连接到 Proxyman？…"
+          }
+        }
+      }
+    },
+    "HT1-14-m1i.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Diff\"; ObjectID = \"HT1-14-m1i\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Diff"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "差异"
+          }
+        }
+      }
+    },
+    "HyV-fh-RgO.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"View\"; ObjectID = \"HyV-fh-RgO\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "View"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "查看"
+          }
+        }
+      }
+    },
+    "hz9-B4-Xy5.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"Services\"; ObjectID = \"hz9-B4-Xy5\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Services"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "服务"
+          }
+        }
+      }
+    },
+    "I5X-iG-DrG.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Left Side\"; ObjectID = \"I5X-iG-DrG\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Left Side"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "左侧"
+          }
+        }
+      }
+    },
+    "i8J-io-caN.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"Convert\"; ObjectID = \"i8J-io-caN\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Convert"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "转换"
+          }
+        }
+      }
+    },
+    "I8k-MP-wuk.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Simulate Network Conditions with various preset profiles\"; ObjectID = \"I8k-MP-wuk\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Simulate Network Conditions with various preset profiles"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "模拟各种预设配置的网络条件"
+          }
+        }
+      }
+    },
+    "I8k-MP-wuk.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Network Conditions…\"; ObjectID = \"I8k-MP-wuk\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Network Conditions…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "网络条件…"
+          }
+        }
+      }
+    },
+    "IAo-SY-fd9.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Open…\"; ObjectID = \"IAo-SY-fd9\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "打开…"
+          }
+        }
+      }
+    },
+    "IBf-9y-v8u.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"Highlight\"; ObjectID = \"IBf-9y-v8u\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Highlight"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "高亮显示"
+          }
+        }
+      }
+    },
+    "ICa-uJ-cwx.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"*.local requests do not appear on Proxyman?…\"; ObjectID = \"ICa-uJ-cwx\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "*.local requests do not appear on Proxyman?…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "*.local 请求未出现在 Proxyman？…"
+          }
+        }
+      }
+    },
+    "Idc-iR-L0Y.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"How to use Proxyman Command-line\"; ObjectID = \"Idc-iR-L0Y\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "How to use Proxyman Command-line"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "如何使用 Proxyman 命令行"
+          }
+        }
+      }
+    },
+    "Idc-iR-L0Y.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Command Line…\"; ObjectID = \"Idc-iR-L0Y\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Command Line…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "命令行…"
+          }
+        }
+      }
+    },
+    "iee-fo-ccT.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Manage the Previewer Tabs on Request or Response Panel\"; ObjectID = \"iee-fo-ccT\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Manage the Previewer Tabs on Request or Response Panel"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "管理请求或响应面板上的预览标签"
+          }
+        }
+      }
+    },
+    "iee-fo-ccT.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Customize Previewer Tab…\"; ObjectID = \"iee-fo-ccT\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Customize Previewer Tab…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自定义预览标签…"
+          }
+        }
+      }
+    },
+    "ifQ-cq-1Ps.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Report Bug?…\"; ObjectID = \"ifQ-cq-1Ps\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Report Bug?…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "报告错误？…"
+          }
+        }
+      }
+    },
+    "Imc-bK-Vzj.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Toggle Dock to Bottom Window\"; ObjectID = \"Imc-bK-Vzj\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toggle Dock to Bottom Window"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "切换底部窗口的 Dock"
+          }
+        }
+      }
+    },
+    "ITs-qk-rKu.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Red\"; ObjectID = \"ITs-qk-rKu\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Red"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "红色"
+          }
+        }
+      }
+    },
+    "IUu-fw-GYj.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Enable Debug Mode…\"; ObjectID = \"IUu-fw-GYj\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enable Debug Mode…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "启用调试模式…"
+          }
+        }
+      }
+    },
+    "j0A-ov-hPQ.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Toggle Source List Panel\"; ObjectID = \"j0A-ov-hPQ\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toggle Source List Panel"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "切换源列表面板"
+          }
+        }
+      }
+    },
+    "j21-5N-koR.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"Install Certificate on Developments\"; ObjectID = \"j21-5N-koR\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Install Certificate on Developments"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在开发中安装证书"
+          }
+        }
+      }
+    },
+    "Jbb-Ov-C7d.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Toggle Enable/Disable the Map Local Tool\"; ObjectID = \"Jbb-Ov-C7d\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toggle Enable/Disable the Map Local Tool"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "切换启用/禁用本地映射工具"
+          }
+        }
+      }
+    },
+    "Jbb-Ov-C7d.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Map Local\"; ObjectID = \"Jbb-Ov-C7d\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Map Local"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "本地映射"
+          }
+        }
+      }
+    },
+    "jcQ-j3-Mza.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Open Compose windows for editing the current selected request\"; ObjectID = \"jcQ-j3-Mza\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open Compose windows for editing the current selected request"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "打开编写窗口以编辑当前选定的请求"
+          }
+        }
+      }
+    },
+    "jcQ-j3-Mza.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Edit and Repeat...\"; ObjectID = \"jcQ-j3-Mza\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Edit and Repeat..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "编辑并重复…"
+          }
+        }
+      }
+    },
+    "jms-6X-UGP.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Map Remote\"; ObjectID = \"jms-6X-UGP\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Map Remote"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "映射远程"
+          }
+        }
+      }
+    },
+    "jsI-zy-nCl.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Yellow\"; ObjectID = \"jsI-zy-nCl\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yellow"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "黄色"
+          }
+        }
+      }
+    },
+    "jVi-P4-wdn.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"Install Certificate on Android\"; ObjectID = \"jVi-P4-wdn\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Install Certificate on Android"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在 Android 上安装证书"
+          }
+        }
+      }
+    },
+    "jvs-n5-e1R.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Reset Network Proxy…\"; ObjectID = \"jvs-n5-e1R\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reset Network Proxy…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重置网络代理…"
+          }
+        }
+      }
+    },
+    "jWT-Mn-Kpi.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"Flow\"; ObjectID = \"jWT-Mn-Kpi\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Flow"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "流程"
+          }
+        }
+      }
+    },
+    "jYe-46-HrS.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Use Proxyman with your VPN apps\"; ObjectID = \"jYe-46-HrS\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use Proxyman with your VPN apps"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "将 Proxyman 与你的 VPN 应用程序一起使用"
+          }
+        }
+      }
+    },
+    "jYe-46-HrS.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"VPN…\"; ObjectID = \"jYe-46-HrS\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VPN…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VPN…"
+          }
+        }
+      }
+    },
+    "K1a-Yq-oka.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Export…\"; ObjectID = \"K1a-Yq-oka\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Export…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导出…"
+          }
+        }
+      }
+    },
+    "Kd2-mp-pUS.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Show All\"; ObjectID = \"Kd2-mp-pUS\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show All"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "显示所有"
+          }
+        }
+      }
+    },
+    "Kgh-wC-mpr.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Highlight\"; ObjectID = \"Kgh-wC-mpr\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Highlight"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "高亮"
+          }
+        }
+      }
+    },
+    "KHW-EB-emh.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Map Local\"; ObjectID = \"KHW-EB-emh\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Map Local"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "映射本地"
+          }
+        }
+      }
+    },
+    "Kim-fe-7qg.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Breakpoint\"; ObjectID = \"Kim-fe-7qg\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Breakpoint"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "断点"
+          }
+        }
+      }
+    },
+    "lAC-2O-yAz.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Network Conditions\"; ObjectID = \"lAC-2O-yAz\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Network Conditions"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "网络条件"
+          }
+        }
+      }
+    },
+    "ldG-IO-T9q.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"From Charles Proxy\"; ObjectID = \"ldG-IO-T9q\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "From Charles Proxy"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "来自 Charles Proxy"
+          }
+        }
+      }
+    },
+    "lDW-gr-1bg.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Export Proxyman CA (.der)\"; ObjectID = \"lDW-gr-1bg\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Export Proxyman CA (.der)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导出 Proxyman CA (.der)"
+          }
+        }
+      }
+    },
+    "lDW-gr-1bg.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Root Certificate as DER...\"; ObjectID = \"lDW-gr-1bg\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Root Certificate as DER..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "根证书作为 DER…"
+          }
+        }
+      }
+    },
+    "LE2-aR-0XJ.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Bring All to Front\"; ObjectID = \"LE2-aR-0XJ\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bring All to Front"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "将所有窗口置于最前"
+          }
+        }
+      }
+    },
+    "lEd-ns-ZiS.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Manage the Request/Response Template\"; ObjectID = \"lEd-ns-ZiS\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Manage the Request/Response Template"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "管理请求/响应模板"
+          }
+        }
+      }
+    },
+    "lEd-ns-ZiS.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Breakpoint Templates…\"; ObjectID = \"lEd-ns-ZiS\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Breakpoint Templates…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "断点模板…"
+          }
+        }
+      }
+    },
+    "lHc-jp-TXM.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Toggle Enable/Disable the SSL Proxying List Tool\"; ObjectID = \"lHc-jp-TXM\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toggle Enable/Disable the SSL Proxying List Tool"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "切换启用/禁用 SSL 代理列表工具"
+          }
+        }
+      }
+    },
+    "lHc-jp-TXM.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"SSL Proxying List\"; ObjectID = \"lHc-jp-TXM\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SSL Proxying List"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SSL 代理列表"
+          }
+        }
+      }
+    },
+    "lPR-UL-J97.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Repeat the current selected request\"; ObjectID = \"lPR-UL-J97\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Repeat the current selected request"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重复当前选定的请求"
+          }
+        }
+      }
+    },
+    "lPR-UL-J97.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Repeat\"; ObjectID = \"lPR-UL-J97\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Repeat"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重复"
+          }
+        }
+      }
+    },
+    "LPx-O2-n19.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Install Certificate on Android\"; ObjectID = \"LPx-O2-n19\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Install Certificate on Android"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在 Android 上安装证书"
+          }
+        }
+      }
+    },
+    "lxJ-8m-6PI.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Map specific request to different request location\"; ObjectID = \"lxJ-8m-6PI\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Map specific request to different request location"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "将特定请求映射到不同的位置"
+          }
+        }
+      }
+    },
+    "lxJ-8m-6PI.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Map Remote…\"; ObjectID = \"lxJ-8m-6PI\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Map Remote…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "映射远程…"
+          }
+        }
+      }
+    },
+    "M8R-sG-cyX.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Use Proxyman with HTTP Clients, such as Paw, Postman and Insomnia\"; ObjectID = \"M8R-sG-cyX\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use Proxyman with HTTP Clients, such as Paw, Postman and Insomnia"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在 Proxyman 中使用 HTTP 客户端，例如 Paw、Postman 和 Insomnia"
+          }
+        }
+      }
+    },
+    "M8R-sG-cyX.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"HTTP Clients…\"; ObjectID = \"M8R-sG-cyX\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HTTP Clients…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HTTP 客户端…"
+          }
+        }
+      }
+    },
+    "MHh-7c-kMO.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Install Certificate on Developments\"; ObjectID = \"MHh-7c-kMO\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Install Certificate on Developments"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在开发中安装证书"
+          }
+        }
+      }
+    },
+    "MIw-t1-AWs.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Guideline how to install Proxyman Certificate to Android Emulator by using Script\"; ObjectID = \"MIw-t1-AWs\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guideline how to install Proxyman Certificate to Android Emulator by using Script"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "如何通过脚本在 Android 模拟器上安装 Proxyman 证书的指南"
+          }
+        }
+      }
+    },
+    "MIw-t1-AWs.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Emulators…\"; ObjectID = \"MIw-t1-AWs\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Emulators…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "模拟器…"
+          }
+        }
+      }
+    },
+    "mKD-Hp-ETJ.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Custom Certificates is enabled\"; ObjectID = \"mKD-Hp-ETJ\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Custom Certificates is enabled"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已启用自定义证书"
+          }
+        }
+      }
+    },
+    "Mll-Gh-XSQ.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Cancel\"; ObjectID = \"Mll-Gh-XSQ\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancel"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "取消"
+          }
+        }
+      }
+    },
+    "mOd-Vy-ZL7.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Right Side\"; ObjectID = \"mOd-Vy-ZL7\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Right Side"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "右侧"
+          }
+        }
+      }
+    },
+    "Mrd-VT-G6e.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Toggle Enable/Disable the Allow List Tool\"; ObjectID = \"Mrd-VT-G6e\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toggle Enable/Disable the Allow List Tool"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "切换启用/禁用白名单工具"
+          }
+        }
+      }
+    },
+    "Mrd-VT-G6e.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Allow List\"; ObjectID = \"Mrd-VT-G6e\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Allow List"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "白名单"
+          }
+        }
+      }
+    },
+    "MTD-lK-rwg.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Clear entire session to release all caching memory\"; ObjectID = \"MTD-lK-rwg\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Clear entire session to release all caching memory"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "清除整个会话以释放所有缓存内存"
+          }
+        }
+      }
+    },
+    "MTD-lK-rwg.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Clear Session\"; ObjectID = \"MTD-lK-rwg\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Clear Session"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "清除会话"
+          }
+        }
+      }
+    },
+    "Ncd-Sv-Y7F.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"From Proxyman\"; ObjectID = \"Ncd-Sv-Y7F\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "From Proxyman"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "来自 Proxyman"
+          }
+        }
+      }
+    },
+    "ndw-cW-F7D.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Your HTTP/HTTPS Proxy is overridden by Proxyman (⌥⌘O)\"; ObjectID = \"ndw-cW-F7D\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your HTTP/HTTPS Proxy is overridden by Proxyman (⌥⌘O)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "您的 HTTP/HTTPS 代理已被 Proxyman 重写（⌥⌘O）"
+          }
+        }
+      }
+    },
+    "nhY-Xe-Oww.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"TLSKeyLogging\"; ObjectID = \"nhY-Xe-Oww\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "TLSKeyLogging"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "TLS 密钥日志"
+          }
+        }
+      }
+    },
+    "NjY-vl-9ro.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Network Condition...\"; ObjectID = \"NjY-vl-9ro\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Network Condition..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "网络条件…"
+          }
+        }
+      }
+    },
+    "NMo-om-nkz.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Services\"; ObjectID = \"NMo-om-nkz\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Services"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "服务"
+          }
+        }
+      }
+    },
+    "Npz-di-X2z.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Get SSL Errors from HTTPS Request and Response?…\"; ObjectID = \"Npz-di-X2z\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Get SSL Errors from HTTPS Request and Response?…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "从 HTTPS 请求和响应中获取 SSL 错误？…"
+          }
+        }
+      }
+    },
+    "NVp-Bk-pm9.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Proxyman for iOS…\"; ObjectID = \"NVp-Bk-pm9\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Proxyman for iOS…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Proxyman for iOS…"
+          }
+        }
+      }
+    },
+    "nz8-aK-bhs.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"DNS Spoofing…\"; ObjectID = \"nz8-aK-bhs\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DNS Spoofing…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DNS 欺骗…"
+          }
+        }
+      }
+    },
+    "oas-Oc-fiZ.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"Open Recent\"; ObjectID = \"oas-Oc-fiZ\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open Recent"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "最近打开"
+          }
+        }
+      }
+    },
+    "oaz-80-FiP.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"Export\"; ObjectID = \"oaz-80-FiP\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Export"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导出"
+          }
+        }
+      }
+    },
+    "odu-IM-9hv.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Add favorite app or domain\"; ObjectID = \"odu-IM-9hv\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add favorite app or domain"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "添加收藏的应用或域名"
+          }
+        }
+      }
+    },
+    "Olw-nP-bQN.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Hide Proxyman\"; ObjectID = \"Olw-nP-bQN\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hide Proxyman"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "隐藏 Proxyman"
+          }
+        }
+      }
+    },
+    "Otg-EI-NHc.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Map Local...\"; ObjectID = \"Otg-EI-NHc\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Map Local..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "映射本地..."
+          }
+        }
+      }
+    },
+    "OwL-SB-WNV.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"Import Settings\"; ObjectID = \"OwL-SB-WNV\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Import Settings"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导入设置"
+          }
+        }
+      }
+    },
+    "OwM-mh-QMV.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Find Previous\"; ObjectID = \"OwM-mh-QMV\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Find Previous"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "查找上一个"
+          }
+        }
+      }
+    },
+    "OY7-WF-poV.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Minimize\"; ObjectID = \"OY7-WF-poV\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Minimize"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "最小化"
+          }
+        }
+      }
+    },
+    "ozy-tH-5wN.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Add selected items to Diff Pool…\"; ObjectID = \"ozy-tH-5wN\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add selected items to Diff Pool…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "将选定的项目添加到差异池..."
+          }
+        }
+      }
+    },
+    "p0b-sK-SRd.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Save selected requests to the Saved Folder\"; ObjectID = \"p0b-sK-SRd\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Save selected requests to the Saved Folder"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "将选定的请求保存到保存文件夹"
+          }
+        }
+      }
+    },
+    "p0b-sK-SRd.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Save Requests\"; ObjectID = \"p0b-sK-SRd\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Save Requests"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "保存请求"
+          }
+        }
+      }
+    },
+    "p1m-xS-O9V.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Allow List is applied to record exclusively matched URLs. Other URLs are ignored  (⌥⌘A)\"; ObjectID = \"p1m-xS-O9V\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Allow List is applied to record exclusively matched URLs. Other URLs are ignored  (⌥⌘A)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "允许列表仅应用于记录完全匹配的 URL。其他 URL 将被忽略 (⌥⌘A)"
+          }
+        }
+      }
+    },
+    "p3m-pz-uha.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Github…\"; ObjectID = \"p3m-pz-uha\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Github…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Github..."
+          }
+        }
+      }
+    },
+    "pa3-QI-u2k.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Delete\"; ObjectID = \"pa3-QI-u2k\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "删除"
+          }
+        }
+      }
+    },
+    "PCh-Tn-aVc.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Green\"; ObjectID = \"PCh-Tn-aVc\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Green"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "绿色"
+          }
+        }
+      }
+    },
+    "Pgh-OW-VrR.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"React Native…\"; ObjectID = \"Pgh-OW-VrR\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "React Native…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "React Native..."
+          }
+        }
+      }
+    },
+    "pph-dX-usQ.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"From Proxyman\"; ObjectID = \"pph-dX-usQ\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "From Proxyman"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "来自 Proxyman"
+          }
+        }
+      }
+    },
+    "PTh-m2-pZo.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Simulate Network Conditions with various presets profiles  (⌥⌘J)\"; ObjectID = \"PTh-m2-pZo\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Simulate Network Conditions with various presets profiles  (⌥⌘J)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "模拟具有各种预设配置文件的网络条件 (⌥⌘J)"
+          }
+        }
+      }
+    },
+    "PwA-fQ-eaG.ibExternalAccessibilityDescription" : {
+      "comment" : "Class = \"NSMenuItem\"; ibExternalAccessibilityDescription = \"Override macOS Proxy Setting in Network.prefpanel\"; ObjectID = \"PwA-fQ-eaG\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Override macOS Proxy Setting in Network.prefpanel"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在 Network.prefpanel 中覆盖 macOS 代理设置"
+          }
+        }
+      }
+    },
+    "PwA-fQ-eaG.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Override macOS Proxy\"; ObjectID = \"PwA-fQ-eaG\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Override macOS Proxy"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "覆盖 macOS 代理"
+          }
+        }
+      }
+    },
+    "PYL-qC-SVe.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Getting Started\"; ObjectID = \"PYL-qC-SVe\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Getting Started"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "入门指南"
+          }
+        }
+      }
+    },
+    "q4m-y1-nYE.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"Certificate\"; ObjectID = \"q4m-y1-nYE\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Certificate"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "证书"
+          }
+        }
+      }
+    },
+    "q09-fT-Sye.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Find Next\"; ObjectID = \"q09-fT-Sye\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Find Next"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "查找下一个"
+          }
+        }
+      }
+    },
+    "QC1-nS-AbH.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"SOCKS Proxy Settings…\"; ObjectID = \"QC1-nS-AbH\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SOCKS Proxy Settings…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SOCKS 代理设置…"
+          }
+        }
+      }
+    },
+    "QVb-xA-A0h.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Proxy Overridden\"; ObjectID = \"QVb-xA-A0h\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Proxy Overridden"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "代理已被覆盖"
+          }
+        }
+      }
+    },
+    "Qvq-a9-0aG.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Drop connection for all matched URLs on blocklist\"; ObjectID = \"Qvq-a9-0aG\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Drop connection for all matched URLs on blocklist"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "对阻止列表上所有匹配的 URL 断开连接"
+          }
+        }
+      }
+    },
+    "Qvq-a9-0aG.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Block List…\"; ObjectID = \"Qvq-a9-0aG\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Block List…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "阻止列表…"
+          }
+        }
+      }
+    },
+    "QWa-6G-Xq7.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"Troubleshooting\"; ObjectID = \"QWa-6G-Xq7\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Troubleshooting"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "故障排除"
+          }
+        }
+      }
+    },
+    "R4o-n2-Eq4.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Zoom\"; ObjectID = \"R4o-n2-Eq4\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zoom"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "缩放"
+          }
+        }
+      }
+    },
+    "r5L-EB-klu.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"DNS Spoofing Tool is enabled\"; ObjectID = \"r5L-EB-klu\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DNS Spoofing Tool is enabled"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DNS 欺骗工具已启用"
+          }
+        }
+      }
+    },
+    "RIe-6p-hhf.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Export Proxyman CA (.pem)\"; ObjectID = \"RIe-6p-hhf\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Export Proxyman CA (.pem)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导出 Proxyman CA （.pem）"
+          }
+        }
+      }
+    },
+    "RIe-6p-hhf.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Root Certificate as PEM...\"; ObjectID = \"RIe-6p-hhf\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Root Certificate as PEM..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "根证书为 PEM..."
+          }
+        }
+      }
+    },
+    "RJe-2S-X79.ibExternalAccessibilityDescription" : {
+      "comment" : "Class = \"NSButton\"; ibExternalAccessibilityDescription = \"Auto Select the latest requests (⇧⌘L). Click on any rows to disable it.\"; ObjectID = \"RJe-2S-X79\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Auto Select the latest requests (⇧⌘L). Click on any rows to disable it."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自动选择最新请求（⇧⌘L）。点击任意行以禁用它。"
+          }
+        }
+      }
+    },
+    "RJe-2S-X79.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Auto Select the latest requests (⇧⌘L). Click on any rows to disable it.\"; ObjectID = \"RJe-2S-X79\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Auto Select the latest requests (⇧⌘L). Click on any rows to disable it."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自动选择最新请求（⇧⌘L）。点击任意行以禁用它。"
+          }
+        }
+      }
+    },
+    "RMV-Z4-4ih.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"SSL Proxying List...\"; ObjectID = \"RMV-Z4-4ih\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SSL Proxying List..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SSL 代理列表..."
+          }
+        }
+      }
+    },
+    "rNg-Pa-YbN.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Block List\"; ObjectID = \"rNg-Pa-YbN\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Block List"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "阻止列表"
+          }
+        }
+      }
+    },
+    "rsG-Su-SeQ.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Guideline how to install Proxyman Certificate to iOS Devices (iPhone/iPad/AppleTV/Apple Watch)\"; ObjectID = \"rsG-Su-SeQ\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guideline how to install Proxyman Certificate to iOS Devices (iPhone/iPad/AppleTV/Apple Watch)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "如何在 iOS 设备（iPhone/iPad/AppleTV/Apple Watch）上安装 Proxyman 证书的指南"
+          }
+        }
+      }
+    },
+    "rsG-Su-SeQ.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Physical Devices…\"; ObjectID = \"rsG-Su-SeQ\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Physical Devices…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "物理设备…"
+          }
+        }
+      }
+    },
+    "Ruw-6m-B2m.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Select All\"; ObjectID = \"Ruw-6m-B2m\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Select All"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "全选"
+          }
+        }
+      }
+    },
+    "S0p-oC-mLd.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Jump to Selection\"; ObjectID = \"S0p-oC-mLd\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jump to Selection"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "跳转到选择"
+          }
+        }
+      }
+    },
+    "S5D-Lw-FoN.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"DNS Spoofing…\"; ObjectID = \"S5D-Lw-FoN\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DNS Spoofing…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DNS 欺骗…"
+          }
+        }
+      }
+    },
+    "s6o-Dv-fxR.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Blue\"; ObjectID = \"s6o-Dv-fxR\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blue"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "蓝色"
+          }
+        }
+      }
+    },
+    "s8V-Tb-gBL.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Ruby…\"; ObjectID = \"s8V-Tb-gBL\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ruby…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ruby..."
+          }
+        }
+      }
+    },
+    "SeB-q6-Eeu.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Flow\"; ObjectID = \"SeB-q6-Eeu\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Flow"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "流程"
+          }
+        }
+      }
+    },
+    "sEI-fC-hlc.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Flutter…\"; ObjectID = \"sEI-fC-hlc\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Flutter…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Flutter..."
+          }
+        }
+      }
+    },
+    "sEj-5w-peJ.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Toggle Enable/Disable the Scripting Tool\"; ObjectID = \"sEj-5w-peJ\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toggle Enable/Disable the Scripting Tool"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "切换启用/禁用脚本工具"
+          }
+        }
+      }
+    },
+    "sEj-5w-peJ.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Scripting\"; ObjectID = \"sEj-5w-peJ\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scripting"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "脚本"
+          }
+        }
+      }
+    },
+    "seo-dr-hjm.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Breakpoint list\"; ObjectID = \"seo-dr-hjm\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Breakpoint list"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "断点列表"
+          }
+        }
+      }
+    },
+    "seo-dr-hjm.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Breakpoints…\"; ObjectID = \"seo-dr-hjm\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Breakpoints…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "断点…"
+          }
+        }
+      }
+    },
+    "Sh0-DC-Iab.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Toggle Enable/Disable the DNS Spoofing\"; ObjectID = \"Sh0-DC-Iab\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toggle Enable/Disable the DNS Spoofing"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "切换启用/禁用 DNS 欺骗"
+          }
+        }
+      }
+    },
+    "Sh0-DC-Iab.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"DNS Spoofing\"; ObjectID = \"Sh0-DC-Iab\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DNS Spoofing"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DNS 欺骗"
+          }
+        }
+      }
+    },
+    "snW-S8-Cw5.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Show Toolbar\"; ObjectID = \"snW-S8-Cw5\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show Toolbar"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "显示工具栏"
+          }
+        }
+      }
+    },
+    "ssw-3F-Rg2.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Install Certificate on iOS\"; ObjectID = \"ssw-3F-Rg2\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Install Certificate on iOS"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在 iOS 上安装证书"
+          }
+        }
+      }
+    },
+    "Sth-D1-OD6.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Export faster and significantly reduce the size of the exported file. \"; ObjectID = \"Sth-D1-OD6\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Export faster and significantly reduce the size of the exported file. "
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "更快导出，显著减少导出文件的大小。"
+          }
+        }
+      }
+    },
+    "Stu-BV-Lkk.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"White List...\"; ObjectID = \"Stu-BV-Lkk\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "White List..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "白名单…"
+          }
+        }
+      }
+    },
+    "t0K-OI-Qxz.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"Getting Started\"; ObjectID = \"t0K-OI-Qxz\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Getting Started"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "开始使用"
+          }
+        }
+      }
+    },
+    "Td7-aD-5lo.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"Window\"; ObjectID = \"Td7-aD-5lo\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Window"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "窗口"
+          }
+        }
+      }
+    },
+    "tEF-kV-SFS.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Simulators…\"; ObjectID = \"tEF-kV-SFS\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Simulators…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "模拟器…"
+          }
+        }
+      }
+    },
+    "TL5-7M-KTY.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Toggle Dock to Right Window\"; ObjectID = \"TL5-7M-KTY\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toggle Dock to Right Window"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "切换右侧窗口的 Dock"
+          }
+        }
+      }
+    },
+    "Tx9-Hp-lAT.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Settings for External Proxy\"; ObjectID = \"Tx9-Hp-lAT\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Settings for External Proxy"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "外部代理设置"
+          }
+        }
+      }
+    },
+    "Tx9-Hp-lAT.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"External Proxy Settings…\"; ObjectID = \"Tx9-Hp-lAT\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "External Proxy Settings…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "外部代理设置…"
+          }
+        }
+      }
+    },
+    "tXI-mr-wws.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Open Recent\"; ObjectID = \"tXI-mr-wws\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open Recent"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "打开最近的文件"
+          }
+        }
+      }
+    },
+    "tY3-f2-wJ6.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Use External Proxy\"; ObjectID = \"tY3-f2-wJ6\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use External Proxy"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用外部代理"
+          }
+        }
+      }
+    },
+    "uDn-AD-TMd.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"External Proxying\"; ObjectID = \"uDn-AD-TMd\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "External Proxying"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "外部代理"
+          }
+        }
+      }
+    },
+    "UDU-2G-PIN.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Map Remote...\"; ObjectID = \"UDU-2G-PIN\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Map Remote..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "映射远程…"
+          }
+        }
+      }
+    },
+    "Uei-Ey-Z6a.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Toggle Enable/Disable the Map Remote Tool\"; ObjectID = \"Uei-Ey-Z6a\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toggle Enable/Disable the Map Remote Tool"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "切换启用/禁用映射远程工具"
+          }
+        }
+      }
+    },
+    "Uei-Ey-Z6a.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Map Remote\"; ObjectID = \"Uei-Ey-Z6a\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Map Remote"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "映射远程"
+          }
+        }
+      }
+    },
+    "uHE-Gw-PEp.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"TLS Key Logging…\"; ObjectID = \"uHE-Gw-PEp\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "TLS Key Logging…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "TLS 密钥日志记录…"
+          }
+        }
+      }
+    },
+    "UIo-Tj-Mg7.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"SOCKS Proxy\"; ObjectID = \"UIo-Tj-Mg7\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SOCKS Proxy"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SOCKS 代理"
+          }
+        }
+      }
+    },
+    "UMm-4m-xtu.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"No item yet\\n\\\"Command + K\\\" to add item\"; ObjectID = \"UMm-4m-xtu\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No item yet\n\"Command + K\" to add item"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "尚未添加项目\n\"Command + K\" 添加项目"
+          }
+        }
+      }
+    },
+    "uQy-DD-JDr.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"Proxyman\"; ObjectID = \"uQy-DD-JDr\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Proxyman"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Proxyman"
+          }
+        }
+      }
+    },
+    "uRl-iY-unG.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Cut\"; ObjectID = \"uRl-iY-unG\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cut"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "剪切"
+          }
+        }
+      }
+    },
+    "URZ-dx-YL1.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Access Control…\"; ObjectID = \"URZ-dx-YL1\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Access Control…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "访问控制…"
+          }
+        }
+      }
+    },
+    "usX-uv-Uu3.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Select Next Tab\"; ObjectID = \"usX-uv-Uu3\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Select Next Tab"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "选择下一个标签"
+          }
+        }
+      }
+    },
+    "V9c-JV-0Mv.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Advanced\"; ObjectID = \"V9c-JV-0Mv\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Advanced"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "高级"
+          }
+        }
+      }
+    },
+    "VcR-90-Coz.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Check for Updates…\"; ObjectID = \"VcR-90-Coz\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Check for Updates…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "检查更新…"
+          }
+        }
+      }
+    },
+    "Vdr-fp-XzO.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Hide Others\"; ObjectID = \"Vdr-fp-XzO\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hide Others"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "隐藏其他窗口"
+          }
+        }
+      }
+    },
+    "VeP-8Q-K5o.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Homepage…\"; ObjectID = \"VeP-8Q-K5o\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Homepage…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "主页…"
+          }
+        }
+      }
+    },
+    "vmb-zt-CkW.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"Setup\"; ObjectID = \"vmb-zt-CkW\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Setup"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "设置"
+          }
+        }
+      }
+    },
+    "vNY-rz-j42.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Clear Menu\"; ObjectID = \"vNY-rz-j42\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Clear Menu"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "清除菜单"
+          }
+        }
+      }
+    },
+    "VUs-2d-B6f.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Block List...\"; ObjectID = \"VUs-2d-B6f\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Block List..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "黑名单…"
+          }
+        }
+      }
+    },
+    "vxo-Yk-owy.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Beautify\"; ObjectID = \"vxo-Yk-owy\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beautify"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "美化"
+          }
+        }
+      }
+    },
+    "w0X-qx-Aym.ibExternalAccessibilityDescription" : {
+      "comment" : "Class = \"NSButton\"; ibExternalAccessibilityDescription = \"Resource Usage: Memory, Upload and Download\"; ObjectID = \"w0X-qx-Aym\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Resource Usage: Memory, Upload and Download"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "资源使用：内存、上传和下载"
+          }
+        }
+      }
+    },
+    "w0X-qx-Aym.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Resource Usage: Memory, Upload and Download\"; ObjectID = \"w0X-qx-Aym\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Resource Usage: Memory, Upload and Download"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "资源使用：内存、上传和下载"
+          }
+        }
+      }
+    },
+    "W09-u5-2LZ.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Current Application Folder\"; ObjectID = \"W09-u5-2LZ\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Current Application Folder"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "当前应用程序文件夹"
+          }
+        }
+      }
+    },
+    "W09-u5-2LZ.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Open User Data Folder…\"; ObjectID = \"W09-u5-2LZ\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open User Data Folder…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "打开用户数据文件夹…"
+          }
+        }
+      }
+    },
+    "W48-6f-4Dl.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"Edit\"; ObjectID = \"W48-6f-4Dl\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Edit"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "编辑"
+          }
+        }
+      }
+    },
+    "wfb-WH-ErF.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Manual Setup…\"; ObjectID = \"wfb-WH-ErF\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Manual Setup…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "手动设置…"
+          }
+        }
+      }
+    },
+    "WMm-Kk-YBm.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Export\"; ObjectID = \"WMm-Kk-YBm\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Export"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导出"
+          }
+        }
+      }
+    },
+    "wng-11-iu1.placeholderString" : {
+      "comment" : "Class = \"NSSearchFieldCell\"; placeholderString = \"Filter (⌘⇧F)\"; ObjectID = \"wng-11-iu1\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Filter (⌘⇧F)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "筛选 (⌘⇧F)"
+          }
+        }
+      }
+    },
+    "wpr-3q-Mcd.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Help\"; ObjectID = \"wpr-3q-Mcd\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Help"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "帮助"
+          }
+        }
+      }
+    },
+    "wTh-vD-k7l.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Python…\"; ObjectID = \"wTh-vD-k7l\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Python…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Python…"
+          }
+        }
+      }
+    },
+    "WuK-2M-JYO.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Export Pirvate Key of Proxyman CA\"; ObjectID = \"WuK-2M-JYO\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Export Pirvate Key of Proxyman CA"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导出 Proxyman CA 的私钥"
+          }
+        }
+      }
+    },
+    "WuK-2M-JYO.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Private Key...\"; ObjectID = \"WuK-2M-JYO\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Private Key..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "私钥…"
+          }
+        }
+      }
+    },
+    "x3v-GG-iWU.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Copy\"; ObjectID = \"x3v-GG-iWU\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copy"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "复制"
+          }
+        }
+      }
+    },
+    "xI1-27-z4r.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Dock to Side Windows\"; ObjectID = \"xI1-27-z4r\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dock to Side Windows"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "停靠侧窗"
+          }
+        }
+      }
+    },
+    "xJd-Uf-BK5.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Open Diff View…\"; ObjectID = \"xJd-Uf-BK5\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open Diff View…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "打开差异视图…"
+          }
+        }
+      }
+    },
+    "Xkd-SQ-lBA.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Proxyman will proxy all flows to the external proxy server.\"; ObjectID = \"Xkd-SQ-lBA\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Proxyman will proxy all flows to the external proxy server."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Proxyman 将所有流量代理到外部代理服务器。"
+          }
+        }
+      }
+    },
+    "xnY-jX-D87.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Instruction to install Proxyman CA to this mac\"; ObjectID = \"xnY-jX-D87\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Instruction to install Proxyman CA to this mac"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "安装 Proxyman CA 到此 Mac 的说明"
+          }
+        }
+      }
+    },
+    "xnY-jX-D87.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Install Certificate on this Mac…\"; ObjectID = \"xnY-jX-D87\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Install Certificate on this Mac…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在此 Mac 上安装证书…"
+          }
+        }
+      }
+    },
+    "XSj-xj-8zk.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Map Remote...\"; ObjectID = \"XSj-xj-8zk\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Map Remote..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "映射远程..."
+          }
+        }
+      }
+    },
+    "xti-kr-tkZ.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"App...\"; ObjectID = \"xti-kr-tkZ\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "App..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "应用..."
+          }
+        }
+      }
+    },
+    "xuK-i2-5fM.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Proxyman for macOS…\"; ObjectID = \"xuK-i2-5fM\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Proxyman for macOS…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Proxyman for macOS…"
+          }
+        }
+      }
+    },
+    "Xz5-n4-O0W.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Find…\"; ObjectID = \"Xz5-n4-O0W\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Find…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "查找…"
+          }
+        }
+      }
+    },
+    "XZI-Uu-ZTS.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"0 items\"; ObjectID = \"XZI-Uu-ZTS\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "0 items"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "断点..."
+          }
+        }
+      }
+    },
+    "yBE-G1-kKG.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Breakpoints...\"; ObjectID = \"yBE-G1-kKG\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Breakpoints..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "断点…"
+          }
+        }
+      }
+    },
+    "YdX-1w-xWI.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Add\"; ObjectID = \"YdX-1w-xWI\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "添加"
+          }
+        }
+      }
+    },
+    "YEy-JH-Tfz.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Find and Replace…\"; ObjectID = \"YEy-JH-Tfz\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Find and Replace…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "查找和替换…"
+          }
+        }
+      }
+    },
+    "YfX-Qv-Fip.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Breakpoint\"; ObjectID = \"YfX-Qv-Fip\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Breakpoint"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "断点"
+          }
+        }
+      }
+    },
+    "yHp-Wk-jHo.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Block List is applied to block all matched URLs  (⌥⌘X)\"; ObjectID = \"yHp-Wk-jHo\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Block List is applied to block all matched URLs  (⌥⌘X)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "阻止列表将应用于阻止所有匹配的 URL (⌥⌘X)"
+          }
+        }
+      }
+    },
+    "Yib-Ld-rop.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Send private message to Proxyman team\"; ObjectID = \"Yib-Ld-rop\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Send private message to Proxyman team"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "向 Proxyman 团队发送私信"
+          }
+        }
+      }
+    },
+    "Yib-Ld-rop.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Send Private Message…\"; ObjectID = \"Yib-Ld-rop\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Send Private Message…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "发送私信…"
+          }
+        }
+      }
+    },
+    "yIg-2W-rqg.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Skip exporting large body data (>= 5 MB) of Requests / Responses\"; ObjectID = \"yIg-2W-rqg\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skip exporting large body data (>= 5 MB) of Requests / Responses"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "跳过导出请求/响应的大体数据 (≥ 5 MB)"
+          }
+        }
+      }
+    },
+    "yqp-ee-esT.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"Scripting\"; ObjectID = \"yqp-ee-esT\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scripting"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "脚本"
+          }
+        }
+      }
+    },
+    "YrN-cD-1BC.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Auto Select\"; ObjectID = \"YrN-cD-1BC\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Auto Select"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自动选择"
+          }
+        }
+      }
+    },
+    "z4l-8W-vHV.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Buy Proxyman Pro…\"; ObjectID = \"z4l-8W-vHV\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buy Proxyman Pro…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "购买 Proxyman Pro..."
+          }
+        }
+      }
+    },
+    "Zag-6a-svC.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"The rule of breakpoints\"; ObjectID = \"Zag-6a-svC\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The rule of breakpoints"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "断点规则"
+          }
+        }
+      }
+    },
+    "Zag-6a-svC.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Rules…\"; ObjectID = \"Zag-6a-svC\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rules…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "规则..."
+          }
+        }
+      }
+    },
+    "zC8-9z-w9Y.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Custom Certificates\"; ObjectID = \"zC8-9z-w9Y\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Custom Certificates"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自定义证书"
+          }
+        }
+      }
+    },
+    "zfm-Nx-lph.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Proxyman does not work with my VPN?…\"; ObjectID = \"zfm-Nx-lph\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Proxyman does not work with my VPN?…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Proxyman 与我的 VPN 不兼容吗？..."
+          }
+        }
+      }
+    },
+    "zIG-ep-Vq1.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Export\"; ObjectID = \"zIG-ep-Vq1\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Export"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导出"
+          }
+        }
+      }
+    },
+    "Zih-VI-Rcb.ibExternalAccessibilityDescription" : {
+      "comment" : "Class = \"NSButton\"; ibExternalAccessibilityDescription = \"Show / Hide the Filter Panel (⌘F)\"; ObjectID = \"Zih-VI-Rcb\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show / Hide the Filter Panel (⌘F)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "显示/隐藏过滤面板 (⌘F)"
+          }
+        }
+      }
+    },
+    "Zih-VI-Rcb.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Show / Hide the Filter Panel (⌘F)\"; ObjectID = \"Zih-VI-Rcb\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show / Hide the Filter Panel (⌘F)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "显示/隐藏过滤面板 (⌘F)"
+          }
+        }
+      }
+    },
+    "ZIL-Of-dSs.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Electron App…\"; ObjectID = \"ZIL-Of-dSs\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Electron App…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Electron 应用..."
+          }
+        }
+      }
+    },
+    "zJp-6M-7Yo.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Reset\"; ObjectID = \"zJp-6M-7Yo\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reset"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重置"
+          }
+        }
+      }
+    },
+    "zPa-4T-gtr.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Twitter…\"; ObjectID = \"zPa-4T-gtr\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Twitter…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "推特..."
+          }
+        }
+      }
+    },
+    "zQH-5l-VXn.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Script List…\"; ObjectID = \"zQH-5l-VXn\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Script List…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "脚本列表..."
+          }
+        }
+      }
+    },
+    "zRf-ev-leU.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Only capture matched URLs. Ignore the rest\"; ObjectID = \"zRf-ev-leU\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Only capture matched URLs. Ignore the rest"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "仅捕获匹配的 URL。忽略其余部分"
+          }
+        }
+      }
+    },
+    "zRf-ev-leU.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Allow List…\"; ObjectID = \"zRf-ev-leU\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Allow List…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "允许列表..."
+          }
+        }
+      }
+    },
+    "Zv0-x6-lgN.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Prevent client applications from caching requests and responses (⌥⌘N)\"; ObjectID = \"Zv0-x6-lgN\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prevent client applications from caching requests and responses (⌥⌘N)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "防止客户端应用缓存请求和响应 (⌥⌘N)"
+          }
+        }
+      }
+    },
+    "zXo-eI-h7d.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Add new domains or apps into Source Panel (Left Panel)\"; ObjectID = \"zXo-eI-h7d\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add new domains or apps into Source Panel (Left Panel)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "将新域名或应用添加到源面板（左侧面板）"
+          }
+        }
+      }
+    },
+    "zXo-eI-h7d.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"New Domain or App\"; ObjectID = \"zXo-eI-h7d\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "New Domain or App"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新域名或应用"
+          }
+        }
+      }
+    },
+    "zYz-aO-geY.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Export Proxyman CA (.p12)\"; ObjectID = \"zYz-aO-geY\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Export Proxyman CA (.p12)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导出 Proxyman CA (.p12)"
+          }
+        }
+      }
+    },
+    "zYz-aO-geY.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Root Certificate as P12...\"; ObjectID = \"zYz-aO-geY\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Root Certificate as P12..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "根证书作为 P12..."
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

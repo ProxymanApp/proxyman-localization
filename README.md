@@ -1,7 +1,8 @@
 ## Localization for Proxyman 📚
 This public repository contains all texts of Proxyman for macOS app.
 
-- Update: Proxyman for macOS 4.3.0
+- Update: Proxyman for macOS 5.16.0
+- Update: Remove old localization files and replace with xcstring.
 
 ### Support languages
 - English (default)
@@ -9,13 +10,8 @@ This public repository contains all texts of Proxyman for macOS app.
 
 ### How to contribute?
 1. Clone this repository
-2. Open each `strings` file in the `macOS/zh-Hans/` folder
+2. Open each `xcstring` file in the `macOS` folder
 3. Provide a better-localized string
-
-```
-/* Class = "NSWindow"; title = "Custom Previewer Tab"; ObjectID = "QvC-M9-y7g"; */
-"QvC-M9-y7g.title" = "自定义预览器选项卡";
-```
 4. Submit a PR
 5. Get merged and Thanks for your contribution 🙌
 

@@ -1,0 +1,720 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "1a2-MC-EcO.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Open the diff with FileMerge application (Required Xcode)\"; ObjectID = \"1a2-MC-EcO\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open the diff with FileMerge application (Required Xcode)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用 FileMerge 应用打开 diff（需要 Xcode）"
+          }
+        }
+      }
+    },
+    "1a2-MC-EcO.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"FileMerge…\"; ObjectID = \"1a2-MC-EcO\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "FileMerge…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "FileMerge…"
+          }
+        }
+      }
+    },
+    "3Tt-gM-SlN.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"No Item Selection\"; ObjectID = \"3Tt-gM-SlN\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No Item Selection"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "未选择项目"
+          }
+        }
+      }
+    },
+    "5Nl-nS-x8J.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Add Comment…\"; ObjectID = \"5Nl-nS-x8J\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add Comment…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "添加评论…"
+          }
+        }
+      }
+    },
+    "5wz-6g-ris.headerCell.title" : {
+      "comment" : "Class = \"NSTableColumn\"; headerCell.title = \"ID\"; ObjectID = \"5wz-6g-ris\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ID"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ID"
+          }
+        }
+      }
+    },
+    "5Xc-aN-5o3.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Reset\"; ObjectID = \"5Xc-aN-5o3\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reset"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重置"
+          }
+        }
+      }
+    },
+    "8BS-lV-5rL.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"All JSON Keys are alphabetically sorted. It's easier to see the diff if the JSON Keys Order are changed\"; ObjectID = \"8BS-lV-5rL\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "All JSON Keys are alphabetically sorted. It's easier to see the diff if the JSON Keys Order are changed"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "所有 JSON 键按字母顺序排序。更改 JSON 键的顺序更容易查看差异"
+          }
+        }
+      }
+    },
+    "8BS-lV-5rL.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Sort JSON Keys\"; ObjectID = \"8BS-lV-5rL\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sort JSON Keys"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "排序 JSON 键"
+          }
+        }
+      }
+    },
+    "8Ul-SW-AQu.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Please upgrade your macOS to use this feature (macOS 11.2 or later).\"; ObjectID = \"8Ul-SW-AQu\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Please upgrade your macOS to use this feature (macOS 11.2 or later)."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "请升级您的 macOS 以使用此功能（macOS 11.2 或更高版本）。"
+          }
+        }
+      }
+    },
+    "9sa-A7-zXD.headerCell.title" : {
+      "comment" : "Class = \"NSTableColumn\"; headerCell.title = \"Comment\"; ObjectID = \"9sa-A7-zXD\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comment"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "评论"
+          }
+        }
+      }
+    },
+    "9Z5-em-tNW.headerCell.title" : {
+      "comment" : "Class = \"NSTableColumn\"; headerCell.title = \"Left\"; ObjectID = \"9Z5-em-tNW\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Left"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "左"
+          }
+        }
+      }
+    },
+    "aIw-46-5hz.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Right Side\"; ObjectID = \"aIw-46-5hz\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Right Side"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "右侧"
+          }
+        }
+      }
+    },
+    "bQ4-Wx-xML.headerCell.title" : {
+      "comment" : "Class = \"NSTableColumn\"; headerCell.title = \"URL\"; ObjectID = \"bQ4-Wx-xML\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "URL"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "网址"
+          }
+        }
+      }
+    },
+    "f2F-ml-FVZ.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Request\"; ObjectID = \"f2F-ml-FVZ\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Request"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "请求"
+          }
+        }
+      }
+    },
+    "hQh-ob-KJb.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Response\"; ObjectID = \"hQh-ob-KJb\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Response"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "响应"
+          }
+        }
+      }
+    },
+    "luF-d2-Nns.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Highlight\"; ObjectID = \"luF-d2-Nns\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Highlight"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "高亮"
+          }
+        }
+      }
+    },
+    "m8J-pW-PvJ.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Gray\"; ObjectID = \"m8J-pW-PvJ\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gray"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "灰色"
+          }
+        }
+      }
+    },
+    "m8Z-7l-bBE.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Purple\"; ObjectID = \"m8Z-7l-bBE\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Purple"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "紫色"
+          }
+        }
+      }
+    },
+    "MhK-Bc-Bjl.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"Open with\"; ObjectID = \"MhK-Bc-Bjl\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open with"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "打开方式"
+          }
+        }
+      }
+    },
+    "MIh-2i-1gh.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Delete\"; ObjectID = \"MIh-2i-1gh\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "删除"
+          }
+        }
+      }
+    },
+    "NOj-Vy-sgh.headerCell.title" : {
+      "comment" : "Class = \"NSTableColumn\"; headerCell.title = \"Method\"; ObjectID = \"NOj-Vy-sgh\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Method"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "方法"
+          }
+        }
+      }
+    },
+    "ntd-a2-vPS.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Open with\"; ObjectID = \"ntd-a2-vPS\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open with"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "打开方式"
+          }
+        }
+      }
+    },
+    "O6k-Xy-sIt.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Use ksdiff from Kaleidoscope app to diff two files\"; ObjectID = \"O6k-Xy-sIt\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use ksdiff from Kaleidoscope app to diff two files"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用 Kaleidoscope 应用中的 ksdiff 比较两个文件"
+          }
+        }
+      }
+    },
+    "O6k-Xy-sIt.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Kaleidoscope…\"; ObjectID = \"O6k-Xy-sIt\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kaleidoscope…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kaleidoscope…"
+          }
+        }
+      }
+    },
+    "oGF-93-cOf.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Yellow\"; ObjectID = \"oGF-93-cOf\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yellow"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "黄色"
+          }
+        }
+      }
+    },
+    "oKd-lF-RDf.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Left Side\"; ObjectID = \"oKd-lF-RDf\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Left Side"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "左侧"
+          }
+        }
+      }
+    },
+    "oul-mj-e8E.title" : {
+      "comment" : "Class = \"NSWindow\"; title = \"Diff\"; ObjectID = \"oul-mj-e8E\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Diff"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "差异"
+          }
+        }
+      }
+    },
+    "Pmc-Kw-SKp.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Green\"; ObjectID = \"Pmc-Kw-SKp\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Green"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "绿色"
+          }
+        }
+      }
+    },
+    "QNk-T7-cqM.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Strikethrough\"; ObjectID = \"QNk-T7-cqM\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Strikethrough"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "删除线"
+          }
+        }
+      }
+    },
+    "r0e-6r-hoR.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"Highlight\"; ObjectID = \"r0e-6r-hoR\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Highlight"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "高亮"
+          }
+        }
+      }
+    },
+    "rJb-a0-vkg.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"All Header Key are alphabetically sorted. It's easier to see the diff.\"; ObjectID = \"rJb-a0-vkg\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "All Header Key are alphabetically sorted. It's easier to see the diff."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "所有头部键按字母顺序排列。查看差异更容易。"
+          }
+        }
+      }
+    },
+    "rJb-a0-vkg.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Sort Headers\"; ObjectID = \"rJb-a0-vkg\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sort Headers"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "排序头部"
+          }
+        }
+      }
+    },
+    "tKp-dK-G2A.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Diff Tool is not available!\"; ObjectID = \"tKp-dK-G2A\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Diff Tool is not available!"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "差异工具不可用！"
+          }
+        }
+      }
+    },
+    "uDy-XP-WFC.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Delete All\"; ObjectID = \"uDy-XP-WFC\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete All"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "全部删除"
+          }
+        }
+      }
+    },
+    "Uwu-CL-nAi.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Red\"; ObjectID = \"Uwu-CL-nAi\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Red"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "红色"
+          }
+        }
+      }
+    },
+    "VgV-en-by3.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Side By Side\"; ObjectID = \"VgV-en-by3\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Side By Side"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "并排"
+          }
+        }
+      }
+    },
+    "vMf-zi-skT.headerCell.title" : {
+      "comment" : "Class = \"NSTableColumn\"; headerCell.title = \"Right\"; ObjectID = \"vMf-zi-skT\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Right"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "右"
+          }
+        }
+      }
+    },
+    "xw8-PW-fyB.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Unified\"; ObjectID = \"xw8-PW-fyB\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unified"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "统一"
+          }
+        }
+      }
+    },
+    "y5q-RY-LfK.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Blue\"; ObjectID = \"y5q-RY-LfK\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blue"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "蓝色"
+          }
+        }
+      }
+    },
+    "ygt-Sk-AxV.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"1. Select the request/response on the main view\"; ObjectID = \"ygt-Sk-AxV\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1. Select the request/response on the main view"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1. 在主视图中选择请求/响应"
+          }
+        }
+      }
+    },
+    "YHR-0h-QW7.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Diff on:\"; ObjectID = \"YHR-0h-QW7\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Diff on:"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "差异于："
+          }
+        }
+      }
+    },
+    "yYR-bn-Vqt.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"2. ⌘Y or Right-Click -> Tools -> Add to Diff Pool\"; ObjectID = \"yYR-bn-Vqt\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2. ⌘Y or Right-Click -> Tools -> Add to Diff Pool"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2. ⌘Y 或右键点击 -> 工具 -> 添加到差异池"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
