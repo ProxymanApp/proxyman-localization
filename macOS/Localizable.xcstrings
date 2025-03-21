@@ -538,7 +538,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : " (模拟器过多。请关闭其它的，只保留一个!)"
+            "value" : " (模拟器过多。请关闭其他的，只保留一个!)"
           }
         }
       }
@@ -1415,7 +1415,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "将备注添加到 %d 个选定请求"
+            "value" : "将备注添加到 %d 个选中的请求"
           }
         }
       }
@@ -1431,7 +1431,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "向选定请求添加备注"
+            "value" : "向选中的请求添加备注"
           }
         }
       }
@@ -2646,7 +2646,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "撰写"
+            "value" : "Compose"
           }
         }
       }
@@ -2662,7 +2662,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "新建 HTTP/HTTPS 请求 (⌥+⌘+C)"
+            "value" : "构建新的 HTTP/HTTPS 请求 (⌥+⌘+C)"
           }
         }
       }
@@ -2678,7 +2678,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "撰写请求"
+            "value" : "构建请求"
           }
         }
       }
@@ -2695,7 +2695,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "撰写工具不支持 WebSocket 协议！"
+            "value" : "构建工具不支持 WebSocket 协议！"
           }
         }
       }
@@ -2712,7 +2712,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "已撰写"
+            "value" : "已构建"
           }
         }
       }
@@ -3149,7 +3149,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "以%@格式复制选定的请求"
+            "value" : "以%@格式复制选中的请求"
           }
         }
       }
@@ -3213,7 +3213,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "复制选定行的值（如果是数组或对象则为JSON节点，其他类型为普通值）"
+            "value" : "复制选中的行的值（如果是数组或对象则为JSON节点，其他类型为普通值）"
           }
         }
       }
@@ -4137,7 +4137,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "为选定的流程创建脚本规则"
+            "value" : "为选中的数据流创建脚本规则"
           }
         }
       }
@@ -5287,7 +5287,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "导出选定请求和响应的原始 HTTP 消息"
+            "value" : "导出选中的请求和响应的原始 HTTP 消息"
           }
         }
       }
@@ -5335,7 +5335,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "导出选定流程到 Postman Collection 2"
+            "value" : "导出选中的数据流到 Postman Collection 2"
           }
         }
       }
@@ -9284,7 +9284,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "请少于 20 个流！"
+            "value" : "请少于 20 个数据流！"
           }
         }
       }
@@ -9931,7 +9931,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "将请求和响应发布到 GitHub Gist（公共/私人）"
+            "value" : "将请求和响应发布到 GitHub Gist（公开/私有）"
           }
         }
       }
@@ -10402,7 +10402,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "重复 %d 个选定的请求"
+            "value" : "重复 %d 个选中的请求"
           }
         }
       }
@@ -11516,7 +11516,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "脚本编写"
+            "value" : "脚本"
           }
         }
       }
@@ -11548,7 +11548,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "脚本编写…"
+            "value" : "脚本…"
           }
         }
       }
@@ -12585,7 +12585,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "固定域名：右击选定的请求 → 固定"
+            "value" : "固定域名：右击选中的请求 → 固定"
           }
         }
       }
@@ -12617,7 +12617,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "保存请求：右击选定的请求 → 保存 (⇧⌘S)"
+            "value" : "保存请求：右击选中的请求 → 保存 (⇧⌘S)"
           }
         }
       }
@@ -12987,7 +12987,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "尝试将选定文本中的时间戳转换为可读文本"
+            "value" : "尝试将选中的文本中的时间戳转换为可读文本"
           }
         }
       }
@@ -13003,7 +13003,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "尝试对选定文本进行 Base64 解码"
+            "value" : "尝试对选中的文本进行 Base64 解码"
           }
         }
       }
@@ -13019,7 +13019,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "尝试展示选定文本中的键值对"
+            "value" : "尝试展示选中的文本中的键值对"
           }
         }
       }
@@ -13115,7 +13115,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "无法使用此流程构建文件。这是一个严重的错误，请在 Proxyman 的 GitHub 上打开问题 :D"
+            "value" : "无法使用此数据流构建文件。这是一个严重的错误，请在 Proxyman 的 GitHub 上打开问题 :D"
           }
         }
       }

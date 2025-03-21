@@ -115,7 +115,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "将 Proxyman 头信息附加到匹配的流"
+            "value" : "将 Proxyman 头信息附加到匹配的数据流"
           }
         }
       }
@@ -574,7 +574,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "其它:  "
+            "value" : "其他:  "
           }
         }
       }
@@ -2036,7 +2036,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "由Microsoft App Center提供支持"
+            "value" : "由 Microsoft App Center 提供支持"
           }
         }
       }
@@ -2801,7 +2801,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "私人 Gist"
+            "value" : "私有 Gist"
           }
         }
       }

@@ -1152,7 +1152,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "复制选定请求为 cURL/HTTPie 格式"
+            "value" : "复制选中的请求为 cURL/HTTPie 格式"
           }
         }
       }
@@ -1441,7 +1441,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "创建用于调试的新请求"
+            "value" : "构建用于调试的新请求"
           }
         }
       }
@@ -1458,7 +1458,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "创建请求…"
+            "value" : "构建请求…"
           }
         }
       }
@@ -2206,7 +2206,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "添加评论..."
+            "value" : "添加备注..."
           }
         }
       }
@@ -2461,7 +2461,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "从当前表中删除所有流程 (⇧⌘⌫)"
+            "value" : "从当前表中删除所有数据流 (⇧⌘⌫)"
           }
         }
       }
@@ -2478,7 +2478,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "从当前表中删除所有流程 (⇧⌘⌫)"
+            "value" : "从当前表中删除所有数据流 (⇧⌘⌫)"
           }
         }
       }
@@ -3158,7 +3158,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "打开编写窗口以编辑当前选定的请求"
+            "value" : "打开 Compose 窗口来编辑当前选中的请求"
           }
         }
       }
@@ -3260,7 +3260,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "流程"
+            "value" : "数据流"
           }
         }
       }
@@ -3549,7 +3549,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "重复当前选定的请求"
+            "value" : "重复当前选中的请求"
           }
         }
       }
@@ -4110,7 +4110,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "将选定的项目添加到差异池..."
+            "value" : "将选中的项目添加到差异池..."
           }
         }
       }
@@ -4127,7 +4127,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "将选定的请求保存到保存文件夹"
+            "value" : "将选中的请求保存到保存文件夹"
           }
         }
       }
@@ -4705,7 +4705,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "流程"
+            "value" : "数据流"
           }
         }
       }

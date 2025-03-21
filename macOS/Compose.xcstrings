@@ -98,7 +98,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "构建"
+            "value" : "Compose"
           }
         }
       }
@@ -302,7 +302,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "解析 cURL 到写信视图"
+            "value" : "解析 cURL 到 Compose 视图"
           }
         }
       }
