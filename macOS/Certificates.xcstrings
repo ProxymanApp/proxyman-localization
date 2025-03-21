@@ -1,0 +1,3202 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "0g9-Jz-zEX.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"iOS Settings app > Wi-Fi > Select current Wi-Fi > Configure Proxy > Manual\"; ObjectID = \"0g9-Jz-zEX\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iOS Settings app > Wi-Fi > Select current Wi-Fi > Configure Proxy > Manual"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iOS 设置应用 > Wi-Fi > 选择当前Wi-Fi > 配置代理 > 手动"
+          }
+        }
+      }
+    },
+    "0IK-8b-Xur.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Open Setting app > Downloaded Profile\"; ObjectID = \"0IK-8b-Xur\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open Setting app > Downloaded Profile"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "打开设置应用 > 下载的配置文件"
+          }
+        }
+      }
+    },
+    "1FB-bf-PGP.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Install Manually…\"; ObjectID = \"1FB-bf-PGP\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Install Manually…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "手动安装…"
+          }
+        }
+      }
+    },
+    "2Ij-p9-Cru.label" : {
+      "comment" : "Class = \"NSTabViewItem\"; label = \"Server Certificates\"; ObjectID = \"2Ij-p9-Cru\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Server Certificates"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "服务器证书"
+          }
+        }
+      }
+    },
+    "2MB-ih-zzS.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Preview...\"; ObjectID = \"2MB-ih-zzS\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preview..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "预览…"
+          }
+        }
+      }
+    },
+    "2Un-h2-Mz2.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSSegmentedControl\"; ibShadowedToolTip = \"Override all (HTTP Proxy, Install and Trust Proxyman Certificate)\"; ObjectID = \"2Un-h2-Mz2\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Override all (HTTP Proxy, Install and Trust Proxyman Certificate)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "覆盖所有（HTTP 代理，安装并信任 Proxyman 证书）"
+          }
+        }
+      }
+    },
+    "2vE-RS-9xb.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Import PEM / DER...\"; ObjectID = \"2vE-RS-9xb\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Import PEM / DER..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导入 PEM / DER..."
+          }
+        }
+      }
+    },
+    "3me-kK-BKu.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Button\"; ObjectID = \"3me-kK-BKu\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Button"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "按钮"
+          }
+        }
+      }
+    },
+    "3w9-NR-iOT.title" : {
+      "comment" : "Class = \"NSViewController\"; title = \"Custom Certificates\"; ObjectID = \"3w9-NR-iOT\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Custom Certificates"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自定义证书"
+          }
+        }
+      }
+    },
+    "4As-3o-OGw.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"1. Install Root Proxyman Certificate to this Mac\"; ObjectID = \"4As-3o-OGw\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1. Install Root Proxyman Certificate to this Mac"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1. 将根 Proxyman 证书安装到此 Mac"
+          }
+        }
+      }
+    },
+    "4oo-po-W5P.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Auto Override HTTP Proxy, Inject Proxyman Certificate to system-level CA.\"; ObjectID = \"4oo-po-W5P\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Auto Override HTTP Proxy, Inject Proxyman Certificate to system-level CA."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自动覆盖 HTTP 代理，将 Proxyman 证书注入系统级 CA。"
+          }
+        }
+      }
+    },
+    "4Or-Eq-Hh7.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"PEM / DER File:\"; ObjectID = \"4Or-Eq-Hh7\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PEM / DER File:"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PEM / DER 文件："
+          }
+        }
+      }
+    },
+    "4u2-ta-7Uk.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Invalid Private Key\"; ObjectID = \"4u2-ta-7Uk\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Invalid Private Key"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "无效的私钥"
+          }
+        }
+      }
+    },
+    "5ta-i9-je0.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Open Setting app -> Security -> Encryption & Credentials -> Install a Certificate -> CA Certificate\"; ObjectID = \"5ta-i9-je0\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open Setting app -> Security -> Encryption & Credentials -> Install a Certificate -> CA Certificate"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "打开设置应用 -> 安全 -> 加密与凭据 -> 安装证书 -> CA 证书"
+          }
+        }
+      }
+    },
+    "5Ux-9X-oBV.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Edit…\"; ObjectID = \"5Ux-9X-oBV\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Edit…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "编辑…"
+          }
+        }
+      }
+    },
+    "6IL-OC-fe9.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Missing Extend Service\"; ObjectID = \"6IL-OC-fe9\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Missing Extend Service"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "缺少扩展服务"
+          }
+        }
+      }
+    },
+    "6Q0-Uk-SPu.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"2. Config Wifi Proxy on iOS devices to Proxyman\"; ObjectID = \"6Q0-Uk-SPu\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2. Config Wifi Proxy on iOS devices to Proxyman"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2. 将 iOS 设备的 Wi-Fi 代理配置为 Proxyman"
+          }
+        }
+      }
+    },
+    "6SF-97-tXk.ibShadowedLabels[0]" : {
+      "comment" : "Class = \"NSSegmentedCell\"; 6SF-97-tXk.ibShadowedLabels[0] = \"Override All Emulators\"; ObjectID = \"6SF-97-tXk\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Override All Emulators"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "覆写所有模拟器"
+          }
+        }
+      }
+    },
+    "6yv-ZU-MkM.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Proxy Setting…\"; ObjectID = \"6yv-ZU-MkM\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Proxy Setting…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "代理设置…"
+          }
+        }
+      }
+    },
+    "6ZG-PR-Why.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"4. Trust Proxyman Certificate in Setting app (Android 11 later)\"; ObjectID = \"6ZG-PR-Why\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "4. Trust Proxyman Certificate in Setting app (Android 11 later)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "4. 在设置应用中信任 Proxyman 证书（Android 11 及以后）"
+          }
+        }
+      }
+    },
+    "7Ik-Hc-tUa.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"3. Reboot all iOS Simulators\"; ObjectID = \"7Ik-Hc-tUa\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3. Reboot all iOS Simulators"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3. 重启所有 iOS 模拟器"
+          }
+        }
+      }
+    },
+    "8GS-GY-2bU.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"or\"; ObjectID = \"8GS-GY-2bU\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "or"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "或"
+          }
+        }
+      }
+    },
+    "8iV-K1-LhX.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Select File...\"; ObjectID = \"8iV-K1-LhX\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Select File..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "选择文件…"
+          }
+        }
+      }
+    },
+    "8rb-hH-jwg.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"http://cert.proxyman.io\"; ObjectID = \"8rb-hH-jwg\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "http://cert.proxyman.io"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "http://cert.proxyman.io"
+          }
+        }
+      }
+    },
+    "8Vf-ft-XbX.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Troubleshooting\"; ObjectID = \"8Vf-ft-XbX\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Troubleshooting"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "排查故障"
+          }
+        }
+      }
+    },
+    "8Wf-ky-fty.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Only Override Proxy…\"; ObjectID = \"8Wf-ky-fty\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Only Override Proxy…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "仅覆盖代理…"
+          }
+        }
+      }
+    },
+    "9FZ-I8-tL7.label" : {
+      "comment" : "Class = \"NSTabViewItem\"; label = \"Root Certificate\"; ObjectID = \"9FZ-I8-tL7\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Root Certificate"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "根证书"
+          }
+        }
+      }
+    },
+    "9gr-qr-L1N.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Config Client Certificates that use when establishing SSL connections to selected servers\"; ObjectID = \"9gr-qr-L1N\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Config Client Certificates that use when establishing SSL connections to selected servers"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "配置用于与选定服务器建立 SSL 连接时使用的客户端证书"
+          }
+        }
+      }
+    },
+    "9mo-5n-Ok1.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Proxyman CA (20 May, 2022)\"; ObjectID = \"9mo-5n-Ok1\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Proxyman CA (20 May, 2022)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Proxyman CA（2022年5月20日）"
+          }
+        }
+      }
+    },
+    "9yS-x3-ZmF.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Show QR Code\"; ObjectID = \"9yS-x3-ZmF\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show QR Code"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "显示二维码"
+          }
+        }
+      }
+    },
+    "9zc-gl-6Gi.label" : {
+      "comment" : "Class = \"NSTabViewItem\"; label = \" Automatic \"; ObjectID = \"9zc-gl-6Gi\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " Automatic "
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " 自动 "
+          }
+        }
+      }
+    },
+    "12N-zA-viy.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"http://cert.proxyman.io\"; ObjectID = \"12N-zA-viy\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "http://cert.proxyman.io"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "http://cert.proxyman.io"
+          }
+        }
+      }
+    },
+    "27z-Ia-iWs.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Your certificate doesn't comply new Apple Security Requirement (https://support.apple.com/en-us/HT210176)\"; ObjectID = \"27z-Ia-iWs\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your certificate doesn't comply new Apple Security Requirement (https://support.apple.com/en-us/HT210176)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "您的证书不符合新的 Apple 安全要求（https://support.apple.com/en-us/HT210176）"
+          }
+        }
+      }
+    },
+    "28I-42-dde.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \" Installed and Trusted\"; ObjectID = \"28I-42-dde\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " Installed and Trusted"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " 已安装并信任"
+          }
+        }
+      }
+    },
+    "35G-yF-RjE.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Delete\"; ObjectID = \"35G-yF-RjE\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "删除"
+          }
+        }
+      }
+    },
+    "65e-73-Q0G.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Could not find current IP. Please holding Option key and Click on WiFi Icon on the System Bar Menu to get your IP.\"; ObjectID = \"65e-73-Q0G\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Could not find current IP. Please holding Option key and Click on WiFi Icon on the System Bar Menu to get your IP."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "无法找到当前的 IP。请按住 Option 键并点击系统菜单栏中的 WiFi 图标以获取您的 IP。"
+          }
+        }
+      }
+    },
+    "90P-rB-29M.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Select File...\"; ObjectID = \"90P-rB-29M\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Select File..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "选择文件..."
+          }
+        }
+      }
+    },
+    "99d-Hk-vcA.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Port:\"; ObjectID = \"99d-Hk-vcA\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Port:"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "端口："
+          }
+        }
+      }
+    },
+    "350-RA-CLK.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Import single PKCS #12 file\"; ObjectID = \"350-RA-CLK\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Import single PKCS #12 file"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导入单个 PKCS #12 文件"
+          }
+        }
+      }
+    },
+    "350-RA-CLK.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Import P12...\"; ObjectID = \"350-RA-CLK\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Import P12..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导入 P12..."
+          }
+        }
+      }
+    },
+    "a2Q-ye-hyo.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Import P12...\"; ObjectID = \"a2Q-ye-hyo\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Import P12..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导入 P12..."
+          }
+        }
+      }
+    },
+    "A8s-e9-Lhj.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Generate and Add\"; ObjectID = \"A8s-e9-Lhj\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Generate and Add"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "生成并添加"
+          }
+        }
+      }
+    },
+    "aD3-a5-dRj.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Install Root Certificate \"; ObjectID = \"aD3-a5-dRj\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Install Root Certificate "
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "安装根证书 "
+          }
+        }
+      }
+    },
+    "AX3-a3-Js3.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"3. Open Safari app with Incognito Browser Mode\"; ObjectID = \"AX3-a3-Js3\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3. Open Safari app with Incognito Browser Mode"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3. 在隐私浏览模式下打开 Safari 应用"
+          }
+        }
+      }
+    },
+    "b1k-eW-OIt.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Add Your Custom Certificate\"; ObjectID = \"b1k-eW-OIt\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add Your Custom Certificate"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "添加您的自定义证书"
+          }
+        }
+      }
+    },
+    "B3B-RL-Tre.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Import\"; ObjectID = \"B3B-RL-Tre\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Import"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导入"
+          }
+        }
+      }
+    },
+    "b8I-Jj-XKE.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Config with the following info:\"; ObjectID = \"b8I-Jj-XKE\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Config with the following info:"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用以下信息进行配置："
+          }
+        }
+      }
+    },
+    "B8Z-hw-rUU.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Support iOS, iPadOS, watchOS, tvOS and VisionOS. Require Xcode 11.4+.\"; ObjectID = \"B8Z-hw-rUU\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Support iOS, iPadOS, watchOS, tvOS and VisionOS. Require Xcode 11.4+."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "支持 iOS、iPadOS、watchOS、tvOS 和 VisionOS。需要 Xcode 11.4 及以上版本。"
+          }
+        }
+      }
+    },
+    "bBk-Lg-1eY.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \" Reboot\"; ObjectID = \"bBk-Lg-1eY\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " Reboot"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " 重启"
+          }
+        }
+      }
+    },
+    "BBP-R4-5l9.headerCell.title" : {
+      "comment" : "Class = \"NSTableColumn\"; headerCell.title = \"Certificates\"; ObjectID = \"BBP-R4-5l9\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Certificates"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "证书"
+          }
+        }
+      }
+    },
+    "BMA-JI-QHh.title" : {
+      "comment" : "Class = \"NSWindow\"; title = \"iPhone Simulator Guideline\"; ObjectID = \"BMA-JI-QHh\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iPhone Simulator Guideline"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iPhone 模拟器指南"
+          }
+        }
+      }
+    },
+    "BrG-nw-fju.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"4.1\"; ObjectID = \"BrG-nw-fju\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "4.1"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "4.1"
+          }
+        }
+      }
+    },
+    "bvf-FZ-bZk.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Android Emulator Found:\"; ObjectID = \"bvf-FZ-bZk\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Android Emulator Found:"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "发现 Android 模拟器："
+          }
+        }
+      }
+    },
+    "Bvj-Yt-exS.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Revert Proxy…\"; ObjectID = \"Bvj-Yt-exS\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Revert Proxy…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "还原代理…"
+          }
+        }
+      }
+    },
+    "bxO-nB-eKN.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Problems?\"; ObjectID = \"bxO-nB-eKN\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Problems?"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "遇到问题？"
+          }
+        }
+      }
+    },
+    "c1O-gs-Kwe.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Install & Trust Certificate\"; ObjectID = \"c1O-gs-Kwe\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Install & Trust Certificate"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "安装并信任证书"
+          }
+        }
+      }
+    },
+    "COL-vX-IbZ.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"💻 Mac Setup Guide\"; ObjectID = \"COL-vX-IbZ\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💻 Mac Setup Guide"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💻 Mac 设置指南"
+          }
+        }
+      }
+    },
+    "CPL-kl-p97.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Config Server Certificates that use when establishing SSL connections to clients\"; ObjectID = \"CPL-kl-p97\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Config Server Certificates that use when establishing SSL connections to clients"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "配置服务器证书，以便在与客户端建立 SSL 连接时使用"
+          }
+        }
+      }
+    },
+    "D2J-YY-eJb.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Revert HTTP Proxy on Emulators\"; ObjectID = \"D2J-YY-eJb\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Revert HTTP Proxy on Emulators"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "还原模拟器上的 HTTP 代理"
+          }
+        }
+      }
+    },
+    "DCB-7w-rI4.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Verify that Proxyman Certificate is on Trusted Credentials -> User Tab\"; ObjectID = \"DCB-7w-rI4\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verify that Proxyman Certificate is on Trusted Credentials -> User Tab"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "验证 Proxyman 证书是否在受信任的凭据 -> 用户选项卡上"
+          }
+        }
+      }
+    },
+    "Dkk-yY-jwV.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Authentication:\"; ObjectID = \"Dkk-yY-jwV\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Authentication:"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "身份验证:"
+          }
+        }
+      }
+    },
+    "DkZ-5q-9fN.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Only Works with Emulators with Google APIs (Not Google Play Store).\"; ObjectID = \"DkZ-5q-9fN\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Only Works with Emulators with Google APIs (Not Google Play Store)."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "仅与带有 Google APIs 的模拟器（非 Google Play 商店）有效。"
+          }
+        }
+      }
+    },
+    "DpG-WS-524.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Import\"; ObjectID = \"DpG-WS-524\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Import"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导入"
+          }
+        }
+      }
+    },
+    "dZ6-yF-Jgh.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Preview\"; ObjectID = \"dZ6-yF-Jgh\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preview"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "预览"
+          }
+        }
+      }
+    },
+    "eQH-Rs-8y4.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"8080\"; ObjectID = \"eQH-Rs-8y4\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "8080"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "8080"
+          }
+        }
+      }
+    },
+    "eTM-Vw-U40.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Install Certificate \"; ObjectID = \"eTM-Vw-U40\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Install Certificate "
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "安装证书"
+          }
+        }
+      }
+    },
+    "EzU-Om-nmj.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Delete\"; ObjectID = \"EzU-Om-nmj\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "删除"
+          }
+        }
+      }
+    },
+    "f9c-r2-itF.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Setting app > General > About \"; ObjectID = \"f9c-r2-itF\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Setting app > General > About "
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "设置应用 > 常规 > 关于"
+          }
+        }
+      }
+    },
+    "fbm-4e-X8L.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Preview...\"; ObjectID = \"fbm-4e-X8L\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preview..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "预览..."
+          }
+        }
+      }
+    },
+    "Fhl-bX-bqH.placeholderString" : {
+      "comment" : "Class = \"NSTextFieldCell\"; placeholderString = \"api.proxyman.com\"; ObjectID = \"Fhl-bX-bqH\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "api.proxyman.com"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "api.proxyman.com"
+          }
+        }
+      }
+    },
+    "fmT-1c-f5F.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"2. Install and Trust Proxyman Certificates to all running Simulators\"; ObjectID = \"fmT-1c-f5F\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2. Install and Trust Proxyman Certificates to all running Simulators"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2. 安装并信任 Proxyman 证书到所有正在运行的模拟器上"
+          }
+        }
+      }
+    },
+    "GcN-ap-jzs.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Revert Proxy and Certificate to make it works without Proxyman.\"; ObjectID = \"GcN-ap-jzs\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Revert Proxy and Certificate to make it works without Proxyman."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "还原代理和证书，使其在没有 Proxyman 的情况下工作。"
+          }
+        }
+      }
+    },
+    "gmo-2P-ILh.ibShadowedLabels[0]" : {
+      "comment" : "Class = \"NSSegmentedCell\"; gmo-2P-ILh.ibShadowedLabels[0] = \"Prepare Simulators\"; ObjectID = \"gmo-2P-ILh\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prepare Simulators"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "准备模拟器"
+          }
+        }
+      }
+    },
+    "h4N-0s-EOk.title" : {
+      "comment" : "Class = \"NSWindow\"; title = \"macOS Setup Guideline\"; ObjectID = \"h4N-0s-EOk\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "macOS Setup Guideline"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "macOS 设置指南"
+          }
+        }
+      }
+    },
+    "H8r-HJ-rCo.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Android Guideline Document...\"; ObjectID = \"H8r-HJ-rCo\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Android Guideline Document..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Android 指南文档..."
+          }
+        }
+      }
+    },
+    "hcl-Lw-HYk.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"http://proxy.man/ssl\"; ObjectID = \"hcl-Lw-HYk\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "http://proxy.man/ssl"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "http://proxy.man/ssl"
+          }
+        }
+      }
+    },
+    "hfo-aA-RBs.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Import\"; ObjectID = \"hfo-aA-RBs\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Import"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导入"
+          }
+        }
+      }
+    },
+    "HJ6-Mk-udO.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Add to AndroidManifest.xml\"; ObjectID = \"HJ6-Mk-udO\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add to AndroidManifest.xml"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "添加到 AndroidManifest.xml"
+          }
+        }
+      }
+    },
+    "hNe-Cx-92t.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Script Failed? Open Github Ticket...\"; ObjectID = \"hNe-Cx-92t\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Script Failed? Open Github Ticket..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "脚本失败？打开 GitHub 工单..."
+          }
+        }
+      }
+    },
+    "Hpl-nC-YR2.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSSegmentedControl\"; ibShadowedToolTip = \"Override all (HTTP Proxy, Install and Trust Proxyman Certificate)\"; ObjectID = \"Hpl-nC-YR2\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Override all (HTTP Proxy, Install and Trust Proxyman Certificate)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "覆盖所有（HTTP 代理，安装并信任 Proxyman 证书）"
+          }
+        }
+      }
+    },
+    "hRu-Te-szt.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Copy the URL\"; ObjectID = \"hRu-Te-szt\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copy the URL"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "复制 URL"
+          }
+        }
+      }
+    },
+    "I0z-ek-erl.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"📱 iOS Devices Setup\"; ObjectID = \"I0z-ek-erl\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "📱 iOS Devices Setup"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "📱 iOS 设备设置"
+          }
+        }
+      }
+    },
+    "i3s-mO-7Zu.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Generated: Monday 2017\"; ObjectID = \"i3s-mO-7Zu\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Generated: Monday 2017"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "生成于：2017 年星期一"
+          }
+        }
+      }
+    },
+    "I7p-WJ-bLP.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Accept .pem and .der certificate format \"; ObjectID = \"I7p-WJ-bLP\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Accept .pem and .der certificate format "
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "接受 .pem 和 .der 证书格式"
+          }
+        }
+      }
+    },
+    "IcN-Ny-hRf.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Remote Devices can't connect to Proxyman because Proxyman is listening on `localhost` mode. Turn it off, so devices can connect.\"; ObjectID = \"IcN-Ny-hRf\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remote Devices can't connect to Proxyman because Proxyman is listening on `localhost` mode. Turn it off, so devices can connect."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "远程设备无法连接到 Proxyman，因为 Proxyman 正在 `localhost` 模式下监听。请关闭此模式，以便设备能够连接。"
+          }
+        }
+      }
+    },
+    "IGC-bV-tWi.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Install and Trust Proxyman CA Certificate in Keychain Access\"; ObjectID = \"IGC-bV-tWi\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Install and Trust Proxyman CA Certificate in Keychain Access"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在钥匙串访问中安装并信任 Proxyman CA 证书"
+          }
+        }
+      }
+    },
+    "IKZ-g5-QyE.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Server:\"; ObjectID = \"IKZ-g5-QyE\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Server:"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "服务器："
+          }
+        }
+      }
+    },
+    "iqL-tk-kyC.title" : {
+      "comment" : "Class = \"NSViewController\"; title = \"Certificate Importer\"; ObjectID = \"iqL-tk-kyC\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Certificate Importer"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "证书导入器"
+          }
+        }
+      }
+    },
+    "IRg-04-m6D.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Reload new certificates and ready to work.\"; ObjectID = \"IRg-04-m6D\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reload new certificates and ready to work."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重新加载新证书，准备工作。"
+          }
+        }
+      }
+    },
+    "iwX-Zy-dHh.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"1. Install Root Proxyman Certificate to this Mac\"; ObjectID = \"iwX-Zy-dHh\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1. Install Root Proxyman Certificate to this Mac"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1. 将根 Proxyman 证书安装到此 Mac"
+          }
+        }
+      }
+    },
+    "izU-Xb-PN8.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Support wildcard * and ?\"; ObjectID = \"izU-Xb-PN8\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Support wildcard * and ?"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "支持通配符 * 和 ?"
+          }
+        }
+      }
+    },
+    "j5C-En-j7N.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Open Incognito Browser Tab →\"; ObjectID = \"j5C-En-j7N\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open Incognito Browser Tab →"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "打开隐私浏览器标签 →"
+          }
+        }
+      }
+    },
+    "jJu-0X-bMz.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Private Key:\"; ObjectID = \"jJu-0X-bMz\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Private Key:"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "私钥："
+          }
+        }
+      }
+    },
+    "jlX-f0-s42.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Preview\"; ObjectID = \"jlX-f0-s42\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preview"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "预览"
+          }
+        }
+      }
+    },
+    "jno-Mx-64Y.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Delete\"; ObjectID = \"jno-Mx-64Y\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "删除"
+          }
+        }
+      }
+    },
+    "jSe-tI-1oO.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Delete\"; ObjectID = \"jSe-tI-1oO\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "删除"
+          }
+        }
+      }
+    },
+    "jSp-7A-ddk.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Tired of manual config?\"; ObjectID = \"jSp-7A-ddk\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tired of manual config?"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "厌倦手动配置了吗？"
+          }
+        }
+      }
+    },
+    "k41-aG-wU7.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Try Atlantis for iOS\"; ObjectID = \"k41-aG-wU7\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Try Atlantis for iOS"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "试试 iOS 版 Atlantis"
+          }
+        }
+      }
+    },
+    "kfV-W1-OLC.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"> Select Proxyman CA > Install\"; ObjectID = \"kfV-W1-OLC\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "> Select Proxyman CA > Install"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "> 选择 Proxyman CA > 安装"
+          }
+        }
+      }
+    },
+    "KIa-Bx-NHj.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"1. Generate and Add Proxyman CA Certificate to System Keychain\"; ObjectID = \"KIa-Bx-NHj\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1. Generate and Add Proxyman CA Certificate to System Keychain"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1. 生成并将 Proxyman CA 证书添加到系统钥匙串"
+          }
+        }
+      }
+    },
+    "KTb-xh-50d.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Only Inject Certificate…\"; ObjectID = \"KTb-xh-50d\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Only Inject Certificate…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "仅注入证书…"
+          }
+        }
+      }
+    },
+    "L73-eK-48W.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Sample Android Project…\"; ObjectID = \"L73-eK-48W\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sample Android Project…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "示例 Android 项目…"
+          }
+        }
+      }
+    },
+    "LgV-B5-riS.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Open:\"; ObjectID = \"LgV-B5-riS\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open:"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "打开："
+          }
+        }
+      }
+    },
+    "lMc-RP-KuC.title" : {
+      "comment" : "Class = \"NSWindow\"; title = \"Custom Certificates\"; ObjectID = \"lMc-RP-KuC\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Custom Certificates"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自定义证书"
+          }
+        }
+      }
+    },
+    "lwD-Gi-pEf.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Cancel\"; ObjectID = \"lwD-Gi-pEf\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancel"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "取消"
+          }
+        }
+      }
+    },
+    "MAV-qN-xEV.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"If you could not download the certificate, please read \\\"Troubleshooting Page\\\"\"; ObjectID = \"MAV-qN-xEV\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "If you could not download the certificate, please read \"Troubleshooting Page\""
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "如果无法下载证书，请阅读 \"故障排除页面\""
+          }
+        }
+      }
+    },
+    "MkW-vI-062.label" : {
+      "comment" : "Class = \"NSTabViewItem\"; label = \"  Manual  \"; ObjectID = \"MkW-vI-062\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "  Manual  "
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "  手动  "
+          }
+        }
+      }
+    },
+    "MMa-xs-uoO.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Make sure you Select System or Login Keychains.\"; ObjectID = \"MMa-xs-uoO\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Make sure you Select System or Login Keychains."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "请确保选择系统或登录钥匙串。"
+          }
+        }
+      }
+    },
+    "mqm-Mf-iD1.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Import\"; ObjectID = \"mqm-Mf-iD1\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Import"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导入"
+          }
+        }
+      }
+    },
+    "mVq-mh-DT7.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"2. Automatic Scripts\"; ObjectID = \"mVq-mh-DT7\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2. Automatic Scripts"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2. 自动脚本"
+          }
+        }
+      }
+    },
+    "mx2-3Y-ejK.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Copy the URL\"; ObjectID = \"mx2-3Y-ejK\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copy the URL"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "复制 URL"
+          }
+        }
+      }
+    },
+    "NHM-3n-a6a.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"This certificate is used for generating Proxy Certificates during SSL-Handshake to clients & servers\"; ObjectID = \"NHM-3n-a6a\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This certificate is used for generating Proxy Certificates during SSL-Handshake to clients & servers"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "此证书用于在 SSL 握手期间为客户端和服务器生成代理证书"
+          }
+        }
+      }
+    },
+    "NLq-bs-bzD.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Import P12...\"; ObjectID = \"NLq-bs-bzD\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Import P12..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导入 P12..."
+          }
+        }
+      }
+    },
+    "nMa-YT-rLp.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Import single PKCS #12 file\"; ObjectID = \"nMa-YT-rLp\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Import single PKCS #12 file"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导入单个 PKCS #12 文件"
+          }
+        }
+      }
+    },
+    "nMa-YT-rLp.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Import P12...\"; ObjectID = \"nMa-YT-rLp\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Import P12..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导入 P12..."
+          }
+        }
+      }
+    },
+    "nRi-lX-48n.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Host:\"; ObjectID = \"nRi-lX-48n\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Host:"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "主机："
+          }
+        }
+      }
+    },
+    "NUX-KR-5aD.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Go to https://proxyman.com/docs/ios-troubleshooting\"; ObjectID = \"NUX-KR-5aD\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Go to https://proxyman.com/docs/ios-troubleshooting"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "前往 https://proxyman.com/docs/ios-troubleshooting"
+          }
+        }
+      }
+    },
+    "nXl-MI-aHe.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"5. Add Proxyman Configs to your Android project (Android 10 or later)\"; ObjectID = \"nXl-MI-aHe\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "5. Add Proxyman Configs to your Android project (Android 10 or later)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "5. 将 Proxyman 配置添加到你的 Android 项目（Android 10 或更高版本）"
+          }
+        }
+      }
+    },
+    "nXr-yg-WW5.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"192.168.1.1 \"; ObjectID = \"nXr-yg-WW5\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "192.168.1.1 "
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "192.168.1.1"
+          }
+        }
+      }
+    },
+    "O9z-gC-tQ1.ibShadowedLabels[0]" : {
+      "comment" : "Class = \"NSSegmentedCell\"; O9z-gC-tQ1.ibShadowedLabels[0] = \"Troubleshooting\"; ObjectID = \"O9z-gC-tQ1\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Troubleshooting"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "故障排除"
+          }
+        }
+      }
+    },
+    "O11-FW-N0x.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Safari will request your permission to install the \\\"Proxyman CA\\\" certificate.\"; ObjectID = \"O11-FW-N0x\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Safari will request your permission to install the \"Proxyman CA\" certificate."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Safari 将请求你的许可来安装 \"Proxyman CA\" 证书。"
+          }
+        }
+      }
+    },
+    "OaA-cg-O1m.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"(Require root privileges)\"; ObjectID = \"OaA-cg-O1m\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "(Require root privileges)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "（需要 root 权限）"
+          }
+        }
+      }
+    },
+    "Ogk-GF-p8s.placeholderString" : {
+      "comment" : "Class = \"NSTextFieldCell\"; placeholderString = \"443\"; ObjectID = \"Ogk-GF-p8s\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "443"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "443"
+          }
+        }
+      }
+    },
+    "Ogk-GF-p8s.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"443\"; ObjectID = \"Ogk-GF-p8s\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "443"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "443"
+          }
+        }
+      }
+    },
+    "OHp-Ru-YyB.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Override:\"; ObjectID = \"OHp-Ru-YyB\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Override:"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "覆盖："
+          }
+        }
+      }
+    },
+    "oKL-FY-AOt.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Button\"; ObjectID = \"oKL-FY-AOt\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Button"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "按钮"
+          }
+        }
+      }
+    },
+    "oYo-VZ-TT2.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"It's suitable for clients, which use Certificate-Pinning\"; ObjectID = \"oYo-VZ-TT2\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "It's suitable for clients, which use Certificate-Pinning"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "适用于使用证书钉住的客户端"
+          }
+        }
+      }
+    },
+    "p6G-f3-KyG.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"4.2\"; ObjectID = \"p6G-f3-KyG\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "4.2"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "4.2"
+          }
+        }
+      }
+    },
+    "PCb-aj-SS0.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"  Proxyman CA hasn't been trusted yet!\"; ObjectID = \"PCb-aj-SS0\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "  Proxyman CA hasn't been trusted yet!"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "  Proxyman CA 尚未被信任！"
+          }
+        }
+      }
+    },
+    "PSH-A6-bIN.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Troubleshooting…\"; ObjectID = \"PSH-A6-bIN\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Troubleshooting…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "故障排除…"
+          }
+        }
+      }
+    },
+    "PX1-sB-oAk.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Preview\"; ObjectID = \"PX1-sB-oAk\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preview"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "预览"
+          }
+        }
+      }
+    },
+    "PY7-Yt-MH6.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Certificate Importer\"; ObjectID = \"PY7-Yt-MH6\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Certificate Importer"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "证书导入器"
+          }
+        }
+      }
+    },
+    "qCH-kQ-jhJ.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Expired: Monday 2017\"; ObjectID = \"qCH-kQ-jhJ\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Expired: Monday 2017"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已过期：2017年星期一"
+          }
+        }
+      }
+    },
+    "qfM-5Q-kmV.title" : {
+      "comment" : "Class = \"NSWindow\"; title = \"iPhone Setup Guideline\"; ObjectID = \"qfM-5Q-kmV\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iPhone Setup Guideline"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iPhone 设置指南"
+          }
+        }
+      }
+    },
+    "qpZ-iz-m9a.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Invalid Private Key\"; ObjectID = \"qpZ-iz-m9a\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Invalid Private Key"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "无效的私钥"
+          }
+        }
+      }
+    },
+    "qXI-Ty-hM7.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Revert:\"; ObjectID = \"qXI-Ty-hM7\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Revert:"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "还原："
+          }
+        }
+      }
+    },
+    "r9P-5L-Xdw.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Port:\"; ObjectID = \"r9P-5L-Xdw\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Port:"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "端口："
+          }
+        }
+      }
+    },
+    "RNy-33-dYe.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"3. Relaunch your app\"; ObjectID = \"RNy-33-dYe\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3. Relaunch your app"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3. 重新启动你的应用"
+          }
+        }
+      }
+    },
+    "Rq2-VT-se6.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Import PEM Private Key and PEM Certificate\"; ObjectID = \"Rq2-VT-se6\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Import PEM Private Key and PEM Certificate"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导入 PEM 私钥和 PEM 证书"
+          }
+        }
+      }
+    },
+    "Rq2-VT-se6.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Import PEM / DER...\"; ObjectID = \"Rq2-VT-se6\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Import PEM / DER..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导入 PEM / DER…"
+          }
+        }
+      }
+    },
+    "sck-kk-IV2.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"> Certificate Trust Settings > Switch ON\"; ObjectID = \"sck-kk-IV2\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "> Certificate Trust Settings > Switch ON"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "> 证书信任设置 > 开启"
+          }
+        }
+      }
+    },
+    "ScP-eh-kna.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Script Failed? Try to Run the Script Manually...\"; ObjectID = \"ScP-eh-kna\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Script Failed? Try to Run the Script Manually..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "脚本失败？尝试手动运行脚本…"
+          }
+        }
+      }
+    },
+    "Sg7-Tw-vWn.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Try Auto Script for Emulators…\"; ObjectID = \"Sg7-Tw-vWn\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Try Auto Script for Emulators…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "尝试在模拟器中使用自动脚本…"
+          }
+        }
+      }
+    },
+    "skZ-ba-pTW.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Button\"; ObjectID = \"skZ-ba-pTW\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Button"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "按钮"
+          }
+        }
+      }
+    },
+    "snD-FR-o6n.headerCell.title" : {
+      "comment" : "Class = \"NSTableColumn\"; headerCell.title = \"Host\"; ObjectID = \"snD-FR-o6n\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Host"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "主机"
+          }
+        }
+      }
+    },
+    "T1P-PN-zFN.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Add res/xml/network_security_config.xml\"; ObjectID = \"T1P-PN-zFN\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add res/xml/network_security_config.xml"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "添加 res/xml/network_security_config.xml"
+          }
+        }
+      }
+    },
+    "T5n-el-xqE.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"It's suitable for clients, which use Mutual Authentication\"; ObjectID = \"T5n-el-xqE\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "It's suitable for clients, which use Mutual Authentication"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "适用于使用互信认证的客户端"
+          }
+        }
+      }
+    },
+    "Ted-5U-pXk.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Does not work?\"; ObjectID = \"Ted-5U-pXk\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Does not work?"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "不起作用？"
+          }
+        }
+      }
+    },
+    "TkH-KE-jPA.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Try Sample Android Project...\"; ObjectID = \"TkH-KE-jPA\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Try Sample Android Project..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "尝试样本 Android 项目…"
+          }
+        }
+      }
+    },
+    "TlW-Tl-dd8.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Install to Xcode Preview (SwiftUI)\"; ObjectID = \"TlW-Tl-dd8\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Install to Xcode Preview (SwiftUI)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "安装到 Xcode 预览（SwiftUI）"
+          }
+        }
+      }
+    },
+    "TM7-CW-I16.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Show QR Code\"; ObjectID = \"TM7-CW-I16\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show QR Code"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "显示二维码"
+          }
+        }
+      }
+    },
+    "tod-KL-UA0.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"No\"; ObjectID = \"tod-KL-UA0\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "没有"
+          }
+        }
+      }
+    },
+    "TOz-b0-cls.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"2. Trust the Proxyman CA Certificate in Keychain\"; ObjectID = \"TOz-b0-cls\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2. Trust the Proxyman CA Certificate in Keychain"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2. 在钥匙串中信任 Proxyman CA 证书"
+          }
+        }
+      }
+    },
+    "TVb-Wg-hL7.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Please follow 2 steps to Install and Trust Proxyman Certificate in your iOS devices:\"; ObjectID = \"TVb-Wg-hL7\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Please follow 2 steps to Install and Trust Proxyman Certificate in your iOS devices:"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "请按照以下 2 个步骤在你的 iOS 设备上安装并信任 Proxyman 证书："
+          }
+        }
+      }
+    },
+    "u2e-pe-Xi6.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"0 Device(s)\"; ObjectID = \"u2e-pe-Xi6\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "0 Device(s)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "0 个设备"
+          }
+        }
+      }
+    },
+    "Ueb-Ih-xum.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Manage Certificates\"; ObjectID = \"Ueb-Ih-xum\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Manage Certificates"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "管理证书"
+          }
+        }
+      }
+    },
+    "UON-ft-z8g.headerCell.title" : {
+      "comment" : "Class = \"NSTableColumn\"; headerCell.title = \"Certificates\"; ObjectID = \"UON-ft-z8g\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Certificates"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "证书"
+          }
+        }
+      }
+    },
+    "V1P-75-ybT.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Button\"; ObjectID = \"V1P-75-ybT\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Button"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "按钮"
+          }
+        }
+      }
+    },
+    "V5X-Ik-jEt.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Copy IP Address\"; ObjectID = \"V5X-Ik-jEt\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copy IP Address"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "复制 IP 地址"
+          }
+        }
+      }
+    },
+    "Vgs-ST-nUJ.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"How to generate self-signed certificates\"; ObjectID = \"Vgs-ST-nUJ\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "How to generate self-signed certificates"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "如何生成自签名证书"
+          }
+        }
+      }
+    },
+    "VJb-wr-l1g.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Proxyman CA\"; ObjectID = \"VJb-wr-l1g\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Proxyman CA"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Proxyman CA"
+          }
+        }
+      }
+    },
+    "Vns-2D-BGp.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"4. Install & Trust Proxyman CA Certificate\"; ObjectID = \"Vns-2D-BGp\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "4. Install & Trust Proxyman CA Certificate"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "4. 安装并信任 Proxyman CA 证书"
+          }
+        }
+      }
+    },
+    "VuH-W4-046.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"By installing and trusting Proxyman CA Certificate,\\nProxyman can decrypt encrypted traffic on the fly and enable to see raw HTTPS requests and responses\"; ObjectID = \"VuH-W4-046\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "By installing and trusting Proxyman CA Certificate,\nProxyman can decrypt encrypted traffic on the fly and enable to see raw HTTPS requests and responses"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "通过安装和信任 Proxyman CA 证书，Proxyman 可以实时解密加密流量，并允许查看原始 HTTPS 请求和响应"
+          }
+        }
+      }
+    },
+    "vy4-6g-yM7.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"(Please Launch 1 Android Emulator from Android Studio)\"; ObjectID = \"vy4-6g-yM7\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "(Please Launch 1 Android Emulator from Android Studio)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "（请从 Android Studio 启动 1 个 Android 模拟器）"
+          }
+        }
+      }
+    },
+    "vZW-He-kFQ.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Import PEM / DER...\"; ObjectID = \"vZW-He-kFQ\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Import PEM / DER..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导入 PEM / DER..."
+          }
+        }
+      }
+    },
+    "WA2-Tw-dVI.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Advances Mode:\"; ObjectID = \"WA2-Tw-dVI\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Advances Mode:"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "高级模式："
+          }
+        }
+      }
+    },
+    "weJ-Mv-Sf2.label" : {
+      "comment" : "Class = \"NSTabViewItem\"; label = \"Client Certificates\"; ObjectID = \"weJ-Mv-Sf2\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Client Certificates"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "客户端证书"
+          }
+        }
+      }
+    },
+    "WHc-jw-pgT.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Make sure to turn OFF all VPNs from your Macbook and iOS Devices.\"; ObjectID = \"WHc-jw-pgT\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Make sure to turn OFF all VPNs from your Macbook and iOS Devices."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "确保关闭您 Macbook 和 iOS 设备上的所有 VPN。"
+          }
+        }
+      }
+    },
+    "wkG-Uv-n4n.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Revert All Changes\"; ObjectID = \"wkG-Uv-n4n\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Revert All Changes"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "还原所有更改"
+          }
+        }
+      }
+    },
+    "wsq-pf-r31.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"📲 iOS Simulators Setup\"; ObjectID = \"wsq-pf-r31\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "📲 iOS Simulators Setup"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "📲 iOS 模拟器设置"
+          }
+        }
+      }
+    },
+    "wto-wX-m41.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Import single PKCS #12 file\"; ObjectID = \"wto-wX-m41\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Import single PKCS #12 file"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导入单个 PKCS #12 文件"
+          }
+        }
+      }
+    },
+    "wto-wX-m41.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Import P12...\"; ObjectID = \"wto-wX-m41\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Import P12..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导入 P12..."
+          }
+        }
+      }
+    },
+    "wXe-W4-G6Q.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Button\"; ObjectID = \"wXe-W4-G6Q\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Button"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "按钮"
+          }
+        }
+      }
+    },
+    "x5x-vL-7sF.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Button\"; ObjectID = \"x5x-vL-7sF\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Button"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "按钮"
+          }
+        }
+      }
+    },
+    "XD2-C2-beZ.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Use 0 to accept all ports\"; ObjectID = \"XD2-C2-beZ\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use 0 to accept all ports"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用 0 来接受所有端口"
+          }
+        }
+      }
+    },
+    "xd6-Mh-c4L.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Import PEM Private Key and PEM Certificate\"; ObjectID = \"xd6-Mh-c4L\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Import PEM Private Key and PEM Certificate"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导入 PEM 私钥和 PEM 证书"
+          }
+        }
+      }
+    },
+    "xd6-Mh-c4L.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Import PEM / DER...\"; ObjectID = \"xd6-Mh-c4L\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Import PEM / DER..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导入 PEM / DER..."
+          }
+        }
+      }
+    },
+    "Xiq-W2-KVE.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"(Found 1 Simulators)\"; ObjectID = \"Xiq-W2-KVE\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "(Found 1 Simulators)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "（发现 1 个模拟器）"
+          }
+        }
+      }
+    },
+    "xp2-Va-Htj.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Copy IP Address\"; ObjectID = \"xp2-Va-Htj\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copy IP Address"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "复制 IP 地址"
+          }
+        }
+      }
+    },
+    "xPu-pb-mvd.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Relaunch your from Android Studio to take effect and start debugging!\"; ObjectID = \"xPu-pb-mvd\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Relaunch your from Android Studio to take effect and start debugging!"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "请重新启动 Android Studio 以生效并开始调试！"
+          }
+        }
+      }
+    },
+    "Y8R-1e-7vu.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Open \\\"Keychain Access\\\" app -> Search \\\"Proxyman CA\\\"  -> Open -> Select \\\"Always Trust\\\" -> Quit & Save\"; ObjectID = \"Y8R-1e-7vu\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open \"Keychain Access\" app -> Search \"Proxyman CA\"  -> Open -> Select \"Always Trust\" -> Quit & Save"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "打开 \"钥匙串访问\" 应用 -> 搜索 \"Proxyman CA\" -> 打开 -> 选择 \"始终信任\" -> 退出并保存"
+          }
+        }
+      }
+    },
+    "yeA-l0-rXE.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Delete\"; ObjectID = \"yeA-l0-rXE\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "删除"
+          }
+        }
+      }
+    },
+    "yLI-hQ-F5M.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Edit…\"; ObjectID = \"yLI-hQ-F5M\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Edit…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "编辑…"
+          }
+        }
+      }
+    },
+    "YZR-4x-biq.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"- Or -\"; ObjectID = \"YZR-4x-biq\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "- Or -"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "- 或者 -"
+          }
+        }
+      }
+    },
+    "zA8-J1-5Px.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Root Certificate\"; ObjectID = \"zA8-J1-5Px\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Root Certificate"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "根证书"
+          }
+        }
+      }
+    },
+    "zf0-3d-Fte.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Select \\\"Install Anyway\\\" and select \\\"CA Proxyman Certificate\\\" that you downloaded from Step 3\"; ObjectID = \"zf0-3d-Fte\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Select \"Install Anyway\" and select \"CA Proxyman Certificate\" that you downloaded from Step 3"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "选择 \"无论如何安装\"，然后选择您在第 3 步下载的 \"CA Proxyman 证书\""
+          }
+        }
+      }
+    },
+    "zH2-qa-c0Y.title" : {
+      "comment" : "Class = \"NSWindow\"; title = \"Android Setup Guideline\"; ObjectID = \"zH2-qa-c0Y\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Android Setup Guideline"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Android 设置指南"
+          }
+        }
+      }
+    },
+    "ZsE-5q-Is1.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \" iOS 16/17 issues\"; ObjectID = \"ZsE-5q-Is1\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " iOS 16/17 issues"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " iOS 16/17 问题"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

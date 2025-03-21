@@ -1,0 +1,363 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "0UL-tX-o2e.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"GET with Query\"; ObjectID = \"0UL-tX-o2e\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GET with Query"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "带查询的 GET"
+          }
+        }
+      }
+    },
+    "3zx-CL-7wg.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"POST with JSON\"; ObjectID = \"3zx-CL-7wg\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "POST with JSON"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "POST 与 JSON"
+          }
+        }
+      }
+    },
+    "8FX-aK-Etp.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Empty Request\"; ObjectID = \"8FX-aK-Etp\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Empty Request"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "空请求"
+          }
+        }
+      }
+    },
+    "A4Y-fd-JX8.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"15 seconds\"; ObjectID = \"A4Y-fd-JX8\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "15 seconds"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "15 秒"
+          }
+        }
+      }
+    },
+    "Bp3-yZ-iAK.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Error\"; ObjectID = \"Bp3-yZ-iAK\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Error"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "错误"
+          }
+        }
+      }
+    },
+    "cgm-Ca-Gky.title" : {
+      "comment" : "Class = \"NSWindow\"; title = \"Compose\"; ObjectID = \"cgm-Ca-Gky\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Compose"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "写信"
+          }
+        }
+      }
+    },
+    "dlx-bH-F92.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Template\"; ObjectID = \"dlx-bH-F92\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Template"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "模板"
+          }
+        }
+      }
+    },
+    "fC1-Lh-Eah.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Body in GET Request is ignored. Please use POST.\"; ObjectID = \"fC1-Lh-Eah\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Body in GET Request is ignored. Please use POST."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GET 请求中的主体被忽略。请使用 POST。"
+          }
+        }
+      }
+    },
+    "fTf-c3-4Nb.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"POST with Form\"; ObjectID = \"fTf-c3-4Nb\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "POST with Form"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "POST 与表单"
+          }
+        }
+      }
+    },
+    "Ha2-w3-bVc.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"Request Timeout\"; ObjectID = \"Ha2-w3-bVc\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Request Timeout"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "请求超时"
+          }
+        }
+      }
+    },
+    "HfP-oh-1Jv.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"60 seconds\"; ObjectID = \"HfP-oh-1Jv\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "60 seconds"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "60 秒"
+          }
+        }
+      }
+    },
+    "hyg-n7-chb.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"POST with Multiparts\"; ObjectID = \"hyg-n7-chb\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "POST with Multiparts"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "POST 与多部分数据"
+          }
+        }
+      }
+    },
+    "ixM-Km-q4N.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Invalid URL\"; ObjectID = \"ixM-Km-q4N\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Invalid URL"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "无效的 URL"
+          }
+        }
+      }
+    },
+    "s6r-ys-a80.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Automatically Follow Redirects\"; ObjectID = \"s6r-ys-a80\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Automatically Follow Redirects"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自动跟随重定向"
+          }
+        }
+      }
+    },
+    "s7y-qT-YnZ.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Request Timeout\"; ObjectID = \"s7y-qT-YnZ\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Request Timeout"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "请求超时"
+          }
+        }
+      }
+    },
+    "tQ0-G0-ABy.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"https://api.producthunt.com/v1/posts\"; ObjectID = \"tQ0-G0-ABy\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "https://api.producthunt.com/v1/posts"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "https://api.producthunt.com/v1/posts"
+          }
+        }
+      }
+    },
+    "Txn-3s-eKw.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"30 seconds\"; ObjectID = \"Txn-3s-eKw\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "30 seconds"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "30 秒"
+          }
+        }
+      }
+    },
+    "ZAI-gN-eQ3.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Parse cURL to Compose View\"; ObjectID = \"ZAI-gN-eQ3\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parse cURL to Compose View"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "解析 cURL 到写信视图"
+          }
+        }
+      }
+    },
+    "ZAI-gN-eQ3.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Import from cURL…\"; ObjectID = \"ZAI-gN-eQ3\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Import from cURL…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "从 cURL 导入…"
+          }
+        }
+      }
+    },
+    "zgk-1Q-G1U.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"0 (No Timeout)\"; ObjectID = \"zgk-1Q-G1U\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "0 (No Timeout)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "0（无超时）"
+          }
+        }
+      }
+    },
+    "zuQ-aL-DU2.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Send ⌘⏎ \"; ObjectID = \"zuQ-aL-DU2\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Send ⌘⏎ "
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "发送 ⌘⏎ "
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

@@ -1,0 +1,686 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "1zQ-70-Rkf.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Brave…\"; ObjectID = \"1zQ-70-Rkf\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Brave…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "勇敢地…"
+          }
+        }
+      }
+    },
+    "3aA-ki-CGM.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"My own Terminal…\"; ObjectID = \"3aA-ki-CGM\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "My own Terminal…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我自己的终端…"
+          }
+        }
+      }
+    },
+    "4Uh-ga-VI0.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Open New Terminal…\"; ObjectID = \"4Uh-ga-VI0\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open New Terminal…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "打开新终端…"
+          }
+        }
+      }
+    },
+    "5ga-Ra-xNz.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"PRO\"; ObjectID = \"5ga-Ra-xNz\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PRO"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PRO"
+          }
+        }
+      }
+    },
+    "6wx-A1-TqP.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Safe. Work on your current session, not affect your OS\"; ObjectID = \"6wx-A1-TqP\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Safe. Work on your current session, not affect your OS"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "安全。在当前会话中工作，不会影响您的操作系统"
+          }
+        }
+      }
+    },
+    "41M-Ba-3vN.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"PRO\"; ObjectID = \"41M-Ba-3vN\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PRO"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PRO"
+          }
+        }
+      }
+    },
+    "akg-QE-Six.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Support NodeJS (axios, got, fetch, ...), Ruby (http, net/http, ...), Python (request, aiohttp, httplib, ...)\"; ObjectID = \"akg-QE-Six\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Support NodeJS (axios, got, fetch, ...), Ruby (http, net/http, ...), Python (request, aiohttp, httplib, ...)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "支持 NodeJS (axios, got, fetch, ...)、Ruby (http, net/http, ...)、Python (request, aiohttp, httplib, ...)"
+          }
+        }
+      }
+    },
+    "alv-Aq-dJ9.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"This feature is locked. Buy Proxyman Pro to unlock this feature.\"; ObjectID = \"alv-Aq-dJ9\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This feature is locked. Buy Proxyman Pro to unlock this feature."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "此功能已锁定。购买 Proxyman Pro 解锁此功能。"
+          }
+        }
+      }
+    },
+    "bS4-I1-L63.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Golang: (net/http, fasthttp, resty, gorequest, req, grequests)\"; ObjectID = \"bS4-I1-L63\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Golang: (net/http, fasthttp, resty, gorequest, req, grequests)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Golang: (net/http, fasthttp, resty, gorequest, req, grequests)"
+          }
+        }
+      }
+    },
+    "C8j-Lq-bP0.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"(Coming Soon)\"; ObjectID = \"C8j-Lq-bP0\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "(Coming Soon)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "（即将推出）"
+          }
+        }
+      }
+    },
+    "cCs-ae-B2k.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Terminal App\"; ObjectID = \"cCs-ae-B2k\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Terminal App"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "终端应用程序"
+          }
+        }
+      }
+    },
+    "cLw-GD-NjB.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"📦 Manual Setup\"; ObjectID = \"cLw-GD-NjB\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "📦 Manual Setup"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "📦 手动设置"
+          }
+        }
+      }
+    },
+    "DjU-Rn-pK1.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Troubleshooting\"; ObjectID = \"DjU-Rn-pK1\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Troubleshooting"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "故障排除"
+          }
+        }
+      }
+    },
+    "dPW-Bn-x1j.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"iTerm2\"; ObjectID = \"dPW-Bn-x1j\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iTerm2"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iTerm2"
+          }
+        }
+      }
+    },
+    "e7F-d2-zif.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"⚙️ Automatic Setup\"; ObjectID = \"e7F-d2-zif\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⚙️ Automatic Setup"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⚙️ 自动设置"
+          }
+        }
+      }
+    },
+    "exQ-LB-4ZM.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Terminal app\"; ObjectID = \"exQ-LB-4ZM\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Terminal app"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "终端应用程序"
+          }
+        }
+      }
+    },
+    "gST-2N-cIA.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Start your server or run scripts on your Terminal.\"; ObjectID = \"gST-2N-cIA\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Start your server or run scripts on your Terminal."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在您的终端上启动服务器或运行脚本。"
+          }
+        }
+      }
+    },
+    "hsT-LD-GCf.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"How does it work?\"; ObjectID = \"hsT-LD-GCf\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "How does it work?"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "它是如何工作的？"
+          }
+        }
+      }
+    },
+    "Ibm-bs-Ndh.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Open pre-configured Web Browsers that auto set HTTP Proxy and trust Proxyman Certificate.\"; ObjectID = \"Ibm-bs-Ndh\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open pre-configured Web Browsers that auto set HTTP Proxy and trust Proxyman Certificate."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "打开预配置的网络浏览器，自动设置 HTTP 代理并信任 Proxyman 证书。"
+          }
+        }
+      }
+    },
+    "idN-Ny-qt8.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Safe. Work on your current session, not affect your OS\"; ObjectID = \"idN-Ny-qt8\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Safe. Work on your current session, not affect your OS"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "安全。在当前会话中工作，不会影响您的操作系统"
+          }
+        }
+      }
+    },
+    "IZI-Z9-geG.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Troubleshooting\"; ObjectID = \"IZI-Z9-geG\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Troubleshooting"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "故障排除"
+          }
+        }
+      }
+    },
+    "J4E-72-gPF.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"and\"; ObjectID = \"J4E-72-gPF\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "and"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "和"
+          }
+        }
+      }
+    },
+    "jEP-cW-siJ.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Web Browsers\"; ObjectID = \"jEP-cW-siJ\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Web Browsers"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "网络浏览器"
+          }
+        }
+      }
+    },
+    "M0T-2U-8Zw.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"2. Copy & Paste the following command line to your Terminal app\"; ObjectID = \"M0T-2U-8Zw\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2. Copy & Paste the following command line to your Terminal app"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "将以下命令行复制并粘贴到您的终端应用程序"
+          }
+        }
+      }
+    },
+    "N6l-0D-Hh2.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"How does it work?\"; ObjectID = \"N6l-0D-Hh2\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "How does it work?"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "它是如何工作的？"
+          }
+        }
+      }
+    },
+    "okn-XT-yFb.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Apple Terminal\"; ObjectID = \"okn-XT-yFb\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apple Terminal"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "苹果终端"
+          }
+        }
+      }
+    },
+    "qI2-YS-joP.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Automatic capture traffic from NodeJS, Python, Ruby, Golang, Terminal, etc\"; ObjectID = \"qI2-YS-joP\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Automatic capture traffic from NodeJS, Python, Ruby, Terminal, etc"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自动捕获来自NodeJS、Python、Ruby、终端等的流量"
+          }
+        }
+      }
+    },
+    "sst-d0-INs.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Support Terminal, iTerm, Hyper, ... with Bash, ZSH or Fish Shell.\"; ObjectID = \"sst-d0-INs\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Support Terminal, iTerm, Hyper, ... with Bash, ZSH or Fish Shell."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "支持终端、iTerm、Hyper等，兼容Bash、ZSH或Fish Shell。"
+          }
+        }
+      }
+    },
+    "tcO-Ex-ubn.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Use\"; ObjectID = \"tcO-Ex-ubn\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用"
+          }
+        }
+      }
+    },
+    "tYe-QY-hCi.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSSegmentedControl\"; ibShadowedToolTip = \"Open pre-configured Google Chrome that automatically captured by Proxyman\"; ObjectID = \"tYe-QY-hCi\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open pre-configured Google Chrome that automatically captured by Proxyman"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "打开预配置的Google Chrome，该浏览器已由Proxyman自动捕获"
+          }
+        }
+      }
+    },
+    "U1i-4X-x6C.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"1. Open your favorites Terminal app\"; ObjectID = \"U1i-4X-x6C\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1. Open your favorites Terminal app"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "打开您最喜欢的终端应用程序"
+          }
+        }
+      }
+    },
+    "U1W-kN-1zL.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Capture HTTP(s) traffic from NodeJS, Python, Ruby, Golang, Terminal or Web Browser, etc\"; ObjectID = \"U1W-kN-1zL\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Capture HTTP(s) traffic from NodeJS, Python, Ruby, Terminal or Web Browser, etc"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "从NodeJS、Python、Ruby、终端或网页浏览器等捕获HTTP(S)流量"
+          }
+        }
+      }
+    },
+    "VPr-EI-Ndz.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"3. Done ✅\"; ObjectID = \"VPr-EI-Ndz\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3. Done ✅"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "完成 ✅"
+          }
+        }
+      }
+    },
+    "wh1-nc-0T9.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Copy to Clipboard\"; ObjectID = \"wh1-nc-0T9\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copy to Clipboard"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "复制到剪贴板"
+          }
+        }
+      }
+    },
+    "xfA-VP-BHC.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"1-click to automatically set up HTTP Proxy & Certificate on a variety of dev environments\"; ObjectID = \"xfA-VP-BHC\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1-click to automatically set up HTTP Proxy & Certificate on a variety of dev environments"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "一键自动在各种开发环境中设置HTTP代理和证书"
+          }
+        }
+      }
+    },
+    "yBp-hi-ddf.ibShadowedLabels[0]" : {
+      "comment" : "Class = \"NSSegmentedCell\"; yBp-hi-ddf.ibShadowedLabels[0] = \"Firefox…\"; ObjectID = \"yBp-hi-ddf\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Firefox…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Firefox…"
+          }
+        }
+      }
+    },
+    "yBp-hi-ddf.ibShadowedToolTips[0]" : {
+      "comment" : "Class = \"NSSegmentedCell\"; yBp-hi-ddf.ibShadowedToolTips[0] = \"Open the system Terminal app and prepare for the automation setup. All HTTP/HTTPS traffic from this Terminal is captured by Proxyman\"; ObjectID = \"yBp-hi-ddf\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open the system Terminal app and prepare for the automation setup. All HTTP/HTTPS traffic from this Terminal is captured by Proxyman"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "打开系统终端应用程序，准备进行自动化设置。此终端的所有 HTTP/HTTPS 流量将被 Proxyman 捕获"
+          }
+        }
+      }
+    },
+    "yj3-U6-EYO.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Open pre-configured Terminal app that automatically captures all HTTP(s) requests.\"; ObjectID = \"yj3-U6-EYO\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open pre-configured Terminal app that automatically captures all HTTP(s) requests."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "打开预配置的终端应用程序，自动捕获所有 HTTP(s) 请求。"
+          }
+        }
+      }
+    },
+    "ZEJ-jp-iBX.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Open the system Terminal app and prepare for the automation setup. All HTTP/HTTPS traffic from this Terminal is captured by Proxyman\"; ObjectID = \"ZEJ-jp-iBX\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open the system Terminal app and prepare for the automation setup. All HTTP/HTTPS traffic from this Terminal is captured by Proxyman"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "打开系统终端应用程序，准备进行自动化设置。此终端的所有 HTTP/HTTPS 流量将被 Proxyman 捕获"
+          }
+        }
+      }
+    },
+    "zJz-Yt-Rjq.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"This feature is locked. Buy Proxyman Pro to unlock this feature.\"; ObjectID = \"zJz-Yt-Rjq\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This feature is locked. Buy Proxyman Pro to unlock this feature."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "此功能已锁定。购买 Proxyman Pro 以解锁此功能。"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

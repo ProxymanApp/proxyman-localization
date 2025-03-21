@@ -1,0 +1,4035 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "0Vr-ZZ-FII.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"15\"; ObjectID = \"0Vr-ZZ-FII\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "15"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "15"
+          }
+        }
+      }
+    },
+    "1Fq-MH-826.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"© 2022-2024 Proxyman LLC\"; ObjectID = \"1Fq-MH-826\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2022-2024 Proxyman LLC"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2022-2024 Proxyman LLC"
+          }
+        }
+      }
+    },
+    "1jq-FG-09y.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Copy Library:\"; ObjectID = \"1jq-FG-09y\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copy Library:"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "复制库："
+          }
+        }
+      }
+    },
+    "1M9-oR-Pak.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Restore the font size and theme to default configs\"; ObjectID = \"1M9-oR-Pak\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restore the font size and theme to default configs"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "将字体大小和主题恢复为默认设置"
+          }
+        }
+      }
+    },
+    "1xc-Rq-yug.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Display Full Time Format\"; ObjectID = \"1xc-Rq-yug\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Display Full Time Format"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "显示完整时间格式"
+          }
+        }
+      }
+    },
+    "2Ce-wr-Nk1.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Port Number:\"; ObjectID = \"2Ce-wr-Nk1\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Port Number:"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "端口号："
+          }
+        }
+      }
+    },
+    "2Ec-LR-DO9.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Append Proxyman Headers to matched flows\"; ObjectID = \"2Ec-LR-DO9\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Append Proxyman Headers to matched flows"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "将 Proxyman 头信息附加到匹配的流"
+          }
+        }
+      }
+    },
+    "2Zj-jQ-RO4.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"~/Desktop\"; ObjectID = \"2Zj-jQ-RO4\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "~/Desktop"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "~/桌面"
+          }
+        }
+      }
+    },
+    "2Zz-AT-VRb.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Random from 1-10 seconds\"; ObjectID = \"2Zz-AT-VRb\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Random from 1-10 seconds"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "随机 1-10 秒"
+          }
+        }
+      }
+    },
+    "2Zz-AT-VRb.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Random (1-15)s\"; ObjectID = \"2Zz-AT-VRb\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Random (1-15)s"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "随机 (1-15)s"
+          }
+        }
+      }
+    },
+    "3ht-YN-L4A.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Auto open the Export Directory after exporting\"; ObjectID = \"3ht-YN-L4A\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Auto open the Export Directory after exporting"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导出后自动打开导出目录"
+          }
+        }
+      }
+    },
+    "3nA-cp-gr0.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Apply to all tabs in the Request and Response Panel and the main table.\"; ObjectID = \"3nA-cp-gr0\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apply to all tabs in the Request and Response Panel and the main table."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "应用于请求和响应面板及主表中的所有标签。"
+          }
+        }
+      }
+    },
+    "4gX-Cf-9DQ.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"What's new in v1.7.0\"; ObjectID = \"4gX-Cf-9DQ\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "What's new in v1.7.0"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "v1.7.0 新增功能"
+          }
+        }
+      }
+    },
+    "4rf-aD-Vtu.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Set default Copy Library in the Right-Menu Context.\"; ObjectID = \"4rf-aD-Vtu\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Set default Copy Library in the Right-Menu Context."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在右键菜单上下文中设置默认复制库。"
+          }
+        }
+      }
+    },
+    "4Xm-an-02k.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"This feature is locked. Buy Proxyman Pro to unlock this feature.\"; ObjectID = \"4Xm-an-02k\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This feature is locked. Buy Proxyman Pro to unlock this feature."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "此功能已锁定。购买 Proxyman Pro 以解锁此功能。"
+          }
+        }
+      }
+    },
+    "5NG-EH-cta.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"24\"; ObjectID = \"5NG-EH-cta\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "24"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "24"
+          }
+        }
+      }
+    },
+    "5OH-0G-bSf.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"13\"; ObjectID = \"5OH-0G-bSf\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "13"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "13"
+          }
+        }
+      }
+    },
+    "5Ph-iC-AZQ.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"17\"; ObjectID = \"5Ph-iC-AZQ\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "17"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "17"
+          }
+        }
+      }
+    },
+    "5sw-qp-Zrn.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSPopUpButton\"; ibShadowedToolTip = \"Text Truncation Style for the Table View\"; ObjectID = \"5sw-qp-Zrn\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Text Truncation Style for the Table View"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "表格视图的文本截断样式"
+          }
+        }
+      }
+    },
+    "6aX-Qj-OSK.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"cURL\"; ObjectID = \"6aX-Qj-OSK\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "cURL"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "cURL"
+          }
+        }
+      }
+    },
+    "6oX-Gc-Ik3.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \" Comply with new macOS 13 Ventura Requirements for Helper Tool\"; ObjectID = \"6oX-Gc-Ik3\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " Comply with new macOS 13 Ventura Requirements for Helper Tool"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "遵循新的 macOS 13 Ventura 辅助工具要求"
+          }
+        }
+      }
+    },
+    "7NJ-Hj-gFj.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Only the owner or colleagues who have a link can access the Gist.\"; ObjectID = \"7NJ-Hj-gFj\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Only the owner or colleagues who have a link can access the Gist."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "只有所有者或有链接的同事才能访问该 Gist。"
+          }
+        }
+      }
+    },
+    "07Q-RK-CLV.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Auto Clean Up Resources if Memory Usage is High\"; ObjectID = \"07Q-RK-CLV\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Auto Clean Up Resources if Memory Usage is High"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "高内存使用时自动清理资源"
+          }
+        }
+      }
+    },
+    "7zd-LV-mzZ.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Allow Running Multiple Scripts for one Requests\"; ObjectID = \"7zd-LV-mzZ\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Allow Running Multiple Scripts for one Requests"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "允许为一个请求运行多个脚本"
+          }
+        }
+      }
+    },
+    "8iB-3A-4cm.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Delete\"; ObjectID = \"8iB-3A-4cm\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "删除"
+          }
+        }
+      }
+    },
+    "8PY-AO-8pK.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Capture HTTP(s) traffic without Macbooks (iOS 16+).\"; ObjectID = \"8PY-AO-8pK\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Capture HTTP(s) traffic without Macbooks (iOS 16+)."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在没有 Macbook 的情况下捕获 HTTP(s) 流量 (iOS 16+)。"
+          }
+        }
+      }
+    },
+    "9sk-ku-nl7.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Publish as:\"; ObjectID = \"9sk-ku-nl7\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Publish as:"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "发布为: "
+          }
+        }
+      }
+    },
+    "9sk-pC-1Vk.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Coming soon. Stay tuned!\"; ObjectID = \"9sk-pC-1Vk\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Coming soon. Stay tuned!"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "即将推出。敬请期待！"
+          }
+        }
+      }
+    },
+    "9tM-hY-Kd0.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Show Proxyman Icon on Menu Bar\"; ObjectID = \"9tM-hY-Kd0\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show Proxyman Icon on Menu Bar"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在菜单栏上显示 Proxyman 图标"
+          }
+        }
+      }
+    },
+    "9Yt-e6-NpW.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Show Alert when quitting the app\"; ObjectID = \"9Yt-e6-NpW\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show Alert when quitting the app"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "退出应用时显示警报"
+          }
+        }
+      }
+    },
+    "24o-Jl-MOk.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Documentations…\"; ObjectID = \"24o-Jl-MOk\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Documentations…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "文档…"
+          }
+        }
+      }
+    },
+    "532-Yx-67Y.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Review or Revoke Application Authorization.\"; ObjectID = \"532-Yx-67Y\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Review or Revoke Application Authorization."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "审核或撤销应用程序授权。"
+          }
+        }
+      }
+    },
+    "829-Uc-St3.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Automatic redact sensitive headers\"; ObjectID = \"829-Uc-St3\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Automatic redact sensitive headers"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自动删除敏感头部信息"
+          }
+        }
+      }
+    },
+    "852-k8-gbS.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Other:\"; ObjectID = \"852-k8-gbS\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Other:"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "其他:  "
+          }
+        }
+      }
+    },
+    "921-Uo-FJn.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"3 seconds\"; ObjectID = \"921-Uo-FJn\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3 seconds"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3 秒"
+          }
+        }
+      }
+    },
+    "aAb-or-9Id.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"SSL Proxying, Map Local, Breakpoint are ready.\"; ObjectID = \"aAb-or-9Id\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SSL Proxying, Map Local, Breakpoint are ready."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SSL 代理、本地映射、断点已准备好。"
+          }
+        }
+      }
+    },
+    "Aes-Jl-ngo.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Scroll Beyond The Last Line\"; ObjectID = \"Aes-Jl-ngo\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scroll Beyond The Last Line"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "滚动到最后一行之外"
+          }
+        }
+      }
+    },
+    "agF-Ru-6Ul.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Show Invisible Characters\"; ObjectID = \"agF-Ru-6Ul\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show Invisible Characters"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "显示不可见字符"
+          }
+        }
+      }
+    },
+    "AJ8-QS-cN3.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Control the language you see in Proxyman UI.\"; ObjectID = \"AJ8-QS-cN3\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Control the language you see in Proxyman UI."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "控制在 Proxyman 界面中看到的语言。"
+          }
+        }
+      }
+    },
+    "aMS-wb-prv.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Vertical\"; ObjectID = \"aMS-wb-prv\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vertical"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "垂直"
+          }
+        }
+      }
+    },
+    "B2h-D5-3zR.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Show all invisibles characters in the Body and Raw Tab, e.g \\\\t, \\\\n or zero-width chars\"; ObjectID = \"B2h-D5-3zR\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show all invisibles characters in the Body and Raw Tab, e.g \\t, \\n or zero-width chars"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在Body和Raw标签中显示所有不可见字符，例如：\\t，\\n或零宽字符"
+          }
+        }
+      }
+    },
+    "b2V-zQ-exT.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"No Delay\"; ObjectID = \"b2V-zQ-exT\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No Delay"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "无延迟"
+          }
+        }
+      }
+    },
+    "BfP-Pe-ryF.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"PRO\"; ObjectID = \"BfP-Pe-ryF\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PRO"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PRO"
+          }
+        }
+      }
+    },
+    "bGB-Se-A8C.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Dock Icon does not update? \"; ObjectID = \"bGB-Se-A8C\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dock Icon does not update? "
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dock 图标未更新？"
+          }
+        }
+      }
+    },
+    "bgG-mH-L87.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \" Auto Override HTTP/HTTPS Proxy with high performance\"; ObjectID = \"bgG-mH-L87\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " Auto Override HTTP/HTTPS Proxy with high performance"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "以高性能自动覆盖 HTTP/HTTPS 代理"
+          }
+        }
+      }
+    },
+    "bIb-oI-qtR.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Private Key...\"; ObjectID = \"bIb-oI-qtR\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Private Key..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "私钥..."
+          }
+        }
+      }
+    },
+    "bK9-a8-8Fm.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Expired: Monday 2017\"; ObjectID = \"bK9-a8-8Fm\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Expired: Monday 2017"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "过期：2017年周一"
+          }
+        }
+      }
+    },
+    "bKO-Vo-2Mu.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Hide Unnecessary Apple Requests from iOS Simulators\"; ObjectID = \"bKO-Vo-2Mu\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hide Unnecessary Apple Requests from iOS Simulators"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "隐藏不必要的 Apple 请求（来自 iOS 模拟器）"
+          }
+        }
+      }
+    },
+    "bTk-6o-7ya.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Chinese - Simplified\"; ObjectID = \"bTk-6o-7ya\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chinese - Simplified"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "简体中文"
+          }
+        }
+      }
+    },
+    "BUe-Rm-nnp.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"This feature is locked. Buy Proxyman Pro to unlock this feature.\"; ObjectID = \"BUe-Rm-nnp\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This feature is locked. Buy Proxyman Pro to unlock this feature."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "此功能已被锁定。购买 Proxyman Pro 解锁此功能。"
+          }
+        }
+      }
+    },
+    "Bxk-sN-68i.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Help improve Proxyman by automatically sending diagnostics and usage data. Diagnostic data is collected anonymously and cannot be used to identify you.\"; ObjectID = \"Bxk-sN-68i\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Help improve Proxyman by automatically sending diagnostics and usage data. Diagnostic data is collected anonymously and cannot be used to identify you."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "通过自动发送诊断和使用数据来帮助改善 Proxyman。诊断数据以匿名形式收集，无法用于识别您。"
+          }
+        }
+      }
+    },
+    "bYM-Nt-AR9.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"This feature is locked. Buy Proxyman Pro to unlock this feature.\"; ObjectID = \"bYM-Nt-AR9\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This feature is locked. Buy Proxyman Pro to unlock this feature."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "此功能已被锁定。购买 Proxyman Pro 以解锁此功能。"
+          }
+        }
+      }
+    },
+    "c1X-wk-d27.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Select directory\"; ObjectID = \"c1X-wk-d27\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Select directory"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "选择目录"
+          }
+        }
+      }
+    },
+    "Cbg-oU-CgP.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Proxyman Dock Icon\"; ObjectID = \"Cbg-oU-CgP\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Proxyman Dock Icon"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Proxyman 桌面图标"
+          }
+        }
+      }
+    },
+    "CcX-zL-7AL.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Tab Width:\"; ObjectID = \"CcX-zL-7AL\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tab Width:"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "标签宽度："
+          }
+        }
+      }
+    },
+    "cgP-Vh-dpf.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Download…\"; ObjectID = \"cgP-Vh-dpf\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Download…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "下载…"
+          }
+        }
+      }
+    },
+    "cH2-Xf-3aO.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"This feature is locked. Buy Proxyman Pro to unlock this feature.\"; ObjectID = \"cH2-Xf-3aO\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This feature is locked. Buy Proxyman Pro to unlock this feature."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "此功能已被锁定。购买 Proxyman Pro 以解锁此功能。"
+          }
+        }
+      }
+    },
+    "d8D-2f-O2n.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"You're behind 5 updates\"; ObjectID = \"d8D-2f-O2n\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You're behind 5 updates"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "您落后 5 次更新"
+          }
+        }
+      }
+    },
+    "d8g-Mc-OBF.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \" Not installed\"; ObjectID = \"d8g-Mc-OBF\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " Not installed"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "未安装"
+          }
+        }
+      }
+    },
+    "d14-X7-g7F.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Content-Length, Accept-Encoding, and Content-Encoding are not removed. \"; ObjectID = \"d14-X7-g7F\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Content-Length, Accept-Encoding, and Content-Encoding are not removed. "
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Content-Length、Accept-Encoding 和 Content-Encoding 不会被移除。"
+          }
+        }
+      }
+    },
+    "DAh-s6-dzn.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Windows 10/11\"; ObjectID = \"DAh-s6-dzn\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Windows 10/11"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Windows 10/11"
+          }
+        }
+      }
+    },
+    "dak-aO-RNj.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Advanced:\"; ObjectID = \"dak-aO-RNj\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Advanced:"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "高级："
+          }
+        }
+      }
+    },
+    "dBO-Gw-e3y.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"1 second\"; ObjectID = \"dBO-Gw-e3y\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 second"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 秒"
+          }
+        }
+      }
+    },
+    "dez-HH-Yrh.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Share analytics with Proxyman\"; ObjectID = \"dez-HH-Yrh\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Share analytics with Proxyman"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "与 Proxyman 共享分析数据"
+          }
+        }
+      }
+    },
+    "Df8-Z9-UTz.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Restore Defaults\"; ObjectID = \"Df8-Z9-UTz\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restore Defaults"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "恢复默认设置"
+          }
+        }
+      }
+    },
+    "dmH-EH-UIE.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Authorization, Cookies, Set-Cookies, … are censored before publishing to Gist.\"; ObjectID = \"dmH-EH-UIE\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Authorization, Cookies, Set-Cookies, … are censored before publishing to Gist."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "授权、Cookies、Set-Cookies 等在发布到 Gist 之前会被审查。"
+          }
+        }
+      }
+    },
+    "DOF-RA-YAC.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Time Format:\"; ObjectID = \"DOF-RA-YAC\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Time Format:"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "时间格式："
+          }
+        }
+      }
+    },
+    "dpo-Dx-TKa.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Use Monospaced Font\"; ObjectID = \"dpo-Dx-TKa\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use Monospaced Font"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用等宽字体"
+          }
+        }
+      }
+    },
+    "DRx-PJ-Off.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Switch between 12-Hour or 24-Hour format.\"; ObjectID = \"DRx-PJ-Off\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Switch between 12-Hour or 24-Hour format."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在 12 小时制和 24 小时制之间切换。"
+          }
+        }
+      }
+    },
+    "dyt-cH-Hbp.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Proxyman won't prompt the Mac Setup Guide Window if the certificate is not properly trusted in Keychain Access for domain/app SSL Proxying.\"; ObjectID = \"dyt-cH-Hbp\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Proxyman won't prompt the Mac Setup Guide Window if the certificate is not properly trusted in Keychain Access for domain/app SSL Proxying."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "如果证书在钥匙串访问中未被正确信任，Proxyman将不会提示Mac设置指南窗口，用于域/应用的SSL代理。"
+          }
+        }
+      }
+    },
+    "e9l-Lm-FEF.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \" Graceful Revert the Proxy if the app is crashed unexpectedly\"; ObjectID = \"e9l-Lm-FEF\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " Graceful Revert the Proxy if the app is crashed unexpectedly"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "如果应用程序意外崩溃，优雅地恢复代理。"
+          }
+        }
+      }
+    },
+    "eBG-NG-MBR.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Show Minimap\"; ObjectID = \"eBG-NG-MBR\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show Minimap"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "显示小地图"
+          }
+        }
+      }
+    },
+    "EBU-HH-AYP.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"More\"; ObjectID = \"EBU-HH-AYP\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "More"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "更多"
+          }
+        }
+      }
+    },
+    "ebx-5B-G7j.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Proxyman\"; ObjectID = \"ebx-5B-G7j\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Proxyman"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Proxyman"
+          }
+        }
+      }
+    },
+    "EHm-bg-ulm.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \" Persist and Restore to your previous Proxy setting\"; ObjectID = \"EHm-bg-ulm\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " Persist and Restore to your previous Proxy setting"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "保持并恢复到您之前的代理设置"
+          }
+        }
+      }
+    },
+    "EoZ-nI-IvY.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"Action\"; ObjectID = \"EoZ-nI-IvY\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Action"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "操作"
+          }
+        }
+      }
+    },
+    "ET3-Tc-Zjs.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Version 1.7.0\"; ObjectID = \"ET3-Tc-Zjs\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Version 1.7.0"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "版本 1.7.0"
+          }
+        }
+      }
+    },
+    "EvB-M6-TBJ.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"11\"; ObjectID = \"EvB-M6-TBJ\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "11"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "11"
+          }
+        }
+      }
+    },
+    "ewR-Wc-HS0.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Your current HTTP/HTTPS Proxy is overridden by networksetup CLI.\"; ObjectID = \"ewR-Wc-HS0\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your current HTTP/HTTPS Proxy is overridden by networksetup CLI."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "您当前的HTTP/HTTPS代理已被networksetup CLI覆盖。"
+          }
+        }
+      }
+    },
+    "exW-fI-aTf.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Environment variables are defined in ~/.bashrc or ~/.zshrc\"; ObjectID = \"exW-fI-aTf\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Environment variables are defined in ~/.bashrc or ~/.zshrc"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "环境变量在~/.bashrc或~/.zshrc中定义。"
+          }
+        }
+      }
+    },
+    "eYG-rd-2Bv.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Map Local Path:\"; ObjectID = \"eYG-rd-2Bv\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Map Local Path:"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "映射本地路径："
+          }
+        }
+      }
+    },
+    "F6v-yQ-5Lx.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"All Proxyman windows are float on top.\"; ObjectID = \"F6v-yQ-5Lx\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "All Proxyman windows are float on top."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "所有 Proxyman 窗口都浮在顶部。"
+          }
+        }
+      }
+    },
+    "f9B-Y4-yps.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"14\"; ObjectID = \"f9B-Y4-yps\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "14"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "14"
+          }
+        }
+      }
+    },
+    "Fec-Fl-khM.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Icon Only\"; ObjectID = \"Fec-Fl-khM\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Icon Only"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "仅图标"
+          }
+        }
+      }
+    },
+    "fJF-Ic-szo.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Full Changelogs\"; ObjectID = \"fJF-Ic-szo\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Full Changelogs"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "完整变更日志"
+          }
+        }
+      }
+    },
+    "fMP-YS-E39.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Generate new...\"; ObjectID = \"fMP-YS-E39\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Generate new..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "生成新…"
+          }
+        }
+      }
+    },
+    "fU3-8U-MoQ.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Preserve Original Request\"; ObjectID = \"fU3-8U-MoQ\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preserve Original Request"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "保留原始请求"
+          }
+        }
+      }
+    },
+    "FWy-xl-1ZO.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Font Size:\"; ObjectID = \"FWy-xl-1ZO\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Font Size:"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "字体大小："
+          }
+        }
+      }
+    },
+    "G0s-1b-ptK.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Record HTTP/HTTPS Traffic and display on the main table view.\"; ObjectID = \"G0s-1b-ptK\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Record HTTP/HTTPS Traffic and display on the main table view."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "记录 HTTP/HTTPS 流量并在主表视图中显示。"
+          }
+        }
+      }
+    },
+    "G3H-YD-tNc.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"2 seconds\"; ObjectID = \"G3H-YD-tNc\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2 seconds"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2秒"
+          }
+        }
+      }
+    },
+    "G4Q-Rk-WW9.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Preview...\"; ObjectID = \"G4Q-Rk-WW9\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preview..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "预览…"
+          }
+        }
+      }
+    },
+    "GcU-Ks-Z4Z.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Auto Start Recording Traffic at Launch\"; ObjectID = \"GcU-Ks-Z4Z\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Auto Start Recording Traffic at Launch"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "启动时自动开始记录流量"
+          }
+        }
+      }
+    },
+    "Gew-Gl-0rw.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"PRO\"; ObjectID = \"Gew-Gl-0rw\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PRO"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PRO"
+          }
+        }
+      }
+    },
+    "gFB-bF-d65.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Truncation Style:\"; ObjectID = \"gFB-bF-d65\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Truncation Style:"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "截断样式："
+          }
+        }
+      }
+    },
+    "GFg-ec-1q4.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Copy Debugging data (System OS and App Version)\"; ObjectID = \"GFg-ec-1q4\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copy Debugging data (System OS and App Version)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "复制调试数据（系统 OS 和应用版本）"
+          }
+        }
+      }
+    },
+    "GI2-GU-BDu.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Export\"; ObjectID = \"GI2-GU-BDu\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Export"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导出"
+          }
+        }
+      }
+    },
+    "GRh-ar-Fcg.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Manage Access\"; ObjectID = \"GRh-ar-Fcg\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Manage Access"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "管理访问"
+          }
+        }
+      }
+    },
+    "GTV-I2-kK7.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Show Update Notification at Launch\"; ObjectID = \"GTV-I2-kK7\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show Update Notification at Launch"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "启动时显示更新通知"
+          }
+        }
+      }
+    },
+    "h0E-No-Tmc.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Advanced Proxy Setting…\"; ObjectID = \"h0E-No-Tmc\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Advanced Proxy Setting…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "高级代理设置…"
+          }
+        }
+      }
+    },
+    "h9G-3i-EVr.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"(Require Restart App!)\"; ObjectID = \"h9G-3i-EVr\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "(Require Restart App!)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "（需要重启应用！）"
+          }
+        }
+      }
+    },
+    "H54-qX-H3s.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"PRO\"; ObjectID = \"H54-qX-H3s\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PRO"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PRO"
+          }
+        }
+      }
+    },
+    "Hf3-sZ-9ad.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"60 seconds\"; ObjectID = \"Hf3-sZ-9ad\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "60 seconds"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "60秒"
+          }
+        }
+      }
+    },
+    "HfA-QJ-tDS.title" : {
+      "comment" : "Class = \"NSWindow\"; title = \"macOS Proxy Settings\"; ObjectID = \"HfA-QJ-tDS\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "macOS Proxy Settings"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "macOS代理设置"
+          }
+        }
+      }
+    },
+    "HGS-90-QyJ.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"After Publish:\"; ObjectID = \"HGS-90-QyJ\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "After Publish:"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "发布后:"
+          }
+        }
+      }
+    },
+    "hHh-rO-YSJ.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Auto Override System Proxy Settings at Launch\"; ObjectID = \"hHh-rO-YSJ\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Auto Override System Proxy Settings at Launch"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "启动时自动覆盖系统代理设置"
+          }
+        }
+      }
+    },
+    "HjQ-KW-7TK.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Export Log:\"; ObjectID = \"HjQ-KW-7TK\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Export Log:"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导出日志:"
+          }
+        }
+      }
+    },
+    "hpl-Fw-aiS.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSTextField\"; ibShadowedToolTip = \"Your Root Certificate is expired. To fix it -> Remove your current certificate and Install a new one\"; ObjectID = \"hpl-Fw-aiS\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your Root Certificate is expired. To fix it -> Remove your current certificate and Install a new one"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "你的根证书已过期。要修复它 -> 移除当前证书并安装新证书"
+          }
+        }
+      }
+    },
+    "I0h-51-7d4.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"16\"; ObjectID = \"I0h-51-7d4\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "16"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "16"
+          }
+        }
+      }
+    },
+    "iGm-01-g5F.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"🛠 Install Proxy Helper Tool\"; ObjectID = \"iGm-01-g5F\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🛠 Install Proxy Helper Tool"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🛠 安装代理助手工具"
+          }
+        }
+      }
+    },
+    "IKr-ow-7xJ.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"App Theme\"; ObjectID = \"IKr-ow-7xJ\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "App Theme"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "应用主题"
+          }
+        }
+      }
+    },
+    "ilH-qj-ltd.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Set a Second that a Compose Request will timeout. Enter 0 to disable timeouts.\"; ObjectID = \"ilH-qj-ltd\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Set a Second that a Compose Request will timeout. Enter 0 to disable timeouts."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "设置请求超时时长（秒）。输入0来禁用超时。"
+          }
+        }
+      }
+    },
+    "irt-eM-wtu.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Body Tab:\"; ObjectID = \"irt-eM-wtu\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Body Tab:"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "正文标签："
+          }
+        }
+      }
+    },
+    "ISQ-zy-ocW.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"15 seconds\"; ObjectID = \"ISQ-zy-ocW\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "15 seconds"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "15秒"
+          }
+        }
+      }
+    },
+    "ITp-9N-KG1.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Alternative Rows Background Colors\"; ObjectID = \"ITp-9N-KG1\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alternative Rows Background Colors"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "交替行背景颜色"
+          }
+        }
+      }
+    },
+    "Iyg-sC-F8k.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"You're behind 5 updates\"; ObjectID = \"Iyg-sC-F8k\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You're behind 5 updates"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "你的更新滞后5个版本"
+          }
+        }
+      }
+    },
+    "j2o-wZ-gjP.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"iOS\"; ObjectID = \"j2o-wZ-gjP\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iOS"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iOS"
+          }
+        }
+      }
+    },
+    "j5k-k4-LPD.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Wrap to new line if line is too long to display\"; ObjectID = \"j5k-k4-LPD\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wrap to new line if line is too long to display"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "如果行太长无法显示，请换行"
+          }
+        }
+      }
+    },
+    "jaQ-Yb-BYu.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"App Update:\"; ObjectID = \"jaQ-Yb-BYu\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "App Update:"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "应用更新："
+          }
+        }
+      }
+    },
+    "jbl-1k-wPC.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Display Whitepsace, newline, tab, nonspacing characters in Previewer Tabs\"; ObjectID = \"jbl-1k-wPC\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Display Whitepsace, newline, tab, nonspacing characters in Previewer Tabs"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在预览标签中显示空格、换行、制表符和非空字符"
+          }
+        }
+      }
+    },
+    "JgM-DQ-8jS.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Powered by Sentry\"; ObjectID = \"JgM-DQ-8jS\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Powered by Microsoft App Center"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "由Microsoft App Center提供支持"
+          }
+        }
+      }
+    },
+    "jkq-Sy-qsj.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"5 seconds\"; ObjectID = \"jkq-Sy-qsj\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "5 seconds"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "5秒"
+          }
+        }
+      }
+    },
+    "jQB-eS-1Fy.title" : {
+      "comment" : "Class = \"NSViewController\"; title = \"Proxyman Proxy Helper Tool\"; ObjectID = \"jQB-eS-1Fy\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Proxyman Proxy Helper Tool"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Proxyman 代理助手工具"
+          }
+        }
+      }
+    },
+    "jTR-5Y-9vt.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Install Helper Tool\"; ObjectID = \"jTR-5Y-9vt\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Install Helper Tool"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "安装助手工具"
+          }
+        }
+      }
+    },
+    "JuX-gz-PVq.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"10\"; ObjectID = \"JuX-gz-PVq\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "10"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "10"
+          }
+        }
+      }
+    },
+    "K6f-dH-Woe.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Help improve Proxyman's stability and performance by sending the crash report if Proxyman is crashed unexpectedly. This crash report is collected anonymously and contains no personal information.\"; ObjectID = \"K6f-dH-Woe\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Help improve Proxyman's stability and performance by sending the crash report if Proxyman is crashed unexpectedly. This crash report is collected anonymously and contains no personal information."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "通过发送崩溃报告来帮助提高Proxyman的稳定性和性能，如果Proxyman意外崩溃。该崩溃报告是匿名收集的，并不包含个人信息."
+          }
+        }
+      }
+    },
+    "k7p-yV-INk.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Force to reload the Icon Plugin\"; ObjectID = \"k7p-yV-INk\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Force to reload the Icon Plugin"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "强制重新加载图标插件"
+          }
+        }
+      }
+    },
+    "K62-B0-EXH.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Miscellaneous:\"; ObjectID = \"K62-B0-EXH\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Miscellaneous:"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "杂项:"
+          }
+        }
+      }
+    },
+    "kAz-Lt-M4H.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Proxy Helper Tool:\"; ObjectID = \"kAz-Lt-M4H\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Proxy Helper Tool:"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "代理助手工具："
+          }
+        }
+      }
+    },
+    "Krn-MS-l1J.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"PRO\"; ObjectID = \"Krn-MS-l1J\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PRO"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PRO"
+          }
+        }
+      }
+    },
+    "KSC-jN-BHJ.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Show Invisibles\"; ObjectID = \"KSC-jN-BHJ\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show Invisibles"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "显示隐藏字符"
+          }
+        }
+      }
+    },
+    "L8W-up-oIP.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Show Resource Usage in Bottom Bar\"; ObjectID = \"L8W-up-oIP\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show Resource Usage in Bottom Bar"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在底部工具栏显示资源使用情况"
+          }
+        }
+      }
+    },
+    "lKU-As-Hkg.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Complete suite of debugging tools.\"; ObjectID = \"lKU-As-Hkg\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Complete suite of debugging tools."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "完整的调试工具套件。"
+          }
+        }
+      }
+    },
+    "LLi-3b-pjV.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Use No-Caching on Repeated Requests\"; ObjectID = \"LLi-3b-pjV\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use No-Caching on Repeated Requests"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "包括内存使用情况、上传和下载速度."
+          }
+        }
+      }
+    },
+    "lmQ-sA-w5F.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Proxyman CA\"; ObjectID = \"lmQ-sA-w5F\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Proxyman CA"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Proxyman CA"
+          }
+        }
+      }
+    },
+    "Lqm-Rb-4v3.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Include memory usage, upload and download speed.\"; ObjectID = \"Lqm-Rb-4v3\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Include memory usage, upload and download speed."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "包括内存使用情况、上传和下载速度。"
+          }
+        }
+      }
+    },
+    "lrA-Zd-eon.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Map Local Delay:\"; ObjectID = \"lrA-Zd-eon\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Map Local Delay:"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "映射本地延迟："
+          }
+        }
+      }
+    },
+    "lVO-3H-ICA.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"12\"; ObjectID = \"lVO-3H-ICA\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "12"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "12"
+          }
+        }
+      }
+    },
+    "MaG-cN-rh4.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"This feature is locked. Buy Proxyman Pro to unlock this feature.\"; ObjectID = \"MaG-cN-rh4\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This feature is locked. Buy Proxyman Pro to unlock this feature."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "此功能已锁定。购买 Proxyman Pro 解锁此功能。"
+          }
+        }
+      }
+    },
+    "Mb7-KU-npu.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Uninstall\"; ObjectID = \"Mb7-KU-npu\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uninstall"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "卸载"
+          }
+        }
+      }
+    },
+    "MJm-cy-Ovb.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \" This port is occupied! Please select available port.\"; ObjectID = \"MJm-cy-Ovb\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " This port is occupied! Please select available port."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "此端口已被占用！请选择可用的端口。"
+          }
+        }
+      }
+    },
+    "MKM-5X-0dt.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"AppStore…\"; ObjectID = \"MKM-5X-0dt\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AppStore…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "App Store…"
+          }
+        }
+      }
+    },
+    "MN2-cP-LLI.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Stay On Top\"; ObjectID = \"MN2-cP-LLI\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stay On Top"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "保持在最上层"
+          }
+        }
+      }
+    },
+    "Mn8-XJ-7v0.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Time Label will display with Date, Time, and keep the TimeZone.\"; ObjectID = \"Mn8-XJ-7v0\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Time Label will display with Date, Time, and keep the TimeZone."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "时间标签将显示日期、时间，并保持时区。"
+          }
+        }
+      }
+    },
+    "mQ9-8L-NnV.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Root Certificate as DER...\"; ObjectID = \"mQ9-8L-NnV\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Root Certificate as DER..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "根证书为 DER 格式…"
+          }
+        }
+      }
+    },
+    "mrj-zq-sdm.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Homepage…\"; ObjectID = \"mrj-zq-sdm\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Homepage…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "主页…"
+          }
+        }
+      }
+    },
+    "n1w-sh-rbz.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \" Your HTTP/HTTPS Proxy is currently overridden by `networksetup` CLI. It works, but slow!\"; ObjectID = \"n1w-sh-rbz\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " Your HTTP/HTTPS Proxy is currently overridden by `networksetup` CLI. It works, but slow!"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "您的 HTTP/HTTPS 代理当前被 `networksetup` CLI 覆盖。它可以工作，但速度较慢！"
+          }
+        }
+      }
+    },
+    "N6K-G2-QMY.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"28\"; ObjectID = \"N6K-G2-QMY\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "28"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "28"
+          }
+        }
+      }
+    },
+    "ncs-O1-w6y.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Request Timeout:\"; ObjectID = \"ncs-O1-w6y\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Request Timeout:"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "请求超时："
+          }
+        }
+      }
+    },
+    "ngS-lO-b7q.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"2 Spaces\"; ObjectID = \"ngS-lO-b7q\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2 Spaces"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2 个空格"
+          }
+        }
+      }
+    },
+    "NMP-nz-g9l.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Request and Response panels in Vertical or Horizontal Layout.\"; ObjectID = \"NMP-nz-g9l\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Request and Response panels in Vertical or Horizontal Layout."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "请求和响应面板的垂直或水平布局。"
+          }
+        }
+      }
+    },
+    "NSZ-qX-Kq1.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Acknowledgment\"; ObjectID = \"NSZ-qX-Kq1\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acknowledgment"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "确认"
+          }
+        }
+      }
+    },
+    "nU4-Wv-xl9.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Clean 1/2 total of Requests/Responses if RAM Usage >= 2Gb.\"; ObjectID = \"nU4-Wv-xl9\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Clean 1/2 total of Requests/Responses if RAM Usage >= 2Gb."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "如果 RAM 使用量 >= 2Gb，请清除 1/2 的请求/响应。"
+          }
+        }
+      }
+    },
+    "NYd-S0-tpS.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Not Authorized Yet\"; ObjectID = \"NYd-S0-tpS\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Not Authorized Yet"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "尚未授权"
+          }
+        }
+      }
+    },
+    "NZh-v6-y1S.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"It's useful if you're using different Proxy Server at the same time with Proxyman.\"; ObjectID = \"NZh-v6-y1S\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "It's useful if you're using different Proxy Server at the same time with Proxyman."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "如果你同时使用了不同的代理服务器与 Proxyman，这会很有用。"
+          }
+        }
+      }
+    },
+    "O2q-a4-Jfb.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Show Minimap View in the Body Tab\"; ObjectID = \"O2q-a4-Jfb\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show Minimap View in the Body Tab"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在主体标签中显示缩略图视图"
+          }
+        }
+      }
+    },
+    "O3B-dS-xhF.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"seconds\"; ObjectID = \"O3B-dS-xhF\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "seconds"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "秒"
+          }
+        }
+      }
+    },
+    "O6S-0f-YXU.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Truncate at the end of the line.\"; ObjectID = \"O6S-0f-YXU\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Truncate at the end of the line."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在行尾截断。"
+          }
+        }
+      }
+    },
+    "O6S-0f-YXU.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Tail\"; ObjectID = \"O6S-0f-YXU\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tail"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "尾部"
+          }
+        }
+      }
+    },
+    "Oa1-9M-J8r.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"4 Spaces\"; ObjectID = \"Oa1-9M-J8r\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "4 Spaces"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "4个空格"
+          }
+        }
+      }
+    },
+    "Odh-9K-Po6.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Horizontal\"; ObjectID = \"Odh-9K-Po6\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Horizontal"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "水平"
+          }
+        }
+      }
+    },
+    "oes-V6-8FP.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"HTTPie\"; ObjectID = \"oes-V6-8FP\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HTTPie"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HTTPie"
+          }
+        }
+      }
+    },
+    "of6-tn-K4d.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Scripting:\"; ObjectID = \"of6-tn-K4d\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scripting:"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "脚本："
+          }
+        }
+      }
+    },
+    "ONU-RP-7UJ.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Debugging Tools:\"; ObjectID = \"ONU-RP-7UJ\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Debugging Tools:"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "调试工具："
+          }
+        }
+      }
+    },
+    "pcs-a9-SJX.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Authorize\"; ObjectID = \"pcs-a9-SJX\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Authorize"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "授权"
+          }
+        }
+      }
+    },
+    "pOe-gF-s8n.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Private Gist\"; ObjectID = \"pOe-gF-s8n\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Private Gist"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "私人 Gist"
+          }
+        }
+      }
+    },
+    "Pof-sV-5Ii.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Truncate at the beginning of the line.\"; ObjectID = \"Pof-sV-5Ii\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Truncate at the beginning of the line."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在行首截断。"
+          }
+        }
+      }
+    },
+    "Pof-sV-5Ii.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Head\"; ObjectID = \"Pof-sV-5Ii\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Head"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "头部"
+          }
+        }
+      }
+    },
+    "PpM-wb-J03.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"This feature is locked. Buy Proxyman Pro to unlock this feature.\"; ObjectID = \"PpM-wb-J03\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This feature is locked. Buy Proxyman Pro to unlock this feature."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "此功能已锁定。购买 Proxyman Pro 解锁此功能。"
+          }
+        }
+      }
+    },
+    "qCz-f8-2g7.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"180 seconds\"; ObjectID = \"qCz-f8-2g7\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "180 seconds"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "180 秒"
+          }
+        }
+      }
+    },
+    "qfA-KN-Oq0.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Download…\"; ObjectID = \"qfA-KN-Oq0\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Download…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "下载…"
+          }
+        }
+      }
+    },
+    "Qgq-TP-lie.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Hide *.apple.com and *.icloud.com request from iOS Simulators.\"; ObjectID = \"Qgq-TP-lie\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hide *.apple.com and *.icloud.com request from iOS Simulators."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "隐藏来自 iOS 模拟器的 *.apple.com 和 *.icloud.com 请求。"
+          }
+        }
+      }
+    },
+    "qhy-Ny-qSr.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"What's Proxy Helper Tool?\"; ObjectID = \"qhy-Ny-qSr\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "What's Proxy Helper Tool?"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "什么是代理帮助工具？"
+          }
+        }
+      }
+    },
+    "QLS-jJ-VCp.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"PRO\"; ObjectID = \"QLS-jJ-VCp\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PRO"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "专业版"
+          }
+        }
+      }
+    },
+    "QMf-FR-Ng6.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"App UI\"; ObjectID = \"QMf-FR-Ng6\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "App UI"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "应用界面"
+          }
+        }
+      }
+    },
+    "qwF-fZ-Ryx.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Installed & Trusted\"; ObjectID = \"qwF-fZ-Ryx\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Installed & Trusted"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已安装且信任"
+          }
+        }
+      }
+    },
+    "RDc-l7-83E.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Default directory to create temporary Map Local files.\"; ObjectID = \"RDc-l7-83E\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Default directory to create temporary Map Local files."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "创建临时本地映射文件的默认目录。"
+          }
+        }
+      }
+    },
+    "Rgb-wI-DPe.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Text Only\"; ObjectID = \"Rgb-wI-DPe\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Text Only"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "仅文本"
+          }
+        }
+      }
+    },
+    "RGn-u6-bbA.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"This feature is locked. Buy Proxyman Pro to unlock this feature.\"; ObjectID = \"RGn-u6-bbA\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This feature is locked. Buy Proxyman Pro to unlock this feature."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "此功能已锁定。购买 Proxyman Pro 解锁此功能。"
+          }
+        }
+      }
+    },
+    "RHe-pI-8FQ.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"App Language:\"; ObjectID = \"RHe-pI-8FQ\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "App Language:"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "应用语言："
+          }
+        }
+      }
+    },
+    "RjY-fE-LA8.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"English\"; ObjectID = \"RjY-fE-LA8\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "English"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "英语"
+          }
+        }
+      }
+    },
+    "rVP-dV-fen.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"19\"; ObjectID = \"rVP-dV-fen\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "19"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "19"
+          }
+        }
+      }
+    },
+    "s8X-8q-rjl.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Add --proxy flag into cURL command\"; ObjectID = \"s8X-8q-rjl\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add --proxy flag into cURL command"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在 cURL 命令中添加 --proxy 标志"
+          }
+        }
+      }
+    },
+    "Sby-GA-bQs.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Open Gist with default Web Browser\"; ObjectID = \"Sby-GA-bQs\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open Gist with default Web Browser"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用默认网页浏览器打开 Gist"
+          }
+        }
+      }
+    },
+    "SET-xc-010.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Truncate in the middle of the line.\"; ObjectID = \"SET-xc-010\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Truncate in the middle of the line."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在行中间截断。"
+          }
+        }
+      }
+    },
+    "SET-xc-010.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Middle\"; ObjectID = \"SET-xc-010\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Middle"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "中间"
+          }
+        }
+      }
+    },
+    "sge-3n-UXT.placeholderString" : {
+      "comment" : "Class = \"NSTextFieldCell\"; placeholderString = \"1-65535\"; ObjectID = \"sge-3n-UXT\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1-65535"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1-65535"
+          }
+        }
+      }
+    },
+    "Smd-It-cvi.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Anyone can access the Gist.\"; ObjectID = \"Smd-It-cvi\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anyone can access the Gist."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "任何人都可以访问该 Gist。"
+          }
+        }
+      }
+    },
+    "sp9-Yb-MaJ.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Install Proxyman Proxy Helper Tool for better performance.\"; ObjectID = \"sp9-Yb-MaJ\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Install Proxyman Proxy Helper Tool for better performance."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "安装 Proxyman 代理助手工具以获得更好的性能。"
+          }
+        }
+      }
+    },
+    "sr9-da-aVR.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Use 24-Hour Time\"; ObjectID = \"sr9-da-aVR\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use 24-Hour Time"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用 24 小时制"
+          }
+        }
+      }
+    },
+    "STu-UY-CEs.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Analytics:\"; ObjectID = \"STu-UY-CEs\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Analytics:"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "分析："
+          }
+        }
+      }
+    },
+    "sWT-ah-CKH.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"(Require Restart App!)\"; ObjectID = \"sWT-ah-CKH\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "(Require Restart App!)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "（需要重启应用程序！）"
+          }
+        }
+      }
+    },
+    "tb5-eJ-Oaq.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Install\"; ObjectID = \"tb5-eJ-Oaq\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Install"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "安装"
+          }
+        }
+      }
+    },
+    "tcs-xX-nH0.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Share crash report with Proxyman\"; ObjectID = \"tcs-xX-nH0\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Share crash report with Proxyman"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "与 Proxyman 分享崩溃报告"
+          }
+        }
+      }
+    },
+    "TEm-bK-haX.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Content Layout:\"; ObjectID = \"TEm-bK-haX\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Content Layout:"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "内容布局："
+          }
+        }
+      }
+    },
+    "TFV-ln-1Bd.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Toolbar Style:\"; ObjectID = \"TFV-ln-1Bd\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toolbar Style:"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "工具栏样式："
+          }
+        }
+      }
+    },
+    "ttL-8F-J8l.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Public Gist\"; ObjectID = \"ttL-8F-J8l\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Public Gist"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "公开 Gist"
+          }
+        }
+      }
+    },
+    "tZH-DX-1bT.title" : {
+      "comment" : "Class = \"NSWindow\"; title = \"About\"; ObjectID = \"tZH-DX-1bT\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "About"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "关于"
+          }
+        }
+      }
+    },
+    "U7i-bF-g7i.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"PRO\"; ObjectID = \"U7i-bF-g7i\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PRO"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "专业版"
+          }
+        }
+      }
+    },
+    "u8I-he-EGc.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Menu Bar:\"; ObjectID = \"u8I-he-EGc\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Menu Bar:"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "菜单栏："
+          }
+        }
+      }
+    },
+    "ufF-pt-cbl.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"About Team\"; ObjectID = \"ufF-pt-cbl\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "About Team"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "关于团队"
+          }
+        }
+      }
+    },
+    "uI9-Bg-v36.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Require Trusted Proxyman Certificate in Keychain Access \"; ObjectID = \"uI9-Bg-v36\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Require Trusted Proxyman Certificate in Keychain Access "
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在钥匙串访问中需要受信任的 Proxyman 证书"
+          }
+        }
+      }
+    },
+    "usa-C9-qCs.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \" Fixed: PAC URL doesn't restore properly when closing Proxyman\"; ObjectID = \"usa-C9-qCs\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " Fixed: PAC URL doesn't restore properly when closing Proxyman"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "修复：关闭 Proxyman 时 PAC URL 无法正确还原"
+          }
+        }
+      }
+    },
+    "ut9-5Q-ssa.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Up-to-date\"; ObjectID = \"ut9-5Q-ssa\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Up-to-date"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已更新"
+          }
+        }
+      }
+    },
+    "V5f-Jw-vGH.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Word Wrap\"; ObjectID = \"V5f-Jw-vGH\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Word Wrap"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "换行"
+          }
+        }
+      }
+    },
+    "VgO-yw-Imi.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Simulate the delay before sending the Map Local Response.\"; ObjectID = \"VgO-yw-Imi\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Simulate the delay before sending the Map Local Response."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在发送本地映射响应之前模拟延迟。"
+          }
+        }
+      }
+    },
+    "vK7-8k-VY9.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Crash Report:\"; ObjectID = \"vK7-8k-VY9\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Crash Report:"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "崩溃报告："
+          }
+        }
+      }
+    },
+    "vKG-7N-DB6.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Generated: Monday 2017\"; ObjectID = \"vKG-7N-DB6\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Generated: Monday 2017"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "生成时间：2017 年星期一"
+          }
+        }
+      }
+    },
+    "vlg-C6-YTq.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"Export\"; ObjectID = \"vlg-C6-YTq\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Export"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导出"
+          }
+        }
+      }
+    },
+    "VNb-kR-sZN.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"⚠️ Expired\"; ObjectID = \"VNb-kR-sZN\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⚠️ Expired"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⚠️ 已过期"
+          }
+        }
+      }
+    },
+    "Vng-5b-MgI.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Linux (Ubuntu)\"; ObjectID = \"Vng-5b-MgI\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Linux (Ubuntu)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Linux (Ubuntu)"
+          }
+        }
+      }
+    },
+    "vor-c5-bJQ.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Icon and Label\"; ObjectID = \"vor-c5-bJQ\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Icon and Label"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "图标和标签"
+          }
+        }
+      }
+    },
+    "vr4-Cy-gYD.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Up-to-date\"; ObjectID = \"vr4-Cy-gYD\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Up-to-date"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "最新"
+          }
+        }
+      }
+    },
+    "vRm-QK-qM3.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Ready to use.\"; ObjectID = \"vRm-QK-qM3\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ready to use."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "准备就绪。"
+          }
+        }
+      }
+    },
+    "vRn-Tc-gVM.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Ignore Caching and always Fetch Response from the Server.\"; ObjectID = \"vRn-Tc-gVM\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ignore Caching and always Fetch Response from the Server."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "忽略缓存，始终从服务器获取响应。"
+          }
+        }
+      }
+    },
+    "vSX-gg-USd.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Icon Only (Default)\"; ObjectID = \"vSX-gg-USd\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Icon Only (Default)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "仅图标（默认）"
+          }
+        }
+      }
+    },
+    "VWC-SK-7lV.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Root Certificate as PEM...\"; ObjectID = \"VWC-SK-7lV\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Root Certificate as PEM..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "以 PEM 格式导出根证书..."
+          }
+        }
+      }
+    },
+    "WbR-zh-4eo.title" : {
+      "comment" : "Class = \"NSViewController\"; title = \"About\"; ObjectID = \"WbR-zh-4eo\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "About"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "关于"
+          }
+        }
+      }
+    },
+    "WWJ-OP-BzR.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"20\"; ObjectID = \"WWJ-OP-BzR\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "20"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "20"
+          }
+        }
+      }
+    },
+    "WY7-qJ-smu.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Allow Scripts to read System Environment Variables\"; ObjectID = \"WY7-qJ-smu\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Allow Scripts to read System Environment Variables"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "允许脚本读取系统环境变量"
+          }
+        }
+      }
+    },
+    "Xdr-2w-VSv.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Generate new Proxyman CA\"; ObjectID = \"Xdr-2w-VSv\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Generate new Proxyman CA"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "生成新的 Proxyman CA"
+          }
+        }
+      }
+    },
+    "xha-qq-63S.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"120 seconds\"; ObjectID = \"xha-qq-63S\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "120 seconds"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "120秒"
+          }
+        }
+      }
+    },
+    "XiK-LT-h82.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"To read or write Gists on a user's behalf, Proxyman requires Gist Permission from your GitHub account. After the authorization, your GitHub Access Token will securely store in System Keychain.\"; ObjectID = \"XiK-LT-h82\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "To read or write Gists on a user's behalf, Proxyman requires Gist Permission from your GitHub account. After the authorization, your GitHub Access Token will securely store in System Keychain."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "要代表用户读取或写入 Gists，Proxyman 需要来自您 GitHub 帐户的 Gist 权限。授权后，您的 GitHub 访问令牌将安全地存储在系统钥匙串中。"
+          }
+        }
+      }
+    },
+    "YbG-oR-y3A.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Copy Gist URL to clipboard\"; ObjectID = \"YbG-oR-y3A\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copy Gist URL to clipboard"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "复制 Gist URL 到剪贴板"
+          }
+        }
+      }
+    },
+    "YcD-IF-L16.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"PRO\"; ObjectID = \"YcD-IF-L16\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PRO"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PRO"
+          }
+        }
+      }
+    },
+    "YJs-z2-3ut.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Privacy Policy\"; ObjectID = \"YJs-z2-3ut\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Privacy Policy"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "隐私政策"
+          }
+        }
+      }
+    },
+    "yKd-N8-Rgt.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Restore to previous HTTP/HTTPS Proxy when Proxyman is closed\"; ObjectID = \"yKd-N8-Rgt\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restore to previous HTTP/HTTPS Proxy when Proxyman is closed"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "当Proxyman关闭时，恢复到之前的HTTP/HTTPS代理"
+          }
+        }
+      }
+    },
+    "Ymf-kA-MTA.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"(Required Root Privileges)\"; ObjectID = \"Ymf-kA-MTA\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "(Required Root Privileges)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "（需要管理员权限）"
+          }
+        }
+      }
+    },
+    "YoJ-zs-nWA.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Override your System Proxy Settings in Wi-Fi -> Details… -> Proxies tab.\"; ObjectID = \"YoJ-zs-nWA\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Override your System Proxy Settings in Wi-Fi -> Details… -> Proxies tab."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在 Wi-Fi -> 详情… -> 代理选项卡中覆盖您的系统代理设置。"
+          }
+        }
+      }
+    },
+    "ypP-dG-bN6.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Use Monospaced Font for all UI\"; ObjectID = \"ypP-dG-bN6\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use Monospaced Font for all UI"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "为所有 UI 使用等宽字体"
+          }
+        }
+      }
+    },
+    "YQ4-gw-r0u.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"macOS\"; ObjectID = \"YQ4-gw-r0u\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "macOS"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "macOS"
+          }
+        }
+      }
+    },
+    "Z4q-GN-Y7F.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Applied for Map Local, Map Remote, and Scripting.\"; ObjectID = \"Z4q-GN-Y7F\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Applied for Map Local, Map Remote, and Scripting."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "应用于本地映射、远程映射和脚本。"
+          }
+        }
+      }
+    },
+    "z7C-CH-rw0.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Gist Permission:\"; ObjectID = \"z7C-CH-rw0\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gist Permission:"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gist 权限：“},{"
+          }
+        }
+      }
+    },
+    "ZBC-n7-mWx.placeholderString" : {
+      "comment" : "Class = \"NSTextFieldCell\"; placeholderString = \"30\"; ObjectID = \"ZBC-n7-mWx\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "30"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "30"
+          }
+        }
+      }
+    },
+    "ZBC-n7-mWx.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"30\"; ObjectID = \"ZBC-n7-mWx\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "30"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "30"
+          }
+        }
+      }
+    },
+    "ZKj-HO-4Ct.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"18\"; ObjectID = \"ZKj-HO-4Ct\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "18"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "18"
+          }
+        }
+      }
+    },
+    "ZSE-HI-cFP.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Version 1.3.5 (1350)\"; ObjectID = \"ZSE-HI-cFP\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Version 1.3.5 (1350)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "版本 1.3.5 (1350)"
+          }
+        }
+      }
+    },
+    "ZVn-eI-9a7.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Root Certificate as P12...\"; ObjectID = \"ZVn-eI-9a7\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Root Certificate as P12..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "根证书作为 P12..."
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

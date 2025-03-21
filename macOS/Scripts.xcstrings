@@ -1,0 +1,1655 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "1da-pd-oJb.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"Export Settings\"; ObjectID = \"1da-pd-oJb\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Export Settings"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导出设置"
+          }
+        }
+      }
+    },
+    "1Lv-MJ-8mP.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"New Folder\"; ObjectID = \"1Lv-MJ-8mP\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "New Folder"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新建文件夹"
+          }
+        }
+      }
+    },
+    "2bf-R9-Ugc.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Import selected file and import to JS Code\"; ObjectID = \"2bf-R9-Ugc\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Import selected file and import to JS Code"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导入选定文件并导入到 JS 代码"
+          }
+        }
+      }
+    },
+    "2bf-R9-Ugc.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Import JSON or Other File...\"; ObjectID = \"2bf-R9-Ugc\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Import JSON or Other File..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导入 JSON 或其他文件…"
+          }
+        }
+      }
+    },
+    "2Rf-8t-48p.ibExternalAccessibilityDescription" : {
+      "comment" : "Class = \"NSButton\"; ibExternalAccessibilityDescription = \"Enable or Disable entire Map Local Feature\"; ObjectID = \"2Rf-8t-48p\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enable or Disable entire Map Local Feature"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "启用或禁用整个地图本地功能"
+          }
+        }
+      }
+    },
+    "2WF-c9-ZLL.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Export Rules that you can share with your teammates. Export the script and all imported files\"; ObjectID = \"2WF-c9-ZLL\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Export Rules that you can share with your teammates. Export the script and all imported files"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导出规则，与你的团队成员分享。导出脚本及所有导入的文件"
+          }
+        }
+      }
+    },
+    "2WF-c9-ZLL.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Scripts and All Imported Files...\"; ObjectID = \"2WF-c9-ZLL\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scripts and All Imported Files..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "脚本和所有导入的文件…"
+          }
+        }
+      }
+    },
+    "3oU-SJ-b4w.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"If Mock API is enabled, the request never hits your server. You have to provide the response. It's useful for testing.\"; ObjectID = \"3oU-SJ-b4w\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "If Mock API is enabled, the request never hits your server. You have to provide the response. It's useful for testing."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "如果启用了 Mock API，请求将不会到达你的服务器。你必须提供响应。这对于测试非常有用。"
+          }
+        }
+      }
+    },
+    "3ZA-n0-5rl.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Console\"; ObjectID = \"3ZA-n0-5rl\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Console"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "控制台"
+          }
+        }
+      }
+    },
+    "4iP-OB-Htr.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"More\"; ObjectID = \"4iP-OB-Htr\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "More"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "更多"
+          }
+        }
+      }
+    },
+    "5vf-Gb-QcQ.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Matching Rule\"; ObjectID = \"5vf-Gb-QcQ\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Matching Rule"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "匹配规则"
+          }
+        }
+      }
+    },
+    "5YF-9i-XFK.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"Configs\"; ObjectID = \"5YF-9i-XFK\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Configs"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "配置"
+          }
+        }
+      }
+    },
+    "6OV-n0-cWR.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Run onResponse() function\"; ObjectID = \"6OV-n0-cWR\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Run onResponse() function"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "运行 onResponse() 函数"
+          }
+        }
+      }
+    },
+    "6wv-8S-F2I.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"New…\"; ObjectID = \"6wv-8S-F2I\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "New…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新建…"
+          }
+        }
+      }
+    },
+    "8ag-ls-KoV.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"Environment Variables\"; ObjectID = \"8ag-ls-KoV\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Environment Variables"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "环境变量"
+          }
+        }
+      }
+    },
+    "8ts-qc-3RB.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Run Script on:\"; ObjectID = \"8ts-qc-3RB\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Run Script on:"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "运行脚本于："
+          }
+        }
+      }
+    },
+    "15j-Xz-hKk.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSImageView\"; ibShadowedToolTip = \"Automatically Save file after 1 second\"; ObjectID = \"15j-Xz-hKk\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Automatically Save file after 1 second"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在 1 秒后自动保存文件"
+          }
+        }
+      }
+    },
+    "49J-je-yD2.headerCell.title" : {
+      "comment" : "Class = \"NSTableColumn\"; headerCell.title = \"Matching Rule\"; ObjectID = \"49J-je-yD2\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Matching Rule"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "匹配规则"
+          }
+        }
+      }
+    },
+    "49J-je-yD2.headerToolTip" : {
+      "comment" : "Class = \"NSTableColumn\"; headerToolTip = \"Matching URLs\"; ObjectID = \"49J-je-yD2\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Matching URLs"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "匹配 URLs"
+          }
+        }
+      }
+    },
+    "60p-Do-eUa.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Run as Mock API\"; ObjectID = \"60p-Do-eUa\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Run as Mock API"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "作为 Mock API 运行"
+          }
+        }
+      }
+    },
+    "783-cf-8NW.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Import Script Rules\"; ObjectID = \"783-cf-8NW\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Import Script Rules"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导入脚本规则"
+          }
+        }
+      }
+    },
+    "783-cf-8NW.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"From Proxyman...\"; ObjectID = \"783-cf-8NW\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "From Proxyman..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "来自 Proxyman..."
+          }
+        }
+      }
+    },
+    "abR-Dt-dL5.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Delete\"; ObjectID = \"abR-Dt-dL5\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "删除"
+          }
+        }
+      }
+    },
+    "AEe-Ox-jZb.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Use console.log() to log events\"; ObjectID = \"AEe-Ox-jZb\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use console.log() to log events"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用 console.log() 记录事件"
+          }
+        }
+      }
+    },
+    "aKx-Yl-Bem.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"New Folder\"; ObjectID = \"aKx-Yl-Bem\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "New Folder"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新建文件夹"
+          }
+        }
+      }
+    },
+    "aU8-kO-YbB.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Configs\"; ObjectID = \"aU8-kO-YbB\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Configs"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "配置"
+          }
+        }
+      }
+    },
+    "B6T-WK-Jh2.headerCell.title" : {
+      "comment" : "Class = \"NSTableColumn\"; headerCell.title = \"Name\"; ObjectID = \"B6T-WK-Jh2\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Name"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "名称"
+          }
+        }
+      }
+    },
+    "B7H-Qn-1GV.ibShadowedLabels[0]" : {
+      "comment" : "Class = \"NSSegmentedCell\"; B7H-Qn-1GV.ibShadowedLabels[0] = \"Snippet Code\"; ObjectID = \"B7H-Qn-1GV\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Snippet Code"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "代码片段"
+          }
+        }
+      }
+    },
+    "bcp-ip-pRf.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Request\"; ObjectID = \"bcp-ip-pRf\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Request"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "请求"
+          }
+        }
+      }
+    },
+    "Beb-ek-dt4.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"Import Settings\"; ObjectID = \"Beb-ek-dt4\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Import Settings"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导入设置"
+          }
+        }
+      }
+    },
+    "cbG-2v-RmG.title" : {
+      "comment" : "Class = \"NSWindow\"; title = \"Scripting\"; ObjectID = \"cbG-2v-RmG\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scripting"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "脚本"
+          }
+        }
+      }
+    },
+    "cGe-FP-Cga.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Name:\"; ObjectID = \"cGe-FP-Cga\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Name:"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "名称："
+          }
+        }
+      }
+    },
+    "cyH-Yq-dxO.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Each request is checked against the rules from top to bottom, stopping when a match is found.\"; ObjectID = \"cyH-Yq-dxO\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Each request is checked against the rules from top to bottom, stopping when a match is found."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "每个请求都会按照从上到下的规则进行检查，直到找到匹配项为止。"
+          }
+        }
+      }
+    },
+    "e2Q-na-x9J.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Open local file with\"; ObjectID = \"e2Q-na-x9J\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open local file with"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "用本地文件打开"
+          }
+        }
+      }
+    },
+    "EAa-s4-6jg.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Export Rules that you can share with your teammates. Only Export the Script\"; ObjectID = \"EAa-s4-6jg\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Export Rules that you can share with your teammates. Only Export the Script"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导出可以与队友共享的规则。仅导出脚本"
+          }
+        }
+      }
+    },
+    "EAa-s4-6jg.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Only Scripts...\"; ObjectID = \"EAa-s4-6jg\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Only Scripts..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "仅脚本..."
+          }
+        }
+      }
+    },
+    "eTe-5h-VxL.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Duplicate\"; ObjectID = \"eTe-5h-VxL\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Duplicate"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "复制"
+          }
+        }
+      }
+    },
+    "eTX-mK-u1J.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Addon Docs...\"; ObjectID = \"eTX-mK-u1J\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Addon Docs..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "插件文档..."
+          }
+        }
+      }
+    },
+    "FGU-E6-oNK.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Clear all Logs\"; ObjectID = \"FGU-E6-oNK\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Clear all Logs"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "清除所有日志"
+          }
+        }
+      }
+    },
+    "fS1-RA-owo.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Errors\"; ObjectID = \"fS1-RA-owo\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Errors"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "错误"
+          }
+        }
+      }
+    },
+    "fuE-sP-WQe.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Allow Running Multiple Scripts for one Requests\"; ObjectID = \"fuE-sP-WQe\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Allow Running Multiple Scripts for one Requests"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "允许对一个请求运行多个脚本"
+          }
+        }
+      }
+    },
+    "g2c-Km-UdJ.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Hide Proxyman logs, just display user logs\"; ObjectID = \"g2c-Km-UdJ\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hide Proxyman logs, just display user logs"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "隐藏 Proxyman 日志，仅显示用户日志"
+          }
+        }
+      }
+    },
+    "g2c-Km-UdJ.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Hide Proxyman Logs in Console Log\"; ObjectID = \"g2c-Km-UdJ\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hide Proxyman Logs in Console Log"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在控制台日志中隐藏 Proxyman 日志"
+          }
+        }
+      }
+    },
+    "gB7-cb-JeF.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Toggl Enable / Disable selected rules\"; ObjectID = \"gB7-cb-JeF\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toggl Enable / Disable selected rules"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "切换启用/禁用选定规则"
+          }
+        }
+      }
+    },
+    "gB7-cb-JeF.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Enable Rule\"; ObjectID = \"gB7-cb-JeF\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enable Rule"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "启用规则"
+          }
+        }
+      }
+    },
+    "geb-sb-72N.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Save and write the current editing script to disk and activate it ⌘S\"; ObjectID = \"geb-sb-72N\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Save and write the current editing script to disk and activate it ⌘S"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "保存并写入当前编辑的脚本到磁盘并激活它 ⌘S"
+          }
+        }
+      }
+    },
+    "GKe-oa-O4D.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Multiple Scripts Mode: A Request/Response can be run with multiple scripts.\"; ObjectID = \"GKe-oa-O4D\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Multiple Scripts Mode: A Request/Response can be run with multiple scripts."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "多脚本模式：一个请求/响应可以与多个脚本一起运行。"
+          }
+        }
+      }
+    },
+    "Gmm-Ye-msV.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Clear all Logs\"; ObjectID = \"Gmm-Ye-msV\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Clear all Logs"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "清除所有日志"
+          }
+        }
+      }
+    },
+    "gMu-9e-6Pa.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Allow all scripts to access Environment Variables\"; ObjectID = \"gMu-9e-6Pa\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Allow all scripts to access Environment Variables"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "允许所有脚本访问环境变量"
+          }
+        }
+      }
+    },
+    "had-X8-9CN.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Open Doc how to write your own JS Addons\"; ObjectID = \"had-X8-9CN\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open Doc how to write your own JS Addons"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "打开文档以了解如何编写自己的 JS 插件"
+          }
+        }
+      }
+    },
+    "had-X8-9CN.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Write your Custom Addons...\"; ObjectID = \"had-X8-9CN\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Write your Custom Addons..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "编写自定义插件..."
+          }
+        }
+      }
+    },
+    "HAk-P0-Ggj.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"If there is new log, the Console Log will automatically scroll to the bottom\"; ObjectID = \"HAk-P0-Ggj\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "If there is new log, the Console Log will automatically scroll to the bottom"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "如果有新的日志，控制台日志将自动滚动到底部"
+          }
+        }
+      }
+    },
+    "HAk-P0-Ggj.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Scroll to the bottom when there are new logs in Console Log\"; ObjectID = \"HAk-P0-Ggj\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scroll to the bottom when there are new logs in Console Log"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在控制台日志中有新的日志时滚动到底部"
+          }
+        }
+      }
+    },
+    "J3H-pt-2P2.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Log Levels:\"; ObjectID = \"J3H-pt-2P2\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Log Levels:"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "日志级别："
+          }
+        }
+      }
+    },
+    "jKu-Bl-Yq1.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Environment Variables Docs...\"; ObjectID = \"jKu-Bl-Yq1\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Environment Variables Docs..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "环境变量文档..."
+          }
+        }
+      }
+    },
+    "JWv-dU-riJ.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"More\"; ObjectID = \"JWv-dU-riJ\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "More"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "更多"
+          }
+        }
+      }
+    },
+    "l1b-qK-UkR.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Click \\\"+\\\" or ⌘N to add new entry\"; ObjectID = \"l1b-qK-UkR\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Click \"+\" or ⌘N to add new entry"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "点击 \"+\" 或 ⌘N 添加新条目"
+          }
+        }
+      }
+    },
+    "lcF-Es-cZG.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Run onRequest() function\"; ObjectID = \"lcF-Es-cZG\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Run onRequest() function"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "运行 onRequest() 函数"
+          }
+        }
+      }
+    },
+    "Lhy-az-aCd.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Reload\"; ObjectID = \"Lhy-az-aCd\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reload"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重新加载"
+          }
+        }
+      }
+    },
+    "MiB-Ry-kOU.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Enable Scripting Tool\"; ObjectID = \"MiB-Ry-kOU\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enable Scripting Tool"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "启用脚本工具"
+          }
+        }
+      }
+    },
+    "Mqj-S5-ILV.placeholderString" : {
+      "comment" : "Class = \"NSTextFieldCell\"; placeholderString = \"Untitled\"; ObjectID = \"Mqj-S5-ILV\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Untitled"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "无标题"
+          }
+        }
+      }
+    },
+    "Mqj-S5-ILV.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Untitled\"; ObjectID = \"Mqj-S5-ILV\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Untitled"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "无标题"
+          }
+        }
+      }
+    },
+    "NAx-5y-WsM.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Allow Scripts to read System Environment Variables\"; ObjectID = \"NAx-5y-WsM\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Allow Scripts to read System Environment Variables"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "允许脚本读取系统环境变量"
+          }
+        }
+      }
+    },
+    "ng1-oM-8Fe.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Save & Activate ⌘S\"; ObjectID = \"ng1-oM-8Fe\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Save & Activate ⌘S"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "保存并激活 ⌘S"
+          }
+        }
+      }
+    },
+    "Oef-H5-Fx6.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSPopUpButton\"; ibShadowedToolTip = \"Select Log Level Modes\"; ObjectID = \"Oef-H5-Fx6\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Select Log Level Modes"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "选择日志级别模式"
+          }
+        }
+      }
+    },
+    "oIC-SX-Ukm.headerCell.title" : {
+      "comment" : "Class = \"NSTableColumn\"; headerCell.title = \"Method\"; ObjectID = \"oIC-SX-Ukm\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Method"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "方法"
+          }
+        }
+      }
+    },
+    "P2I-vf-6Nq.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Show in Finder…\"; ObjectID = \"P2I-vf-6Nq\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show in Finder…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在查找器中显示…"
+          }
+        }
+      }
+    },
+    "Pai-wM-2Ib.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Rename the folder\"; ObjectID = \"Pai-wM-2Ib\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rename the folder"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重命名文件夹"
+          }
+        }
+      }
+    },
+    "Pai-wM-2Ib.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Rename Folder\"; ObjectID = \"Pai-wM-2Ib\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rename Folder"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重命名文件夹"
+          }
+        }
+      }
+    },
+    "pCE-gq-94c.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"URL:\"; ObjectID = \"pCE-gq-94c\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "URL:"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "URL："
+          }
+        }
+      }
+    },
+    "pd1-dJ-1xJ.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"User Logs\"; ObjectID = \"pd1-dJ-1xJ\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "User Logs"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "用户日志"
+          }
+        }
+      }
+    },
+    "pqi-Ez-pOT.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Warnings\"; ObjectID = \"pqi-Ez-pOT\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Warnings"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "警告"
+          }
+        }
+      }
+    },
+    "qn2-FC-Zed.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Environment Variables\"; ObjectID = \"qn2-FC-Zed\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Environment Variables"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "环境变量"
+          }
+        }
+      }
+    },
+    "r7y-sY-uEN.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Documentations\"; ObjectID = \"r7y-sY-uEN\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Documentations"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "文档"
+          }
+        }
+      }
+    },
+    "REd-lu-zQJ.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"System\"; ObjectID = \"REd-lu-zQJ\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "System"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "系统"
+          }
+        }
+      }
+    },
+    "rKN-8X-nR8.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Beautify the current JS Code\"; ObjectID = \"rKN-8X-nR8\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beautify the current JS Code"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "格式化当前 JS 代码"
+          }
+        }
+      }
+    },
+    "rKN-8X-nR8.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Beautify (⌘B)\"; ObjectID = \"rKN-8X-nR8\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beautify (⌘B)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "格式化 (⌘B)"
+          }
+        }
+      }
+    },
+    "sn6-ZI-OLN.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Advance\"; ObjectID = \"sn6-ZI-OLN\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Advance"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "高级"
+          }
+        }
+      }
+    },
+    "SQj-Kh-Qo7.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"New: ⌘N     Edit: ⌘⏎     Delete: ⌘⌫     Duplicate: ⌘D     Toggle Rules: ␣\"; ObjectID = \"SQj-Kh-Qo7\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "New: ⌘N     Edit: ⌘⏎     Delete: ⌘⌫     Duplicate: ⌘D     Toggle Rules: ␣"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新建：⌘N     编辑：⌘⏎     删除：⌘⌫     复制：⌘D     切换规则：␣"
+          }
+        }
+      }
+    },
+    "syJ-gL-Mcz.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Saved\"; ObjectID = \"syJ-gL-Mcz\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saved"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已保存"
+          }
+        }
+      }
+    },
+    "TNq-P4-Q5X.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Open Custom Addon Folder\"; ObjectID = \"TNq-P4-Q5X\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open Custom Addon Folder"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "打开自定义插件文件夹"
+          }
+        }
+      }
+    },
+    "TNq-P4-Q5X.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Open Custom Addons Folder...\"; ObjectID = \"TNq-P4-Q5X\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open Custom Addons Folder..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "打开自定义插件文件夹..."
+          }
+        }
+      }
+    },
+    "VND-zn-vZa.placeholderString" : {
+      "comment" : "Class = \"NSTextFieldCell\"; placeholderString = \"api.proxyman.com/v1/*\"; ObjectID = \"VND-zn-vZa\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "api.proxyman.com/v1/*"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "api.proxyman.com/v1/*"
+          }
+        }
+      }
+    },
+    "xDt-jD-ufF.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Built-in JS Libraries Docs...\"; ObjectID = \"xDt-jD-ufF\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Built-in JS Libraries Docs..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "内置 JS 库文档..."
+          }
+        }
+      }
+    },
+    "Xgd-Wq-j8M.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Filter\"; ObjectID = \"Xgd-Wq-j8M\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Filter"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "过滤器"
+          }
+        }
+      }
+    },
+    "xq9-8g-BbV.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Modify the Request or Response automatically with Javascript. Support URL, Status Code, Header, Method, and Body. \"; ObjectID = \"xq9-8g-BbV\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Modify the Request or Response automatically with Javascript. Support URL, Status Code, Header, Method, and Body. "
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用 Javascript 自动修改请求或响应。支持 URL、状态码、头部、方法和正文。"
+          }
+        }
+      }
+    },
+    "Xu2-KD-YTP.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Response\"; ObjectID = \"Xu2-KD-YTP\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Response"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "响应"
+          }
+        }
+      }
+    },
+    "yiM-oB-Nsu.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"Documentations\"; ObjectID = \"yiM-oB-Nsu\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Documentations"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "文档"
+          }
+        }
+      }
+    },
+    "YL8-Qr-mAC.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Scripting Docs...\"; ObjectID = \"YL8-Qr-mAC\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scripting Docs..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "脚本文档..."
+          }
+        }
+      }
+    },
+    "Yvx-rH-ffi.title" : {
+      "comment" : "Class = \"NSWindow\"; title = \"Script Editor\"; ObjectID = \"Yvx-rH-ffi\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Script Editor"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "脚本编辑器"
+          }
+        }
+      }
+    },
+    "Zby-zp-y61.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Show / Hide Logging Console Panel (⇧⌘L)\"; ObjectID = \"Zby-zp-y61\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show / Hide Logging Console Panel (⇧⌘L)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "显示 / 隐藏日志控制台面板 (⇧⌘L)"
+          }
+        }
+      }
+    },
+    "zhY-mM-T6l.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Edit\"; ObjectID = \"zhY-mM-T6l\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Edit"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "编辑"
+          }
+        }
+      }
+    },
+    "zqy-Ug-Jk0.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Empty Console\"; ObjectID = \"zqy-Ug-Jk0\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Empty Console"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "清空控制台"
+          }
+        }
+      }
+    },
+    "ZsG-F5-h2j.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Import Settings\"; ObjectID = \"ZsG-F5-h2j\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Import Settings"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导入设置"
+          }
+        }
+      }
+    },
+    "ZVw-hV-auO.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSMenuItem\"; ibShadowedToolTip = \"Clear all shared State data. It's similar with `clearSharedState()` function\"; ObjectID = \"ZVw-hV-auO\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Clear all shared State data. It's similar with `clearSharedState()` function"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "清除所有共享状态数据。这与 `clearSharedState()` 函数类似"
+          }
+        }
+      }
+    },
+    "ZVw-hV-auO.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Reset Shared State\"; ObjectID = \"ZVw-hV-auO\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reset Shared State"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重置共享状态"
+          }
+        }
+      }
+    },
+    "ZYc-UB-srh.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Export Settings\"; ObjectID = \"ZYc-UB-srh\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Export Settings"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导出设置"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
