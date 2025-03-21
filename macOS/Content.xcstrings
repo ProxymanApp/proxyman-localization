@@ -166,7 +166,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "用选定文件替换内容。"
+            "value" : "用选定文件替换 Body 内容。"
           }
         }
       }
@@ -608,7 +608,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "重置筛选器"
+            "value" : "重置过滤器"
           }
         }
       }
