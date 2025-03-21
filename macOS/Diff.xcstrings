@@ -64,7 +64,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "添加评论…"
+            "value" : "添加备注…"
           }
         }
       }
@@ -166,7 +166,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "评论"
+            "value" : "备注"
           }
         }
       }

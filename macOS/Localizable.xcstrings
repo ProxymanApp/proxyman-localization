@@ -49,7 +49,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "已激活"
+            "value" : "激活"
           }
         }
       }
@@ -97,7 +97,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : " 不活跃"
+            "value" : "未激活"
           }
         }
       }
@@ -177,7 +177,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : " 已安装，但不受信任!"
+            "value" : " 已安装，但未信任!"
           }
         }
       }
@@ -290,7 +290,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : " 尚未准备好!"
+            "value" : " 未就绪!"
           }
         }
       }
@@ -813,7 +813,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "<缺少主机>"
+            "value" : "<缺少 Host>"
           }
         }
       }
@@ -1399,7 +1399,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "添加评论"
+            "value" : "添加备注"
           }
         }
       }
@@ -1415,7 +1415,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "将评论添加到 %d 个选定请求"
+            "value" : "将备注添加到 %d 个选定请求"
           }
         }
       }
@@ -1431,7 +1431,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "向选定请求添加评论"
+            "value" : "向选定请求添加备注"
           }
         }
       }
@@ -1447,7 +1447,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "添加评论…"
+            "value" : "添加备注…"
           }
         }
       }
@@ -1787,7 +1787,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "您确定要执行出厂重置吗？"
+            "value" : "您确定要执行初始化重置吗？"
           }
         }
       }
@@ -2434,7 +2434,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "点击添加评论... 通过右键单击请求 -> 突出显示此请求"
+            "value" : "点击添加备注... 通过右键单击请求 -> 突出显示此请求"
           }
         }
       }
@@ -2597,7 +2597,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "评论"
+            "value" : "备注"
           }
         }
       }

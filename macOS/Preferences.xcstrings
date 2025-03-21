@@ -132,7 +132,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "~/桌面"
+            "value" : "~/Desktop"
           }
         }
       }
@@ -200,7 +200,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "应用于请求和响应面板及主表中的所有标签。"
+            "value" : "应用于请求和响应面板及主表中的所有标签页。"
           }
         }
       }
@@ -574,7 +574,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "其他:  "
+            "value" : "其它:  "
           }
         }
       }
@@ -693,7 +693,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "在Body和Raw标签中显示所有不可见字符，例如：\\t，\\n或零宽字符"
+            "value" : "在Body和Raw标签页中显示所有不可见字符，例如：\\t，\\n或零宽字符"
           }
         }
       }
@@ -931,7 +931,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "标签宽度："
+            "value" : "制表符宽度："
           }
         }
       }
@@ -1900,7 +1900,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "正文标签："
+            "value" : "Body 标签页："
           }
         }
       }
@@ -2019,7 +2019,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "在预览标签中显示空格、换行、制表符和非空字符"
+            "value" : "在预览标签页中显示空格、换行、制表符和非空字符"
           }
         }
       }
@@ -2444,7 +2444,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "根证书为 DER 格式…"
+            "value" : "根证书作为 DER 格式…"
           }
         }
       }
@@ -2631,7 +2631,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "在主体标签中显示缩略图视图"
+            "value" : "在 Body 标签页中显示缩略图视图"
           }
         }
       }
@@ -3447,7 +3447,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "已更新"
+            "value" : "保持最新"
           }
         }
       }
@@ -3600,7 +3600,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "最新"
+            "value" : "保持最新"
           }
         }
       }
@@ -3787,7 +3787,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "复制 Gist URL 到剪贴板"
+            "value" : "复制 Gist 链接到剪贴板"
           }
         }
       }
@@ -3940,7 +3940,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gist 权限：“},{"
+            "value" : "Gist 权限："
           }
         }
       }

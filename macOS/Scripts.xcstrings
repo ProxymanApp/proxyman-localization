@@ -81,7 +81,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "启用或禁用整个地图本地功能"
+            "value" : "启用或禁用整个本地映射功能"
           }
         }
       }

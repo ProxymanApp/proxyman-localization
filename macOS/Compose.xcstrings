@@ -30,7 +30,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "POST 与 JSON"
+            "value" : "带 JSON 的 POST"
           }
         }
       }
@@ -98,7 +98,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "写信"
+            "value" : "构建"
           }
         }
       }
@@ -149,7 +149,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "POST 与表单"
+            "value" : "带表单的 POST"
           }
         }
       }

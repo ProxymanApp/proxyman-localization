@@ -200,7 +200,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "允许列表"
+            "value" : "白名单"
           }
         }
       }
@@ -336,7 +336,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "阻塞列表…"
+            "value" : "黑名单…"
           }
         }
       }
@@ -608,7 +608,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "脚本编写…"
+            "value" : "脚本…"
           }
         }
       }
@@ -642,7 +642,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "管理系统旁路代理列表"
+            "value" : "管理系统绕过代理列表"
           }
         }
       }
@@ -659,7 +659,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "旁路代理设置…"
+            "value" : "绕过代理设置…"
           }
         }
       }
@@ -676,7 +676,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "切换启用/禁用阻止列表工具"
+            "value" : "切换启用/禁用黑名单工具"
           }
         }
       }
@@ -693,7 +693,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "阻止列表"
+            "value" : "黑名单"
           }
         }
       }
@@ -897,7 +897,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "映射远程已启用 (⌥⌘R)"
+            "value" : "远程映射已启用 (⌥⌘R)"
           }
         }
       }
@@ -1798,7 +1798,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "恢复出厂设置…"
+            "value" : "初始化重置…"
           }
         }
       }
@@ -2393,7 +2393,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "映射本地…"
+            "value" : "本地映射…"
           }
         }
       }
@@ -3192,7 +3192,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "映射远程"
+            "value" : "远程映射"
           }
         }
       }
@@ -3362,7 +3362,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "映射本地"
+            "value" : "本地映射"
           }
         }
       }
@@ -3617,7 +3617,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "映射远程…"
+            "value" : "远程映射…"
           }
         }
       }
@@ -4042,7 +4042,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "映射本地..."
+            "value" : "本地映射..."
           }
         }
       }
@@ -4161,7 +4161,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "允许列表仅应用于记录完全匹配的 URL。其他 URL 将被忽略 (⌥⌘A)"
+            "value" : "白名单仅应用于记录完全匹配的 URL。其他 URL 将被忽略 (⌥⌘A)"
           }
         }
       }
@@ -4399,7 +4399,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "对阻止列表上所有匹配的 URL 断开连接"
+            "value" : "对黑名单上所有匹配的 URL 断开连接"
           }
         }
       }
@@ -4416,7 +4416,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "阻止列表…"
+            "value" : "黑名单…"
           }
         }
       }
@@ -4501,7 +4501,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "根证书为 PEM..."
+            "value" : "根证书作为 PEM..."
           }
         }
       }
@@ -4569,7 +4569,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "阻止列表"
+            "value" : "黑名单"
           }
         }
       }
@@ -5062,7 +5062,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "映射远程…"
+            "value" : "远程映射…"
           }
         }
       }
@@ -5079,7 +5079,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "切换启用/禁用映射远程工具"
+            "value" : "切换启用/禁用远程映射工具"
           }
         }
       }
@@ -5096,7 +5096,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "映射远程"
+            "value" : "远程映射"
           }
         }
       }
@@ -5674,7 +5674,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "映射远程..."
+            "value" : "远程映射..."
           }
         }
       }
@@ -5827,7 +5827,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "阻止列表将应用于阻止所有匹配的 URL (⌥⌘X)"
+            "value" : "黑名单将应用于阻止所有匹配的 URL (⌥⌘X)"
           }
         }
       }
@@ -6099,7 +6099,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "推特..."
+            "value" : "Twitter…"
           }
         }
       }
@@ -6150,7 +6150,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "允许列表..."
+            "value" : "白名单..."
           }
         }
       }

@@ -421,7 +421,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "映射远程"
+            "value" : "远程映射"
           }
         }
       }
@@ -1509,7 +1509,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "映射远程"
+            "value" : "远程映射"
           }
         }
       }
@@ -2070,7 +2070,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "请求的 URL 将被替换为新的映射远程 URL"
+            "value" : "请求的 URL 将被替换为新的远程映射 URL"
           }
         }
       }
@@ -2206,7 +2206,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "启用映射远程工具"
+            "value" : "启用远程映射工具"
           }
         }
       }

@@ -98,7 +98,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "通过所有自定义标签筛选（非默认标签）"
+            "value" : "按全部自定义标签页筛选（非默认标签页）"
           }
         }
       }
@@ -115,7 +115,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "所有自定义标签"
+            "value" : "全部自定义标签"
           }
         }
       }
@@ -132,7 +132,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "对所有过滤器应用OR"
+            "value" : "将 OR 应用于全部过滤器"
           }
         }
       }
@@ -149,7 +149,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "所有过滤器的OR"
+            "value" : "OR 全部过滤器"
           }
         }
       }
@@ -574,7 +574,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "重置所有过滤器"
+            "value" : "重置全部过滤器"
           }
         }
       }
@@ -846,7 +846,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "其他"
+            "value" : "其它"
           }
         }
       }
@@ -948,7 +948,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "所有媒体，包括图片、视频：例如：JPG、PNG、GIF、SVG、MP4、MP3 ...（⌘ 单击选择多个类型）"
+            "value" : "全部媒体，包括图片、视频：例如：JPG、PNG、GIF、SVG、MP4、MP3 ...（⌘ 单击选择多个类型）"
           }
         }
       }
@@ -965,7 +965,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "显示所有请求（HTTP、HTTPS 和 WebSocket）"
+            "value" : "显示全部请求（HTTP、HTTPS 和 WebSocket）"
           }
         }
       }
@@ -1084,7 +1084,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "请求主体中的文本"
+            "value" : "请求体中的文本"
           }
         }
       }
@@ -1101,7 +1101,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "请求主体"
+            "value" : "请求体"
           }
         }
       }
@@ -1220,7 +1220,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "其他请求（⌘单击选择多个类型）"
+            "value" : "其它请求（⌘单击选择多个类型）"
           }
         }
       }
@@ -1237,7 +1237,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "将AND应用于所有过滤器"
+            "value" : "将AND应用于全部过滤器"
           }
         }
       }
@@ -1254,7 +1254,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "所有过滤器"
+            "value" : "AND 全部过滤器"
           }
         }
       }
@@ -1288,7 +1288,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "响应正文中的文本"
+            "value" : "响应体中的文本"
           }
         }
       }
@@ -1305,7 +1305,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "响应正文"
+            "value" : "响应体"
           }
         }
       }
@@ -1322,7 +1322,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "状态码、方法、URL、头信息和所有请求及响应的主体。可能会影响性能，因为需要评估所有数据。"
+            "value" : "状态码、方法、URL、头信息和所有请求及响应的 Body。可能会影响性能，因为需要评估所有数据。"
           }
         }
       }
@@ -1951,7 +1951,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "所有颜色"
+            "value" : "全部颜色"
           }
         }
       }
