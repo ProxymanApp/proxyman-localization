@@ -472,7 +472,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "配置用于与选定服务器建立 SSL 连接时使用的客户端证书"
+            "value" : "配置用于与选中的服务器建立 SSL 连接时使用的客户端证书"
           }
         }
       }

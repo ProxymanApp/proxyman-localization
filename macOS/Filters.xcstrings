@@ -846,7 +846,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "其它"
+            "value" : "其他"
           }
         }
       }
@@ -1220,7 +1220,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "其它请求（⌘单击选择多个类型）"
+            "value" : "其他请求（⌘单击选择多个类型）"
           }
         }
       }
@@ -1662,7 +1662,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "评论"
+            "value" : "备注"
           }
         }
       }
@@ -1883,7 +1883,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "重命名选定的过滤器按钮"
+            "value" : "重命名选中的过滤器按钮"
           }
         }
       }

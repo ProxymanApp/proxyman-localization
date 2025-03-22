@@ -3872,7 +3872,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "切换启用 / 禁用选定的规则"
+            "value" : "切换启用 / 禁用选中的规则"
           }
         }
       }
